@@ -174,6 +174,12 @@ for line in extra:
 assert min(Counter(line.split('|')[0] for line in analogies).values()) >= 5
 constant('RAW_ANALOGIES', '\n'.join(analogies))
 
+ai_block = '// BEGIN vocabulary-ai\n' + (TOOLS / 'vocabulary-ai.js').read_text().strip() + '\n// END vocabulary-ai'
+if '// BEGIN vocabulary-ai\n' in html:
+    html = re.sub(r'^// BEGIN vocabulary-ai\n.*?^// END vocabulary-ai', lambda _: ai_block, html, count=1, flags=re.M | re.S)
+else:
+    html = html.replace('const WORDS=[];', ai_block + '\nconst WORDS=[];', 1)
+
 parts = re.split(r'^// @function (\w+)\n', (TOOLS / 'vocabulary-ui.js').read_text(), flags=re.M)
 for name, body in zip(parts[1::2], parts[2::2]):
     block = '// BEGIN vocabulary:' + name + '\n' + body.strip() + '\n// END vocabulary:' + name
@@ -194,10 +200,16 @@ replace("contextCount+' selected words have original context sentences. Short se
 replace("q.mode==='synonyms'?'Choose the closest meaning.'", "q.mode==='synonyms'?(q.cue?'Choose the closest meaning as used in the sentence.':'Choose the closest meaning.')")
 replace("+'</div>'+(q.mode==='spelling'?", "+'</div>'+(q.cue?'<p class=\"example sense-cue\">'+esc(q.cue)+'</p>':'')+(q.mode==='spelling'?")
 replace('Each word focuses on one selected sense. Continue reading widely and use official practice alongside this page.', 'Every built-in word includes an original context sentence. Common alternate meanings and related word forms are included for selected entries. Continue reading widely and use official practice alongside this page.')
+replace("+'</div>':'')+'<div class=\"question-foot\">'", "+'</div>'+aiExplanationPanel(s,s.index):'')+'<div class=\"question-foot\">'")
+replace("if(a==='check-answer'){checkAnswer();return}", "if(a==='ai-explain'){void requestAIExplanation();return}if(a==='check-answer'){checkAnswer();return}")
+replace("+'</p><div class=\"setup-options\">'", "+'</p>'+(practiceMode==='timed'?'':'<p class=\"small muted\">After Check answer, the question and your answer are sent for an AI explanation. AI help needs internet; built-in feedback remains available offline.</p>')+'<div class=\"setup-options\">'")
 
 css = '.extra-meanings{width:100%;max-width:560px;text-align:left;margin-top:20px;font-size:13px}.extra-meanings summary{cursor:pointer;color:var(--green);font-weight:650}.sense{border-top:1px solid var(--line);padding-top:12px;margin-top:12px}.sense .example{font-size:14px;margin-top:8px;padding-top:0;border:0}.sense .zh{font-size:12px}.family-links{display:flex;flex-wrap:wrap;gap:7px 18px}.family-links button{font-size:14px}.sense-cue{font-size:18px;margin:0 0 22px;padding:0 0 16px;border-top:0;border-bottom:1px solid var(--line)}'
 if css not in html:
     html = html.replace('</style>', css + '\n</style>', 1)
+ai_css = '.ai-explanation{margin-top:20px;padding:20px;border:1px solid #dbe5d0;border-radius:12px;background:#fafcf7;font-size:14px;overflow-wrap:anywhere}.ai-explanation h3{font:normal 22px var(--serif);margin:0 0 12px}.ai-explanation p{margin:10px 0}.ai-text{white-space:pre-wrap}.ai-choices{padding-left:22px;margin:12px 0}.ai-choices li{margin:7px 0}.ai-explanation[aria-busy=true]{border-left:3px solid var(--green)}'
+if ai_css not in html:
+    html = html.replace('</style>', ai_css + '\n</style>', 1)
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ curated words', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' curated words', html)
 PAGE.write_text(html)
 contents = (ROOT / 'content.html').read_text()
@@ -205,5 +217,8 @@ contents = re.sub(r'<li>\d+ vocabulary words</li>', '<li>' + str(len(seen)) + ' 
 contents = re.sub(r'Words in context and \d+ analogies', 'Words in context and ' + str(len(analogies)) + ' analogies', contents)
 if 'Alternate meanings and related word forms' not in contents:
     contents = contents.replace('<li>54 prefixes, roots, and suffixes</li>', '<li>Alternate meanings and related word forms</li>\n        <li>54 prefixes, roots, and suffixes</li>')
+if 'AI explanations after checking answers' not in contents:
+    contents = contents.replace('<li>Synonym, meaning, and spelling quizzes</li>', '<li>Synonym, meaning, and spelling quizzes</li>\n        <li>AI explanations after checking answers (online)</li>')
+contents = contents.replace('Works offline. Progress is saved in your browser, with backup and restore options.', 'Core practice works offline; AI explanations need internet. Progress is saved in your browser, with backup and restore options.')
 (ROOT / 'content.html').write_text(contents)
 print(f'Updated {len(seen)} words, {len(examples)} examples, {sum(map(len, senses.values()))} alternate meanings, {len(families)} related-word groups, {len(analogies)} analogies.')

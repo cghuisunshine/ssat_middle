@@ -67,3 +67,21 @@ function wordQuestion(original, mode, chosenSense = null) {
     explanation: w.word + ' (' + w.pos + '.) means ' + w.def + '. Closest synonym: ' + w.syn + '. Example: ' + (w.example || 'Use this meaning in your own sentence.'),
     zh: w.zh};
 }
+
+// @function checkAnswer
+function checkAnswer(skip = false) {
+  const s = session;
+  if (!s || s.finished || s.deadline || s.checked[s.index]) return;
+  const q = s.qs[s.index];
+  if (!skip && s.answers[s.index] === null) return;
+  s.checked[s.index] = true;
+  if (q.wordId) recordWord(q.wordId, s.answers[s.index] === q.correct ? 'correct' : 'wrong');
+  render();
+  if (!skip) void requestAIExplanation();
+}
+
+// @function render
+function render() {
+  cancelObsoleteAIRequests();
+  ({learn, library, practice, roots, progress}[view])();
+}
