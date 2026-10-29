@@ -1,0 +1,172 @@
+@Core|Character & integrity
+courteous|adj|showing politeness and respect for others|彬彬有礼的|polite|The courteous passenger offered her seat to an older traveler.
+gracious|adj|kind and polite even in a difficult situation|亲切有礼的|kindly|The gracious runner congratulated the rival who had beaten her.
+headstrong|adj|determined to do things one's own way despite advice|固执己见的|stubborn|The headstrong child refused help even after several failed attempts.
+malicious|adj|intending to hurt someone or cause harm|恶意的|spiteful|The malicious rumor was invented to damage the captain's reputation.
+hypocrite|n|a person whose actions contradict the beliefs they claim to hold|伪君子|insincere person|He was a hypocrite for demanding honesty while cheating on the test.
+resolute|adj|firmly determined and unlikely to give up|坚定的|determined|The resolute climber kept training after an early defeat.
+steadfast|adj|remaining loyal and firm despite difficulties|坚定不移的|unwavering|Her steadfast support never weakened during the team's losing season.
+valiant|adj|showing courage in the face of danger or difficulty|英勇的|brave|The valiant rescuers entered the flooded village to save its residents.
+submissive|adj|willing to accept another person's authority without resistance|顺从的|obedient|The submissive follower accepted every order without protest.
+fidelity|n|continued loyalty to a person or belief|忠诚|faithfulness|The knight's fidelity to the queen never wavered.
+@Core|Emotions & attitudes
+apathetic|adj|showing little interest or concern|冷漠的|indifferent|The apathetic audience barely reacted to the speaker's urgent appeal.
+sentimental|adj|strongly influenced by tender feelings or memories|多愁善感的|nostalgic|She kept the worn toy for sentimental reasons, remembering her childhood.
+animated|adj|full of energy and lively expression|生气勃勃的|lively|The animated storyteller waved his arms as he described the adventure.
+fatigue|n|extreme tiredness after effort or strain|疲劳|exhaustion|After the long hike, fatigue made even a short walk difficult.
+fret|v|to worry repeatedly about something|烦恼|worry|Try not to fret over a mistake that you have already corrected.
+disdain|n|a feeling that someone or something is beneath one's respect|鄙视|scorn|Her disdain for cheating was clear when she refused the stolen answers.
+delight|n|a strong feeling of pleasure|喜悦|joy|The unexpected visit filled the grandparents with delight.
+elation|n|a feeling of great happiness and excitement|欢欣|exhilaration|The team felt elation when the final whistle confirmed its victory.
+bliss|n|a state of complete happiness|极乐|perfect joy|For the exhausted traveler, a warm bed was pure bliss.
+animosity|n|strong hostility or ill feeling toward someone|敌意|antagonism|Years of arguments created animosity between the neighbors.
+malice|n|the desire to hurt someone or cause trouble|恶意|ill will|She apologized because her joke had caused pain, though she intended no malice.
+sympathize|v|to feel concern for someone who is suffering|同情|feel compassion|I sympathize with anyone who has lost a beloved pet.
+@Core|Speech & expression
+emphatic|adj|expressing something forcefully and clearly|强调的|forceful|Her emphatic refusal left no doubt that she would not agree.
+exasperate|v|to annoy someone intensely|使恼怒|irritate|Repeated interruptions can exasperate even a patient teacher.
+infuriate|v|to make someone extremely angry|使大怒|enrage|Seeing innocent people blamed would infuriate the fair-minded judge.
+mock|v|to make fun of someone in an unkind way|嘲弄|ridicule|It is cruel to mock a classmate for making a mistake.
+belittle|v|to make someone or something seem less important|贬低|disparage|Do not belittle her achievement just because the task seemed easy to you.
+jeer|v|to shout rude remarks or laugh scornfully at someone|嘲笑|taunt|The coach told spectators not to jeer at the visiting players.
+admonish|v|to warn or correct someone firmly|告诫|reprove|The ranger had to admonish visitors who fed the wild animals.
+query|n|a question or request for information|询问|question|The librarian answered my query about the missing reference book.
+sarcastic|adj|using cutting remarks that often mean the opposite of their literal words|讽刺的|mocking|After another delay, his sarcastic comment was, "What wonderfully prompt service!"
+scoff|v|to express disbelief or contempt in a mocking way|嘲讽|sneer|Some people scoff at the idea until they see the evidence.
+laud|v|to praise someone or something highly|赞颂|praise|The judges will laud the volunteers for their generous service.
+@Core|Conflict & cooperation
+compatible|adj|able to exist or work together without conflict|相容的|well-suited|Their compatible schedules allowed them to rehearse together each afternoon.
+withstand|v|to resist or survive pressure or force|承受住|resist|The bridge was built to withstand powerful winds.
+collaborate|v|to work together toward a shared result|合作|cooperate|The artist and engineer will collaborate on the new playground design.
+contend|v|to compete or struggle for something|竞争|compete|Six teams will contend for the championship trophy.
+pact|n|a formal agreement between people or groups|协定|agreement|The countries signed a pact promising to protect the shared river.
+tolerance|n|a willingness to accept differences without hostility|宽容|acceptance|The club encourages tolerance by welcoming people with different beliefs.
+pester|v|to annoy someone with repeated requests|纠缠|bother repeatedly|The children continued to pester their father for another story.
+embrace|v|to accept an idea or change willingly|欣然接受|welcome|The class chose to embrace the new recycling plan.
+@Core|Society & people
+extrovert|n|a person who enjoys social activity and being with others|外向的人|outgoing person|An extrovert, Maya often starts conversations with new classmates.
+introvert|n|a person who generally prefers quiet or less social stimulation|内向的人|reserved person|As an introvert, Ben often enjoys reading alone after a busy school day.
+amateur|n|a person who pursues an activity without being a professional|业余爱好者|nonprofessional|Although she was an amateur, her photographs won praise from experts.
+sage|n|a person respected for wisdom and sound judgment|智者|wise person|The village sage offered thoughtful advice during the dispute.
+skeptic|n|a person who questions claims rather than accepting them readily|怀疑者|doubter|The skeptic asked to see evidence before believing the surprising claim.
+nemesis|n|a powerful opponent who repeatedly causes defeat or difficulty|劲敌|archenemy|The defending champion was her nemesis, defeating her in three finals.
+courtesy|n|polite and considerate behavior|礼貌|politeness|Holding the door for the next person is a simple courtesy.
+tact|n|skill in dealing with others without causing offense|得体|diplomacy|She used tact when explaining the mistake without embarrassing her friend.
+creed|n|a set of beliefs that guides a person or group|信条|belief system|Honesty and service were central to the organization's creed.
+@Core|Change & progress
+initiate|v|to cause an activity or process to begin|开始|start|The council will initiate a study of traffic near the school.
+modify|v|to make a limited change to something|修改|alter|We must modify the design so that the shelves fit the smaller room.
+aggravate|v|to make a problem or injury worse|加重|worsen|Running too soon could aggravate the ankle injury.
+deduct|v|to subtract an amount from a total|扣除|subtract|The shop will deduct the discount from the final price.
+expel|v|to force someone or something to leave|驱逐|eject|The principal may expel students who repeatedly commit serious offenses.
+blend|v|to mix things together smoothly|混合|combine|Use a spoon to blend the flour and water into a smooth paste.
+raze|v|to destroy a building completely|夷为平地|demolish|Workers will raze the unsafe warehouse before building the new station.
+stifle|v|to hold back or prevent something from developing or being expressed|抑制|suppress|Fear of criticism can stifle creative ideas before they are shared.
+@Core|Power, resources & achievement
+industrial|adj|relating to factories or the production of goods|工业的|manufacturing-related|The industrial district contains factories rather than houses.
+strenuous|adj|requiring great physical effort|费力的|demanding|The strenuous climb left us breathing hard at the summit.
+toil|v|to work very hard for a long time|辛勤劳作|labor|Farmers toil in the fields from dawn until evening during harvest.
+laborious|adj|requiring much time and effort|费时费力的|arduous|Copying the entire manuscript by hand was a laborious task.
+painstaking|adj|done with great care and attention to detail|一丝不苟的|meticulous|The painstaking repair restored every tiny piece of the mosaic.
+vital|adj|extremely important or necessary|至关重要的|essential|Clean drinking water is vital to a community's health.
+prototype|n|an early model used to test a design|原型|trial model|The team tested a cardboard prototype before making the final product.
+@Core|Conditions & contrasts
+feeble|adj|lacking strength or force|虚弱的|weak|The injured bird gave a feeble flutter but could not take flight.
+robust|adj|strong and healthy|强健的|sturdy|The robust seedlings survived the cold nights without damage.
+vulnerable|adj|easily hurt or damaged|脆弱易受伤的|susceptible|Without their protective shells, the young turtles are vulnerable to predators.
+erratic|adj|changing in an unpredictable or irregular way|不稳定的|unpredictable|The erratic bus service arrived early one day and very late the next.
+sporadic|adj|happening occasionally at irregular intervals|零星的|intermittent|Only sporadic showers interrupted the mostly dry summer.
+tentative|adj|not yet firm or certain|暂定的|provisional|We made a tentative plan for Saturday but still needed to check the weather.
+practical|adj|suited to real needs and likely to work|切实可行的|useful|A waterproof bag is a practical solution for carrying books in the rain.
+overt|adj|done openly and without concealment|公开的|undisguised|Wearing the team's colors was an overt sign of support.
+rural|adj|relating to the countryside|乡村的|country|The rural village is surrounded by fields and farms.
+prominent|adj|widely known or easily noticed|显著的|notable|The clock tower is a prominent landmark visible from across the town.
+@Core|Adversity & achievement nouns
+plight|n|a difficult or distressing situation|困境|trouble|The volunteers brought food to families in a desperate plight after the flood.
+predicament|n|an awkward situation that is hard to escape|窘境|dilemma|Losing both the map and the phone left the hikers in a predicament.
+rigor|n|careful thoroughness and strict standards|严谨|thoroughness|The scientist checked every measurement with great rigor.
+dearth|n|a serious lack of something needed|缺乏|shortage|A dearth of rainfall left the reservoirs nearly empty.
+debacle|n|a complete and often embarrassing failure|惨败|disaster|Missing costumes and forgotten lines turned the opening night into a debacle.
+fiasco|n|an event that ends in a ridiculous or humiliating failure|惨败|disaster|The picnic became a fiasco when the food spoiled and the tent collapsed.
+glitch|n|a small technical problem or temporary fault|小故障|malfunction|A brief computer glitch prevented us from saving the file.
+gaffe|n|an embarrassing social mistake|失言或失礼|blunder|Calling the guest by the wrong name was an unfortunate gaffe.
+@Core|Manner, sound & sensation
+engaging|adj|interesting and able to hold attention|引人入胜的|captivating|The engaging presentation kept even the youngest listeners attentive.
+boisterous|adj|noisy and full of energy|喧闹的|rowdy|The boisterous crowd cheered loudly and stamped its feet.
+reserved|adj|quiet and restrained about sharing feelings|矜持的|reticent|The reserved student listened carefully but said little about herself.
+subdued|adj|quieter or less lively than usual|低沉的|restrained|The usually cheerful class was subdued after hearing the sad news.
+passive|adj|accepting events without trying to influence them|被动的|unresisting|Instead of remaining passive, the residents organized a meeting to seek change.
+serene|adj|calm and free from disturbance|宁静的|tranquil|The lake looked serene in the still morning air.
+livid|adj|extremely angry|暴怒的|furious|He was livid when he discovered that someone had deliberately broken his model.
+sly|adj|clever at hiding one's intentions, often to deceive|狡猾的|cunning|The sly fox waited out of sight before approaching the henhouse.
+wicked|adj|morally very bad or deliberately harmful|邪恶的|evil|The story's wicked ruler ordered the destruction of an innocent village.
+@Stretch|Precise character words
+charismatic|adj|able to attract and inspire people through personal charm|有魅力的|magnetic|The charismatic speaker inspired strangers to join the relief effort.
+congenial|adj|pleasant and suited to one's tastes or nature|意气相投的|agreeable|The quiet reading room was a congenial place for her to work.
+nonchalant|adj|appearing casually calm and unconcerned|若无其事的|casual|He tried to sound nonchalant, though he was nervous about the results.
+pragmatic|adj|judging choices by what works in real situations|务实的|practical|Her pragmatic approach favored a simple repair over an expensive replacement.
+vivacious|adj|lively and spirited in manner|活泼的|spirited|The vivacious host kept the guests laughing throughout dinner.
+precocious|adj|showing abilities or maturity unusually early|早慧的|advanced for one's age|The precocious child read complex novels at the age of six.
+impertinent|adj|rudely disrespectful toward someone|无礼的|insolent|His impertinent reply to a polite request shocked the adults.
+loquacious|adj|tending to talk a great deal|健谈的|talkative|The loquacious traveler told stories for the entire train journey.
+impeccable|adj|free from faults or errors|无可挑剔的|flawless|Her impeccable calculations contained not a single error.
+unconventional|adj|different from what is usually done or accepted|不拘常规的|unorthodox|His unconventional house design used old shipping containers as rooms.
+conservative|adj|favoring established practices and cautious change|保守的|traditional|The conservative designer preferred familiar styles to experimental shapes.
+@Stretch|Powerful verbs
+condescend|v|to behave as if others are less worthy or intelligent|摆出高人一等的姿态|patronize|Do not condescend to younger students by assuming they cannot understand.
+emulate|v|to try to match someone admired by following their example|效仿|imitate|She hoped to emulate her mentor's patience and generosity.
+snub|v|to ignore or reject someone deliberately and rudely|冷落|slight|It would hurt his feelings to snub him when he offered a friendly greeting.
+adorn|v|to decorate or make something more attractive|装饰|embellish|Fresh flowers adorn the tables at the celebration.
+bemuse|v|to puzzle or confuse someone|使困惑|bewilder|The complicated instructions would bemuse even an experienced player.
+bewilder|v|to make someone very confused|使迷惑|perplex|The maze of unfamiliar streets can bewilder a first-time visitor.
+brandish|v|to wave or display something in a threatening or excited way|挥舞|flourish|The pirate began to brandish his sword above his head.
+capitulate|v|to stop resisting and accept an opponent's demands|屈服|surrender|With no supplies remaining, the defenders had to capitulate.
+circumvent|v|to find a way around a rule or obstacle|绕过|bypass|A new footpath let walkers circumvent the flooded section of trail.
+efface|v|to erase or remove a mark or trace|抹去|obliterate|Time and rain can efface the lettering on an old stone.
+exalt|v|to praise highly or raise in rank|颂扬|glorify|The poem seeks to exalt the courage of ordinary workers.
+exonerate|v|to clear someone of blame or wrongdoing|证明无罪|absolve|The video evidence will exonerate the student accused of taking the bag.
+@Stretch|Ideas & reasoning nouns
+conjecture|n|an explanation or judgment formed without enough evidence|推测|supposition|Without measurements, her explanation remained a conjecture rather than a fact.
+enigma|n|something mysterious or difficult to understand|谜|mystery|The meaning of the ancient symbol remains an enigma to historians.
+idiosyncrasy|n|an unusual habit or characteristic peculiar to one person or thing|独特习惯|peculiarity|One idiosyncrasy of the teacher was her habit of singing the date aloud.
+hoax|n|a trick intended to make people believe something false|骗局|deception|The photograph of a dragon proved to be a clever hoax.
+lore|n|traditional knowledge and stories passed within a group|传说与传统知识|folklore|The museum records the fishing lore passed down through coastal families.
+medley|n|a varied mixture, especially of musical pieces|混合曲|assortment|The orchestra played a medley of tunes from several musicals.
+vendetta|n|a prolonged campaign of revenge against someone|长期报复|feud|The old insult grew into a bitter vendetta between the two families.
+sloth|n|a reluctance to work or make an effort|懒惰|laziness|His sloth kept him on the sofa while everyone else cleaned the room.
+ferocity|n|the quality of being fiercely violent or intense|凶猛|fierceness|The ferocity of the storm forced every boat back to shore.
+chasm|n|a deep, wide opening in the ground|深渊|gorge|A narrow bridge crossed the chasm between the two cliffs.
+@Stretch|Subtle descriptions
+aesthetic|adj|relating to beauty or artistic appearance|审美的|artistic|The curved roof was chosen for its aesthetic appeal as well as its strength.
+ambiance|n|the mood or atmosphere of a place|氛围|atmosphere|Soft lighting and quiet music created a peaceful ambiance in the cafe.
+extravagant|adj|using or spending far more than is necessary|奢侈的|lavish|The extravagant banquet cost more than the school could afford.
+flamboyant|adj|strikingly bright or showy in appearance or behavior|艳丽张扬的|showy|The dancer's flamboyant costume glittered with bright feathers and sequins.
+hysterical|adj|overcome by extreme, uncontrolled emotion|情绪失控的|frantic|The frightened child became hysterical and could not stop sobbing.
+@Core|Character & integrity
+tactful|adj|careful to avoid upsetting or embarrassing others|得体的|diplomatic|Her tactful suggestion corrected the mistake without insulting the writer.
+industrious|adj|working steadily and energetically|勤劳的|hardworking|The industrious volunteers finished the repairs before sunset.
+loyal|adj|remaining faithful to a person, group, or belief|忠诚的|devoted|The loyal friend continued to offer support during difficult times.
+tolerant|adj|willing to accept differences in beliefs or behavior|宽容的|accepting|The tolerant community welcomed neighbors with many different traditions.
+@Core|Emotions & attitudes
+compassion|n|concern for another's suffering and a desire to help|同情心|sympathy|The volunteers showed compassion by caring for the injured animals.
+indifference|n|a lack of interest or concern|漠不关心|apathy|Her indifference to the outcome showed that she did not care who won.
+loyalty|n|continued commitment to a person, group, or belief|忠诚|allegiance|The captain earned the crew's loyalty by treating everyone fairly.
+exasperation|n|a feeling of intense irritation|恼怒|frustration|He sighed with exasperation when the computer failed for the fifth time.
+sympathetic|adj|showing concern for someone else's troubles|同情的|compassionate|The sympathetic teacher listened kindly to the worried child.
+@Core|Everyday academic nouns
+diligence|n|steady care and effort in one's work|勤勉|application|Her diligence in checking every calculation prevented several errors.
+faithfulness|n|the quality of remaining loyal or true|忠实|fidelity|The story praises the companion's faithfulness through many dangers.
+reliability|n|the quality of being consistently dependable|可靠性|dependability|Repeated tests confirmed the reliability of the new alarm.
+determination|n|a firm intention to continue toward a goal|决心|resolve|Her determination kept her practicing after every setback.
+practicality|n|the quality of being workable and suited to real needs|实用性|usefulness|We judged each design by its practicality as well as its appearance.
+@Core|Conflict & cooperation
+cooperation|n|the act of working together for a shared purpose|合作|teamwork|The project required cooperation between students from several classes.
+collaboration|n|work done jointly by two or more people|协作|joint effort|The mural was a collaboration between the artist and the schoolchildren.
+@Core|Change & progress
+modification|n|a limited change made to improve or adapt something|修改|alteration|One small modification made the handle much easier to grip.
+@Core|Power, resources & achievement
+industry|n|the activity of producing goods or providing services in a particular field|产业|business sector|Fishing is the main industry in the coastal town.
+@Core|Conditions & contrasts
+conventional|adj|following established customs or usual methods|常规的|traditional|The conventional design used familiar materials and a standard layout.
+@Stretch|Adversity & achievement nouns
+resilience|n|the ability to recover after difficulty or harm|韧性|ability to recover|The town showed resilience by rebuilding after the flood.

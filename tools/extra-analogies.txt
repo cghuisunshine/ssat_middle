@@ -1,0 +1,25 @@
+Worker to product|weaver : cloth|photographer : photograph|photographer : camera|gallery : painting|cloth : thread|camera : lens|A weaver creates cloth; a photographer creates a photograph. Match the creator to what is created.
+Worker to product|cartographer : map|poet : sonnet|poet : pen|map : atlas|traveler : compass|sonnet : line|A cartographer creates a map; a poet creates a sonnet. Tools and collections do not match the product relationship.
+Worker to tool|tailor : needle|carpenter : saw|carpenter : chair|needle : thread|cloth : tailor|saw : cut|A tailor uses a needle; a carpenter uses a saw. Keep the worker before the tool.
+Worker to tool|surgeon : scalpel|astronomer : telescope|astronomer : observatory|telescope : lens|patient : surgeon|scalpel : incision|A surgeon uses a scalpel; an astronomer uses a telescope. The other pairs give places, parts, or results.
+Worker to tool|gardener : rake|painter : brush|painter : portrait|rake : leaf|garden : gardener|brush : bristle|A gardener works with a rake; a painter works with a brush. A portrait is a product, not a tool.
+Worker to place|dentist : clinic|chef : kitchen|chef : knife|kitchen : oven|patient : dentist|clinic : chair|A clinic is a dentist's workplace; a kitchen is a chef's workplace.
+Worker to place|astronomer : observatory|judge : courtroom|judge : verdict|observatory : telescope|courtroom : bench|defendant : lawyer|An astronomer works in an observatory; a judge works in a courtroom. Match profession to workplace.
+Worker to place|farmer : field|mechanic : garage|mechanic : wrench|field : crop|garage : vehicle|farmer : tractor|A farmer works in a field; a mechanic works in a garage. Tools do not match the place relationship.
+Worker to place|blacksmith : forge|scientist : laboratory|scientist : experiment|forge : heat|laboratory : microscope|metal : anvil|A forge is a blacksmith's workplace; a laboratory is a scientist's workplace.
+Young to adult|puppy : dog|kitten : cat|dog : puppy|cat : fur|kitten : litter|kennel : dog|A puppy is a young dog; a kitten is a young cat. Keep young before adult.
+Young to adult|tadpole : frog|caterpillar : butterfly|frog : pond|butterfly : wing|butterfly : caterpillar|tadpole : water|A tadpole develops into a frog; a caterpillar develops into a butterfly.
+Young to adult|duckling : duck|gosling : goose|goose : gosling|duck : flock|egg : nest|gosling : pond|A duckling is a young duck; a gosling is a young goose.
+Young to adult|fawn : deer|lamb : sheep|deer : antler|sheep : wool|lamb : flock|forest : deer|A fawn is a young deer; a lamb is a young sheep. The relationship is age, not a product or habitat.
+Object to characteristic|ice : cold|sugar : sweet|sugar : cane|cold : winter|salt : sea|ice : water|Ice is characteristically cold; sugar is characteristically sweet. Match an object with a typical quality.
+Object to characteristic|rubber : elastic|glass : brittle|glass : window|elastic : stretch|rubber : tire|brittle : strong|Rubber is characteristically elastic; glass is characteristically brittle. The answer gives a quality rather than a use.
+Object to characteristic|feather : light|lead : heavy|lead : metal|feather : bird|light : lamp|heavy : weight|A feather is characteristically light; lead is characteristically heavy. Preserve object-to-quality order.
+Object to characteristic|lemon : sour|honey : sweet|honey : bee|sour : lemon|lemon : fruit|sweet : bitter|A lemon typically tastes sour; honey typically tastes sweet. Both second terms are characteristic tastes.
+Place to inhabitant|kennel : dog|hive : bee|bee : hive|hive : honey|dog : bark|kennel : wood|A kennel houses a dog; a hive houses bees. Keep dwelling before inhabitant.
+Place to inhabitant|burrow : rabbit|den : fox|fox : den|rabbit : fur|den : entrance|field : crop|A rabbit lives in a burrow; a fox can live in a den. Match a dwelling with its animal inhabitant.
+Place to inhabitant|aerie : eagle|rookery : penguin|eagle : wing|penguin : rookery|aerie : cliff|rookery : ice|An eagle nests in an aerie; penguins gather and breed in a rookery. Keep place before inhabitant.
+Place to inhabitant|stable : horse|sty : pig|pig : sty|horse : saddle|stable : hay|sty : fence|A stable houses horses; a sty houses pigs. Objects kept in the place do not match its inhabitants.
+Unit to quantity|meter : length|liter : volume|volume : liter|meter : ruler|length : width|liter : bottle|A meter measures length; a liter measures volume. Match a unit to the quantity it measures.
+Unit to quantity|kilogram : mass|second : time|time : clock|kilogram : gram|mass : heavy|second : minute|A kilogram is a unit of mass; a second is a unit of time. Both pairs name a unit and its measured quantity.
+Unit to quantity|degree Celsius : temperature|ampere : electric current|temperature : thermometer|ampere : wire|degree : angle|current : river|Degrees Celsius measure temperature; amperes measure electric current. Keep unit before measured quantity.
+Unit to quantity|hectare : area|joule : energy|energy : joule|hectare : field|area : square|joule : scientist|A hectare measures area; a joule measures energy. The answer preserves unit-to-quantity order.

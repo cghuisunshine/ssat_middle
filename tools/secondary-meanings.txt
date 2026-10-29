@@ -1,0 +1,40 @@
+partial|adj|favoring one side unfairly|偏袒的|biased|A judge who is partial to one contestant cannot evaluate the competition fairly.
+resolve|v|to find a solution to a problem or disagreement|解决|settle|The neighbors met to resolve their disagreement about the fence.
+objective|n|a goal that one aims to achieve|目标|aim|Our main objective is to finish the bridge before winter.
+minute|n|a period of sixty seconds|分钟|sixty seconds|Wait one minute while I find the key.
+novel|n|a long fictional story told in prose|长篇小说|fictional book|She borrowed a mystery novel from the library.
+content|n|the information or material contained in something|内容|subject matter|The content of the article concerns life in the ocean.
+fair|n|an organized event with exhibits, goods, or entertainment|集市或展览会|exhibition|Students displayed their experiments at the science fair.
+dull|adj|not interesting or exciting|乏味的|boring|The dull lecture repeated facts we already knew and soon lost our attention.
+faint|v|to lose consciousness briefly|昏厥|pass out|The intense heat made the exhausted runner faint.
+lofty|adj|rising to a great physical height|高耸的|towering|The lofty ceiling rose far above the visitors' heads.
+deliberate|adj|done intentionally rather than by accident|故意的|intentional|The broken lock showed that the damage was deliberate.
+articulate|adj|able to express ideas clearly and effectively|善于表达的|well-spoken|The articulate speaker explained the difficult idea in words everyone understood.
+attribute|n|a quality or characteristic of someone or something|特征|trait|Patience is a useful attribute for a teacher.
+elaborate|adj|containing many carefully arranged details|精心制作的|intricate|The elaborate costume included hand-sewn beads and dozens of tiny feathers.
+uniform|n|a standard set of clothes worn by members of a group|制服|standard outfit|Every player wore the same blue uniform during the match.
+exploit|n|a bold or remarkable achievement|英勇事迹|feat|Crossing the ocean alone was an exploit that brought the sailor lasting fame.
+reflect|v|to send back light, heat, or an image from a surface|反射|mirror|The polished panels reflect sunlight into the shaded courtyard.
+decline|v|to refuse an invitation or offer politely|谢绝|turn down|I must decline your invitation because I will be away that weekend.
+exhibit|n|an object or display shown to the public|展品|display|The dinosaur exhibit drew a large crowd to the museum.
+grant|n|money provided for a particular purpose|补助金|funding award|The school received a grant to buy new science equipment.
+secure|adj|safe from danger or unauthorized access|安全的|protected|The documents remained secure inside the locked cabinet.
+patient|n|a person receiving medical care|病人|person under treatment|The nurse helped the patient return to bed after the examination.
+prompt|n|a cue or instruction intended to produce a response|提示|cue|The writing prompt asked us to describe a memorable journey.
+obscure|adj|difficult to understand or make out|晦涩的|unclear|The obscure explanation left the class unsure of what the author meant.
+obscure|v|to hide something from view or make it hard to understand|遮蔽|conceal|Thick clouds obscure the mountain's summit throughout the morning.
+remote|adj|very unlikely to happen|可能性极小的|unlikely|With only one ticket among thousands, our chance of winning was remote.
+contemporary|n|a person who lived or worked during the same period as another|同时代的人|person of the same era|The poet was a contemporary of the famous playwright, and their careers overlapped.
+authority|n|a person with expert knowledge of a subject|权威专家|expert|The museum consulted an authority on ancient pottery to identify the vase.
+custom|adj|made to fit a particular person's requirements|定制的|made-to-order|The tailor made a custom jacket to fit the unusually tall actor.
+contrast|v|to compare things in order to show their differences|对比|differentiate|The essay will contrast life in the city with life in the countryside.
+compromise|v|to settle a disagreement by making concessions|妥协|meet halfway|Both sides must compromise if they want to reach an agreement.
+cultivate|v|to develop a skill, relationship, or quality through effort|培养|nurture|Regular practice helps cultivate the patience needed for detailed work.
+fidelity|n|accuracy in reproducing an original|保真度|faithful reproduction|The new speakers reproduce recorded music with remarkable fidelity.
+rigor|n|the demanding severity of a task or condition|艰苦|severity|The rigor of the training tested even the strongest climbers.
+amateur|adj|done for interest rather than as a paid profession|业余的|nonprofessional|The amateur orchestra performs for enjoyment rather than for a living.
+mock|adj|made to imitate a real event for practice|模拟的|practice|We held a mock election to learn how voting works.
+embrace|n|an act of holding someone closely in one's arms|拥抱|hug|The returning traveler greeted her sister with a warm embrace.
+sage|adj|showing wisdom and good judgment|明智的|wise|Her sage advice helped us avoid a costly mistake.
+alternate|adj|available as another option|备选的|alternative|We chose an alternate route because the main road was closed.
+secure|v|to obtain something through effort|争取获得|obtain|The expedition must secure enough food before leaving the town.

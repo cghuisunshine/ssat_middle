@@ -1,0 +1,800 @@
+able|After several lessons, she was able to swim across the pool.
+bold|The bold explorer entered the cave despite the warning signs.
+brave|The brave firefighter climbed into the smoke to rescue the child.
+calm|Her calm voice helped the frightened children feel safe.
+candid|Please give me a candid opinion, even if it is unflattering.
+careful|A careful driver checks both directions before crossing the intersection.
+cheerful|His cheerful greeting brightened an otherwise gloomy morning.
+clever|The clever student found a shorter way to solve the puzzle.
+cruel|It was cruel to leave the injured animal without help.
+eager|The eager volunteers arrived early, ready to begin the cleanup.
+fair|The judge made a fair decision after hearing both sides.
+faithful|The faithful friend stayed beside her throughout the difficult year.
+foolish|Ignoring the storm warning would be a foolish decision.
+generous|The generous neighbor donated blankets to every family in need.
+gentle|Use a gentle touch when handling the fragile butterfly.
+honest|An honest witness tells the truth even when it is uncomfortable.
+humble|Despite winning the prize, the humble scientist thanked her entire team.
+idle|The machine stood idle while workers waited for replacement parts.
+lazy|The lazy worker avoided every task that required effort.
+polite|A polite guest thanks the host before leaving.
+proud|She felt proud of the bridge she had built herself.
+selfish|Keeping all the supplies for yourself would be selfish.
+shy|The shy child whispered instead of introducing himself aloud.
+stubborn|The stubborn mule refused to move despite our repeated efforts.
+wise|Seeking advice before making a major decision is wise.
+afraid|The puppy was afraid of the thunder and hid under the bed.
+amused|The children were amused by the clown's silly hat.
+angry|He grew angry when he discovered that his bicycle had been stolen.
+anxious|She felt anxious while waiting for news of the missing hikers.
+ashamed|He was ashamed of lying and decided to tell the truth.
+astonished|We were astonished to find snow in the desert.
+awkward|His awkward movements knocked over two chairs and a lamp.
+content|With food, shelter, and friends, the traveler felt content.
+curious|The curious child kept asking how the telescope worked.
+delighted|We were delighted when our missing cat returned home.
+disappointed|She was disappointed that rain had canceled the match.
+embarrassed|He felt embarrassed after calling his teacher by the wrong name.
+envious|She was envious of the prize her rival had won.
+excited|The excited fans could hardly wait for the concert to begin.
+furious|The owner was furious when someone deliberately damaged his garden.
+grateful|We were grateful to the stranger who helped change our tire.
+gloomy|After several defeats, the team felt gloomy about its chances.
+lonely|Living far from her friends made the newcomer feel lonely.
+miserable|Cold, wet, and hungry, the stranded hikers felt miserable.
+nervous|His nervous hands trembled as he stepped onto the stage.
+relieved|We were relieved to learn that nobody had been injured.
+restless|The restless children kept shifting in their seats during the delay.
+startled|The startled deer leaped away when a branch snapped.
+terrified|The terrified passenger froze when she saw smoke filling the cabin.
+weary|The weary travelers fell asleep as soon as they reached the inn.
+abandon|The crew had to abandon the sinking ship.
+absorb|A dry sponge can absorb a surprising amount of water.
+approach|Walk slowly as you approach the nervous horse.
+arrange|Please arrange the books in alphabetical order.
+assist|A volunteer will assist visitors who need help finding their seats.
+avoid|We took the side street to avoid the heavy traffic.
+capture|The rescuers used a net to capture the injured bird safely.
+cling|The frightened kitten tried to cling to the tree branch.
+collect|The students will collect empty bottles for recycling.
+conceal|Thick curtains conceal the room from people outside.
+defend|The fortress walls helped defend the town against attack.
+depart|Our train will depart from platform four at noon.
+discover|The experiment may help us discover why the plants are dying.
+drag|We had to drag the heavy log away from the path.
+escape|The trapped mouse found a small hole through which to escape.
+examine|The doctor will examine the injury before recommending treatment.
+expand|Warm air can expand and fill more space than cold air.
+follow|The ducklings will follow their mother down to the pond.
+grasp|Reach for the railing and grasp it firmly.
+hasten|We must hasten if we want to catch the last bus.
+imitate|The young bird learned to imitate its parent's song.
+pause|Let us pause for a moment before continuing the discussion.
+rescue|The lifeguard swam out to rescue the struggling child.
+scatter|A sudden noise made the pigeons scatter in every direction.
+wander|Without a map, tourists may wander through the streets for hours.
+abundant|Rainfall was abundant, so the farmers had plenty of water.
+brief|The brief shower ended after only three minutes.
+brilliant|A brilliant flash of lightning lit up the dark sky.
+broad|The broad river was too wide to cross on foot.
+colossal|The colossal statue towered above the surrounding buildings.
+compact|The compact tent folded into a surprisingly small bag.
+costly|Replacing the damaged engine would be a costly repair.
+delicate|The delicate petals tore when we handled them roughly.
+dense|The dense forest allowed very little sunlight to reach the ground.
+distant|The distant mountain looked tiny from our campsite.
+dull|A dull glow came from the lamp's dusty shade.
+enormous|An enormous whale surfaced beside the much smaller boat.
+faint|We heard a faint whisper from the far end of the hall.
+frequent|Frequent interruptions made it hard to finish the assignment.
+immense|The project required an immense amount of time and money.
+massive|The massive stone was too heavy for six people to lift.
+miniature|The museum displayed a miniature village inside a glass case.
+narrow|Only one person could pass through the narrow doorway at a time.
+numerous|Numerous stars filled the sky on the clear night.
+ordinary|There was nothing unusual about that ordinary school day.
+rare|Snow is rare in this region, falling only once every few years.
+scarce|Fresh vegetables became scarce after the drought destroyed the crops.
+shallow|The shallow pond barely reached our ankles.
+slight|A slight change in temperature was barely noticeable.
+vivid|Her vivid description helped us picture every detail of the garden.
+admit|He finally agreed to admit that he had made a mistake.
+advise|The coach will advise us on how to improve our technique.
+announce|The principal will announce the winners at tomorrow's assembly.
+argue|In the essay, use evidence to argue that the proposal will save energy.
+boast|It is rude to boast about winning while your opponent is upset.
+compare|We will compare the two maps to find similarities and differences.
+confuse|The nearly identical labels can confuse even experienced shoppers.
+deny|She did not deny breaking the window; she accepted responsibility.
+describe|Please describe the lost dog so we know what to look for.
+doubt|I doubt that the bridge is safe after such severe damage.
+explain|The guide will explain how the ancient water system worked.
+forbid|The rules forbid visitors from touching the paintings.
+forgive|She decided to forgive her friend after receiving a sincere apology.
+imagine|Try to imagine how this valley looked before the city was built.
+inform|Please inform the office if your address changes.
+intend|We intend to finish the repairs before winter arrives.
+mention|Remember to mention the broken lock when you speak to the caretaker.
+notice|Did you notice the small bird hidden among the branches?
+persuade|She used strong evidence to persuade the council to support the plan.
+predict|Dark clouds often help sailors predict approaching storms.
+recall|Can you recall where you last saw the missing key?
+reply|Please reply to the invitation before Friday.
+request|You may request extra paper if your first sheet is full.
+suggest|The committee will suggest several possible solutions for discussion.
+warn|The signs warn hikers about falling rocks.
+advantage|Knowing the route gave our team an advantage over the other runners.
+attempt|Her first attempt failed, but she succeeded on the second try.
+barrier|A fallen tree formed a barrier across the road.
+burden|Carrying the heavy pack became a burden on the long climb.
+category|Put each animal into the correct category according to its features.
+challenge|Crossing the river without a bridge was a serious challenge.
+choice|We had a choice between traveling by train and taking the bus.
+custom|Removing shoes at the door is a custom in many households.
+damage|The hail caused damage to the roof and windows.
+effort|The difficult repair required great effort from the whole team.
+evidence|The muddy footprints provided evidence that someone had entered the house.
+fault|A small fault in the wire caused the machine to stop.
+feature|The bird's most noticeable feature is its bright red beak.
+goal|Our goal is to raise enough money to repair the playground.
+habit|Reading before bed became a daily habit.
+journey|The journey across the mountains took five days.
+method|This method solves the problem in three clear steps.
+opinion|In my opinion, the second design is easier to use.
+origin|Researchers traced the river's origin to a spring in the hills.
+purpose|The purpose of the fence is to keep deer out of the garden.
+reason|Heavy snow was the reason for the school's closure.
+result|The flooded streets were a result of the broken water pipe.
+solution|Building a ramp offered a solution to the access problem.
+talent|Her natural talent for music was clear before she began lessons.
+wealth|The merchant used his wealth to build a public library.
+amiable|The amiable shopkeeper greeted every customer with a friendly smile.
+arrogant|The arrogant player acted as though no teammate was his equal.
+benevolent|The benevolent ruler used her fortune to fund hospitals for the poor.
+compassionate|The compassionate nurse comforted the frightened patient.
+conscientious|The conscientious student checked every source before submitting her report.
+considerate|It was considerate to lower the music while the baby slept.
+deceitful|The deceitful seller hid the bicycle's broken brakes from the buyer.
+dependable|Our dependable neighbor always feeds the cat when we are away.
+diligent|The diligent researcher checked the records carefully every day.
+discreet|The discreet assistant kept the private conversation confidential.
+earnest|Her earnest request showed how seriously she wanted to help.
+ethical|Returning the money was the ethical choice, even though nobody was watching.
+fickle|The fickle crowd praised the singer one week and rejected him the next.
+frugal|The frugal family repaired old furniture instead of buying new pieces.
+greedy|The greedy guest took nearly all the cake before others were served.
+hostile|The hostile crowd shouted angrily at the visiting team.
+impartial|An impartial judge considers the evidence without favoring either side.
+impulsive|His impulsive purchase left him without enough money for lunch.
+lofty|Her lofty ambition was to end hunger throughout the world.
+meek|The meek employee accepted the unfair criticism without protest.
+obedient|The obedient dog sat as soon as its owner gave the command.
+patient|The patient teacher explained the difficult rule for the fifth time.
+prudent|Saving some money for emergencies is a prudent choice.
+reliable|The reliable alarm wakes me at exactly six every morning.
+vain|The vain prince spent hours admiring his reflection.
+apathy|The empty meeting hall revealed widespread apathy about the proposal.
+aversion|His strong aversion to heights kept him away from the cliff edge.
+contempt|She showed contempt for the dishonest scheme by refusing to take part.
+despair|The rescuers' arrival replaced our despair with hope.
+empathy|Her own experience of loss helped her show empathy toward the grieving child.
+enthusiasm|The volunteers began the project with eagerness and enthusiasm.
+gratitude|We expressed our gratitude to the neighbors who helped us move.
+grief|The family felt deep grief after losing their beloved dog.
+indignation|The unfair punishment filled the students with indignation.
+optimism|Her optimism helped the team believe that improvement was possible.
+pessimism|His pessimism led him to expect failure before the work had begun.
+remorse|The thief felt remorse and returned the stolen necklace.
+resentment|Being blamed unfairly left him with lasting resentment.
+serenity|The quiet garden offered serenity after the noise of the city.
+sympathy|The class showed sympathy by sending cards to the injured student.
+agitated|The agitated horse paced nervously inside its stall.
+apprehensive|We were apprehensive about crossing the damaged bridge.
+bewildered|The bewildered visitor stared at the contradictory directions.
+dejected|The dejected players walked slowly home after their defeat.
+elated|She was elated when she learned that her story would be published.
+indifferent|He was indifferent to the result and did not care who won.
+melancholy|The old photograph left her feeling melancholy about lost friendships.
+nostalgic|Hearing the school song made the former student nostalgic for childhood.
+reluctant|The reluctant swimmer hesitated at the edge of the cold pool.
+timid|The timid kitten hid whenever a stranger entered the room.
+assert|The witness continued to assert that she had seen the missing car.
+clarify|A diagram may clarify the instructions and make them easier to follow.
+commend|The principal will commend the students for their honesty.
+complain|Passengers began to complain about the long delay.
+concede|After seeing the evidence, he had to concede that his theory was wrong.
+confide|She chose to confide her worries to a trusted friend.
+contradict|The new measurements contradict the claim that the room is square.
+debate|The council will debate the benefits and costs of the new park.
+disclose|The witness agreed to disclose the information she had kept secret.
+exaggerate|Do not exaggerate a small scratch by calling it a terrible injury.
+express|A thank-you letter can express your appreciation for someone's help.
+flatter|The merchant tried to flatter the king to win a valuable contract.
+imply|Her raised eyebrow seemed to imply doubt without stating it aloud.
+inquire|Call the museum to inquire about its opening hours.
+insist|The doctor will insist that the patient rest until the injury heals.
+interrupt|Please wait for the speaker to finish rather than interrupt her.
+lament|The residents still lament the loss of their beautiful old theater.
+murmur|We could hear the patient murmur a few quiet words.
+narrate|The guide will narrate the history of the castle during the tour.
+negotiate|The two sides will negotiate until they reach an agreement.
+reassure|The pilot spoke calmly to reassure the worried passengers.
+recite|Each student will recite a short poem from memory.
+refute|The scientist used repeated experiments to refute the false claim.
+retort|She was tempted to retort with an equally sharp remark.
+utter|The shocked visitor could not utter a single word.
+analyze|We will analyze each part of the machine to learn how it works.
+anticipate|Drivers should anticipate icy roads when temperatures fall below freezing.
+assess|The inspector will assess the damage before estimating repair costs.
+assume|Do not assume the door is locked without checking it.
+comprehend|The younger students struggled to comprehend the complex instructions.
+conclude|From the wet pavement, we can conclude that it rained recently.
+contemplate|She sat quietly to contemplate the consequences of her decision.
+deduce|From the footprints, the tracker could deduce which way the deer went.
+discern|Through the fog, we could barely discern the shape of the lighthouse.
+distinguish|The bright collar helps us distinguish our dog from the others.
+estimate|Without counting every seat, we can estimate the hall's capacity.
+evaluate|The judges will evaluate each design using the same standards.
+infer|From her muddy boots, I could infer that she had crossed the field.
+interpret|The guide helped us interpret the symbols on the ancient wall.
+investigate|Detectives will investigate the disappearance by interviewing the witnesses.
+justify|You must justify your conclusion with evidence from the passage.
+memorize|The actor worked each evening to memorize his lines.
+misconceive|A reader may misconceive the author's argument by ignoring the final paragraph.
+perceive|Animals can often perceive sounds that humans cannot hear.
+recognize|I could recognize my friend's voice even in the noisy crowd.
+reflect|Take a moment to reflect on what the experiment taught you.
+scrutinize|The editor will scrutinize every sentence for errors.
+speculate|Without enough evidence, we can only speculate about what happened.
+summarize|Please summarize the chapter in three sentences rather than repeating every detail.
+verify|Check the original document to verify that the copied date is correct.
+adapt|Desert animals must adapt to extreme heat and little water.
+alter|We need to alter the plan because the original route is blocked.
+augment|A second battery will augment the amount of power available.
+cease|The machinery will cease operating when the power is disconnected.
+commence|The ceremony will commence as soon as all the guests are seated.
+decline|Attendance began to decline as fewer people bought tickets.
+deteriorate|The abandoned building will deteriorate without regular repairs.
+develop|With practice, a student's writing skills can develop over time.
+diminish|Closing the windows helped diminish the noise from the street.
+emerge|We watched a butterfly emerge from its chrysalis.
+enhance|Adding clear diagrams will enhance the usefulness of the guide.
+fluctuate|Temperatures fluctuate sharply here, rising by day and falling at night.
+flourish|The plants flourish in rich soil with plenty of sunlight.
+generate|The wind turbines generate electricity for nearby homes.
+innovate|Engineers must innovate to solve problems that older designs cannot address.
+maintain|Workers clean and repair the bridge to maintain it in good condition.
+persist|If the rain continues to persist, the game will be postponed.
+prolong|Extra supplies would prolong the expedition by several days.
+prosper|Businesses may prosper when customers have more money to spend.
+restore|The conservators hope to restore the damaged painting to its former beauty.
+retreat|The advancing fire forced the rescuers to retreat to safer ground.
+revive|Fresh water helped revive the drooping plants.
+transform|The renovation will transform the empty warehouse into a library.
+vanish|The magician made the coin seem to vanish from his hand.
+wither|Without water, the leaves will wither and turn brown.
+accuse|You should not accuse someone of stealing without evidence.
+appease|The manager offered refunds to appease the angry customers.
+cooperate|The two classes will cooperate to clean the entire playground.
+compete|Athletes from ten schools will compete for the trophy.
+compel|The urgent danger may compel us to leave before sunrise.
+confront|She decided to confront the problem instead of ignoring it.
+conquer|The army hoped to conquer the neighboring kingdom by force.
+consent|The owner must consent before we can use the field.
+defy|The protester chose to defy the order and remain in the square.
+deter|A strong lock may deter thieves from entering the shed.
+dispute|The researchers dispute the finding because the measurements appear incorrect.
+dominate|The strongest team continued to dominate the competition.
+endure|The hikers had to endure freezing temperatures until rescuers arrived.
+hinder|Thick mud can hinder progress along the trail.
+mediate|A neutral teacher will mediate the disagreement between the two students.
+obey|All cyclists must obey the traffic signals.
+oppose|Residents who oppose the plan will explain their objections at the meeting.
+provoke|Insulting remarks can provoke an angry response.
+reconcile|The friends met to reconcile after their bitter argument.
+repel|The outer coating helps repel water and keep the fabric dry.
+restrain|A sturdy fence will restrain the cattle within the pasture.
+submit|The defeated ruler agreed to submit to the conqueror's authority.
+surrender|Surrounded and out of supplies, the soldiers chose to surrender.
+tolerate|These plants can tolerate cold weather without being damaged.
+unite|The shared goal helped unite several previously separate groups.
+ally|During the emergency, our neighboring town became a valuable ally.
+ancestor|Her distant ancestor arrived in the valley two hundred years ago.
+authority|The captain has authority to order the ship back to port.
+benefactor|An anonymous benefactor donated enough money to rebuild the library.
+citizen|As a citizen of the country, she could vote in its elections.
+colleague|My father's colleague works with him in the same laboratory.
+community|The whole community gathered to celebrate the town's anniversary.
+companion|Her trusted companion joined her on the long journey.
+descendant|The museum guide is a descendant of the family who built the house.
+dignity|Even during hardship, she carried herself with quiet dignity.
+foe|The knight met his old foe on the battlefield.
+heir|As the legal heir, she inherited her aunt's house.
+immigrant|The immigrant learned the language of his new country.
+individual|Each individual in the class received a different assignment.
+majority|A majority of the voters supported the plan, with sixty percent in favor.
+minority|Only a minority of students chose French; most selected Spanish.
+novice|As a novice, I needed help with the basic sailing knots.
+opponent|Her opponent stood across the tennis net, ready to serve.
+orphan|The young orphan had lost both parents before arriving at the shelter.
+pioneer|The aviation pioneer tested ideas that later pilots would follow.
+reputation|The restaurant earned a reputation for excellent food and friendly service.
+rival|Her closest rival finished only a second behind her.
+spectator|Every spectator watched from the stands while the athletes competed.
+tenant|The tenant pays rent to the owner of the apartment.
+witness|The witness described the accident to the police.
+arid|Few plants can survive in the arid desert without special adaptations.
+barren|The barren hillside had no trees or grass.
+fertile|The fertile soil produced a rich crop of vegetables.
+frigid|The frigid air made our fingers numb within minutes.
+humid|The humid air felt damp and made it difficult for clothes to dry.
+luminous|The luminous markings on the watch glowed in the dark.
+nocturnal|The nocturnal owl hunts at night and rests during daylight.
+perennial|The perennial plant returns each spring without being replanted.
+porous|The porous stone allowed water to pass through its tiny holes.
+sterile|The nurse used a sterile bandage to keep germs away from the wound.
+terrestrial|Unlike fish, terrestrial animals live primarily on land.
+toxic|The toxic chemical must be handled carefully because it can cause harm.
+vegetation|Thick vegetation covered the valley with trees, bushes, and grasses.
+climate|The region's dry climate makes rain uncommon throughout the year.
+erosion|Years of erosion carried soil away from the riverbank.
+habitat|The marsh provides a habitat where many waterbirds live and breed.
+organism|A tiny organism in the pond is still a living thing.
+precipitation|Snow and rain are both forms of precipitation.
+species|The reserve protects a rare species of frog found nowhere else.
+terrain|The rocky terrain made walking difficult even with sturdy boots.
+evaporate|The puddles will evaporate as the sun warms the pavement.
+germinate|Keep the seeds moist so that they can germinate and begin to grow.
+hibernate|Some mammals hibernate during winter instead of searching for food.
+migrate|These birds migrate south when winter approaches.
+nourish|Rich soil and regular watering help nourish the young plants.
+abrupt|The abrupt stop threw the passengers forward without warning.
+ancient|The ancient temple was built thousands of years ago.
+annual|Our annual festival takes place once every summer.
+chronological|Arrange the events in chronological order, from earliest to latest.
+consecutive|Rain fell for five consecutive days without a dry day between them.
+constant|The constant dripping continued all night without stopping.
+contemporary|The museum displays contemporary art made by artists working today.
+eventual|Years of practice contributed to her eventual success.
+gradual|The gradual rise in temperature happened slowly over several weeks.
+immediate|The injured animal needed immediate attention rather than a long wait.
+inevitable|With the roof already collapsing, further damage seemed inevitable.
+initial|The initial plan changed several times before we began work.
+intermittent|Intermittent rain stopped and started throughout the afternoon.
+obsolete|New technology made the old recording device obsolete.
+permanent|The permanent ink could not be washed off the label.
+preceding|The paragraph preceding the conclusion introduces the final piece of evidence.
+premature|Calling the project a success before testing it would be premature.
+prompt|The prompt response brought help within minutes of our call.
+recent|The recent snowfall still covered the road this morning.
+simultaneous|The simultaneous alarms sounded at exactly the same moment.
+spontaneous|Their spontaneous celebration began without any planning.
+subsequent|The first attempt failed, but subsequent attempts were more successful.
+temporary|The temporary bridge will be replaced by a permanent one next year.
+timely|Her timely warning reached us just before the storm struck.
+uncertain|We were uncertain about the route because the map was incomplete.
+accurate|The accurate clock showed the correct time every day.
+adequate|The shelter was small but adequate for our basic needs.
+apparent|The broken lock made the reason for the open door apparent.
+authentic|The expert confirmed that the painting was authentic rather than a copy.
+beneficial|Regular exercise can have a beneficial effect on general fitness.
+complex|The complex machine contained hundreds of interconnected parts.
+crucial|The missing measurement was crucial to solving the problem correctly.
+defective|The defective light failed to work even with a new battery.
+efficient|The efficient engine uses less fuel to do the same work.
+essential|An accurate map is essential for crossing the unfamiliar mountains safely.
+exceptional|Her exceptional performance earned the highest praise from every judge.
+feasible|The plan is feasible because we have enough money, time, and workers.
+flawless|The flawless glass had no scratches, cracks, or bubbles.
+inferior|The inferior fabric tore much sooner than the stronger material.
+logical|Her logical explanation connected every conclusion to clear supporting evidence.
+notable|The report highlighted several notable achievements that deserved special attention.
+peculiar|A peculiar smell unlike anything familiar drifted from the cupboard.
+relevant|Include only evidence relevant to the question being discussed.
+remarkable|The injured runner made a remarkable recovery that surprised everyone.
+significant|The new bridge made a significant difference to travel times.
+superficial|A superficial inspection missed the serious damage beneath the surface.
+superior|The superior design proved stronger and easier to use than the alternatives.
+trivial|Do not let a trivial disagreement ruin an important friendship.
+valid|The conclusion is valid because the evidence supports it.
+valuable|The valuable manuscript was kept in a locked display case.
+accomplish|Working together, we can accomplish the task before sunset.
+acquire|The museum hopes to acquire the painting for its permanent collection.
+allocate|The council will allocate more money to repairing the roads.
+attain|With regular practice, she hopes to attain a higher level of skill.
+conserve|Turning off unused lights helps conserve electricity.
+consume|Large vehicles often consume more fuel than smaller ones.
+contribute|Each class will contribute supplies to the community food drive.
+deprive|The blackout could deprive the village of electricity for several days.
+distribute|Volunteers will distribute blankets among the families at the shelter.
+donate|We plan to donate the books to a school that needs them.
+exhaust|The long climb could exhaust even a strong hiker.
+grant|The council may grant permission to build on the empty land.
+inherit|The children will inherit the property when its owner dies.
+invest|They plan to invest money in equipment that will improve production.
+obtain|You must obtain a permit before entering the protected area.
+possess|Only a few museums possess a complete skeleton of this dinosaur.
+preserve|The cold, dry air helps preserve the ancient wooden tools.
+purchase|We need to purchase enough paint for all four walls.
+require|The recipe will require three eggs and a cup of flour.
+retain|The thick walls retain heat long after the fire has gone out.
+sacrifice|She chose to sacrifice her free afternoon to help a friend study.
+secure|The new lock will secure the store against theft.
+squander|Do not squander your limited supplies by using them carelessly.
+sustain|The stored food could sustain the hikers for another week.
+utilize|The school will utilize the empty room as a temporary library.
+abstract|Freedom is an abstract idea that cannot be held in your hand.
+literal|The literal meaning of the phrase differs from its joking use.
+fictional|The fictional kingdom exists only in the author's stories.
+figurative|Calling her a ray of sunshine is figurative language, not a weather report.
+ironic|It was ironic that the safety inspector tripped over his own warning sign.
+anonymous|The anonymous donor chose not to reveal her name.
+anecdote|The speaker opened with a short anecdote about his first day at school.
+biography|The biography tells the story of the scientist's life.
+climax|At the story's climax, the trapped hero finally confronts the villain.
+dialogue|The dialogue reveals what the characters say to each other.
+exaggeration|Saying that this bag weighs a ton is an exaggeration.
+fable|The fable uses talking animals to teach a lesson about honesty.
+genre|Mystery is the genre she enjoys most among different kinds of fiction.
+imagery|The poem's vivid imagery helps readers picture the moonlit harbor.
+irony|The irony was that the expert on punctuality arrived an hour late.
+metaphor|Calling the city a jungle is a metaphor that compares unlike things directly.
+mood|The dark setting creates a fearful mood for the reader.
+motive|The detective sought a motive that would explain the theft.
+narrative|The narrative follows the explorer's journey from the coast to the mountains.
+plot|The plot describes the connected events that drive the story forward.
+protagonist|The protagonist faces the central conflict and changes by the story's end.
+satire|The satire mocks wasteful officials to expose problems in government.
+simile|The phrase "as quiet as a mouse" is a simile.
+theme|The novel develops the theme that friendship requires trust.
+tone|The author's respectful tone shows admiration for the explorer.
+aloof|He remained aloof while the other guests chatted together.
+altruistic|Her altruistic decision put the needs of strangers before her own comfort.
+astute|The astute detective noticed a clue that everyone else overlooked.
+audacious|The audacious rescue plan required great courage and a willingness to take risks.
+belligerent|The belligerent customer shouted threats instead of discussing the problem calmly.
+complacent|The team became complacent after winning and stopped practicing seriously.
+cordial|Despite their disagreement, the neighbors exchanged a cordial greeting.
+credulous|The credulous child believed every unlikely tale without asking for proof.
+cynical|His cynical remark suggested that all politicians cared only about themselves.
+deferential|The assistant's deferential manner showed great respect for the senior scientist.
+docile|The docile pony accepted the rider's instructions without resistance.
+eccentric|The eccentric inventor wore mismatched shoes and kept unusual hours.
+gregarious|The gregarious host enjoyed meeting people and organizing large gatherings.
+ingenious|Her ingenious device used sunlight to heat water without electricity.
+insolent|The insolent reply showed open disrespect toward the visitor.
+meticulous|The meticulous artist painted every tiny detail with care.
+naive|It was naive to trust the stranger's promise without checking it.
+obstinate|The obstinate child refused to change his mind despite clear evidence.
+petulant|The petulant player complained childishly when he was asked to wait.
+resilient|The resilient community rebuilt quickly after the flood.
+resourceful|The resourceful camper made a useful shelter from fallen branches.
+scrupulous|The scrupulous accountant refused to hide even a small financial error.
+stoic|The stoic runner showed little outward emotion despite the painful injury.
+tenacious|The tenacious investigator kept searching long after others gave up.
+vindictive|His vindictive response aimed to punish anyone who had criticized him.
+ambiguous|The ambiguous directions allowed two different interpretations.
+analogous|The two situations are analogous because both involve sharing limited resources.
+arbitrary|The arbitrary rule seemed based on personal whim rather than any clear reason.
+coherent|Her coherent explanation connected the ideas in a clear, orderly way.
+concise|The concise summary covered the main points in only three sentences.
+conspicuous|The bright orange coat was conspicuous in the crowd of dark jackets.
+credible|The witness gave a credible account supported by reliable evidence.
+dubious|The dubious claim lacked evidence and sounded unlikely.
+eloquent|Her eloquent speech expressed the community's hopes with unusual power and grace.
+explicit|The explicit instructions stated exactly what each volunteer should do.
+implicit|Although nobody stated the rule, there was an implicit agreement to take turns.
+incongruous|The beach umbrella looked incongruous in the middle of the snowy garden.
+intricate|The intricate carving contained many tiny, connected patterns.
+lucid|The lucid explanation made a difficult idea easy to understand.
+mundane|After the adventure, even an ordinary bus ride seemed mundane.
+negligible|The scratch was so small that its effect on the value was negligible.
+plausible|Her plausible explanation fitted the known facts, although it was not proven.
+redundant|The second sentence was redundant because it repeated the first without adding information.
+skeptical|The skeptical reader wanted evidence before accepting the surprising claim.
+subtle|The subtle difference between the paintings was difficult to notice.
+superfluous|The final paragraph was superfluous because all its information had already been given.
+tangible|The builders showed tangible progress by completing the first wall.
+tenuous|The connection between the two events was tenuous and supported by little evidence.
+transparent|We could see the fish clearly through the transparent glass.
+verbose|The verbose speaker used twenty words where five would have been enough.
+abolish|The new law will abolish the unfair fee completely.
+abstain|She chose to abstain from voting because she had a personal interest in the result.
+alleviate|A shaded shelter helped alleviate the travelers' discomfort in the heat.
+amplify|The microphone will amplify your voice so everyone can hear it.
+assimilate|Students need time to assimilate new information and connect it with earlier learning.
+avert|Quick repairs helped avert a serious accident on the bridge.
+coerce|The bully tried to coerce smaller children into giving him their lunch money.
+corroborate|The security recording helped corroborate the witness's account.
+curtail|Budget cuts forced the club to curtail its travel plans.
+deliberate|The judges will deliberate before choosing the winning design.
+deviate|Do not deviate from the marked route in the protected area.
+elicit|The interviewer asked a thoughtful question to elicit a detailed response.
+eradicate|The cleanup aims to eradicate the invasive weeds from the reserve.
+evade|The thief tried to evade capture by slipping through a narrow alley.
+exacerbate|More heavy rain could exacerbate the existing flood damage.
+exemplify|Her generous actions exemplify the values that the school teaches.
+facilitate|A shared calendar will facilitate planning between the two teams.
+formulate|The researchers will formulate a hypothesis before designing the experiment.
+hamper|A thick layer of ice can hamper efforts to open the gate.
+instigate|The ringleader tried to instigate a quarrel between the two groups.
+mitigate|Planting trees can mitigate the impact of strong winds around the houses.
+relinquish|The retiring captain agreed to relinquish command to her successor.
+reprimand|The coach will reprimand players who deliberately break the rules.
+subside|We waited for the floodwaters to subside before returning home.
+undermine|Repeated dishonesty can undermine trust between friends.
+anomaly|One unusually warm day was an anomaly during the otherwise freezing month.
+assumption|The plan rests on the assumption that the weather will remain dry.
+bias|A judge must avoid bias toward a contestant who happens to be a friend.
+coincidence|Meeting my neighbor in a distant city was an unexpected coincidence.
+consensus|After discussing the options, the group reached a consensus on one plan.
+contradiction|His claim to have stayed home was a contradiction of the witness's account.
+criterion|Safety is the most important criterion for choosing the new equipment.
+dilemma|Choosing between two equally important commitments left her in a dilemma.
+discrepancy|The discrepancy between the two totals showed that someone had miscounted.
+fallacy|The argument relies on the fallacy that popularity always proves quality.
+hypothesis|The scientist tested the hypothesis that seedlings grow faster in warmer soil.
+inference|Her inference that someone had recently cooked was based on the warm stove.
+innovation|The new water filter was an innovation that improved on earlier designs.
+insight|The interview gave us insight into how the artist develops her ideas.
+integrity|Her integrity prevented her from accepting credit for someone else's work.
+paradox|The statement "less can be more" expresses a paradox that invites closer thought.
+perspective|From the child's perspective, the short staircase seemed enormous.
+phenomenon|The glowing sea was a natural phenomenon caused by tiny organisms.
+precedent|The earlier decision set a precedent for handling similar cases in the future.
+principle|The rule follows the principle that everyone deserves equal treatment.
+priority|Finding safe drinking water was our first priority after the storm.
+prospect|The prospect of a long holiday filled the students with excitement.
+repercussion|One unexpected repercussion of the road closure was increased traffic near the school.
+strategy|Our strategy was to conserve energy early and run faster near the finish.
+theory|The theory explains how several observations fit into a larger pattern.
+adversity|The family showed courage in the face of poverty and other adversity.
+ambition|Her ambition was to become an engineer and design safer bridges.
+aptitude|His aptitude for languages helped him learn new words quickly.
+audacity|The thief had the audacity to ask the owner to help carry the stolen bag.
+calamity|The drought was a calamity that destroyed crops across the region.
+catastrophe|The earthquake caused a catastrophe, leaving thousands of homes in ruins.
+competence|Her competence as a pilot was clear from the smooth emergency landing.
+consequence|One consequence of missing the bus was arriving late for class.
+constraint|A tight budget was the main constraint on the size of our project.
+deficiency|A deficiency of water caused the plants to stop growing.
+discretion|Use discretion when discussing private matters that might embarrass someone.
+endeavor|The expedition was a difficult endeavor that required years of preparation.
+fortitude|She faced the long recovery with patience and fortitude.
+incentive|The promised reward gave the students an incentive to finish early.
+initiative|Without being asked, she took the initiative and organized the cleanup.
+obstacle|A fallen tree was the final obstacle blocking our path.
+opportunity|The scholarship offered an opportunity to study abroad.
+peril|The sailors were in peril as their damaged boat drifted toward the rocks.
+perseverance|Her perseverance kept her practicing after many unsuccessful attempts.
+prestige|Winning the international prize brought prestige to the small research institute.
+proficiency|Her proficiency in French allowed her to translate the letter easily.
+resolve|His firm resolve helped him continue despite repeated setbacks.
+setback|The broken engine was a setback that delayed our journey by a day.
+triumph|Completing the difficult climb was a triumph for the whole team.
+vulnerability|The broken lock exposed the building's vulnerability to theft.
+allusion|The author's reference to Achilles is an allusion to a Greek legend.
+analogy|The teacher used an analogy between an electrical circuit and flowing water.
+antagonist|The antagonist opposes the hero and creates the story's central conflict.
+autobiography|In her autobiography, the astronaut describes her own childhood and career.
+chronicle|The chronicle records the town's important events in the order they happened.
+context|The surrounding context helps us understand which meaning of the word is intended.
+epilogue|The epilogue explains what happened to the characters after the main story ended.
+foreshadowing|The early mention of a cracked rope provides foreshadowing of the later accident.
+hyperbole|Claiming to have waited a million years is an example of hyperbole.
+monologue|The actor delivered a long monologue without another character speaking.
+personification|The phrase "the wind whispered" uses personification to give nature a human action.
+prologue|The prologue introduces events that occurred before the main story begins.
+symbol|In the poem, the broken chain is a symbol of freedom.
+transition|A clear transition helps readers move from one paragraph's idea to the next.
+thesis|The essay's thesis states the main argument that the writer will defend.
+objective|An objective report presents facts without letting personal feelings distort them.
+subjective|Her judgment of the painting was subjective, based on personal taste.
+imaginative|The imaginative child invented a whole world for her stories.
+satirical|The satirical cartoon mocked the mayor's wasteful spending.
+solemn|The audience remained solemn during the memorial ceremony.
+indignant|The indignant students protested after being blamed for something they had not done.
+ambivalent|She felt ambivalent about moving, excited by new opportunities but sad to leave friends.
+introspective|The introspective narrator carefully examines his own thoughts and motives.
+ominous|The ominous rumble suggested that a powerful storm was approaching.
+whimsical|The whimsical illustration showed a rabbit sailing in a teacup.
+copious|The researcher took copious notes, filling several notebooks in one afternoon.
+deficient|The weak structure was deficient in the support needed to hold the roof.
+dormant|The dormant volcano had shown no activity for centuries.
+fleeting|The fleeting rainbow disappeared after only a few seconds.
+imminent|The dark clouds warned that a storm was imminent.
+incessant|The incessant barking continued all night without a break.
+inherent|The climbers understood the inherent risks of scaling a steep, icy mountain.
+lavish|The lavish banquet offered far more food and decoration than necessary.
+meager|Their meager food supply was barely enough for one small meal.
+minute|The scientist used a microscope to examine the minute crack.
+novel|Her novel solution used an approach that nobody had tried before.
+omnipresent|In the busy city, traffic noise seemed omnipresent, reaching every street.
+pervasive|The pervasive smell of smoke reached every room in the house.
+profound|The experience had a profound effect, changing the way she understood friendship.
+prolific|The prolific author published three novels and many stories in one year.
+pristine|The pristine beach showed no litter, footprints, or other signs of disturbance.
+recurrent|The recurrent fault appeared again each time we restarted the machine.
+rigorous|The rigorous inspection tested every part against demanding standards.
+sparse|The sparse crowd left most of the seats empty.
+stagnant|The stagnant water had not flowed or moved for weeks.
+tedious|Sorting thousands of identical screws was a tedious task.
+transient|The transient visitors stayed only one night before continuing their journey.
+uniform|A uniform layer of paint covered the entire surface evenly.
+versatile|The versatile tool can cut, grip, and tighten screws.
+vigorous|The vigorous workout left everyone breathing hard.
+accelerate|The car began to accelerate as it entered the open highway.
+accumulate|Dust will accumulate on the shelves if they are never cleaned.
+adhere|The label will adhere to the jar if the surface is clean and dry.
+ascend|The hikers will ascend the mountain along its gentler eastern slope.
+collide|The two carts could collide if both enter the narrow aisle at once.
+compress|The machine will compress the loose paper into a tightly packed block.
+converge|Several small paths converge at the central fountain.
+descend|We watched the balloon descend slowly toward the field.
+detach|You can detach the small lamp from its base and carry it.
+diffuse|The scent will diffuse through the room as the oil warms.
+disperse|A gust of wind helped disperse the smoke across the field.
+dissolve|Stir the sugar until it begins to dissolve in the warm water.
+eject|Press the button to eject the disc from the player.
+envelop|Thick fog began to envelop the village, hiding every roof.
+extract|The dentist had to extract the badly damaged tooth.
+immerse|Do not immerse the electrical handle in water.
+intercept|The defender leaped forward to intercept the pass before it reached the receiver.
+oscillate|The pendulum will oscillate from side to side until friction slows it.
+penetrate|Only a little sunlight could penetrate the thick canopy of leaves.
+propel|The strong current helped propel the boat downstream.
+recede|After the storm, the floodwaters began to recede from the streets.
+rotate|Turn the handle to rotate the wheel through a full circle.
+saturate|The heavy rain will saturate the soil until it cannot absorb more water.
+surge|Crowds began to surge toward the gates when they opened.
+traverse|The expedition will traverse the desert from its eastern edge to the coast.
+affluent|The affluent neighborhood contained large houses and expensive cars.
+adverse|Adverse weather conditions forced the expedition to turn back.
+bleak|The bleak landscape offered little shelter or hope of finding food.
+cumbersome|The cumbersome crate was difficult to carry through the narrow doorway.
+durable|The durable fabric resisted tearing even after years of use.
+edible|The guide showed us which berries were edible and which were poisonous.
+elastic|The elastic band stretched and then returned to its original shape.
+fragile|The fragile glass vase could break if handled carelessly.
+hazardous|Walking onto the cracked ice would be hazardous.
+immobile|The truck remained immobile after its wheels became trapped in mud.
+intact|Although the box was crushed, the glass inside remained intact.
+isolated|The isolated village was many miles from the nearest town.
+obscure|The obscure author was known to only a handful of readers.
+opaque|The opaque curtain blocked the view completely.
+parallel|The two parallel rails stayed the same distance apart along the track.
+rigid|The rigid metal rod would not bend under pressure.
+rugged|The rugged trail crossed rough stones and steep ridges.
+severe|The severe storm damaged houses across the entire region.
+solid|The solid block of ice kept its shape rather than flowing like water.
+sturdy|The sturdy table easily supported the heavy equipment.
+sufficient|We had sufficient fuel to complete the entire journey.
+vacant|The vacant apartment had no furniture or residents.
+vague|His vague directions gave no street names or clear landmarks.
+vertical|The vertical ladder rose straight upward along the wall.
+visible|The distant lighthouse was visible once the fog cleared.
+abate|The storm should abate overnight, with the wind becoming much weaker.
+abolition|The law ordered the abolition of the unfair tax.
+banish|The ruler threatened to banish the traitor from the kingdom forever.
+betray|Sharing the private letter would betray her friend's trust.
+cherish|We cherish the memories of the summers we spent together.
+convince|The clear evidence helped convince the committee that the plan would work.
+cultivate|Farmers cultivate the soil carefully before planting seeds.
+deceive|The false label was designed to deceive buyers about the product's origin.
+demolish|The workers will demolish the unsafe building before it collapses.
+designate|The committee will designate one person to speak for the group.
+devise|We need to devise a plan for transporting the heavy statue.
+divert|Workers will divert traffic away from the damaged bridge.
+enforce|Park officers enforce the rules by stopping visitors who enter closed areas.
+establish|The volunteers hope to establish a permanent animal shelter in the town.
+exceed|Do not exceed the weight limit marked on the elevator.
+exclude|The closed gate will exclude vehicles from the pedestrian path.
+exhibit|The museum will exhibit the newly discovered fossils next spring.
+exploit|The dishonest employer tried to exploit workers by withholding their wages.
+foster|Cooperative games can foster trust among new teammates.
+liberate|The soldiers hoped to liberate the prisoners from the fortress.
+omit|Please omit the repeated paragraph from the final version.
+postpone|Heavy snow forced us to postpone the trip until next week.
+recruit|The club hopes to recruit five new members this month.
+reject|The editor may reject a report that contains unsupported claims.
+venture|Few hikers would venture into the unfamiliar forest after dark.
+adjacent|Our classroom is adjacent to the library, sharing a common wall.
+alternate|The teams meet on alternate Saturdays, with one Saturday off between meetings.
+diverse|The garden contains a diverse collection of plants from many climates.
+equivalent|Two fifty-cent coins are equivalent in value to one dollar.
+external|The external walls face the street rather than the rooms inside.
+independent|The independent researcher worked without financial support from any company.
+internal|The mechanic inspected the internal parts hidden inside the engine.
+mutual|Their friendship was built on mutual respect and trust.
+opposite|The two arrows point in opposite directions.
+partial|We have only a partial account because several pages are missing.
+primary|Our primary concern is safety; everything else is less important.
+remote|The remote campsite was far from roads and houses.
+respective|After the meeting, the teachers returned to their respective classrooms.
+unique|Each snowflake has a unique pattern unlike any other in the collection.
+universal|The rule has universal application: it applies to everyone in the group.
+boundary|The fence marks the boundary between the two farms.
+component|The battery is an essential component of the portable radio.
+contrast|The contrast between the dark wall and the pale door was striking.
+counterpart|The mayor met her counterpart from a neighboring city to discuss shared problems.
+dimension|Measure each dimension of the box: its length, width, and height.
+fragment|Only a small fragment of the broken plate remained.
+interval|There was a five-minute interval between the two performances.
+proportion|A large proportion of the class walks to school rather than taking the bus.
+sequence|The numbers in this sequence increase by three each time.
+structure|The bridge's structure distributes weight across several strong supports.
+acclaim|The young musician won widespread acclaim for her remarkable performance.
+budget|Our budget limits how much money we can spend on the project.
+commerce|The port encouraged commerce by making it easier to buy and sell goods.
+compromise|The compromise allowed each side to gain something while making a concession.
+convention|By convention, people in this community greet guests with a handshake.
+decree|The ruler issued a decree ordering every market to close at sunset.
+democracy|In a democracy, citizens can choose their leaders through elections.
+economy|Tourism is an important part of the island's economy.
+expert|An expert examined the painting because specialized knowledge was needed.
+famine|The failed harvest led to a famine in which many people lacked food.
+heritage|The old songs form part of the community's cultural heritage.
+justice|The court sought justice by treating both sides fairly under the law.
+legislation|The new legislation sets rules for protecting the river from pollution.
+liberty|The prisoners dreamed of liberty and the chance to choose their own lives.
+merit|The judges awarded the prize on merit rather than personal connections.
+monarchy|In a monarchy, a king or queen serves as the head of state.
+penalty|The referee imposed a penalty for the deliberate foul.
+privilege|Access to the private archive is a privilege granted to approved researchers.
+prohibition|The prohibition on open fires helps protect the dry forest.
+reform|The proposed reform would improve the old system of distributing aid.
+remedy|Repairing the leak was the simplest remedy for the damp wall.
+scarcity|The scarcity of clean water forced residents to limit their use.
+surplus|The farm sold its surplus grain after setting aside enough for winter.
+verdict|The jury announced its verdict after considering all the evidence.
+zeal|She approached the volunteer project with such zeal that others soon joined her.
+agile|The agile gymnast moved quickly and easily across the narrow beam.
+clandestine|The group held a clandestine meeting to keep its plans secret.
+deft|With a deft movement, the chef caught the falling bowl without spilling it.
+methodical|Her methodical search covered each room in a planned order.
+fervent|The team's fervent supporters cheered with passionate enthusiasm.
+fluent|The fluent speaker could converse smoothly without long pauses.
+fragrant|The fragrant flowers filled the room with a pleasant scent.
+hoarse|His hoarse voice sounded rough after hours of shouting.
+inaudible|Her answer was inaudible over the roar of the crowd.
+leisurely|We took a leisurely walk, stopping often and never hurrying.
+nimble|The nimble squirrel moved quickly from branch to branch.
+odious|The villagers refused to obey the ruler's odious and cruel orders.
+placid|The placid pony stood calmly while the children brushed its coat.
+pungent|The pungent smell of raw onion made my eyes water.
+rapid|The river's rapid flow carried the leaf away in seconds.
+raucous|The raucous shouting from the stands drowned out the announcer.
+stealthy|The cat made a stealthy approach, moving quietly behind the bird.
+sullen|The sullen child sat silently and refused to join the game.
+tranquil|The tranquil garden offered a quiet place to rest.
+turbulent|The turbulent river tossed the boat from side to side.
+unanimous|The decision was unanimous: every member voted in favor.
+vehement|Her vehement protest showed the strength of her opposition.
+vigilant|The vigilant guard watched carefully for any sign of trouble.
+vocal|The vocal supporters made their opinions known at every meeting.
+zestful|Her zestful dancing showed energy and enjoyment from beginning to end.
+approximately|The tower is approximately twenty meters tall, though we have not measured it exactly.
+consequently|The bridge was closed; consequently, we had to take a longer route.
+deliberately|He deliberately left the gate open so the visitors could enter.
+eventually|After many failed attempts, they eventually repaired the engine.
+frequently|The busy train runs frequently, arriving every ten minutes.
+gradually|The sky gradually brightened as the sun rose.
+merely|The narrow stream was merely ankle-deep, so we crossed easily.
+nevertheless|The journey was difficult; nevertheless, we decided to continue.
+occasionally|We occasionally see deer here, but most days the field is empty.
+primarily|The library is used primarily for reading, though meetings are also held there.
+relatively|The smaller box was relatively light compared with the heavy crate.
+simultaneously|The two musicians began simultaneously, playing their first notes together.
+ultimately|After considering every route, we ultimately chose the safest one.
+undoubtedly|Her record-breaking performance was undoubtedly the best of the day.
+virtually|The theater was virtually empty, with only two people in the audience.
+accommodate|The larger classroom can accommodate thirty students comfortably.
+acknowledge|He agreed to acknowledge the error instead of pretending it had not happened.
+administer|The committee will administer the fund and decide how the money is used.
+advocate|The volunteers advocate better protection for the endangered forest.
+articulate|The student could articulate her idea clearly so everyone understood it.
+attribute|Researchers attribute the improved growth to the richer soil.
+classify|Scientists classify these animals according to shared physical characteristics.
+elaborate|Please elaborate on your proposal by explaining how each stage would work.
+implement|The school will implement the new timetable at the start of term.
+precede|A short introduction will precede the main lecture.
