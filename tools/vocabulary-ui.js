@@ -50,17 +50,23 @@ function wordQuestion(original, mode, chosenSense = null) {
   const candidates = shuffle(WORDS.filter(v => v.id !== w.id && v.pos === w.pos && !related(original, v)))
     .sort((a, b) => Number(a.topic === w.topic) - Number(b.topic === w.topic));
   const correct = ['synonyms'].includes(mode) ? w.syn : w.word;
+  const lesson = wordLesson(w);
   const seen = new Set([correct.toLowerCase()]), wrong = [];
+  const optionExplanations = [{choice:correct, explanation:lesson.meaning, zh:lesson.zh}];
   for (const v of candidates) {
     const label = mode === 'synonyms' ? v.syn : v.word;
-    if (!seen.has(label.toLowerCase())) { seen.add(label.toLowerCase()); wrong.push(label); }
+    if (!seen.has(label.toLowerCase())) {
+      seen.add(label.toLowerCase()); wrong.push(label);
+      const other = wordLesson(v);
+      optionExplanations.push({choice:label, explanation:mode === 'synonyms' ? 'Here “'+label+'” expresses “'+other.definition+'” (as in '+other.word+').' : other.meaning, zh:other.zh});
+    }
     if (wrong.length === 4) break;
   }
   let prompt = w.word.toUpperCase(), type = 'Synonym';
   if (mode === 'definitions' || mode === 'spelling') { prompt = w.def; type = mode === 'spelling' ? 'Active recall' : 'Meaning'; }
   if (mode === 'context') { prompt = w.example.replace(new RegExp('\\b' + w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'gi'), '________'); type = 'Word in context'; }
   const multipleSenses = senses.length > 1;
-  return {mode, type, prompt, wordId: w.id, correct,
+  return {mode, type, prompt, wordId: w.id, correct, lesson, optionExplanations,
     options: mode === 'spelling' ? [] : shuffle([correct, ...wrong]),
     // Synonym stems need a sense cue when the same spelling has distinct meanings.
     cue: mode === 'synonyms' && multipleSenses ? w.example : '',
@@ -77,11 +83,16 @@ function checkAnswer(skip = false) {
   s.checked[s.index] = true;
   if (q.wordId) recordWord(q.wordId, s.answers[s.index] === q.correct ? 'correct' : 'wrong');
   render();
-  if (!skip) void requestAIExplanation();
 }
 
 // @function render
 function render() {
-  cancelObsoleteAIRequests();
   ({learn, library, practice, roots, progress}[view])();
+}
+
+// @function analogyQuestion
+function analogyQuestion(a) {
+  const lesson = PREBUILT_ANALOGY_LESSONS[a.id];
+  return {mode:'analogies',type:a.type+' analogy',prompt:a.stem,correct:a.correct,
+    options:shuffle([a.correct,...a.wrong]),explanation:a.explanation,lesson,optionExplanations:lesson.choices};
 }

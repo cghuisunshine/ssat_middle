@@ -24,6 +24,8 @@ Validation: `node tools/check_vocabulary.cjs` checks all 3,960 quiz variants acr
 
 Remaining scope: neither sample list is an official or exhaustive Middle Level syllabus, and both are from one publisher. Secondary meanings and word-family links cover selected entries; further expansion using independent sources and official practice is still useful. Sample-list completion must not be presented as complete exam coverage.
 
+Detailed explanations are now prebuilt for all 990 word senses and 85 analogies and embedded in the standalone page. They appear immediately after checking an answer, and are available in ordinary and timed results. The local lessons compare every displayed choice, include memory cues, and follow the Chinese toggle. They use no endpoint or network request. The explanation source includes 201 authored word distinctions and 340 authored analogy distractor notes; the remaining word lessons are compiled from the corresponding definitions, examples, grammar guidance, and related words. Five analogy distractors were changed to remove alternative answers that also matched the original relationship. `node tools/check_prebuilt_explanations.cjs` verifies coverage, exact senses, choice comparisons, grading, and offline behavior with a network-request trap.
+
 The original audit follows as a record of the 800-word version.
 
 ## Original finding

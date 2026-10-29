@@ -1,0 +1,202 @@
+# word or word#sense | meaning distinction | memory cue
+candid|Candid describes honest, direct speech. A candid remark may be uncomfortable to hear, but its defining quality is openness, not shyness or cruelty.|Picture a friend giving an honest opinion instead of saying only what you want to hear.
+impeccable|Impeccable sets a very high standard: no faults or mistakes. Something can be clever, fair, or sensible without being impeccable.|Pair impeccable with flawless: check the work and find no errors.
+prudent|A prudent person considers likely consequences before acting. This is sensible caution, rather than fear that prevents every action.|Picture saving emergency money before spending the rest.
+discreet|Discreet concerns careful speech or behavior, especially keeping private matters private. Being discreet does not mean being dishonest.|Picture lowering your voice before discussing confidential information.
+credulous|Credulous describes someone too ready to believe a claim. Credible instead describes something that deserves to be believed.|The credulous listener believes; the credible story is believable.
+credible|Credible means believable or worthy of trust. It does not mean that a claim has already been proved beyond doubt.|Contrast a credible account with a credulous listener.
+naive|Naive suggests a lack of experience that makes someone too trusting. It is not simply a lack of intelligence.|Picture a newcomer accepting an unlikely promise without checking it.
+skeptical|A skeptical person questions a claim and looks for evidence. Skepticism is doubt, not a promise to reject every possible explanation.|Picture asking, "What evidence supports that?"
+skeptic|A skeptic is the person who questions a claim. Skeptical is the adjective describing that person's attitude.|Skeptic names the doubter; skeptical describes the doubt.
+infer|To infer is to reach a conclusion from clues. The conclusion is drawn by the reader or listener rather than directly stated by the speaker.|The listener infers from what the speaker implies.
+imply|To imply is to suggest something without stating it directly. The speaker provides the hint; the listener draws an inference.|The speaker implies; the listener infers.
+inference|An inference is a conclusion supported by clues. It goes beyond simply repeating a fact stated in the passage.|Link evidence to a conclusion: that link produces an inference.
+assume|To assume is to accept something as true before it has been established. A reasonable assumption can still need checking.|An assumption is a starting belief; verification comes afterward.
+deduce|To deduce is to reach a conclusion by reasoning from information. It differs from making a guess with no supporting clues.|Picture working from footprints to the direction of travel.
+conjecture|A conjecture is an explanation proposed with incomplete evidence. It is a possibility to investigate, not an established fact.|Place conjecture before the evidence check, not after the proof.
+hypothesis|A hypothesis is a proposed explanation that can be tested. It is a starting point for investigation rather than the final result.|Hypothesis first, test next, conclusion afterward.
+refute|To refute a claim is to show that it is false using reasons or evidence. Merely disagreeing does not refute it.|Disagreement says "no"; refutation shows why.
+corroborate|To corroborate is to provide additional support for an account. New evidence can corroborate a witness without being the original report.|Picture two independent clues pointing to the same conclusion.
+verify|To verify is to check that something is true or correct. A prediction or assumption still needs verification.|Picture checking a copied date against the original document.
+meticulous|Meticulous emphasizes very close attention to details. Work can be quick or impressive without being meticulous.|Picture inspecting every tiny piece of a mosaic.
+scrupulous|Scrupulous often adds a sense of honesty or strict principles to careful behavior. It is not merely neatness.|Picture refusing to hide even a tiny accounting error.
+conscientious|A conscientious person takes duties seriously and tries to do them properly. The focus is responsible care and effort.|Picture checking your work because accuracy is your responsibility.
+industrious|Industrious means hardworking. Industrial instead concerns industry or manufacturing.|The industrious worker works hard in the industrial district.
+industrial|Industrial relates to factories, manufacturing, or an economy based on them. It does not mean that a person is hardworking.|Separate industrial factories from industrious workers.
+diligent|Diligent work combines steady effort with care. A single burst of enthusiasm is not the same as sustained diligence.|Picture returning to the task carefully every day.
+frugal|Frugal describes careful use of money or resources. It need not mean selfishness or refusing to spend on necessities.|Picture repairing a useful chair instead of discarding it.
+lavish|Lavish suggests abundance or generous spending, sometimes beyond what is needed. It contrasts with a meager supply.|Picture a table overflowing with food and decorations.
+extravagant|Extravagant emphasizes spending or using more than is necessary or sensible. Expensive things are not automatically extravagant if they are essential.|Ask whether the spending goes beyond the need.
+amiable|Amiable describes a friendly and pleasant manner. It is about being agreeable company, not about physical skill or intelligence.|Picture a host who makes each visitor feel welcome.
+congenial|Congenial can describe pleasant company or surroundings well suited to someone's tastes. The idea is a comfortable fit.|Picture finding a quiet room that suits your way of working.
+compatible|Compatible things can work or exist together without serious conflict. They do not have to be identical.|Two different schedules can still fit together.
+cordial|Cordial means warmly polite and friendly. People can behave cordially even when they disagree.|Picture opponents exchanging a friendly greeting after a debate.
+courteous|Courteous behavior shows respect and good manners. It is about how a person treats others, not how much money they give.|Link courteous behavior with the noun courtesy.
+tact|Tact is skill in handling a sensitive matter without causing unnecessary offense. It can involve choosing both words and timing carefully.|Picture correcting a mistake without embarrassing its author.
+tactful|Tactful describes behavior that shows tact. A tactful correction is clear but sensitive to another person's feelings.|Tact is the skill; tactful describes its use.
+empathy|Empathy is understanding another person's feelings or experience. Sympathy is concern for someone's suffering; the ideas overlap but are not identical.|Empathy tries to see the situation from the other person's position.
+sympathy|Sympathy is concern or compassion for another's trouble. You can show sympathy without having had the same experience.|Picture sending a kind message to someone who is grieving.
+apathy|Apathy is a lack of interest or concern. It differs from dislike: an apathetic person may simply not care.|Apathy asks, "Why bother?" rather than "I hate it."
+apathetic|Apathetic describes someone showing little interest. It does not mean actively hostile or strongly opposed.|Link the adjective apathetic to the noun apathy.
+indifferent|Indifferent means showing little interest or no strong preference. It does not necessarily mean being unable to notice a difference.|Picture not caring which team wins.
+ambivalent|Ambivalent means having mixed or conflicting feelings. It is different from indifference, which means not caring much.|Ambivalent pulls in two directions; indifferent barely pulls either way.
+reluctant|Reluctant means unwilling or hesitant to act. A reluctant person may eventually agree, but does not begin eagerly.|Picture pausing at the edge of a cold swimming pool.
+apprehensive|Apprehensive describes worry about something that may happen. It points toward anticipated trouble rather than surprise about something already finished.|Picture feeling uneasy before crossing a damaged bridge.
+indignant|Indignant anger is a response to something considered unjust or offensive. It is more specific than simply being angry.|Connect indignation with the thought, "That is unfair!"
+remorse|Remorse is regret about one's own wrongdoing. Disappointment about losing a prize is not necessarily remorse.|Picture wishing you had not hurt someone and wanting to make amends.
+resentment|Resentment is lingering bitterness over a perceived wrong or unfair treatment. It is not the same as regret for one's own bad action.|Resentment looks at how you were treated; remorse looks at what you did.
+aloof|Aloof describes emotional or social distance. A person may be physically nearby but remain aloof from the group.|Picture standing apart from a conversation without joining it.
+reserved|Reserved describes restraint in showing feelings or speaking about oneself. It need not mean unfriendly or unhappy.|Picture listening thoughtfully while saying little about yourself.
+nonchalant|Nonchalant describes an apparently casual, unconcerned manner. Someone can look nonchalant while feeling nervous inside.|Picture a relaxed shrug that hides nervousness.
+complacent|Complacent means too satisfied with the present situation to notice a need for effort or improvement. It is more than ordinary happiness.|Picture a winning team stopping practice because it assumes it cannot lose.
+humble|Humble describes a person who does not claim to be better or more important than others. It does not require a lack of ability.|Picture a prizewinner sharing credit with the whole team.
+arrogant|Arrogant suggests an exaggerated belief in one's superiority. Confidence alone need not involve looking down on others.|Picture someone treating every teammate as inferior.
+obstinate|Obstinate means unwilling to change one's mind, even when reasons are offered. Determination can be useful; obstinacy stresses refusal to yield.|Picture holding to a decision after clear contrary evidence appears.
+tenacious|Tenacious emphasizes holding on or persisting despite difficulty. It often praises perseverance rather than unreasonable stubbornness.|Picture a climber maintaining a firm grip and continuing upward.
+resolute|Resolute describes firm determination to carry out a decision. It is about strength of purpose rather than physical strength.|Picture staying committed after the first failed attempt.
+resilient|Resilient describes recovery after stress or difficulty. Something resilient may be hurt or bent but can recover.|Picture a community rebuilding after a flood.
+stoic|Stoic describes enduring pain or difficulty with little outward complaint. It concerns the response to suffering, not an absence of suffering.|Picture continuing calmly without showing the pain you feel.
+audacious|Audacious describes unusual boldness or willingness to take risks. The word can suggest admiration or criticism depending on context.|Picture a daring rescue that requires a serious risk.
+pragmatic|Pragmatic judgment focuses on what works in real conditions. It favors workable solutions over an attractive but impractical ideal.|Ask, "Will this actually work here?"
+impartial|Impartial means not favoring either side. A fair judgment follows evidence rather than personal connections.|Picture using the same judging standards for a friend and a stranger.
+partial#0|Partial in this sense means incomplete or limited to part of a whole. It does not concern unfair preferences.|Picture a report with several pages missing.
+partial#1|Partial in this sense means biased in favor of one side. It does not mean that only part of a document is present.|A partial judge favors one side; an impartial judge does not.
+resolve#0|Resolve here is a noun meaning firm determination. It names strength of purpose, not the act of solving a problem.|Picture deciding firmly to continue after a setback.
+resolve#1|Resolve here is a verb meaning to solve or settle. It refers to dealing successfully with a problem or disagreement.|Resolve a dispute by reaching a workable agreement.
+objective#0|Objective here is an adjective describing judgment based on facts rather than personal feelings. It does not name a goal.|Picture a report that uses measurements instead of personal preferences.
+objective#1|Objective here is a noun meaning a goal. It names what someone is trying to achieve.|An objective is the aim at the end of a plan.
+minute#0|Minute here is an adjective meaning extremely small. It describes size, not a unit of time.|Picture a crack so small that you need a microscope.
+minute#1|Minute here is a noun naming sixty seconds. It measures time rather than describing a tiny size.|A minute of time contains sixty seconds.
+novel#0|Novel here is an adjective meaning new or unusual. A novel method is an original approach, not necessarily a book.|Picture trying a solution nobody has used before.
+novel#1|Novel here is a noun naming a long fictional story in prose. It does not mean merely new or unusual.|A library can lend you a novel to read.
+content#0|Content here is an adjective meaning satisfied. It describes how someone feels about what they have.|Picture feeling you have enough without wanting more.
+content#1|Content here is a noun naming the material or information inside something. It does not describe a feeling of satisfaction.|Ask what an article contains: that is its content.
+fair#0|Fair here means just and reasonable in treating people. It does not mean that everyone must receive an identical result regardless of evidence.|Picture hearing both sides before making a decision.
+fair#1|Fair here is a noun naming an organized event with displays or goods. It is different from the adjective describing justice.|Picture tables of experiments at a science fair.
+dull#0|Dull here concerns a lack of brightness or sharpness. Use the sentence to decide which physical quality is intended.|Contrast a dull glow with a brilliant light.
+dull#1|Dull here means boring or uninteresting. It describes the experience of an event, not necessarily the brightness of a color.|Picture a lecture that repeats facts without holding attention.
+faint#0|Faint here means weak or hard to detect with the senses. A faint sound can still be audible if you listen carefully.|Picture a whisper heard from the far end of a hall.
+faint#1|Faint here is a verb meaning to lose consciousness briefly. It is an event, not simply a quiet sound.|Picture someone passing out in intense heat.
+lofty#0|Lofty here concerns a noble or ambitious purpose. It describes the height of an ideal rather than the height of a building.|Picture an ambition to help people throughout the world.
+lofty#1|Lofty here means physically high or towering. It describes position or height rather than the worth of an aim.|Picture a ceiling high above your head.
+deliberate#0|Deliberate here is a verb meaning to think carefully before deciding. It refers to considering alternatives.|Picture judges weighing the evidence before choosing.
+deliberate#1|Deliberate here is an adjective meaning intentional. A deliberate action was planned or chosen rather than accidental.|Ask whether the person meant to do it.
+articulate#0|Articulate here is a verb meaning to put ideas clearly into words. It names an act of expression.|Picture explaining an idea so listeners can follow it.
+articulate#1|Articulate here is an adjective describing someone able to express ideas clearly. It describes a speaker rather than the act of speaking.|An articulate speaker can articulate a difficult idea.
+attribute#0|Attribute here is a verb meaning to regard something as caused by a particular factor. The cause follows the word to.|Attribute an improvement to extra practice.
+attribute#1|Attribute here is a noun meaning a quality or characteristic. It names a feature rather than identifying a cause.|Patience can be an attribute of a good teacher.
+elaborate#0|Elaborate here is a verb meaning to add detail to an explanation. It asks for more information.|Elaborate on an idea by explaining its stages.
+elaborate#1|Elaborate here is an adjective describing something with many carefully arranged details. It describes the result rather than asking for more explanation.|Picture a costume covered in carefully sewn decorations.
+uniform#0|Uniform here is an adjective meaning consistent throughout. It describes sameness of form or amount.|Picture a layer of paint with the same thickness everywhere.
+uniform#1|Uniform here is a noun naming standard clothing worn by a group. It does not merely describe an even surface.|Picture every player wearing the same team outfit.
+exploit#0|Exploit here is a verb meaning to take unfair advantage of someone. It often concerns misuse of another person's work or position.|Picture an employer withholding wages while benefiting from workers' effort.
+exploit#1|Exploit here is a noun naming a remarkable or daring deed. It does not mean the unfair treatment described by the verb.|Picture a sailor's celebrated solo crossing of an ocean.
+reflect#0|Reflect here means to think carefully. The focus is mental consideration, not light bouncing from a surface.|Reflect on an experience by thinking about what it taught you.
+reflect#1|Reflect here means to send light or an image back from a surface. It describes a physical process.|Picture sunlight bouncing from a polished mirror.
+decline#0|Decline here means to become less or decrease. It describes a reduction rather than a refusal.|Picture attendance falling from one week to the next.
+decline#1|Decline here means politely to refuse an offer or invitation. It names a decision rather than a downward trend.|Decline an invitation by saying that you cannot attend.
+exhibit#0|Exhibit here is a verb meaning to display or show. It names what a museum or presenter does.|A museum may exhibit fossils for visitors to see.
+exhibit#1|Exhibit here is a noun naming an object or display shown to visitors. It names what is on show.|Visitors can look at a dinosaur exhibit.
+grant#0|Grant here is a verb meaning formally to give or allow. What is granted may be permission or a request.|Picture a council agreeing to grant permission.
+grant#1|Grant here is a noun naming money provided for a purpose. It names funding rather than the act of giving permission.|Picture a school receiving funds for science equipment.
+secure#0|Secure here is a verb meaning to protect against danger or loss. It does not mean obtaining supplies.|Picture locking a door to protect the room.
+secure#1|Secure here is an adjective meaning safe or protected. It describes the condition of something.|Documents are secure inside a locked cabinet.
+secure#2|Secure here is a verb meaning to obtain through effort. It does not describe putting a lock on something.|Picture an expedition obtaining supplies before setting out.
+patient#0|Patient here is an adjective meaning able to wait or endure calmly. It describes an attitude toward delay or difficulty.|Picture a teacher calmly explaining the rule again.
+patient#1|Patient here is a noun naming a person receiving medical care. It does not necessarily describe that person's temperament.|A nurse cares for a patient in a hospital.
+prompt#0|Prompt here means done without delay. It emphasizes a quick response rather than an instruction to begin.|Picture help arriving within minutes of a call.
+prompt#1|Prompt here is a noun meaning a cue or instruction that calls for a response. It does not describe speed.|A writing prompt gives you something to write about.
+obscure#0|Obscure here means not widely known. It concerns recognition or fame, not necessarily difficulty of understanding.|Picture an author with only a few readers.
+obscure#1|Obscure here means difficult to understand or make out. A famous text can still contain an obscure sentence.|Picture an explanation whose meaning is hard to follow.
+obscure#2|Obscure here is a verb meaning to hide or make unclear. It names an action rather than a quality.|Clouds can obscure a mountain by hiding it from view.
+remote#0|Remote here means far from populated places or usual routes. It describes distance or isolation.|Picture a campsite far from any road.
+remote#1|Remote here means very unlikely. It describes a small chance rather than a distant location.|A remote chance is possible but very unlikely.
+contemporary#0|Contemporary here is an adjective referring to the present or the same period. The sentence determines which time relationship matters.|Contemporary art is art of the present era.
+contemporary#1|Contemporary here is a noun naming someone who lived in the same period as another person. The people need not have met.|Picture two writers whose working lives overlapped in time.
+authority#0|Authority here names the power or right to make and enforce decisions. It is not simply knowledge of a subject.|Picture a captain who has the right to give orders.
+authority#1|Authority here names a person with expert knowledge. An authority on pottery need not have power to command others.|An authority on a subject is an expert to consult.
+custom#0|Custom here is a noun meaning an established practice of a group. It describes what people usually do.|Picture a greeting passed down through generations.
+custom#1|Custom here is an adjective meaning made for particular requirements. It does not mean a traditional habit.|Picture a jacket made to fit one particular wearer.
+contrast#0|Contrast here is a noun naming a noticeable difference. It describes a relationship between things.|Picture a pale door standing out against a dark wall.
+contrast#1|Contrast here is a verb meaning to compare in order to show differences. It names the act of examining those differences.|Contrast two accounts by pointing out where they differ.
+compromise#0|Compromise here is a noun naming an agreement reached through concessions. Each side gives up something to reach a shared result.|Picture two groups agreeing on a middle course.
+compromise#1|Compromise here is a verb naming the act of making concessions to settle a disagreement.|To compromise, each side adjusts part of its demand.
+cultivate#0|Cultivate here concerns preparing and working land for crops. It describes agricultural work.|Picture a farmer preparing soil before planting.
+cultivate#1|Cultivate here means to develop something through attention and effort. A skill or relationship can be cultivated as a crop can.|Picture helping a useful habit grow through regular practice.
+fidelity#0|Fidelity here means loyalty or faithfulness. It describes remaining true to a person or belief.|Picture a companion remaining loyal through hardship.
+fidelity#1|Fidelity here means accuracy in reproducing an original. It describes how faithfully a recording or copy preserves details.|Picture speakers reproducing a recording without distortion.
+rigor#0|Rigor here means careful thoroughness and strict standards. It emphasizes the quality of a method.|Picture checking every measurement against demanding standards.
+rigor#1|Rigor here means demanding difficulty or severity. It emphasizes the strain of a task or condition.|Picture demanding training that tests a climber's endurance.
+amateur#0|Amateur here is a noun naming a person who does an activity without being a professional. An amateur can still be highly skilled.|Picture a photographer who takes excellent pictures as a hobby.
+amateur#1|Amateur here is an adjective describing an activity done outside paid professional work. It does not automatically mean poor quality.|Picture an orchestra whose members play for enjoyment.
+mock#0|Mock here is a verb meaning to ridicule or make fun of someone unkindly. It names an action toward another person.|Picture hurtful teasing rather than a friendly explanation.
+mock#1|Mock here is an adjective meaning simulated for practice. A mock event imitates a real one without being the official event.|A mock election lets students practice the voting process.
+embrace#0|Embrace here is a verb meaning to accept willingly. It can refer to welcoming an idea or change.|Picture agreeing enthusiastically to try a new plan.
+embrace#1|Embrace here is a noun meaning a hug. It names the act of holding someone closely.|Picture greeting a returning family member with a hug.
+sage#0|Sage here is a noun naming a wise person. It identifies someone respected for sound judgment.|Picture asking a respected elder for thoughtful advice.
+sage#1|Sage here is an adjective meaning wise or showing good judgment. It describes the quality of advice or a decision.|Sage advice is advice worth considering carefully.
+alternate#0|Alternate here means occurring every other time or in turns. It describes a pattern of succession.|Picture meeting one Saturday, skipping the next, and meeting again.
+alternate#1|Alternate here means available as another option. It describes a replacement choice rather than a regular pattern of turns.|Picture taking a different road when the first is blocked.
+ambiguous|Ambiguous means allowing more than one interpretation. It does not merely mean difficult; the important point is multiple possible meanings.|Picture a sign that can reasonably be read in two ways.
+explicit|Explicit information is stated clearly and directly. Implicit information is left for the reader to work out.|Explicit says it; implicit suggests it.
+implicit|Implicit meaning is suggested without being stated directly. Use clues rather than looking for an exact statement.|An unspoken agreement can be implicit.
+concise|Concise writing expresses the needed ideas in few words. It is brief without leaving out essential meaning.|Picture a short summary that still covers every main point.
+verbose|Verbose writing uses more words than are needed. Length alone is not the issue; unnecessary wording is.|Picture a long speech that could say the same thing much more briefly.
+redundant|Redundant material repeats something without adding useful information. It is unnecessary because its work has already been done.|Picture reading the same point twice in neighboring sentences.
+superfluous|Superfluous means more than is needed. Something can be superfluous without being a repetition.|Picture an extra paragraph that adds nothing necessary.
+superficial|Superficial describes attention limited to the surface or obvious details. It contrasts with a thorough or profound treatment.|Picture looking at a roof without inspecting the damaged beams beneath it.
+profound|Profound suggests great depth or a far-reaching effect. It is stronger than merely noticeable or interesting.|Picture an experience that changes how a person understands life.
+subtle|Subtle differences are hard to notice or require careful attention. Subtle does not mean nonexistent.|Picture two nearly identical shades of paint.
+plausible|Plausible means reasonable enough to seem possible. It is weaker than proven or certain.|A plausible explanation fits the facts but still needs checking.
+dubious|Dubious describes something doubtful or questionable. It is more hesitant than declaring a claim definitely false.|Picture a claim that makes you pause and ask for evidence.
+arbitrary|Arbitrary choices seem based on whim rather than a consistent reason or standard. They are not the same as carefully chosen alternatives.|Picture a rule changed simply because someone feels like changing it.
+incongruous|Incongruous means not fitting comfortably with the surroundings or situation. The mismatch is the important idea.|Picture a beach umbrella standing in a snowy garden.
+analogous|Analogous things are similar in an important relationship. They do not have to look alike or be identical.|Look for a shared pattern, not an exact copy.
+negligible|Negligible means so small that it makes little practical difference. It is stronger than simply smaller than something else.|Picture a tiny scratch that barely affects an object's value.
+scarce|Scarce means available in very small amounts compared with need. Rare emphasizes how infrequently something is found.|Picture many people sharing a limited supply of water.
+sparse|Sparse describes things spread thinly or with much empty space between them. It does not mean that each item is tiny.|Picture a large hall with only a few occupied seats.
+meager|Meager means barely enough or unsatisfyingly small in amount. It often suggests a shortage relative to need.|Picture a food supply too small for a full meal.
+abundant|Abundant describes a large supply or amount. It contrasts with scarce rather than with physically small.|Picture rainfall leaving more than enough water for the crops.
+copious|Copious means plentiful or produced in large amounts. It concerns quantity rather than precision or quality.|Picture filling several notebooks with notes in one afternoon.
+fleeting|Fleeting means passing very quickly. Temporary only means not permanent and can last much longer.|Picture a rainbow disappearing after a few seconds.
+imminent|Imminent means about to happen soon. Inevitable means certain to happen, which does not necessarily mean soon.|An imminent storm is near; an inevitable event is unavoidable.
+inevitable|Inevitable means unavoidable or certain to occur. It does not specify that the event will occur immediately.|Separate certainty from timing.
+intermittent|Intermittent events stop and start rather than continuing steadily. They may occur more than once.|Picture rain beginning, stopping, and beginning again.
+incessant|Incessant means continuing without stopping. Frequent events happen often but can have breaks between them.|Picture a sound that goes on all night without a pause.
+obsolete|Obsolete things have been replaced or are no longer useful in ordinary use. Ancient things are old, but not everything old is obsolete.|Picture a device replaced by newer technology.
+inherent|Inherent qualities belong naturally to something's character or situation. They are not just accidental additions.|Picture risk as part of a dangerous climb itself.
+pervasive|Pervasive describes something spreading widely through an area or situation. It emphasizes reach rather than speed.|Picture smoke spreading into every room.
+transient|Transient things last only briefly or pass through. The emphasis is limited duration rather than unchanging permanence.|Picture a traveler staying just one night.
+alleviate|Alleviate means to make suffering or a problem less severe. It does not necessarily remove the cause completely.|Picture shade easing discomfort without changing the hot weather.
+mitigate|Mitigate means to reduce the severity or harmful effect of something. It is weaker than completely eliminating it.|Picture trees reducing the force of wind around a house.
+exacerbate|Exacerbate means to make an existing problem worse. It moves in the opposite direction from alleviate or mitigate.|Picture extra rain worsening an already serious flood.
+eradicate|Eradicate means to remove or destroy completely. It is stronger than merely reducing the amount.|Picture removing every invasive weed rather than trimming a few.
+curtail|Curtail means to reduce or shorten an activity or plan. It need not mean canceling it entirely.|Picture shortening a trip when the budget is cut.
+relinquish|Relinquish means to give up control or possession. It is not the same as simply borrowing or moving something.|Picture a retiring captain handing command to a successor.
+elicit|Elicit means to draw out a response, information, or feeling. It concerns obtaining a reaction from someone.|Picture a thoughtful question drawing out a detailed answer.
+facilitate|Facilitate means to make a process easier. It does not mean doing every part of the process yourself.|Picture a shared calendar making planning easier for everyone.
+coerce|Coerce means to force someone through pressure or threats. Persuade means to gain agreement through reasons.|Separate forced compliance from freely accepted persuasion.
+appease|Appease means to calm anger or satisfy demands. It does not necessarily mean resolving every underlying problem.|Picture offering a refund to calm angry customers.
+concede|Concede means to admit a point after resistance or allow something to an opponent. It is not necessarily a complete surrender.|Picture admitting one point in a debate while continuing the discussion.
+contempt|Contempt is the feeling that someone or something is unworthy of respect. It is stronger than simple disagreement.|Picture refusing a dishonest scheme because you consider it beneath your standards.
+consequence|A consequence is a result of an action or event. It can be favorable or unfavorable; the word does not always mean punishment.|Picture the result following the action like the next link in a chain.
+precedent|A precedent is an earlier case used as a guide for later decisions. It is different from a prediction about the future.|Earlier decision first, later guidance afterward.
+principle|A principle is a basic belief, rule, or standard guiding action. It is not the person in charge of a school.|Picture fairness as the rule behind several particular decisions.
+criterion|A criterion is a standard used for judging. It is the measuring rule, rather than the final judgment itself.|Picture safety as the standard used to compare several designs.
+paradox|A paradox seems contradictory at first but may express a deeper truth. It invites examination rather than simple dismissal.|Think about why having less of something could sometimes produce a better result.
+anomaly|An anomaly is something that differs from the usual pattern. It may signal an error or a special case worth investigating.|Picture one warm day in an otherwise freezing month.
+literal|A literal meaning uses words in their basic sense. Figurative language asks readers to understand a comparison or nonliteral meaning.|A literal statement says exactly what it describes.
+figurative|Figurative language uses words beyond their literal meaning to suggest an image or comparison.|Calling a cheerful person sunshine describes an effect, not actual sunlight.
+metaphor|A metaphor compares unlike things directly by presenting one as another. It does not require like or as.|Calling a city a jungle makes a direct comparison.
+simile|A simile explicitly compares things using wording such as like or as. It highlights a shared quality.|Look for a comparison such as as quiet as a mouse.
+irony|Irony involves a contrast between what is expected or stated and what actually happens or is meant. Not every unlucky event is ironic.|Picture an expert on punctuality arriving very late.
+satire|Satire uses humor, ridicule, or exaggeration to criticize a problem. Its purpose goes beyond simply entertaining.|Ask what behavior or institution the humor is criticizing.
+allusion|An allusion is a reference to something outside the immediate text, such as a familiar story or historical figure.|Picture a name that brings another story to the reader's mind.
+foreshadowing|Foreshadowing gives an early hint of a later development. The hint appears before the event it prepares us for.|A cracked rope mentioned early can prepare the reader for a later accident.
+personification|Personification gives human qualities or actions to something nonhuman. It is a kind of figurative description.|In the wind whispered, a human action is given to wind.
+hyperbole|Hyperbole is deliberate exaggeration for emphasis. The reader is not expected to accept it as an exact measurement.|Waiting a million years makes a long wait sound enormous.
+protagonist|The protagonist is the central character whose struggle drives the story. The protagonist is not necessarily perfect or always morally right.|Follow the character facing the central conflict.
+antagonist|An antagonist opposes the protagonist in the central conflict. The role is defined by opposition, not simply by being a minor character.|Picture the force that stands against the main character's goal.
+theme|A theme is an underlying idea explored through a text. It differs from a plot summary of the events.|Ask what the events suggest about life, choices, or relationships.
+tone|Tone is the author's attitude toward a subject. Mood is the atmosphere or feeling created for the reader.|Author's attitude: tone. Reader's atmosphere: mood.
+mood|Mood is the emotional atmosphere of a text. It can be tense, joyful, or melancholy even when no character names that feeling.|Ask how the scene makes the reader feel.

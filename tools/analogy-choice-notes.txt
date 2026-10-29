@@ -1,0 +1,86 @@
+# question number | four distractor explanations, in source order
+1|Timid and bold are opposites.|Scarce and abundant are opposites.|A poet creates a poem.|Cold is a typical quality of winter.
+2|Rigid and flexible are opposites.|A pencil is a tool used to write.|A chapter is part of a book.|Rain can cause a flood.
+3|Arrive and depart are opposites.|An author creates a novel.|A feather is part of a bird.|A minute is a smaller unit of time than an hour.
+4|Strong and weak are opposites.|A tree has leaves; the whole comes before a part.|Cold and hot are opposites.|A knife is used to cut.
+5|Talking and silence contrast rather than name the same idea.|A stage is a place where an actor works.|A cloud can produce rain.|A lake contains water.
+6|Loyalty and deceit contrast rather than express kindness or stubbornness.|A teacher teaches a class.|A road is a route used on a journey.|A spark can start a fire.
+7|Expand and shrink are opposites.|A seed can develop into a plant.|A knife is a tool used by a chef.|An artist uses paint as a material.
+8|A drought is a shortage of rain.|A writer uses a pen.|A bee lives in a hive.|Fragility is a typical quality of glass.
+9|A doctor treats a patient.|Shallow describes little depth; slight describes a small amount or degree.|Rapid and swift have similar meanings.|A leaf is part of a tree.
+10|Climb and rise describe upward movement.|An engine is part of a car.|Novice and beginner have similar meanings.|Thread is a material used to make cloth.
+11|Joy and delight have similar meanings.|A novel is a kind of book.|A drought may cause thirst.|A furnace produces heat.
+12|Rain can make things wet.|Quiet and silent have similar meanings.|A brush is a tool used by a painter.|A wing is part of a bird.
+13|Serene and tranquil have similar meanings.|Ringing is a sound made by a bell.|A flock is a group of birds.|A poet creates verse.
+14|Water is something a person can drink.|To summarize is to shorten while preserving main ideas.|A room is part of a house.|A clinic is a place where a doctor works.
+15|Quiet and calm have related meanings.|A wheel is part of a bicycle.|A sparrow is a kind of bird.|Winter is a kind of season.
+16|To soak and to saturate are closely related actions.|A harbor is a place where a ship can stay.|A book contains chapters; this is whole to part.|Hunger creates a need that eating can satisfy.
+17|An author creates a story.|A forest contains trees; the group comes before its members.|A poem is created by a poet.|A nest is a dwelling for a bird.
+18|A garden contains roses; the larger setting comes first.|A painter works on a canvas.|Snow is associated with winter weather.|Cutting is an action done using a knife.
+19|A traveler uses a map.|A flock contains geese; the collection comes first.|An ocean has waves; the whole comes first.|A beach is covered with sand, a material rather than a discrete group member.
+20|A coach uses a whistle.|An audience is located in a theater.|A herd contains cows; the group comes first.|A poet creates a poem.
+21|A pen is a tool used by a writer.|A book contains words; the larger whole comes first.|Paper can be made from trees.|A reader uses a library as a place to obtain or read books.
+22|A glove can be made of wool.|A leg contains a knee; the larger structure comes first.|A palm is a type of tree in this pairing.|A shoe can be made of leather.
+23|A hammer is used to drive a nail.|A window can be made of glass.|A roof contains shingles; the whole comes first.|A carpenter works with wood as a material.
+24|A driver operates a bus.|A library can contain shelves; the larger setting comes first.|A tire travels on a road; the road is not part of the tire.|Writing is an activity performed by an author.
+25|A branch is part of a tree, not a type of tree.|Water is a medium in which someone can swim.|A forest contains pines; the group comes before a member.|A wing enables flight; flight is not a type of wing.
+26|A poet writes stanzas; the person is not a kind of stanza.|A forest contains trees with branches.|A pen uses ink as its writing material.|A root helps a plant grow; this gives a function rather than a category.
+27|A miner works in a mine.|A ring is worn on a finger.|A stone can be part of a wall.|A jewel can be part of a necklace.
+28|A radius is part of a circle's geometry.|An orchestra contains instruments such as violins; the group comes first.|Wood is a material used to make a table.|A ruler is a tool used to measure.
+29|An author creates characters.|Rhyme can be a feature of a poem.|A novel contains chapters; the whole comes first.|A cover is part of a book; the whole comes first.
+30|Water is a habitat or medium for a fish.|A feather is part of a wing.|A tree is a location where a nest can be built.|A pond is a habitat for a frog.
+31|A sculptor works with stone as a material.|A garden contains roses; the setting comes before the plants.|Petals and stems are different parts of a plant.|Fragrance is a typical quality produced by a flower.
+32|A runner uses a shoe as equipment.|A violin produces music; the product comes before the tool.|Finish and start are opposites.|A ball is equipment used in some sports, not itself a kind of sport.
+33|A telescope is for distant objects; tiny cells are observed with a microscope.|A clock measures time; it does not stretch time.|Clouds can produce rain, so this places the result before its source.|A map can be printed on paper; paper is a material, not a function.
+34|A tailor works with cloth; the material comes before the worker.|A wheel is part of a car.|A sink can hold or drain water; water names a substance, not an action.|An author creates a book; the product comes before its creator.
+35|A barometer measures air pressure, not time.|Paper is a surface on which a pencil is used.|A photographer uses a camera; the tool comes before the worker.|A navigation compass shows direction; it does not draw a map.
+36|A lock is fitted to a door; unlock would describe the key's function.|Soil supports a plant; this is a material or growing medium.|A musician plays a piano; the instrument comes before the user.|A cook prepares food; the product comes before the worker.
+37|A glove covers a hand, but the second term names a body part rather than a protective action.|A raincoat is made from fabric.|Fire produces warmth; it is a source and effect rather than protective equipment and function.|A wheel is part of a bicycle.
+38|A pencil creates marks rather than removing unwanted material.|A funnel directs liquid; it does not increase the amount of liquid.|Paper receives and preserves words; it does not remove unwanted material.|A lamp's main function is lighting, not removing material.
+39|A classroom is a teacher's workplace.|A reader uses or reads a novel rather than creating it.|A painter uses a brush as a tool.|A pilot operates an airplane rather than creating one.
+40|A stage is an actor's workplace.|A driver operates a bus.|A doctor uses a stethoscope as a tool.|A gardener uses a shovel as a tool.
+41|An author creates a novel; this is worker to product.|The ocean is a sailor's working environment.|A harvest is a farmer's result or product.|A teacher instructs a student; the student is not a tool.
+42|A pen is an author's tool.|A script is material an actor follows.|A poet creates verse.|A baker creates bread.
+43|A library is a place used by a reader.|A tractor is a farmer's tool or equipment.|A kitchen is a chef's workplace.|A brush is an artist's tool.
+44|A wing is part of a bird.|A theater is an actor's workplace.|A writer creates a poem.|An airport is a place where a pilot works.
+45|Large and tiny are opposite sizes.|An ocean consists of water; the material comes before the whole.|Winter is a type of season.|Rapid and swift have similar meanings without a clear increase in intensity.
+46|Whispering is quieter than ordinary speech; the direction decreases intensity.|Joy and sadness are opposing feelings.|Rest is a response to tiredness rather than more intense tiredness.|Surrender ends resistance rather than describing a more intense fight.
+47|Rain is produced by clouds; this is result to source.|Thunder and lightning are associated phenomena, not degrees of one quality.|Ash is a product left by a fire.|Courage and bravery have similar meanings without a clear change of intensity.
+48|Food can satisfy hunger; it is not a stronger degree of hunger.|Short and tall are opposites.|Tiny is more extreme than small, so this goes from stronger to weaker.|Water can freeze into ice; this is a change of state.
+49|A book contains pages; the whole comes first.|Speak and talk have similar meanings.|Deep and shallow are opposites.|A smile may express happiness rather than a stronger degree of smiling.
+50|Silent is stronger than quiet; the direction decreases intensity.|Honest and truthful have similar meanings.|A stone is a piece of rock; this is not a clear scale of size or intensity.|A tree is a member of a forest rather than a stronger degree of a forest.
+51|Winter can bring snow; this places the result before its seasonal setting.|A baker creates bread; the product comes first.|A forest consists of trees; this is group to members.|Food relieves hunger rather than being an effect produced by hunger.
+52|Water relieves thirst rather than causing it.|The sky is a location of clouds.|Mercury is a material used in some thermometers.|Cold is a typical characteristic of ice rather than a separate event produced by friction.
+53|A book contains chapters.|Goal and target have similar meanings rather than a cause-and-effect relationship.|A teacher instructs a student; the pair does not name an improvement produced by an action.|A trophy recognizes victory; the award follows the achievement rather than causing it.
+54|Sorrow and grief are closely related feelings.|Generous and giving have similar meanings.|Wrapping covers a gift.|A writer creates a story rather than causing an emotional response in the same way as an insult.
+55|Water relieves thirst; it is not usually caused by thirst.|Winter is a type of season.|Heat is an effect of a flame, so the order places effect before source.|A doctor treats a patient; a patient is not an effect caused by a doctor.
+56|A river contains water; this is material to a larger body.|Rainfall comes from a cloud, placing the effect before its source.|Winter can bring ice; this places a result before its seasonal setting.|A garden contains soil as a material or growing medium.
+57|A puppy and a kitten are young animals of different species.|A sheep is the adult of a lamb, so the age direction is reversed.|A nest is a bird's dwelling.|A feather is part of an eagle.
+58|A carpenter uses wood; the material comes before the worker.|A mine is a source of metal, not a characteristic of metal.|A shirt is made from cloth; this is material to product.|Winter is a season associated with ice, not a physical property of ice.
+59|A bird lives in a nest, but the inhabitant comes before the dwelling.|An ocean contains water; this is material to a larger body.|A tree is a member of a forest, not an animal housed in a dwelling.|Barking is a sound a dog makes.
+60|A ruler is a tool marked in meters, not the quantity a meter measures.|A clock measures hours; the pair gives unit and instrument.|A kilometer measures distance, not how quickly the distance is traveled.|A thermometer is an instrument, whereas the first term should be a measurement unit.
+61|A camera is a photographer's tool.|A gallery displays paintings but does not create them.|Cloth is made from thread; this is product to material.|A lens is part of a camera.
+62|A pen is a poet's tool.|An atlas is a collection containing maps.|A traveler uses a compass as a tool.|A sonnet contains lines; this is whole to part.
+63|A chair is a carpenter's product.|A needle is used with thread as a material.|A tailor works with cloth, but the material comes first.|Cutting is the function of a saw; the first term is a tool, not a worker.
+64|An observatory is an astronomer's workplace.|A lens is part of a telescope.|A surgeon treats a patient, but the patient comes first.|An incision is a cut made with a scalpel; this is tool to result.
+65|A portrait is a painter's product.|A rake moves or gathers leaves; the second term is material acted on.|A gardener works in a garden, but the place comes first.|A bristle is part of a brush.
+66|A knife is a chef's tool.|An oven is equipment located in a kitchen.|A dentist treats a patient, but the patient comes first.|A chair is equipment located in a clinic.
+67|A verdict is a judge's decision or result.|A telescope is equipment used at an observatory.|A bench is equipment in a courtroom.|A lawyer may represent a defendant; this does not pair a profession with its workplace.
+68|A wrench is a mechanic's tool.|A crop is grown in a field; this is place to product.|Vehicles are serviced or stored in a garage; this is place to contents.|A tractor is a farmer's equipment.
+69|An experiment is an activity performed by a scientist.|A forge produces heat; this does not name a worker's workplace.|A microscope is equipment in a laboratory.|Metal is worked on an anvil; this gives material and equipment.
+70|A dog is the adult, so the age direction is reversed.|Fur is a covering or characteristic of a cat.|A litter is a group containing kittens rather than an adult kitten.|A kennel houses a dog; this is dwelling to inhabitant.
+71|A pond is a frog's habitat.|A wing is part of a butterfly.|A butterfly is the adult form, so the direction is reversed.|Water is a tadpole's environment rather than its adult form.
+72|A goose is the adult, so the age direction is reversed.|A flock is a group of ducks.|An egg can be found in a nest; this is object to location.|A pond is a gosling's environment rather than its adult form.
+73|An antler is part of a deer.|Wool is a covering or product of a sheep.|A flock is a group containing lambs rather than an adult form.|A forest is a habitat for deer; this is place to inhabitant.
+74|Cane can be a source of sugar, not its taste.|Cold is a quality associated with winter; the quality comes first.|The sea contains salt; this is substance to location.|Ice is the solid state of water rather than a descriptive quality.
+75|A window is an object made of glass.|Stretching is an action possible for elastic material; this does not give an object and its quality.|A tire is a product often made of rubber.|Brittle and strong contrast in a physical quality; neither term is the object being described.
+76|Lead is a kind of metal, so this gives a category rather than a quality.|A feather is part of a bird.|A lamp produces light, but the product comes first.|Weight is the quantity described by heavy rather than a quality of a named object.
+77|Bees produce honey; this places product before producer.|Sour is a lemon's taste, but the quality comes first.|A lemon is a kind of fruit, giving a category rather than a taste.|Sweet and bitter are contrasting tastes rather than an object and its quality.
+78|A bee lives in a hive, but the inhabitant comes first.|Honey is stored or produced in a hive; it is not the animal inhabitant.|Barking is a sound made by a dog.|Wood is a material from which a kennel may be made.
+79|A fox lives in a den, but the inhabitant comes first.|Fur is a rabbit's covering or characteristic.|An entrance is part of a den.|A crop grows in a field; the second term is not an animal inhabitant.
+80|A wing is part of an eagle.|A penguin uses a rookery, but the inhabitant comes first.|A cliff is a location where an aerie can be built.|Ice can be a surface or setting for a rookery; it is not its inhabitant.
+81|A pig lives in a sty, but the inhabitant comes first.|A saddle is equipment used on a horse.|Hay is food or bedding in a stable; it is not the animal inhabitant.|A fence is part of the enclosure rather than its inhabitant.
+82|Volume is the quantity measured in liters, so the order is reversed.|A ruler is an instrument, not the quantity a meter measures.|Length and width are different dimensions rather than a unit and a quantity.|A bottle can hold a liter; it is a container, not the measured quantity.
+83|A clock is an instrument for measuring time.|A kilogram and a gram are both mass units, not a unit and the quantity it measures.|Heavy describes large weight rather than naming a measurement unit.|A second and a minute are both time units.
+84|A thermometer is an instrument that measures temperature; the quantity comes first.|A wire carries electric current; it is not the quantity measured by an ampere.|An angle is measured in degrees, but the quantity comes before the unit.|A river has a current, but this is flowing water rather than electric current.
+85|Energy is the quantity measured in joules, so the order is reversed.|A field is an object or area that might be measured in hectares.|A square is a shape, not a measurement unit.|The scientist is a person associated with the unit's name, not the quantity it measures.
