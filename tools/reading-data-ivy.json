@@ -1,0 +1,913 @@
+[
+  {
+    "id": "ivy-01",
+    "title": "Finding Neptune",
+    "genre": "Science",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      1,
+      2
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "In the early 19th century, scientists’ understanding of the laws of gravity predicted certain orbits for each of the planets. In general, the seven planets known at that time observed these predicted orbits. However, there was an exception: Uranus, at the far outer reaches of the solar system, refused to behave as predicted. The strange orbit of Uranus posed a problem for scientists. Some thought that the effect of the sun’s gravity changed at such extreme distances. Others were convinced that there had been some error: Uranus was actually behaving as expected, and astronomers must have botched their observations. But there was a third theory: that some as-yet-undiscovered object in the outer solar system was disturbing the orbit of Uranus. Convinced of this theory, at least two scientists— John Adams Couch and Urbain Jean-Joseph Le Verrier— worked separately to calculate the position of such an object. By 1846, they had calculated the mass, orbit, and position of the object, using only their knowledge of gravity and observations of the Uranus’s orbit. With their calculations, astronomers were able to locate the object, and in 1846, the planet Neptune was discovered."
+    ],
+    "sourceLines": [
+      "In the early 19th century, scientists’ understanding of the laws of gravity predicted",
+      "certain orbits for each of the planets. In general, the seven planets known at that time observed",
+      "these predicted orbits. However, there was an exception: Uranus, at the far outer reaches of the",
+      "solar system, refused to behave as predicted. The strange orbit of Uranus posed a problem for",
+      "scientists. Some thought that the effect of the sun’s gravity changed at such extreme distances.",
+      "Others were convinced that there had been some error: Uranus was actually behaving as",
+      "expected, and astronomers must have botched their observations. But there was a third",
+      "theory: that some as-yet-undiscovered object in the outer solar system was disturbing the",
+      "orbit of Uranus. Convinced of this theory, at least two scientists— John Adams Couch and",
+      "Urbain Jean-Joseph Le Verrier— worked separately to calculate the position of such an object.",
+      "By 1846, they had calculated the mass, orbit, and position of the object, using only their",
+      "knowledge of gravity and observations of the Uranus’s orbit. With their calculations,",
+      "astronomers were able to locate the object, and in 1846, the planet Neptune was discovered."
+    ],
+    "questions": [
+      {
+        "id": "ivy-q01",
+        "number": 1,
+        "prompt": "Why did the orbit of Uranus pose a problem for early 19th century scientists?",
+        "options": [
+          "Uranus’s orbit differed from the predictions made by scientific models.",
+          "Uranus’s orbit would make space travel significantly more difficult in the future.",
+          "Scientists were unable to make accurate observations of Uranus’s orbit.",
+          "Uranus was often blocking scientists’ view of other planets in the outer solar system.",
+          "Scientists were concerned that Uranus might break free of its orbit, posing a threat to Earth."
+        ],
+        "answer": 0,
+        "skill": "Detail",
+        "explanation": "Uranus did not follow the orbit predicted by the scientists’ models. The passage presents this mismatch as the problem that needed an explanation."
+      },
+      {
+        "id": "ivy-q02",
+        "number": 2,
+        "prompt": "The author’s main purpose in this passage is to",
+        "options": [
+          "illustrate the laws of gravitation",
+          "specify the orbits of the planets in our solar system",
+          "describe Uranus's size and composition",
+          "explain how Uranus’s orbit led to Neptune’s discovery",
+          "argue that math is a fundamental tool in science"
+        ],
+        "answer": 3,
+        "skill": "Main idea",
+        "explanation": "The passage starts with Uranus’s unexpected orbit, then follows the calculations that allowed astronomers to locate Neptune. That discovery is its central point."
+      },
+      {
+        "id": "ivy-q03",
+        "number": 3,
+        "prompt": "According to the passage, John Adams Couch and Urbain Jean-Joseph Le Verrier believed that",
+        "options": [
+          "the laws of gravitation were inaccurate",
+          "astronomers had made incorrect measurements of Uranus’s orbit",
+          "Uranus’s orbit was being affected by an unknown object",
+          "the sun’s gravity behaved differently at the edges of the solar system",
+          "Uranus’s orbit was not as irregular as Neptune’s orbit"
+        ],
+        "answer": 2,
+        "skill": "Detail",
+        "explanation": "The two scientists accepted the third theory: an undiscovered object was disturbing Uranus’s orbit. Their calculations then predicted that object’s position."
+      },
+      {
+        "id": "ivy-q04",
+        "number": 4,
+        "prompt": "Based on the context of the passage, “botched” (line 7) most nearly means",
+        "options": [
+          "added together",
+          "messed up",
+          "changed suddenly",
+          "distantly orbited",
+          "predicted from evidence"
+        ],
+        "answer": 1,
+        "skill": "Vocabulary",
+        "explanation": "Some scientists thought the observations contained an error. In that context, “botched” means that the astronomers had messed up their observations."
+      },
+      {
+        "id": "ivy-q05",
+        "number": 5,
+        "prompt": "After the discovery of Neptune, scientists were aware of how many planets in total in our solar system?",
+        "options": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "answer": 2,
+        "skill": "Inference",
+        "explanation": "The passage says seven planets were known before Neptune was found. Adding the newly discovered planet gives a total of eight."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-02",
+    "title": "The Princess and the Frog",
+    "genre": "Literature",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      3
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "“What will you have, dear Frog?\" said she. \"My dresses, my pearls and jewels, or the golden crown which I wear?\"",
+      "The Frog answered, \"Dresses, or jewels, or golden crowns are not for me; but if you will love me, and let me be your companion and playfellow, and sit at your table, and eat from your little golden plate, and drink from your cup, and sleep in your little bed,—if you will promise me all these, then will I dive down and fetch up your golden ball.\"",
+      "\"Oh, I will promise you all,\" said she, \"if you will only get me my ball.\" But she thought to herself, \"What is the silly Frog chattering about? Let him remain in the water with his equals; he cannot mix in society.\" But the Frog, as soon as he had received her promise, drew his head under the water and dived down. Presently he swam up again with the ball in his mouth, and threw it on the grass. The King's daughter was full of joy when she again saw her beautiful plaything; and, taking it up, she ran off immediately. \"Stop! stop!\" cried the Frog. \"Take me with you. I cannot run as you can.\" But all his croaking was useless; although it was loud enough, the King's daughter did not hear it, but, hastening home, soon forgot the poor Frog, who was obliged to leap back into the fountain."
+    ],
+    "sourceLines": [
+      "“What will you have, dear Frog?\" said she. \"My dresses, my pearls and jewels, or the",
+      "golden crown which I wear?\"",
+      "The Frog answered, \"Dresses, or jewels, or golden crowns are not for me; but if you will",
+      "love me, and let me be your companion and playfellow, and sit at your table, and eat from your",
+      "little golden plate, and drink from your cup, and sleep in your little bed,—if you will promise me",
+      "all these, then will I dive down and fetch up your golden ball.\"",
+      "\"Oh, I will promise you all,\" said she, \"if you will only get me my ball.\" But she thought to",
+      "herself, \"What is the silly Frog chattering about? Let him remain in the water with his equals; he",
+      "cannot mix in society.\" But the Frog, as soon as he had received her promise, drew his head",
+      "under the water and dived down. Presently he swam up again with the ball in his mouth, and",
+      "threw it on the grass. The King's daughter was full of joy when she again saw her beautiful",
+      "plaything; and, taking it up, she ran off immediately. \"Stop! stop!\" cried the Frog. \"Take me with",
+      "you. I cannot run as you can.\" But all his croaking was useless; although it was loud enough, the",
+      "King's daughter did not hear it, but, hastening home, soon forgot the poor Frog, who was obliged",
+      "to leap back into the fountain."
+    ],
+    "questions": [
+      {
+        "id": "ivy-q06",
+        "number": 6,
+        "prompt": "In lines 1-2, the princess offered clothing and jewelry to the frog because",
+        "options": [
+          "she felt bad that the frog had to live outside",
+          "she wanted to trade her old things for a new toy",
+          "she was a kind and generous princess",
+          "she wanted the frog to retrieve her lost toy",
+          "she wanted the frog to be her new friend"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "The princess offers valuables in exchange for help. Her later promise explicitly asks the frog to get her golden ball, identifying the toy she wants retrieved."
+      },
+      {
+        "id": "ivy-q07",
+        "number": 7,
+        "prompt": "What best explains why the princess didn’t stay to play with the frog?",
+        "options": [
+          "She forgot about her promise to play with the frog.",
+          "She probably meant to come back for the frog later.",
+          "She didn’t understand what the frog wanted.",
+          "She had never intended to keep her promise to the frog.",
+          "She had already told the frog that she wouldn’t be his playmate"
+        ],
+        "answer": 3,
+        "skill": "Inference",
+        "explanation": "Even while making her promise, the princess privately thinks the frog cannot mix in society. That thought shows she does not intend to keep the promise."
+      },
+      {
+        "id": "ivy-q08",
+        "number": 8,
+        "prompt": "The princess’s actions could best be described as",
+        "options": [
+          "evil",
+          "deceitful",
+          "menacing",
+          "unlikely",
+          "virtuous"
+        ],
+        "answer": 1,
+        "skill": "Inference",
+        "explanation": "The princess promises friendship to obtain her ball while privately dismissing the frog. Acting on a promise she does not mean to keep is deceitful."
+      },
+      {
+        "id": "ivy-q09",
+        "number": 9,
+        "prompt": "Based on the context of the passage, what is the most likely meaning of “hastening” (line 14)?",
+        "options": [
+          "going quickly",
+          "ignoring someone",
+          "playing loudly",
+          "sneaking quietly",
+          "hopping joyfully"
+        ],
+        "answer": 0,
+        "skill": "Vocabulary",
+        "explanation": "The princess takes her ball and runs off immediately. “Hastening home” continues that quick departure, so it means going quickly."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-03",
+    "title": "The Clothing Swap",
+    "genre": "Social science",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      4,
+      5
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Clothing swapping has become an increasingly popular way for people to give away undesired items from their wardrobes and get something fresh in return. Enthusiasts in the Washington area and beyond have attracted hundreds of new participants to their events in recent months, using social media to spread the word. Swappers say the events are an opportunity to stay fashionable on a budget, and to be charitable and environmentally friendly at the same time.",
+      "One of the area's most popular clothing swap groups drew a record crowd to its latest gathering at a high school in Springfield, Virginia on April 20. About 300 participants came to the cafeteria of the West Springfield High School to lay out gently used shirts, pants, dresses, and other items they no longer wanted. In return, they could take home almost anything they liked.",
+      "Student volunteer Pat Moore loved the concept. \"I brought five shirts and got two nice pairs of boots,” Moore said. “They were new, not even used!\"",
+      "A resident of the nearby Virginia suburb of Alexandria, Daphne Steinberg, said she was attracted by the prospect of finding something special. \"I love that I can outfit myself for work, have a good time doing it, and save money,” Steinberg explained."
+    ],
+    "sourceLines": [
+      "Clothing swapping has become an increasingly popular way for people to give away",
+      "undesired items from their wardrobes and get something fresh in return. Enthusiasts in the",
+      "Washington area and beyond have attracted hundreds of new participants to their events in",
+      "recent months, using social media to spread the word. Swappers say the events are an",
+      "opportunity to stay fashionable on a budget, and to be charitable and environmentally friendly",
+      "at the same time.",
+      "One of the area's most popular clothing swap groups drew a record crowd to its latest",
+      "gathering at a high school in Springfield, Virginia on April 20. About 300 participants came to",
+      "the cafeteria of the West Springfield High School to lay out gently used shirts, pants, dresses, and",
+      "other items they no longer wanted. In return, they could take home almost anything they liked.",
+      "Student volunteer Pat Moore loved the concept. \"I brought five shirts and got two nice",
+      "pairs of boots,” Moore said. “They were new, not even used!\"",
+      "A resident of the nearby Virginia suburb of Alexandria, Daphne Steinberg, said she was",
+      "attracted by the prospect of finding something special. \"I love that I can outfit myself for work,",
+      "have a good time doing it, and save money,” Steinberg explained."
+    ],
+    "questions": [
+      {
+        "id": "ivy-q10",
+        "number": 10,
+        "prompt": "According to the passage, the benefits of clothing swaps include I. saving money II. raising money for local charities III. making new friends",
+        "options": [
+          "I only",
+          "I and II only",
+          "I and III only",
+          "II and III only",
+          "I, II, and III"
+        ],
+        "answer": 0,
+        "skill": "Detail",
+        "explanation": "Saving money is stated directly. The passage mentions charity and enjoyment, but it does not say swaps raise money for charities or help people make new friends."
+      },
+      {
+        "id": "ivy-q11",
+        "number": 11,
+        "prompt": "The author’s main purpose in this passage is to",
+        "options": [
+          "offer some opinions on workplace fashion",
+          "highlight the benefits of a new social trend",
+          "offer a critique of the modern fashion industry",
+          "discuss the impact of social media on shopping",
+          "compare clothing swaps in Washington with those in the rest of the county"
+        ],
+        "answer": 1,
+        "skill": "Main idea",
+        "explanation": "The passage explains the growing practice of clothing swapping and uses participants’ experiences to show its practical benefits. It does not criticize the fashion industry."
+      },
+      {
+        "id": "ivy-q12",
+        "number": 12,
+        "prompt": "According to the passage, the organizers of Washington-area clothing swaps used social media to",
+        "options": [
+          "swap gently used clothing online",
+          "control who had access to their events",
+          "share information about which brands and types of clothing would be available",
+          "raise awareness of their events and increase participation",
+          "ensure that participants were following the rules"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "The opening paragraph says enthusiasts use social media to spread the word and attract participants. This supports raising awareness and increasing participation."
+      },
+      {
+        "id": "ivy-q13",
+        "number": 13,
+        "prompt": "Which of the following would be the best title for this passage?",
+        "options": [
+          "West Springfield High School Draws Large Crowd",
+          "The Benefits of Promoting Your Event with Social Media",
+          "Clothing Swapping: The Pros and Cons",
+          "Clothing Swapping Becomes Popular in the Washington Area",
+          "Washington-Area Shoppers are Desperate for High Fashion"
+        ],
+        "answer": 3,
+        "skill": "Main idea",
+        "explanation": "The passage focuses on the growing popularity of clothing swapping around Washington. That title covers both the trend and the location of its examples."
+      },
+      {
+        "id": "ivy-q14",
+        "number": 14,
+        "prompt": "This passage would most likely be found in",
+        "options": [
+          "a diary",
+          "a newspaper",
+          "a novel",
+          "a biography",
+          "a letter"
+        ],
+        "answer": 1,
+        "skill": "Inference",
+        "explanation": "The passage reports a recent local event, gives attendance figures, and quotes participants. Those features fit a newspaper article."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-04",
+    "title": "Life in the Ocean’s Depths",
+    "genre": "Science",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      6,
+      7
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Oceans cover most of the Earth’s surface, and in their depths dwell most of the planet’s life. Yet to us creatures of the land, the ocean is alien and often hostile. Coral reefs dazzle us, with rich colors and complex ecosystems. Kelp forests are a thick, dizzying maze of life, in the midst of which it can be hard to tell up from down. Far out beyond the coast, waves tower over ships, and whales and massive fish graze on microscopic plankton, extracting their sustenance from what appears to the naked eye to be nothing but water. And deep down, beyond the continental shelf, beyond the warming rays of the sun, lies a place that we call the abyssal plain.",
+      "Here flat grey plains of ooze stretch over incredible distances, shrouded in darkness, fed by a constant rain of decaying matter from the seas above. At first glance, it might appear to be a dead, empty place, but in truth it teems with life. Most of the life in the abyssal plain is bacterial, but here and there are also corals, worms, and molluscs. There are fish, too, like the tripod fish which uses long thin fins to perch on top of the ooze, or the anglerfish which uses a glowing rod-like appendage to lure prey into its hungry jaws. And there must be much more than we yet know. Although this vast biome covers more than half of the entire surface of the planet, it’s one of the most poorly explored places on Earth, or even nearby: more people have been to space than have been to the abyssal plain."
+    ],
+    "sourceLines": [
+      "Oceans cover most of the Earth’s surface, and in their depths dwell most of the planet’s",
+      "life. Yet to us creatures of the land, the ocean is alien and often hostile. Coral reefs dazzle us, with",
+      "rich colors and complex ecosystems. Kelp forests are a thick, dizzying maze of life, in the midst of",
+      "which it can be hard to tell up from down. Far out beyond the coast, waves tower over ships, and",
+      "whales and massive fish graze on microscopic plankton, extracting their sustenance from what",
+      "appears to the naked eye to be nothing but water. And deep down, beyond the continental shelf,",
+      "beyond the warming rays of the sun, lies a place that we call the abyssal plain.",
+      "Here flat grey plains of ooze stretch over incredible distances, shrouded in darkness, fed",
+      "by a constant rain of decaying matter from the seas above. At first glance, it might appear to be a",
+      "dead, empty place, but in truth it teems with life. Most of the life in the abyssal plain is bacterial,",
+      "but here and there are also corals, worms, and molluscs. There are fish, too, like the tripod fish",
+      "which uses long thin fins to perch on top of the ooze, or the anglerfish which uses a glowing rod-",
+      "like appendage to lure prey into its hungry jaws. And there must be much more than we yet",
+      "know. Although this vast biome covers more than half of the entire surface of the planet, it’s one",
+      "of the most poorly explored places on Earth, or even nearby: more people have been to space",
+      "than have been to the abyssal plain."
+    ],
+    "questions": [
+      {
+        "id": "ivy-q15",
+        "number": 15,
+        "prompt": "The author’s attitude toward the ocean could best be described as",
+        "options": [
+          "fascinated",
+          "affectionate",
+          "dubious",
+          "ominous",
+          "indifferent"
+        ],
+        "answer": 0,
+        "skill": "Tone",
+        "explanation": "Descriptions such as “dazzle,” “complex ecosystems,” and the many unusual creatures show curiosity and wonder. The author is fascinated by the ocean."
+      },
+      {
+        "id": "ivy-q16",
+        "number": 16,
+        "prompt": "According to the passage, the “abyssal plain” (line 7) most likely refers to",
+        "options": [
+          "the shallow ocean water near the coasts",
+          "a flat, dark region of the ocean floor",
+          "the zone of the ocean with the least life",
+          "an area mostly inhabited by coral reefs",
+          "the place where we are most likely to discover alien life"
+        ],
+        "answer": 1,
+        "skill": "Vocabulary",
+        "explanation": "The passage locates the abyssal plain deep beyond sunlight and describes flat grey plains shrouded in darkness. It is a flat, dark region of the ocean floor."
+      },
+      {
+        "id": "ivy-q17",
+        "number": 17,
+        "prompt": "The author lists which of the following animals as examples of life in the abyssal plain? I. fish II. whales III. mollusks",
+        "options": [
+          "I only",
+          "II only",
+          "I and II only",
+          "I and III only",
+          "I, II, and III"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "Corals, worms, molluscs, and fish are explicitly listed as abyssal life. Whales are mentioned earlier near the surface, not as residents of the abyssal plain."
+      },
+      {
+        "id": "ivy-q18",
+        "number": 18,
+        "prompt": "When the author says “more people have been to space than have been to the abyssal plain” (lines15-16), she is suggesting that",
+        "options": [
+          "it is less expensive to go to space than to the deep ocean",
+          "going to the ocean floor is more dangerous than going to space",
+          "we have too many astronauts",
+          "we’re likely to find new life in space before we find new life in the deep ocean",
+          "there is a lot left to discover in the deep ocean"
+        ],
+        "answer": 4,
+        "skill": "Inference",
+        "explanation": "The comparison follows the statement that the abyssal plain is poorly explored. It emphasizes how much of the deep ocean remains undiscovered."
+      },
+      {
+        "id": "ivy-q19",
+        "number": 19,
+        "prompt": "Which sentence best summarizes the author’s main idea in this passage?",
+        "options": [
+          "Plankton are an essential part of ocean food chains, even in the deepest areas.",
+          "We should invest more in exploring the ocean than in exploring space.",
+          "The ocean is a strange and wonderful place and is not yet fully explored.",
+          "We don’t know very much about space or the ocean.",
+          "The abyssal plain is the best part of the ocean."
+        ],
+        "answer": 2,
+        "skill": "Main idea",
+        "explanation": "Both paragraphs describe the ocean’s unusual abundance of life, and the ending stresses limited exploration. C combines these ideas without adding a proposal the author never makes."
+      },
+      {
+        "id": "ivy-q20",
+        "number": 20,
+        "prompt": "The author suggests that life in the ocean is",
+        "options": [
+          "fragile, rare, and very sensitive to human activity",
+          "abundant, even in what seem like harsh environments",
+          "usually very large, even sometimes as large as ships",
+          "very dangerous to humans",
+          "strange and terrifying, but usually harmless"
+        ],
+        "answer": 1,
+        "skill": "Inference",
+        "explanation": "Even the dark, apparently empty abyssal plain “teems with life.” The descriptions support abundance in environments that seem harsh."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-05",
+    "title": "The Neglected Garden",
+    "genre": "Literature",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      8,
+      9
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "In the spring, the garden came alive again. But it did not burst suddenly into life, as it had in some years: it did not explode into green, and white, and pink, as grass and leaves and blossoms sprung forth from their long winter’s slumber all at once. It was as though even the plants could sense the absence of their mistress, and they crawled reluctantly from their winter beds. Some of the trees remained naked late into the season, and the flowering bulbs put forth weak and scrawny shoots. There was a late frost, and some of the plants died. Mr. Emerson thought about replacing them, but it seemed an awful bother.",
+      "The garden had always been for Mrs. Emerson’s pleasure, and in her absence it was not maintained. The plants that died that year were not replaced, and the weeds that grew in their place were not removed. In time, the garden was a garden no more. It was a wild place, and the concrete cherubs which had once seemed to frolic and play amidst the flowers began to seem like frightened children hiding beneath the vines, lost among the weeds and thorns. Vines twisted over the gate. The lock rusted and, when Mr. Emerson died and the house was sold, it had to be broken before anyone else could enter."
+    ],
+    "sourceLines": [
+      "In the spring, the garden came alive again. But it did not burst suddenly into life, as it had",
+      "in some years: it did not explode into green, and white, and pink, as grass and leaves and",
+      "blossoms sprung forth from their long winter’s slumber all at once. It was as though even the",
+      "plants could sense the absence of their mistress, and they crawled reluctantly from their winter",
+      "beds. Some of the trees remained naked late into the season, and the flowering bulbs put forth",
+      "weak and scrawny shoots. There was a late frost, and some of the plants died. Mr. Emerson",
+      "thought about replacing them, but it seemed an awful bother.",
+      "The garden had always been for Mrs. Emerson’s pleasure, and in her absence it was not",
+      "maintained. The plants that died that year were not replaced, and the weeds that grew in their",
+      "place were not removed. In time, the garden was a garden no more. It was a wild place, and the",
+      "concrete cherubs which had once seemed to frolic and play amidst the flowers began to seem",
+      "like frightened children hiding beneath the vines, lost among the weeds and thorns. Vines",
+      "twisted over the gate. The lock rusted and, when Mr. Emerson died and the house was sold, it",
+      "had to be broken before anyone else could enter."
+    ],
+    "questions": [
+      {
+        "id": "ivy-q21",
+        "number": 21,
+        "prompt": "According to the passage, the garden was not maintained because",
+        "options": [
+          "Mrs. Emerson was no longer there to enjoy it",
+          "Mr. Emerson had always secretly disliked the garden",
+          "the house had been sold",
+          "the gate was rusted shut and no one could get in",
+          "pulling weeds is an awful bother"
+        ],
+        "answer": 0,
+        "skill": "Detail",
+        "explanation": "The passage says the garden had been for Mrs. Emerson’s pleasure and was not maintained in her absence. Her absence is the stated reason for its neglect."
+      },
+      {
+        "id": "ivy-q22",
+        "number": 22,
+        "prompt": "The mood of the passage could best be described as",
+        "options": [
+          "critical",
+          "lively",
+          "somber",
+          "scary",
+          "uplifting"
+        ],
+        "answer": 2,
+        "skill": "Tone",
+        "explanation": "Weak plants, death, absence, rust, and neglect create a sad and serious mood. “Somber” describes that mood better than lively or uplifting."
+      },
+      {
+        "id": "ivy-q23",
+        "number": 23,
+        "prompt": "When the author says “the garden was a garden no more” (line 10), he most likely means that",
+        "options": [
+          "once the house was sold, the space was used for something else",
+          "snow had covered the garden so none of the plants could be seen",
+          "Mr. Emerson had removed all of the plants from the garden",
+          "the domestic plants had died and been replaced by wild weeds",
+          "nothing grew that year in the garden, so it was empty of all wildlife"
+        ],
+        "answer": 3,
+        "skill": "Inference",
+        "explanation": "The surrounding sentences explain that dead cultivated plants were not replaced and weeds were not removed. The garden becomes a wild place rather than a maintained garden."
+      },
+      {
+        "id": "ivy-q24",
+        "number": 24,
+        "prompt": "Based on the context of the passage, the “cherubs” (line 11) are most likely",
+        "options": [
+          "types of flowers",
+          "child-like statues",
+          "wild animals",
+          "the garden walls",
+          "the Emersons’ daughters"
+        ],
+        "answer": 1,
+        "skill": "Vocabulary",
+        "explanation": "The cherubs are made of concrete and are compared to frightened children hiding among vines. These clues identify child-like statues."
+      },
+      {
+        "id": "ivy-q25",
+        "number": 25,
+        "prompt": "What would be the best title for this passage?",
+        "options": [
+          "The Neglected Garden",
+          "Mrs. Emerson’s Cherubs",
+          "The Old Emerson House",
+          "The Importance of Maintenance",
+          "The Hazards of a Late Frost"
+        ],
+        "answer": 0,
+        "skill": "Main idea",
+        "explanation": "The passage traces the garden’s decline after it is neglected. The late frost and statues are details within that larger subject."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-06",
+    "title": "The Presidential Turkey Pardon",
+    "genre": "History",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      10,
+      11
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "All cultures have their peculiar rituals, and the United States is no exception. Each year, shortly before the Thanksgiving holiday, the President is presented with two plump, farm-raised turkeys. Each turkey is named, and one is trotted out before reporters and publicly “pardoned.” Then, both are shipped off to live out their lives in a petting zoo.",
+      "This has not always been the case: originally, a turkey was presented to serve as the presidential dinner. President Kennedy was the first president known to have spared his Thanksgiving turkey, in 1963. In 1987, President Reagan joked about “pardoning” a turkey named Charlie, although there was no actual pardoning ceremony. It was President George H.W. Bush who presided over the first official turkey pardoning two years later. Since that ceremony, the practice has been followed annually by every U.S. President, and has become an American tradition."
+    ],
+    "sourceLines": [
+      "All cultures have their peculiar rituals, and the United States is no exception. Each year,",
+      "shortly before the Thanksgiving holiday, the President is presented with two plump, farm-raised",
+      "turkeys. Each turkey is named, and one is trotted out before reporters and publicly “pardoned.”",
+      "Then, both are shipped off to live out their lives in a petting zoo.",
+      "This has not always been the case: originally, a turkey was presented to serve as the",
+      "presidential dinner. President Kennedy was the first president known to have spared his",
+      "Thanksgiving turkey, in 1963. In 1987, President Reagan joked about “pardoning” a turkey",
+      "named Charlie, although there was no actual pardoning ceremony. It was President George H.W.",
+      "Bush who presided over the first official turkey pardoning two years later. Since that ceremony,",
+      "the practice has been followed annually by every U.S. President, and has become an American",
+      "tradition."
+    ],
+    "questions": [
+      {
+        "id": "ivy-q26",
+        "number": 26,
+        "prompt": "The main subject of this passage is",
+        "options": [
+          "the difference between Presidents Kennedy and Bush",
+          "turkey farming practices",
+          "what Presidents eat for Thanksgiving",
+          "the President’s legal right to pardon",
+          "an unusual Presidential tradition"
+        ],
+        "answer": 4,
+        "skill": "Main idea",
+        "explanation": "The passage describes the unusual custom of presidential turkey pardoning and explains its history. It is not mainly about farming or presidential meals."
+      },
+      {
+        "id": "ivy-q27",
+        "number": 27,
+        "prompt": "According to the passage, when was the first turkey officially pardoned by an American President?",
+        "options": [
+          "1963",
+          "1965",
+          "1985",
+          "1987",
+          "1989"
+        ],
+        "answer": 4,
+        "skill": "Inference",
+        "explanation": "Reagan’s joke is dated 1987, and Bush holds the first official pardoning two years later. Adding two years gives 1989."
+      },
+      {
+        "id": "ivy-q28",
+        "number": 28,
+        "prompt": "The best title for the passage would be",
+        "options": [
+          "How Petting Zoos Get Their Animals",
+          "Begging Your Pardon: The Story of Charlie the Turkey",
+          "A Brief History of Presidential Turkey Pardoning",
+          "The First Vegetarian Thanksgiving",
+          "Gobbledygook: How Turkeys Got the Vote!"
+        ],
+        "answer": 2,
+        "skill": "Main idea",
+        "explanation": "The passage follows turkey pardoning from earlier practices through Kennedy, Reagan, and Bush to an annual tradition. A brief history accurately captures that scope."
+      },
+      {
+        "id": "ivy-q29",
+        "number": 29,
+        "prompt": "According to the passage, how were Presidential Thanksgivings different before Presidents began pardoning turkeys?",
+        "options": [
+          "Presidents had to buy their own turkeys.",
+          "The turkeys given to Presidents were eaten for Thanksgiving dinner.",
+          "Most turkeys were allowed to live without a pardoning ceremony.",
+          "The turkeys at Presidential Thanksgivings were wild instead of farm-raised.",
+          "Petting zoos did not have any turkeys."
+        ],
+        "answer": 1,
+        "skill": "Detail",
+        "explanation": "The second paragraph says the turkey was originally presented to serve as the presidential dinner. Before the pardoning custom, it was intended to be eaten."
+      },
+      {
+        "id": "ivy-q30",
+        "number": 30,
+        "prompt": "What can be inferred from the reaction to President Reagan’s joke about “pardoning” a turkey in 1987?",
+        "options": [
+          "It was the first step in a Presidential campaign to recognize the rights of poultry.",
+          "Most people thought the joke was in poor taste, and insisted on a more solemn official pardoning to make up for it.",
+          "President Bush must have enjoyed it, because he pardoned his own turkey two years later.",
+          "Few people heard the joke, so it had to be repeated two years later.",
+          "It was just a scheme to get petting zoos to accept turkeys."
+        ],
+        "answer": 2,
+        "skill": "Inference",
+        "explanation": "The passage places Bush’s official pardon two years after Reagan’s joke. C is the source key’s inference connecting those events; the other choices invent reactions or motives not discussed."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-07",
+    "title": "John and the Shining Gem",
+    "genre": "Literature",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      12
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "“Oh!” John exclaimed. “It’s deeper than it looks!” John had thought that he would be able to stand in the water and simply bend down to fetch the gem— but the bottom was farther down than it looked, and so John had to dive. He took a deep breath and started towards the shining stone, hand outstretched, sure that he would soon grasp his prize.",
+      "But the bottom was not so near: deeper and deeper he swam, and though the stone always appeared to be just beyond his reach, never did he seem to come any closer. He dove down and down, deeper and deeper, thinking only of the gem— but soon he began to feel that he must surface for a breath or he would surely drown, and so he turned about to head back. But oh! How far away did the surface appear! How could it be that he had swum so deep? The pond that had seemed not much more than a wet little hole now appeared as an ocean, and all on top of poor John!"
+    ],
+    "sourceLines": [
+      "“Oh!” John exclaimed. “It’s deeper than it looks!” John had thought that he would be able to",
+      "stand in the water and simply bend down to fetch the gem— but the bottom was farther down",
+      "than it looked, and so John had to dive. He took a deep breath and started towards the shining",
+      "stone, hand outstretched, sure that he would soon grasp his prize.",
+      "But the bottom was not so near: deeper and deeper he swam, and though the stone always",
+      "appeared to be just beyond his reach, never did he seem to come any closer. He dove down and",
+      "down, deeper and deeper, thinking only of the gem— but soon he began to feel that he must",
+      "surface for a breath or he would surely drown, and so he turned about to head back. But oh! How",
+      "far away did the surface appear! How could it be that he had swum so deep? The pond that had",
+      "seemed not much more than a wet little hole now appeared as an ocean, and all on top of poor",
+      "John!"
+    ],
+    "questions": [
+      {
+        "id": "ivy-q31",
+        "number": 31,
+        "prompt": "Based on the context of the passage, John originally wanted to get into the water because",
+        "options": [
+          "he wanted to get out of the heat and go for a swim",
+          "he didn’t know how deep the water would be, and could only tell by getting in",
+          "he wanted to pick up a gem that he saw in the water",
+          "he was trying to get away from someone",
+          "The passage doesn’t contain any clues about why John wanted to get in the water."
+        ],
+        "answer": 2,
+        "skill": "Detail",
+        "explanation": "John thinks he can bend down and fetch the shining gem. Recovering that stone is the reason he enters the water."
+      },
+      {
+        "id": "ivy-q32",
+        "number": 32,
+        "prompt": "According to lines 7-8, why did John decide to swim back to the surface?",
+        "options": [
+          "He finally reached the gem that he was diving for.",
+          "He knew that he couldn’t hold his breath much longer.",
+          "The water was so dark that he could no longer see.",
+          "He wasn’t getting any closer, so he just gave up.",
+          "The water was too cold."
+        ],
+        "answer": 1,
+        "skill": "Detail",
+        "explanation": "John begins to feel that he must surface for a breath or drown. He turns back because he cannot keep holding his breath."
+      },
+      {
+        "id": "ivy-q33",
+        "number": 33,
+        "prompt": "The tone of the second paragraph could best be described as",
+        "options": [
+          "tense",
+          "curious",
+          "sarcastic",
+          "relaxed",
+          "humorous"
+        ],
+        "answer": 0,
+        "skill": "Tone",
+        "explanation": "Repeated descriptions of greater depth, the danger of drowning, and John’s alarm build suspense. The second paragraph is tense."
+      },
+      {
+        "id": "ivy-q34",
+        "number": 34,
+        "prompt": "Which of the following statements best matches the main idea of the story?",
+        "options": [
+          "Honesty is important, but so is knowing when not to speak.",
+          "Strong desires can sometimes blind people to danger.",
+          "If you don’t learn to swim when you’re young, you’ll regret it when you’re older.",
+          "The most carefully made plans can be ruined by unexpected events.",
+          "Even small boxes can contain big surprises."
+        ],
+        "answer": 1,
+        "skill": "Main idea",
+        "explanation": "John focuses so strongly on obtaining the gem that he swims dangerously deep. The story illustrates how desire can prevent someone from noticing danger."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "ivy-08",
+    "title": "“Let Them Eat Cake”",
+    "genre": "History",
+    "sourceId": "ivy",
+    "sourceFile": "ivy_middle_reading.pdf",
+    "sourcePages": [
+      13,
+      14
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "In 18th century France, the masses of the people suffered greatly, and ate poorly. The main staple of the common diet was bread. Although about half of the paltry income of the regular French citizen was dedicated to acquiring this simple commodity, shortages still occurred, compounding the suffering of the poor. But while the common people suffered in the streets, the privileged classes, cloistered away in opulent mansions, ate and drank luxuriously in their private worlds of wealth and pleasure.",
+      "Upon hearing of the agonies of the people, that they had “no bread to eat,” Marie Antoinette, Dauphin of France, is reputed to have replied, “Let them eat cake!” The utterance acquired a great symbolic importance in the aftermath of the French Revolution, when historians used it to illustrate the ignorance and indifference of the upper classes to the suffering of the poor. The story expressed the feelings of the people, and spoke clearly and powerfully to the sentiment of the time. It is an excellent tale, but it does have one minor flaw: it almost certainly is not true.",
+      "It is, at the very least, a misattribution, but very likely a total fabrication. It appeared first in “Confessions,” the autobiography of Jean-Jacques Rousseau, attributed only to a “great princess.” Rousseau’s “Confessions” was not noted for its reliability, and even if we take the tale to be true, it would almost certainly have been written while Marie Antoinette was still only a small child.",
+      "Alas: a good story’s survival rarely rests on whether or not it actually happened. This tale has survived the Dauphin as one of the most widely acknowledged “facts” of her life, and it is likely to persist, marching down into history, bearing with it the spirit of an age— and followed always by a chorus of historical pedants, chanting persistently, “But of course, it isn’t true.”"
+    ],
+    "sourceLines": [
+      "In 18th century France, the masses of the people suffered greatly, and ate poorly. The",
+      "main staple of the common diet was bread. Although about half of the paltry income of the",
+      "regular French citizen was dedicated to acquiring this simple commodity, shortages still",
+      "occurred, compounding the suffering of the poor. But while the common people suffered in the",
+      "streets, the privileged classes, cloistered away in opulent mansions, ate and drank luxuriously in",
+      "their private worlds of wealth and pleasure.",
+      "Upon hearing of the agonies of the people, that they had “no bread to eat,” Marie",
+      "Antoinette, Dauphin of France, is reputed to have replied, “Let them eat cake!” The utterance",
+      "acquired a great symbolic importance in the aftermath of the French Revolution, when",
+      "historians used it to illustrate the ignorance and indifference of the upper classes to the",
+      "suffering of the poor. The story expressed the feelings of the people, and spoke clearly and",
+      "powerfully to the sentiment of the time. It is an excellent tale, but it does have one minor flaw: it",
+      "almost certainly is not true.",
+      "It is, at the very least, a misattribution, but very likely a total fabrication. It appeared first",
+      "in “Confessions,” the autobiography of Jean-Jacques Rousseau, attributed only to a “great",
+      "princess.” Rousseau’s “Confessions” was not noted for its reliability, and even if we take the tale",
+      "to be true, it would almost certainly have been written while Marie Antoinette was still only a",
+      "small child.",
+      "Alas: a good story’s survival rarely rests on whether or not it actually happened. This tale",
+      "has survived the Dauphin as one of the most widely acknowledged “facts” of her life, and it is",
+      "likely to persist, marching down into history, bearing with it the spirit of an age— and followed",
+      "always by a chorus of historical pedants, chanting persistently, “But of course, it isn’t true.”"
+    ],
+    "questions": [
+      {
+        "id": "ivy-q35",
+        "number": 35,
+        "prompt": "According to the passage, the poor citizens of 18th century France faced which of the following problems involving bread?",
+        "options": [
+          "Bakeries went out of business because the poor had no money to buy bread.",
+          "There were shortages of bread, even though people spent much of their money on it.",
+          "People didn’t like eating bread all the time, and craved something different.",
+          "The poor were angry that they had been forced to eat cake as a substitute for bread.",
+          "People weren’t willing to pay outrageous bread prices and demanded cheaper alternatives."
+        ],
+        "answer": 1,
+        "skill": "Detail",
+        "explanation": "The opening paragraph says bread consumed about half of a typical citizen’s small income, yet shortages still occurred. B includes both of these facts."
+      },
+      {
+        "id": "ivy-q36",
+        "number": 36,
+        "prompt": "Based on the context of the passage, the word “Dauphin” (line 8) most likely means",
+        "options": [
+          "a type of French royalty",
+          "an ignorant person",
+          "someone who enjoys cake",
+          "a member of the French lower class",
+          "a type of dolphin"
+        ],
+        "answer": 0,
+        "skill": "Vocabulary",
+        "explanation": "The title is attached to Marie Antoinette in a discussion of privileged classes, and the story is first attributed to a “great princess.” These clues point to French royalty."
+      },
+      {
+        "id": "ivy-q37",
+        "number": 37,
+        "prompt": "The author’s main purpose in this passage is to",
+        "options": [
+          "tell a story about the daring feats of French revolutionaries",
+          "disprove a popular historical story",
+          "persuade the reader that Marie Antoinette was actually a kind and generous person",
+          "criticize the works of Jean-Jacques Rousseau",
+          "reveal that the French Revolution was a fraud"
+        ],
+        "answer": 1,
+        "skill": "Main idea",
+        "explanation": "After introducing the famous quotation, the author explains its doubtful source and timing. The main purpose is to disprove the popular story, not to defend every aspect of Marie Antoinette’s character."
+      },
+      {
+        "id": "ivy-q38",
+        "number": 38,
+        "prompt": "According to the passage, why did people tend to believe the story about Marie Antoinette?",
+        "options": [
+          "Historians did not discover until much later that the source was unreliable.",
+          "The story confirmed what people felt about the rich at that time.",
+          "It was the sort of thing Marie Antoinette was often known to say.",
+          "Only true stories last through history, so it was safe to assume it was reliable.",
+          "When people don’t have enough to eat, they will believe almost anything."
+        ],
+        "answer": 1,
+        "skill": "Detail",
+        "explanation": "The passage says the story expressed popular feelings and illustrated the supposed ignorance of the rich. It survived because it matched what people already felt."
+      },
+      {
+        "id": "ivy-q39",
+        "number": 39,
+        "prompt": "Which of the following does the author offer as a reason not to believe the story about Marie Antoinette?",
+        "options": [
+          "During her lifetime, the people had enough to eat.",
+          "The story reflected the sentiment of the times.",
+          "Rousseau’s autobiography is not a credible source.",
+          "The story was originally about mythical beings.",
+          "Marie Antoinette never actually met Jean-Jacques Rousseau."
+        ],
+        "answer": 2,
+        "skill": "Detail",
+        "explanation": "The author explicitly says Rousseau’s “Confessions” was not noted for reliability. That statement challenges the credibility of the story’s source."
+      },
+      {
+        "id": "ivy-q40",
+        "number": 40,
+        "prompt": "According to the passage, good stories",
+        "options": [
+          "must be true, or they’re merely myths",
+          "should always be checked against the facts",
+          "are usually fictional, but sometimes become facts",
+          "must have a villain, even if one has to be made up",
+          "often persist whether or not they are true"
+        ],
+        "answer": 4,
+        "skill": "Main idea",
+        "explanation": "The final paragraph says a good story’s survival rarely depends on whether it actually happened. A story can therefore persist even when its truth is disputed."
+      }
+    ],
+    "answerSourceFile": "ivy_middle_answers.pdf",
+    "answerSourcePages": [
+      2
+    ]
+  }
+]

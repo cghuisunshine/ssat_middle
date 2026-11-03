@@ -1,0 +1,406 @@
+[
+  {
+    "id": "gotestprep-01",
+    "title": "Baseball before baseball",
+    "genre": "History",
+    "sourceId": "gotestprep",
+    "sourceFile": "gotestprep_middle_reading.html",
+    "sourcePages": [],
+    "level": "Middle",
+    "paragraphs": [
+      "Early in the nineteenth century, American youths were playing a game, somewhat like the English game of rounders, which contained all the elements of modern baseball. It was neither scientifically planned nor skillfully played, but it furnished considerable excitement for players and spectators alike. The playing field was a sixty-foot square with goals, or bases, at each of its four corners. A pitcher stationed himself at the center of the square, and a catcher and an indefinite number of fielders supported the pitcher and completed the team. None of these players, usually between eight and twenty on a side, covered the bases. The batter was out on balls caught on the fly or the first bound, and a base runner was out if he was hit by a thrown ball while off base. The bat was nothing more than a stout paddle with a two-inch-thick handle. The ball was apt to be an impromptu affair composed of a bullet, cork, or metal slug tightly wound with wool yarn and string. With its simple equipment and only a few rules, this game steadily increased in popularity during the first half of the century."
+    ],
+    "questions": [
+      {
+        "id": "gotestprep-q01",
+        "number": 1,
+        "prompt": "Which title best expresses the main idea of this selection?",
+        "options": [
+          "“Baseball Rules”",
+          "“An English Game”",
+          "“Baseball’s Predecessor”",
+          "“American Pastimes”"
+        ],
+        "answer": 2,
+        "explanation": "The whole passage describes an early game that contained the elements of modern baseball, making it baseball’s predecessor.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "gotestprep-q02",
+        "number": 2,
+        "prompt": "The rules of this game required",
+        "options": [
+          "eight fielders.",
+          "a pitcher, a catcher, and one fielder for each base.",
+          "twenty fielders.",
+          "no specific number of players"
+        ],
+        "answer": 3,
+        "explanation": "The author says there was an “indefinite number of fielders” and usually eight to twenty players on a side. No fixed team size was required.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q03",
+        "number": 3,
+        "prompt": "This selection suggests that",
+        "options": [
+          "the game of baseball has grown more complicated over the years.",
+          "the game described was very dangerous.",
+          "baseball originated in the United States.",
+          "the game described required skilled players."
+        ],
+        "answer": 0,
+        "explanation": "The early game used simple equipment and only a few rules. The comparison with modern baseball supports the inference that the game became more complicated.",
+        "skill": "Inference"
+      },
+      {
+        "id": "gotestprep-q04",
+        "number": 4,
+        "prompt": "The word impromptu means",
+        "options": [
+          "carefully planned.",
+          "careless.",
+          "informal.",
+          "skillful"
+        ],
+        "answer": 2,
+        "explanation": "The ball was assembled from whatever was available, such as a bullet, cork, or metal slug. “Impromptu” therefore means improvised or informal here.",
+        "skill": "Vocabulary"
+      }
+    ]
+  },
+  {
+    "id": "gotestprep-02",
+    "title": "Following the birds",
+    "genre": "Science",
+    "sourceId": "gotestprep",
+    "sourceFile": "gotestprep_middle_reading.html",
+    "sourcePages": [],
+    "level": "Middle",
+    "paragraphs": [
+      "John J. Audubon, a bird watcher, once noticed that a pair of phoebes nested in the same place year after year, and he wondered if they might be the same birds. He put tiny silver bands on their legs, and the next spring the banded birds returned to the same nesting place. This pair of phoebes were the first birds to be banded. Since that time, naturalists, with the aid of the federal government’s Fish and Wildlife Department, band birds in an effort to study them. The bands, which are made of lightweight aluminum so as not to harm the birds, bear a message requesting finders to notify the department. Careful records of these notifications are kept and analyzed. In this way, naturalists have gained a great deal of knowledge about the nesting habits, migration patterns, and populations of a large variety of bird species. Most importantly, they are able to identify those species that are in danger of extinction"
+    ],
+    "questions": [
+      {
+        "id": "gotestprep-q05",
+        "number": 5,
+        "prompt": "Which title below best expresses the main idea of this passage?",
+        "options": [
+          "“The Migration of Birds”",
+          "“One Method of Studying Birds”",
+          "“The Habits of Birds”",
+          "“The Work of John Audubon”"
+        ],
+        "answer": 1,
+        "explanation": "Audubon’s experiment introduces the wider method of banding birds to learn about their movements, habits, and populations.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "gotestprep-q06",
+        "number": 6,
+        "prompt": "Audubon’s purpose in banding the phoebes was to",
+        "options": [
+          "satisfy his own curiosity.",
+          "start a government study of birds.",
+          "gain fame as the first birdbander.",
+          "chart the phoebe’s migration patterns."
+        ],
+        "answer": 0,
+        "explanation": "Audubon wondered whether the birds were the same ones. Banding them first served to satisfy his curiosity, before the later government-supported studies.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q07",
+        "number": 7,
+        "prompt": "Audubon proved his theory that",
+        "options": [
+          "silver and aluminum are the best metals for birdbands.",
+          "the government should study birds.",
+          "phoebes are the most interesting birds to study.",
+          "birds return to the same nesting place each spring"
+        ],
+        "answer": 3,
+        "explanation": "The birds with the silver bands returned the next spring to the same nesting place, supporting that conclusion for the birds he observed.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q08",
+        "number": 8,
+        "prompt": "The word habits means",
+        "options": [
+          "naturalists.",
+          "living environments.",
+          "behaviors.",
+          "ecosystem."
+        ],
+        "answer": 2,
+        "explanation": "“Nesting habits” are the birds’ usual nesting behaviors, not the environments themselves.",
+        "skill": "Vocabulary"
+      }
+    ]
+  },
+  {
+    "id": "gotestprep-03",
+    "title": "The earliest birds",
+    "genre": "Science",
+    "sourceId": "gotestprep",
+    "sourceFile": "gotestprep_middle_reading.html",
+    "sourcePages": [],
+    "level": "Middle",
+    "paragraphs": [
+      "An ancient dinosaur-like animal called the Archaeopteryx has long been considered to be the world’s first bird. Based on what has been pieced together from fossil evidence, Archaeopteryx was more like a cross between a bird and a dinosaur, rather than fitting clearly in one group or the other. It had teeth, a tail, and claws on its wing—all characteristics that more closely resemble dinosaurs. It also had feathers and wings, like today’s birds. Whether the creature was a bird with teeth or a feather-covered dinosaur is a matter of debate, but its existence proved that a link exists between birds and reptiles.",
+      "A recent discovery leads us to question the accepted wisdom of Archaeopteryx as the first known bird. According to an article in National Geographic magazine by author Brian Switek, a creature known as Aurornis xui was described by paleontologist Pascal Godefroit in May of 2013. Aurornis was discovered in China. It is believed to have lived 160 million years ago, about 10 million years before Archaeopteryx.",
+      "Switek notes that controversy exists over whether Archaeopteryx even was a bird. But for those who believe it was, it appears that it may not have been the first.",
+      "Researchers cannot say with certainty that Aurornis was a bird either. There are too few details in the fossil record to make this determination definitively. But one thing based on these discoveries is clear: birds are descendants of dinosaurs. Today’s common bird shares an ancestry with predator dinosaurs such as the velociraptor, lending even more meaning to the idea that the early bird gets the worm."
+    ],
+    "questions": [
+      {
+        "id": "gotestprep-q09",
+        "number": 9,
+        "prompt": "Which title best expresses the topic of this selection?",
+        "options": [
+          "“Studying Dinosaurs”",
+          "“The Earliest Birds”",
+          "“Birds versus Dinosaurs”",
+          "“The History of the Velociraptor”"
+        ],
+        "answer": 1,
+        "explanation": "The passage compares two candidates for the earliest known bird, Archaeopteryx and Aurornis.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "gotestprep-q10",
+        "number": 10,
+        "prompt": "According to the passage, Archaeopteryx could best be described as",
+        "options": [
+          "an ancient bird without feathers.",
+          "more like a dinosaur than a bird.",
+          "part bird and part dinosaur.",
+          "more like a mammal than a reptile."
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly calls Archaeopteryx a cross between a bird and a dinosaur and lists characteristics of both.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q11",
+        "number": 11,
+        "prompt": "In the context of the passage, the phrase accepted wisdom most nearly means",
+        "options": [
+          "invalid theory.",
+          "historical myth.",
+          "helpful advice.",
+          "widely held view."
+        ],
+        "answer": 3,
+        "explanation": "The discovery questions a view that people had generally accepted. “Accepted wisdom” means a widely held view.",
+        "skill": "Vocabulary"
+      },
+      {
+        "id": "gotestprep-q12",
+        "number": 12,
+        "prompt": "According to the passage, today’s birds are descendants of",
+        "options": [
+          "dinosaurs that hunted other animals.",
+          "land-based dinosaurs without tails.",
+          "dinosaurs that ate vegetarian diets.",
+          "ancient Egyptian and Asian reptiles."
+        ],
+        "answer": 0,
+        "explanation": "The final paragraph says modern birds share ancestry with predator dinosaurs such as the velociraptor.",
+        "skill": "Detail"
+      }
+    ]
+  },
+  {
+    "id": "gotestprep-04",
+    "title": "The American eagle",
+    "genre": "Science",
+    "sourceId": "gotestprep",
+    "sourceFile": "gotestprep_middle_reading.html",
+    "sourcePages": [],
+    "level": "Middle",
+    "paragraphs": [
+      "The proud, noble American eagle appears on one side of the Great Seal of the United States, which is printed on every dollar bill. The same majestic bird can be seen on state seals, half dollars, and even in some commercial advertising. In fact, though we often encounter artistic representations of our national symbol, it is rarely seen alive in its native habitat. It is now all but extinct.",
+      "In the days of the founding fathers, the American eagle resided in nearly every corner of the territory now known as the continental United States. Today the eagle survives in what ornithologists call significant numbers only in two regions. An estimated 350 pairs inhabit Florida, and perhaps another 150 live in the Chesapeake Bay area of Delaware, Maryland, and Virginia. A few stragglers remain in other states, but in most, eagles have not been sighted for some time.",
+      "A federal law passed in 1940 protects these birds and their nesting areas, but it came too late to save more than a pitiful remnant of the species’ original population."
+    ],
+    "questions": [
+      {
+        "id": "gotestprep-q13",
+        "number": 13,
+        "prompt": "An ornithologist is a person who studies",
+        "options": [
+          "geographical regions.",
+          "the history of extinct species.",
+          "the populations of certain areas.",
+          "the habits and habitats of birds."
+        ],
+        "answer": 3,
+        "explanation": "The ornithologists in this passage study where eagles live and how many remain, pointing to specialists in birds and their habitats.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q14",
+        "number": 14,
+        "prompt": "Today eagles are found in the greatest numbers in",
+        "options": [
+          "Florida.",
+          "Delaware.",
+          "the Chesapeake Bay region.",
+          "Virginia"
+        ],
+        "answer": 0,
+        "explanation": "Within this historical source passage, the estimate for Florida is 350 pairs, compared with 150 in the Chesapeake Bay area.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q15",
+        "number": 15,
+        "prompt": "The selection implies that",
+        "options": [
+          "the number of eagles is likely to increase.",
+          "the eagle population decreased because of a lack of protective game laws.",
+          "there were only two localities where eagles could survive.",
+          "the government knows very little about eagles."
+        ],
+        "answer": 1,
+        "explanation": "The final paragraph says the protective law came too late to save most of the original population. The source implies that earlier protection was lacking.",
+        "skill": "Inference"
+      }
+    ],
+    "note": "This is a historical source passage. Answer using the conditions described in the passage, rather than present-day conditions."
+  },
+  {
+    "id": "gotestprep-05",
+    "title": "Building the Alaska Highway",
+    "genre": "History",
+    "sourceId": "gotestprep",
+    "sourceFile": "gotestprep_middle_reading.html",
+    "sourcePages": [],
+    "level": "Middle",
+    "paragraphs": [
+      "The Alaska Highway, which runs 1,523 miles from Dawson Creek, British Columbia, to Fairbanks, Alaska, was built by U.S. Army Engineers to counter a threatened Japanese invasion of Alaska. It was rushed through in an incredibly short period of nine months and was therefore never properly surveyed. Some of the territory it passes through has not even been explored.",
+      "Although the story that the builders followed the trail of a wandering moose is probably not true, the effect is much the same. The leading bulldozer simply crashed through the brush wherever the going was easiest, avoiding the big trees, swampy hollows, and rocks. The project was made more complicated by the necessity of following not the shortest or easiest route but one that would serve the string of United States-Canadian airfields that stretch from Montana to Alaska. Even on flat land, the road twists into hairpin curves. In rough terrain it goes up and down like a roller coaster. In the mountains, sometimes clinging to the sides of cliffs 400 feet high, it turns sharply, without warning, and gives rear seat passengers the stomach- gripping sensation of taking off into space. There is not a guardrail in its entire 1,500-mile length. Dust kicks up in giant plumes behind every car and on windless days hovers in the air like a thick fog.",
+      "Both the Canadian Army and the Alaskan Road Commission, which took over from the Army Engineers in 1946, do a commendable but nearly impossible job of maintaining the road. Where it is built on eternally frozen ground, it buckles and heaves, on the jellylike muskeg it is continually sinking and must be graveled afresh every month. Bridges thrown across rivers are swept away in flash floods. Torrential thaws wash out miles of highway every spring. On mountain-sides, you can tell the age of the road by counting the remains of earlier roads that have slipped down the slope."
+    ],
+    "questions": [
+      {
+        "id": "gotestprep-q16",
+        "number": 16,
+        "prompt": "Which title best expresses the main idea of this selection?",
+        "options": [
+          "“The Alaskan Road Commission”",
+          "“Building and Maintaining the Alaska Highway”",
+          "“Exploring Alaska”",
+          "“Driving Conditions in the Far North”"
+        ],
+        "answer": 1,
+        "explanation": "The first two paragraphs describe building the highway; the last explains the continuing difficulty of maintaining it.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "gotestprep-q17",
+        "number": 17,
+        "prompt": "The Alaska Highway was built to",
+        "options": [
+          "make the route between Alaska and the States shorter.",
+          "promote trade with Canada.",
+          "meet a wartime emergency.",
+          "aid exploration and surveying efforts"
+        ],
+        "answer": 2,
+        "explanation": "The opening sentence says it was built to counter a threatened Japanese invasion of Alaska, identifying a wartime emergency.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q18",
+        "number": 18,
+        "prompt": "The job of maintaining the road is complicated by the",
+        "options": [
+          "threat of invasion.",
+          "forces of nature.",
+          "lack of surveying.",
+          "age of the road"
+        ],
+        "answer": 1,
+        "explanation": "The last paragraph lists frozen ground, sinking muskeg, floods, thaws, and landslides. These are forces of nature.",
+        "skill": "Detail"
+      },
+      {
+        "id": "gotestprep-q19",
+        "number": 19,
+        "prompt": "The word terrain refers to",
+        "options": [
+          "geographical features of the land.",
+          "geographical mountains and valleys.",
+          "a specific land area.",
+          "swamps."
+        ],
+        "answer": 0,
+        "explanation": "The surrounding description concerns rough ground, mountains, and cliffs. “Terrain” means the physical or geographical features of the land.",
+        "skill": "Vocabulary"
+      }
+    ],
+    "note": "This is a historical source passage. Answer using the conditions described in the passage, rather than present-day conditions."
+  },
+  {
+    "id": "gotestprep-06",
+    "title": "Resources and conservation",
+    "genre": "Social science",
+    "sourceId": "gotestprep",
+    "sourceFile": "gotestprep_middle_reading.html",
+    "sourcePages": [],
+    "level": "Middle",
+    "paragraphs": [
+      "When the first white men came to North America, they found an abundance of valuable natural resources. Forests covered enormous areas; the soil was extremely fertile; and the forests, prairies, streams, and rivers abounded with wildlife. Later, huge quantities of gas, oil, and minerals were discovered.",
+      "These resources were so vast that it seemed they could never be exhausted. The forests were cleared for farmland. Grasslands and prairies were plowed and planted with crops. Mammals and birds were hunted for food and sport, and eventually factories, mills, and power companies were built on nearly every river. Minerals and oil were used to supply and power a young industrial nation.",
+      "The effects of these actions became apparent within a relatively short period of time. Timber shortages were predicted. The fertile soil was washed away by rain and blown about in great dust storms by the wind. Several species of birds began to disappear, and some of the great mammals became extinct. Many rivers were made unfit for fish by the pollution of factories. The seemingly inexhaustible stores of oil and minerals began to show signs of depletion.",
+      "Since that time, Americans have sponsored the creation of conservation programs in the hope that future generations may continue to share and enjoy the natural resources that are part of our heritage."
+    ],
+    "questions": [
+      {
+        "id": "gotestprep-q20",
+        "number": 20,
+        "prompt": "Which title best expresses the main idea of this selection?",
+        "options": [
+          "“The First White Men in America”",
+          "“The Loss of America’s Natural Resources”",
+          "“Our American Heritage”",
+          "“The Cause of Our Timber Shortages”"
+        ],
+        "answer": 1,
+        "explanation": "The passage traces the loss of forests, soil, wildlife, clean rivers, oil, and minerals before mentioning conservation.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "gotestprep-q21",
+        "number": 21,
+        "prompt": "The word depletion means",
+        "options": [
+          "extinction.",
+          "running out.",
+          "having the quality of being inexhaustible.",
+          "destruction."
+        ],
+        "answer": 1,
+        "explanation": "The earlier claim that resources seemed inexhaustible is contrasted with signs they were being used up. “Depletion” means running out.",
+        "skill": "Vocabulary"
+      },
+      {
+        "id": "gotestprep-q22",
+        "number": 22,
+        "prompt": "It seemed to the early settlers that",
+        "options": [
+          "there was a shortage of minerals.",
+          "there had been a great deal of soil erosion.",
+          "the natural resources were inexhaustible.",
+          "resources should be carefully used."
+        ],
+        "answer": 2,
+        "explanation": "The second paragraph says the resources seemed so vast that they could never be exhausted.",
+        "skill": "Detail"
+      }
+    ]
+  }
+]

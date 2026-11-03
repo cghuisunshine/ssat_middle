@@ -2,6 +2,12 @@
 
 Open [the contents page](content.html) or [vocabulary practice](ssat_middle_vocabulary.html) directly in a browser. The practice page is self-contained and works offline; reviews, stars, and custom words stay in browser storage.
 
+Open [Middle Level reading practice](ssat_middle_reading.html) for 37 passages and 182 questions selected from `reading_materials/`. Guided practice includes immediate explanations; four 40-question sets support 40-minute practice with answers hidden until submission. Passage notes, bookmarks, latest results, and backup/restore work locally in your browser. No external assets or services are needed to practice.
+
+The reading bank includes only explicitly labeled SSAT Middle Level sections from Ivy Global, Test Ninjas, Kaplan, Princeton Review, and GoTestPrep. It excludes SSAT Upper Level, all ISEE, mixed-level drills, other subjects, experimental sections, download listings, and the duplicated Ivy full-test reading section. Kaplan contributes only PDF pages 462–473. Publisher keys verify the Ivy, Test Ninjas, Kaplan, and GoTestPrep answers. The Princeton excerpt has no key; its answers were prepared from the passages and are labeled accordingly. Its question 9 has one clarified choice; other source-reference cleanup is documented in the page.
+
+Reviewed reading data lives in `tools/reading-data-*.json`; UI sources are `tools/reading-page.*`. Rebuild the standalone page with `python3 tools/build_reading_page.py` and check its data, publisher keys, and offline structure with `node tools/check_reading.cjs`. `tools/check_reading_browser.js` runs in an open reading-page browser context to verify all 182 questions, four timed sets, grading, notes, and deadline behavior; it restores the original saved browser state afterward. Source texts remain credited to their publishers; keep this collection for local study.
+
 The expanded bank contains 950 words with context sentences, 40 additional meanings, 36 groups of related words, and 85 analogy questions. It includes every headword in the two Ivy Global sample lists checked in the [coverage audit](vocabulary_coverage_audit.md). These are preparation benchmarks, not an official exhaustive SSAT word list.
 
 **Check answer** immediately shows a prebuilt lesson for the exact word meaning or analogy relationship, a comparison of every displayed choice, a memory cue, and Chinese support when enabled. All 990 word senses and 85 analogies have lessons embedded in the HTML. The page uses no AI endpoint or network requests to explain answers.
@@ -21,3 +27,10 @@ node tools/check_prebuilt_explanations.cjs
 The builder preserves existing word IDs, the browser storage key, and the first 60 analogy IDs. It updates the contents-page counts and requires a context sentence for every built-in word. No build tools are needed to use the finished HTML page.
 
 The explanation checks run with the browser marked offline and a network-request trap. They verify all 3,960 word-question variants, every analogy and its choices, exact word senses, immediate feedback, timed-review explanations, safe text rendering, Chinese toggling, and grade preservation.
+
+Download the public reading practice resources with `python3 tools/download_ssat_reading.py`.
+Open `reading_materials/index.html` for the files and their sources; downloaded materials are ignored by Git.
+Unavailable publisher links have explicit HTTPS fallbacks: pinned Internet Archive copies for Ivy Global and the publisher CDN for Princeton Review.
+The index labels fallback copies, and `download_report.json` records attempted URLs, errors, and file hashes.
+Certificate verification remains enabled. If Internet Archive returns a rate-limit response, the script retries with system `curl` when available.
+Run the downloader's offline checks with `python3 -m unittest discover -s tools -p 'test_download_ssat_reading.py'`.

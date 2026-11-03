@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="SSAT Middle Level reading comprehension: __PASSAGE_COUNT__ passages, __QUESTION_COUNT__ questions, evidence-based explanations, and 40-minute practice tests. Works offline.">
+<meta name="theme-color" content="#194d3d">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23194d3d'/%3E%3Ctext x='7' y='30' font-family='Georgia' font-size='33' font-style='italic' fill='%23d7edaf'%3Ew%3C/text%3E%3C/svg%3E">
+<title>SSAT Middle Level Reading Practice · Wordwise</title>
+<style>__CSS__</style>
+</head>
+<body>
+<div class="shell">
+<header class="topbar">
+<a class="brand" href="content.html"><span class="mark" aria-hidden="true">w</span>wordwise.<span>the reading studio</span></a>
+<nav class="toplinks" aria-label="Main navigation"><a href="content.html">Contents</a><a href="ssat_middle_vocabulary.html">Vocabulary</a><button class="quiet" id="progress-button">My progress</button><button class="primary" id="timed-button">40-minute practice ↗</button></nav>
+</header>
+<section class="hero" aria-labelledby="page-title">
+<div><div class="eyebrow">SSAT Middle Level · Grades 5–7</div><h1 id="page-title">Read closely. <em>Think clearly.</em></h1><p>Explore a passage, find the evidence, and build your confidence.<br>Middle Level reading, with explanations for every question.</p></div>
+<div class="hero-stats" aria-label="Practice overview"><div class="hero-stat"><strong>__PASSAGE_COUNT__</strong><span>passages to explore</span></div><div class="hero-stat"><strong>__QUESTION_COUNT__</strong><span>practice questions</span></div><div class="hero-stat"><strong id="hero-completed">0</strong><span>questions checked</span></div></div>
+</section>
+<main class="workspace" id="workspace">
+<details class="library" id="library" open>
+<summary>Passage library <span id="mobile-library-count"></span></summary>
+<div class="library-title"><h2>Your reading library</h2><span id="library-count"></span></div>
+<label class="sr-only" for="search">Search passages</label><div class="search-wrap"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input type="search" id="search" placeholder="Find a passage…" autocomplete="off"></div>
+<div class="library-filters"><div><label class="sr-only" for="source-filter">Filter by source</label><select id="source-filter"><option value="all">All five sources</option></select></div><div class="library-filter-extra"><label class="sr-only" for="status-filter">Filter by progress</label><select id="status-filter"><option value="all">All passages</option><option value="new">Not completed</option><option value="complete">Completed</option><option value="missed">Needs another look</option><option value="saved">Saved passages</option></select></div></div>
+<div class="filter-genres" id="genre-filters" aria-label="Filter by genre"></div>
+<div class="passage-list" id="passage-list" aria-label="Passages"></div>
+<div class="library-bottom"><span id="library-progress">0 of __QUESTION_COUNT__ questions checked</span><div class="item-progress"><span id="library-progress-bar" style="width:0%"></span></div></div>
+</details>
+<div class="study-main">
+<div class="study-toolbar"><div class="mode-tag"><span class="mode-dot" aria-hidden="true"></span><strong id="mode-label">Guided practice</strong><span id="mode-description">· go at your own pace</span></div><div class="toolbar-actions"><span class="timer" id="timer" hidden aria-label="Time remaining"></span><button class="quiet small" id="focus-button" aria-pressed="false">Focus view</button><button class="quiet small" id="exit-test-button" hidden>Exit review</button></div></div>
+<div class="test-banner" id="test-banner" hidden></div>
+<div class="reading-grid"><article class="passage-card" id="passage-card" aria-labelledby="passage-title"></article><section class="question-card" id="question-card" aria-label="Practice questions"></section></div>
+<div id="passage-result"></div>
+<p class="reading-tip"><strong>A small reading habit:</strong> before choosing an answer, find the sentence that makes it true.</p>
+</div>
+</main>
+<footer class="bottom-bar"><span>Independent practice · Source texts credited to their publishers · Answers and notes stay in this browser.</span><div class="footer-links"><button id="sources-button">Sources &amp; level filter</button><button id="guide-button">Reading guide</button></div></footer>
+</div>
+<dialog id="modal" aria-labelledby="modal-title"><div class="dialog-inner" id="modal-content"></div></dialog>
+<div class="status-toast" id="toast" role="status" aria-live="polite"></div>
+<div id="storage-warning" class="sr-only" role="status" aria-live="polite"></div>
+<script type="application/json" id="reading-data">__DATA__</script>
+<script>__JS__</script>
+</body>
+</html>

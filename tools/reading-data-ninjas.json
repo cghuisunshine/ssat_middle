@@ -1,0 +1,802 @@
+[
+  {
+    "id": "ninjas-01",
+    "title": "Connecting the First Telephone Calls",
+    "genre": "History",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      15,
+      16,
+      17
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "In the first decades of the telephone, a call did not travel by itself. Somebody moved it, by hand, one call at a time.",
+      "That somebody sat at a plug board. Picture a wall of small round holes, called jacks, standing upright at about the height of a person's face, with one jack for every telephone in town. On the shelf below lay rows of cords, each ending in a brass plug and each waiting to be pushed into a hole. The whole thing looked less like a machine than like a loom, and a switchboard operator worked it the way a weaver works a loom: fast, with both hands, hardly looking down.",
+      "The first operators were teenage boys hired away from telegraph offices, and the companies decided almost at once that the boys were too short-tempered with customers. Emma Nutt went to work in Boston on September 1, 1878, the first woman to hold the job, and within a few years the work belonged to women almost entirely. A good operator knew hundreds of jacks by touch and could carry several conversations in her head at once.",
+      "A long-distance call was harder and much slower. No operator could reach a telephone three states away. She could only reach another operator standing closer to it, who reached another closer still, so that a call across the country might pass through the hands of half a dozen strangers. The caller often gave up waiting, hung up, and was rung back when the last plug finally went home."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q01",
+        "number": 1,
+        "prompt": "The passage moves from plug-board handwork to the delays of a long-distance call. Which statement best captures its central idea?",
+        "options": [
+          "Switchboards failed mainly because the first teenage operators treated callers impatiently.",
+          "Early telephone service depended on skilled operators who physically built each connection.",
+          "Long-distance service became practical only after callers learned to wait for return calls.",
+          "The plug board was designed to copy both the appearance and the purpose of a weaver's loom.",
+          "Emma Nutt invented a method that let one operator manage several conversations at once."
+        ],
+        "answer": 1,
+        "explanation": "Every part of the passage explains the human work behind early phone service: operators handled cords, remembered connections, and passed long-distance calls from one board to the next.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q02",
+        "number": 2,
+        "prompt": "The passage suggests that a long-distance call took so long mainly because",
+        "options": [
+          "storms often brought down the wires that ran between distant towns",
+          "each operator could reach only as far as the next operator down the line",
+          "callers were expected to hang up and wait to be rung back",
+          "operators in distant towns spoke to one another instead of to the caller",
+          "only operators in distant towns spoke to one another instead of to the caller"
+        ],
+        "answer": 1,
+        "explanation": "An operator could not reach a distant telephone directly. Each connection had to be passed through another operator closer to its destination, creating delays.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q03",
+        "number": 3,
+        "prompt": "The comparison of the plug board to a loom mainly emphasizes",
+        "options": [
+          "how old-fashioned the equipment must have looked to visitors",
+          "only how much a small town had to spend to build a switchboard",
+          "the practiced hand work the board demanded of the operator",
+          "how much a small town had to spend to build a switchboard",
+          "how badly the cords tangled by the end of a long shift"
+        ],
+        "answer": 2,
+        "explanation": "The comparison focuses on an operator working “fast, with both hands, hardly looking down,” just as a practiced weaver works a loom.",
+        "skill": "Structure"
+      },
+      {
+        "id": "ninjas-q04",
+        "number": 4,
+        "prompt": "According to the passage, telephone companies were unhappy with their first operators because",
+        "options": [
+          "those operators were rude to the customers",
+          "those operators could not remember the numbers on the board",
+          "women were willing to work much longer shifts",
+          "the telegraph offices wanted those operators back",
+          "only those operators could not remember the numbers on the board"
+        ],
+        "answer": 0,
+        "explanation": "The passage says the boys were “too short-tempered with customers.” That directly supports the choice about rude treatment of callers.",
+        "skill": "Detail"
+      },
+      {
+        "id": "ninjas-q05",
+        "number": 5,
+        "prompt": "Which statement directly describes how early operators connected telephone calls?",
+        "options": [
+          "Somebody moved it, by hand, one call at a time",
+          "Picture a wall of small round holes, called jacks, standing upright at about the height of…",
+          "The first operators were teenage boys hired away from telegraph offices, and the companies decided almost…",
+          "A good operator knew hundreds of jacks by touch and could carry several conversations in her…",
+          "The caller often gave up waiting, hung up, and was rung back when the last plug…"
+        ],
+        "answer": 0,
+        "explanation": "The opening explicitly states, “Somebody moved it, by hand, one call at a time.” This describes the individual manual work behind each call.",
+        "skill": "Detail"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  },
+  {
+    "id": "ninjas-02",
+    "title": "A Dark Corridor for Migrating Animals",
+    "genre": "Science",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      18,
+      19
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Many migrating animals travel at night, when artificial light can alter signals that once came mainly from the sky. The trouble is not that every lamp produces the same effect or that animals simply forget their routes. A light’s height, direction, brightness, and timing can change how strongly it interferes with movement. Understanding those details allows communities to reduce harm without demanding total darkness after sunset.",
+      "During a migration season, bright lights on a glass tower can draw night-flying birds toward the building. Some birds circle the glow, spend needed energy, or collide with windows that reflect open sky. An insect that normally keeps a distant natural light at a steady angle may react differently to a nearby bulb. It can spiral around the lamp instead of continuing toward feeding or breeding habitat.",
+      "Useful changes therefore focus first on the places and hours that create the greatest risk. Managers can dim unnecessary tower lights and close blinds when large numbers of birds are passing through. Along a path, shielded lamps can aim illumination downward instead of scattering it into the sky and nearby plants. Timers can reduce lighting late at night while keeping entrances lit when people are actually using them.",
+      "These steps do not treat human safety and animal movement as competing choices with only one winner. They ask where light is needed, how much is useful, and when a lower level can do the same job. Monitoring remains important because a change that helps birds at a tower may not solve an insect problem beside a pond. The goal is a dark corridor in time and space: enough connected relief for travelers to keep moving."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q06",
+        "number": 6,
+        "prompt": "The passage’s central point is that communities can limit light-related migration problems by",
+        "options": [
+          "adjusting lighting at the particular places and times where it causes harm",
+          "turning off every outdoor light throughout the entire year",
+          "moving all migrating animals away from towns and buildings",
+          "using one identical lamp design for birds and insects everywhere",
+          "keeping buildings brighter so animals learn to avoid them"
+        ],
+        "answer": 0,
+        "explanation": "The passage recommends changing a light’s height, direction, brightness, and timing where risks are greatest, rather than demanding complete darkness everywhere.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q07",
+        "number": 7,
+        "prompt": "How do the examples of birds at a glass tower and an insect near a bulb differ?",
+        "options": [
+          "Birds travel only by day, while the insect travels only during a migration season.",
+          "Birds mistake lamps for food, while the insect mistakes windows for open sky.",
+          "Birds are disturbed only beside ponds, while the insect is disturbed only on towers.",
+          "Birds stop using natural signals, while the insect immediately forgets its destination.",
+          "Birds may circle a tower or strike glass, while an insect may spiral around a nearby bulb."
+        ],
+        "answer": 4,
+        "explanation": "The bird example describes circling a tower’s glow or colliding with reflective windows. The insect example describes spiraling around a nearby lamp.",
+        "skill": "Detail"
+      },
+      {
+        "id": "ninjas-q08",
+        "number": 8,
+        "prompt": "The discussion of shielded lamps implies that the direction of light matters because shielding can",
+        "options": [
+          "keep useful light on a path while reducing light that reaches wildlife elsewhere",
+          "make every bulb invisible to both people and animals",
+          "cause insects to use the same route as migrating birds",
+          "replace the need to monitor conditions near a pond",
+          "increase the amount of light scattered into the sky"
+        ],
+        "answer": 0,
+        "explanation": "A shielded lamp directs useful illumination downward onto the path instead of scattering it into the sky and nearby plants. It can therefore serve people while reducing wildlife disturbance.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q09",
+        "number": 9,
+        "prompt": "The paragraph beginning “Useful changes therefore focus first on the places and hours that create the greatest risk” is organized mainly as",
+        "options": [
+          "a claim that lighting is harmless followed by evidence against that claim",
+          "a timeline showing how birds and insects evolved their routes",
+          "a general strategy followed by several examples of putting it into practice",
+          "a comparison of two towns that adopted opposite laws",
+          "a list of questions that scientists have been unable to study"
+        ],
+        "answer": 2,
+        "explanation": "The paragraph first proposes focusing on high-risk places and hours, then gives practical examples: dimming lights, closing blinds, using shields, and setting timers.",
+        "skill": "Structure"
+      },
+      {
+        "id": "ninjas-q10",
+        "number": 10,
+        "prompt": "The phrase “a dark corridor in time and space” refers to",
+        "options": [
+          "an enclosed tunnel built to keep all animals away from people",
+          "a route that remains unlit for humans every night of the year",
+          "a glass hallway in which birds can see reflected sky",
+          "connected periods and places where reduced light lets migrating animals continue their journeys",
+          "a single pond where birds and insects must end their migration"
+        ],
+        "answer": 3,
+        "explanation": "The following words explain the metaphor: “enough connected relief for travelers to keep moving.” The corridor consists of reduced-light places and periods, rather than a physical tunnel.",
+        "skill": "Structure"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  },
+  {
+    "id": "ninjas-03",
+    "title": "Making Still Pictures Move",
+    "genre": "Social science",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      20,
+      21
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Nothing on a comics page moves. The paper is still, the ink is dry, and yet a reader will tell you afterward that the bicycle went around the corner. Three ordinary tricks do that work, and all three can be watched at once on a single panel.",
+      "The first trick is the easiest to point at. Behind the rider the artist has laid down a fan of thin strokes, all running the same way, all lined up with the direction she is traveling. These are speed lines. They are not smoke and they are not shadow, and nothing on a real street looks like them. They stand in for the smear an eye gets when something crosses in front of it too quickly to hold. The more of them there are, and the tighter they are packed, the faster the rider seems to be going.",
+      "The second trick is not inside the panel at all. It is the blank strip along the panel's right edge, the panel gutter, and it holds this drawing apart from the next one. In that next panel the rider is already out of the turn and halfway up the block. Nothing shows what happened in between, because the artist has drawn none of it. The reader supplies it, in the space of a blink, without noticing the work. A gutter is the one part of a comic the reader has to fill in, and it is where a surprising amount of the motion is made.",
+      "The third trick is a matter of size. Hand one drawing an entire sheet of paper, which is what a splash page is, and the eye slows down and stays a while. Had this corner been drawn that large, the turn would read as a moment held still rather than a moment rushing past. Squeezed small, with a gutter waiting on either side, the very same drawing pushes the reader onward. Speed on a page is partly a question of how much room a picture is given."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q11",
+        "number": 11,
+        "prompt": "Speed lines, a blank gutter, and panel size each affect the bicycle scene. What larger idea connects those examples?",
+        "options": [
+          "Comic artists create convincing motion by copying the blur and shadows that appear on a real street.",
+          "Most of the motion in a comic comes from the reader's work in the gutter between two panels.",
+          "Giving an action drawing more space makes the pictured event seem faster and more urgent.",
+          "A rider's leaning pose is more important to a sense of motion than any decision about lines or panels.",
+          "Comic artists combine visual marks and page layout to make still drawings seem to move at different speeds."
+        ],
+        "answer": 4,
+        "explanation": "The passage explains three techniques—speed lines, gutters, and panel size—that create an impression of motion or change its apparent pace on a still page.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q12",
+        "number": 12,
+        "prompt": "The discussion of speed lines suggests that an artist who wanted the rider to seem slower could",
+        "options": [
+          "move the rider closer to the center of the panel",
+          "draw fewer speed lines and space them farther apart",
+          "leave the wheel pointing straight ahead instead of sideways",
+          "put the panel at the bottom of the page rather than the middle",
+          "only put the panel at the bottom of the page rather than the middle"
+        ],
+        "answer": 1,
+        "explanation": "The passage says more speed lines packed tightly make the rider seem faster. Fewer lines with wider spacing would imply a slower movement.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q13",
+        "number": 13,
+        "prompt": "The passage suggests that an artist who wanted to cover a long stretch of the ride in very little space could",
+        "options": [
+          "fill the panel with far more speed lines than it needs",
+          "make the gutter as wide as the panels on either side",
+          "draw the rider several times over inside one panel",
+          "draw the start and the end and let the gutter hold the rest",
+          "only make the gutter as wide as the panels on either side"
+        ],
+        "answer": 3,
+        "explanation": "The artist can show only the start and end of an action. The reader mentally supplies the missing movement in the gutter between those panels.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q14",
+        "number": 14,
+        "prompt": "According to the passage, a splash page is",
+        "options": [
+          "a panel drawn with no gutter anywhere around it",
+          "the opening panel of any comics story",
+          "a single drawing given a whole sheet of paper",
+          "a panel whose speed lines run off the edge",
+          "only the opening panel of any comics story"
+        ],
+        "answer": 2,
+        "explanation": "The passage directly defines a splash page as giving “one drawing an entire sheet of paper.”",
+        "skill": "Detail"
+      },
+      {
+        "id": "ninjas-q15",
+        "number": 15,
+        "prompt": "To trace how the passage about how comic artists make a still picture move is organized, which quoted detail should a reader place first?",
+        "options": [
+          "\"Nothing on a comics page moves.\"",
+          "\"They stand in for the smear an eye gets when something crosses in front of it too quickly to hold.\"",
+          "\"In that next panel the rider is already out of the turn and halfway up the block.\"",
+          "\"A gutter is the one part of a comic the reader has to fill in, and it is where a surprising amount of the motion is made.\"",
+          "\"Speed on a page is partly a question of how much room a picture is given.\""
+        ],
+        "answer": 0,
+        "explanation": "“Nothing on a comics page moves” is the opening statement. It introduces the apparent contradiction that the following examples explain.",
+        "skill": "Structure"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Question 12 refers to the speed-line discussion rather than the source’s mistaken reference to the third paragraph. Printed line references elsewhere are replaced with the relevant quoted phrase or passage context."
+  },
+  {
+    "id": "ninjas-04",
+    "title": "The Living Clock",
+    "genre": "Poetry",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "At first the hive behind its glass panel looks like a crowd with nowhere left to stand. Gold bodies cross, turn back, and cross again, a hundred hands on one invisible task. Then my eyes begin to find the pattern. Nurses visit rows of waiting cells. Builders seal one cell of honey. A worker enters with bright dust on her legs, then circles through a careful waggle dance, sharing direction with the bees nearby. The hive becomes a living clock: each bee a hand that sweeps its measured path, different motions keeping common time. No bell rings out the hour inside. No single bee can see the whole design. Still, food arrives and wax walls rise, and crowded movement, watched long enough, reveals an order larger than one worker, ticking softly on the other side of glass."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q16",
+        "number": 16,
+        "prompt": "The poem mainly shows the observer learning that",
+        "options": [
+          "the hive's crowded activity follows an organized pattern",
+          "the bees are trapped because their hive is too small",
+          "one worker controls every other bee in the hive",
+          "a glass panel prevents bees from making honey",
+          "the waggle dance is performed only to entertain people"
+        ],
+        "answer": 0,
+        "explanation": "The observer initially sees an aimless crowd, then recognizes the connected jobs and dependable pattern behind the hive’s activity.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q17",
+        "number": 17,
+        "prompt": "Comparing the hive with a living clock chiefly emphasizes",
+        "options": [
+          "the exact number of hours bees work each day",
+          "the hive's ability to produce a ringing sound",
+          "many distinct movements working together in a dependable system",
+          "the round shape of every honeycomb cell",
+          "the observer's worry that time is passing too quickly"
+        ],
+        "answer": 2,
+        "explanation": "A clock’s hands have different movements that keep common time. The metaphor likewise emphasizes individual bees performing different jobs within one coordinated system.",
+        "skill": "Structure"
+      },
+      {
+        "id": "ninjas-q18",
+        "number": 18,
+        "prompt": "The shift from a “crowd” to a “pattern” reflects a change in",
+        "options": [
+          "the number of bees living inside the hive",
+          "the speed at which the bees can fly",
+          "the material from which the hive is built",
+          "the observer's understanding of what the bees are doing",
+          "the time of day when the hive is viewed"
+        ],
+        "answer": 3,
+        "explanation": "The bees do not suddenly change their behavior. Instead, the observer watches long enough to recognize a pattern in activity that first looked crowded and confusing.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q19",
+        "number": 19,
+        "prompt": "The lines “No bell rings out the hour inside. / No single bee can see the whole design. / Still, food arrives and wax walls rise” suggest that the hive’s work succeeds because",
+        "options": [
+          "a bell tells every bee when to switch jobs",
+          "each bee understands every task in the hive",
+          "the observer gives directions through the glass",
+          "food and wax appear without labor",
+          "individual bees perform connected jobs without one bee directing everything"
+        ],
+        "answer": 4,
+        "explanation": "The poem says no single bee sees the whole design, yet food arrives and wax walls rise. These details suggest success through many connected individual jobs.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q20",
+        "number": 20,
+        "prompt": "In “reveals an order larger than one worker,” the word “reveals” most nearly means",
+        "options": [
+          "makes visible or known",
+          "covers completely",
+          "copies exactly",
+          "slows down",
+          "breaks apart"
+        ],
+        "answer": 0,
+        "explanation": "The observed movement makes the hive’s larger order apparent. In this context, “reveals” means makes visible or known.",
+        "skill": "Vocabulary"
+      }
+    ],
+    "answerKeyPage": 50,
+    "lines": [
+      "At first the hive behind its glass panel",
+      "looks like a crowd with nowhere left to stand.",
+      "Gold bodies cross, turn back, and cross again,",
+      "a hundred hands on one invisible task.",
+      "Then my eyes begin to find the pattern.",
+      "Nurses visit rows of waiting cells.",
+      "Builders seal one cell of honey.",
+      "A worker enters with bright dust on her legs,",
+      "then circles through a careful waggle dance,",
+      "sharing direction with the bees nearby.",
+      "The hive becomes a living clock:",
+      "each bee a hand that sweeps its measured path,",
+      "different motions keeping common time.",
+      "No bell rings out the hour inside.",
+      "No single bee can see the whole design.",
+      "Still, food arrives and wax walls rise,",
+      "and crowded movement, watched long enough,",
+      "reveals an order larger than one worker,",
+      "ticking softly on the other side of glass."
+    ],
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  },
+  {
+    "id": "ninjas-05",
+    "title": "The Bakery Recipe",
+    "genre": "Literature",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      24,
+      25
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Colette knew the order before the bell over the door had finished ringing. Seven fifteen, a scrape of sneakers on the mat, and then Fintan at the counter with his change already counted out. One cheese twist. No bag. He had asked for the same thing every school morning for two years, and she had stopped writing it down after the first week.",
+      "\"Friday,\" she said, because he had not asked yet and she wanted it over with. \"The building is being sold. Friday is the last day.\"",
+      "Fintan set the coins on the glass one at a time instead of all together, which she understood. He said that was all right. He said it twice. Then he asked whether she would be baking somewhere else, and she said she did not know yet, and the oven ticked behind her as it cooled, like something settling in for a long sleep.",
+      "\"Take it,\" she said. \"Somebody ought to be making them.\"",
+      "He turned the card over twice. The writing ran in loops that leaned into one another, spidery and faded, and whole words had gone soft where a thumb had rubbed them for forty years. He could make out flour. He could make out the number two. The rest of it might as well have been a fence.",
+      "Colette watched him work at it and did not offer to read it aloud, and neither of them said anything for a while. He put the card in his shirt pocket, carefully, the way a person carries something they intend to come back to. Then the bell rang again behind him, and there were other people to serve."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q21",
+        "number": 21,
+        "prompt": "A familiar breakfast order is interrupted by a closing notice and the gift of a worn recipe card. Which choice best expresses the story's main idea?",
+        "options": [
+          "As the bakery's daily routine ends, Colette entrusts its recipe and the possibility of continuing it to Fintan.",
+          "Fintan learns to bake the cheese twists after Colette explains every faded word on the card.",
+          "Colette closes the bakery because she has already chosen a better place in which to continue baking.",
+          "Fintan's exact order shows why an efficient baker should memorize every regular customer's habits.",
+          "The unreadable recipe convinces Colette and Fintan that the bakery's traditions cannot survive its closing."
+        ],
+        "answer": 0,
+        "explanation": "The repeated breakfast routine is ending, but Colette gives Fintan the recipe and says somebody should keep making the pastries. The gift offers a way to continue the tradition.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q22",
+        "number": 22,
+        "prompt": "Fintan sets the coins down one at a time most likely because he",
+        "options": [
+          "is not sure that he has counted out the right amount",
+          "wants Colette to notice that he has exact change",
+          "has been told that the shop no longer takes coins",
+          "has only been told that the shop no longer takes coins",
+          "is putting off the moment when he has to leave"
+        ],
+        "answer": 4,
+        "explanation": "Fintan slows an already familiar routine immediately after hearing that the bakery will close. Setting down each coin separately suggests reluctance to finish the visit and leave.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q23",
+        "number": 23,
+        "prompt": "As used to describe the handwriting on the recipe card, the word “spidery” most nearly means",
+        "options": [
+          "covered in dust",
+          "crawling with insects",
+          "written in dark ink",
+          "thin and uneven",
+          "only covered in dust"
+        ],
+        "answer": 3,
+        "explanation": "The handwriting is described as loops leaning into each other and faded words. “Spidery” therefore describes thin, uneven strokes rather than actual spiders or dust.",
+        "skill": "Vocabulary"
+      },
+      {
+        "id": "ninjas-q24",
+        "number": 24,
+        "prompt": "The comparison of the cooling oven to something settling in for a long sleep suggests that the shop is",
+        "options": [
+          "about to become busier than it has ever been",
+          "too old for anyone to repair it now",
+          "coming to a stop that will last",
+          "warmer than it has been all week",
+          "only too old for anyone to repair it now"
+        ],
+        "answer": 2,
+        "explanation": "The oven cooling into “a long sleep” echoes the bakery’s announced closing. The image suggests a lasting stop to its familiar activity.",
+        "skill": "Tone"
+      },
+      {
+        "id": "ninjas-q25",
+        "number": 25,
+        "prompt": "Which detail establishes Fintan’s familiar morning arrival at the bakery?",
+        "options": [
+          "\"Friday,\" she said, because he had not asked yet and she wanted it over with",
+          "The writing ran in loops that leaned into one another, spidery and faded, and whole words…",
+          "Seven fifteen, a scrape of sneakers on the mat, and then Fintan at the counter with…",
+          "Colette watched him work at it and did not offer to read it aloud, and neither…",
+          "Then the bell rang again behind him, and there were other people to serve"
+        ],
+        "answer": 2,
+        "explanation": "The sneakers, exact arrival time, and Fintan waiting with his change establish the familiar morning routine. The other choices describe later moments in the story.",
+        "skill": "Detail"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  },
+  {
+    "id": "ninjas-06",
+    "title": "A Ranger’s Quiet Work",
+    "genre": "Literature",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      26,
+      27
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "The gate at Quiverleaf Park opens at six, and Nico is usually the one who opens it. Nothing is waiting on the other side yet. He drives the loop road with the window down, stops at the upper trailhead, and reads the sign-in box bolted to the post there. Four cards from yesterday. Three of them have a time written in the come-back column. One does not.",
+      "He notes the name and keeps it in his shirt pocket all morning.",
+      "By seven he is at his post at the permit window, a counter the size of a door with a shelf on the visitor's side. A backcountry permit is a small piece of yellow paper, and handing one over takes about six minutes. Where are you camping the first night? The second? Nico slides a map across and marks the two sites. He asks about food, and if the answer is a bag on a rope he explains, again, why a hard canister is the rule now and where to borrow one. Nobody has ever been thrilled about the canister. Everybody carries it.",
+      "Twenty-two permits go out before noon.",
+      "At four he is back at the trailhead with a clipboard, copying numbers off the counter box that clicks once for every person who steps past it. Two hundred and six today. He writes it in the log under Tuesday's two hundred and forty. The numbers look like nothing. They are not nothing. In February somebody in an office will decide how many permits this park hands out next summer and how many cars the upper lot can hold, and they will decide it out of this column of figures and no other.",
+      "Then the gate again, and the sign-in box on the way down. Nico thumbs through yesterday's cards. The one with the empty column has a time on it now, written in a different pen, eleven forty this morning. He takes the note out of his shirt pocket, folds it in half, and drops it in the trash barrel by the gate."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q26",
+        "number": 26,
+        "prompt": "The day begins with an unfinished sign-in card and later includes permits, visitor figures, and a final check of the box. What does the passage mainly show?",
+        "options": [
+          "A ranger's most important duty is finding missing hikers before an official search has to begin.",
+          "The permit window succeeds because Nico can hand out many permits without asking visitors many questions.",
+          "Daily visitor totals are recorded chiefly so rangers can compare which weekday is most popular.",
+          "A ranger's repeated recordkeeping and visitor guidance quietly support both present safety and future park decisions.",
+          "Rules about food canisters create needless delays for visitors who already know how to hang a bag."
+        ],
+        "answer": 3,
+        "explanation": "Nico checks an overdue hiker’s card, advises visitors, records counts for planning, and checks the card again. Together, these routines support immediate safety and future decisions.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q27",
+        "number": 27,
+        "prompt": "Nico keeps the name in his shirt pocket all morning most likely because",
+        "options": [
+          "he will need it when he writes the visitor count in the log",
+          "that hiker had not signed back in and might still be up on the trail",
+          "he wants to ask that hiker how badly the west trail was blocked",
+          "the card had been filled in under the wrong column by mistake",
+          "he only wants to ask that hiker how badly the west trail was blocked"
+        ],
+        "answer": 1,
+        "explanation": "The one card has no return time. Nico keeps the hiker’s name so he can remember to check whether that person has safely returned.",
+        "skill": "Inference"
+      },
+      {
+        "id": "ninjas-q28",
+        "number": 28,
+        "prompt": "In “By seven he is at his post at the permit window,” the word “post” most nearly means",
+        "options": [
+          "an upright piece of wood set in the ground",
+          "a letter or package sent through the mail",
+          "only a letter or package sent through the mail",
+          "the place where somebody is stationed to work",
+          "a message put up for other people to read"
+        ],
+        "answer": 3,
+        "explanation": "In “By seven he is at his post at the permit window,” Nico is at his assigned workplace. The earlier wooden sign-in-box post uses a different meaning of the same word.",
+        "skill": "Vocabulary"
+      },
+      {
+        "id": "ninjas-q29",
+        "number": 29,
+        "prompt": "The phrase “He asks about food, and if the answer is a bag on a rope” appears during Nico’s morning work. Which choice best describes its role in the passage?",
+        "options": [
+          "It explains why Nico suspects that a hiker has failed to return.",
+          "It shows that visitors refuse to carry the required food canisters.",
+          "It introduces the visitor-count figures that Nico records late in the day.",
+          "It suggests that food is the only subject Nico handles during his shift.",
+          "It shows that Nico’s morning permit work includes checking plans and repeatedly explaining a safety rule."
+        ],
+        "answer": 4,
+        "explanation": "Asking about food is part of Nico’s permit interview. It lets him check the visitors’ plans and explain the required canister rule again.",
+        "skill": "Tone"
+      },
+      {
+        "id": "ninjas-q30",
+        "number": 30,
+        "prompt": "Which detail describes the park before visitors arrive?",
+        "options": [
+          "Nothing is waiting on the other side yet",
+          "Three of them have a time written in the come-back column",
+          "Where are you camping the first night",
+          "At four he is back at the trailhead with a clipboard, copying numbers off the counter…",
+          "He takes the note out of his shirt pocket, folds it in half, and drops it…"
+        ],
+        "answer": 0,
+        "explanation": "“Nothing is waiting on the other side yet” describes the empty park at opening time. The other choices concern later tasks and events.",
+        "skill": "Detail"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  },
+  {
+    "id": "ninjas-07",
+    "title": "Inside the Chrysalis",
+    "genre": "Science",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      28,
+      29
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "On the underside of a milkweed leaf, a monarch caterpillar stops eating. Since it hatched it has eaten nothing but milkweed, and it has shed its skin four times. Now it leaves the leaf, crawls onto a rail, and spins a small pad of silk on the underside of it. It hooks itself to that pad, lets go with every other foot, and hangs upside down in the shape of the letter J.",
+      "Then the skin comes off one last time. Underneath is a chrysalis: a smooth green case, dotted with gold near its lower end and rimmed with gold and black near its top. A hook at the rear of the case holds it to the same silk pad the caterpillar spun. For the next eight to fifteen days, nothing appears to happen at all.",
+      "Inside, almost the whole caterpillar is being taken apart. The muscles that hauled it the length of a leaf and the gut that handled all that milkweed: most of that machinery is broken down into material the body can use again. It is not, whatever the stories say, a bag of soup in there. A caterpillar does not dissolve all the way, and some of what it was is carried straight through.",
+      "The rebuilding does not start from nothing either. Long before the caterpillar hatched, small patches of cells were set aside inside it. They are called imaginal discs, and all through the weeks of feeding they sat still and did no work at all. Each one already had its assignment. This patch would become a wing. That one would become a leg, and another an antenna."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q31",
+        "number": 31,
+        "prompt": "The caterpillar hangs in a J, appears still, and already carries patches of cells with future assignments. Which statement best conveys the passage's main idea?",
+        "options": [
+          "A caterpillar dissolves completely inside the chrysalis before an entirely new animal forms from liquid.",
+          "Inside a chrysalis, much of a caterpillar is recycled while long-prepared cells build the butterfly's new structures.",
+          "The hard outer case shapes the wings, legs, and antennae by pressing the soft body into place.",
+          "Imaginal discs first appear after the caterpillar stops eating and attaches itself to the silk pad.",
+          "The chrysalis mainly protects an unchanged caterpillar while it waits eight to fifteen days to emerge."
+        ],
+        "answer": 1,
+        "explanation": "The passage corrects the idea that the caterpillar becomes only liquid. Much of its body is recycled, while cells already present develop into adult structures.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q32",
+        "number": 32,
+        "prompt": "The first two paragraphs, which describe the caterpillar attaching itself and forming a chrysalis, do which of the following?",
+        "options": [
+          "They explain why a caterpillar eats only milkweed and nothing else.",
+          "They follow the caterpillar step by step until the case is closed.",
+          "They compare a caterpillar's body with the body of a butterfly.",
+          "They give the reason a chrysalis is green rather than brown.",
+          "They only give the reason a chrysalis is green rather than brown."
+        ],
+        "answer": 1,
+        "explanation": "The first two paragraphs describe the caterpillar attaching itself, hanging in a J, shedding its skin, and becoming enclosed in the chrysalis. The order is chronological.",
+        "skill": "Structure"
+      },
+      {
+        "id": "ninjas-q33",
+        "number": 33,
+        "prompt": "As used to describe the caterpillar’s muscles and gut, the word “machinery” most nearly means",
+        "options": [
+          "a set of noisy engines",
+          "tools kept in a shed",
+          "the working parts of a body",
+          "the plans for a hard job",
+          "only a set of noisy engines"
+        ],
+        "answer": 2,
+        "explanation": "“Machinery” refers back to muscles and the gut, the body parts that performed movement and digestion. It is a figurative description of working biological parts.",
+        "skill": "Vocabulary"
+      },
+      {
+        "id": "ninjas-q34",
+        "number": 34,
+        "prompt": "According to the passage, the chrysalis is held in place by",
+        "options": [
+          "the last skin the caterpillar shed, still wrapped around it",
+          "a thread the caterpillar wound around the rail as it crawled",
+          "only the last skin the caterpillar shed, still wrapped around it",
+          "a hook at its rear end, caught in a pad of silk",
+          "the gold and black rim that runs around near its top"
+        ],
+        "answer": 3,
+        "explanation": "The passage directly states that a hook at the rear of the chrysalis holds it to the silk pad that the caterpillar spun.",
+        "skill": "Detail"
+      },
+      {
+        "id": "ninjas-q35",
+        "number": 35,
+        "prompt": "According to the passage, the imaginal discs",
+        "options": [
+          "are added to the caterpillar during the days inside the case",
+          "were already inside the caterpillar and did no work while it fed",
+          "each grow into several different parts of the adult butterfly",
+          "are what is left after the muscles and the gut are broken down",
+          "are only what is left after the muscles and the gut are broken down"
+        ],
+        "answer": 1,
+        "explanation": "The imaginal discs were set aside before the caterpillar hatched. They remained inactive during feeding and already had future assignments such as becoming a wing or leg.",
+        "skill": "Detail"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  },
+  {
+    "id": "ninjas-08",
+    "title": "The Map on the Envelope",
+    "genre": "History",
+    "sourceId": "ninjas",
+    "sourceFile": "test_ninjas_middle_full_test.pdf",
+    "sourcePages": [
+      30,
+      31,
+      32
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Look at the row of digits at the end of a mailing address. It is easy to read past them. They are the most useful thing on the envelope, and the reason is worth knowing.",
+      "For most of the history of the Post Office, an address was a set of instructions for a stranger, and the stranger was a clerk. A letter to a big city landed in front of somebody who had to know that city the way you know your own block: which streets belonged to which carrier, where one route ended and the next began. That knowledge lived in the clerk's head. It took years to put there, and it left when the clerk did.",
+      "The war took it out all at once. Experienced clerks went into the army, and the people hired to replace them did not know the routes. In May of 1943 the Post Office Department gave zone numbers to 124 large cities, a digit or two written between the city and the state, so that a new clerk could sort a letter correctly without ever learning a carrier's territory. The postmaster general said as much at the time. The zone number was not a convenience. It was a repair.",
+      "The clever part was never the digits themselves. It was where the knowledge ended up. For a century the map of the country sat inside the heads of people who had spent years learning it, and could not be hired, taught or shipped in a hurry. After 1963 the map sat on the envelope, put there by the person who wrote the letter, and anybody at all could read it."
+    ],
+    "questions": [
+      {
+        "id": "ninjas-q36",
+        "number": 36,
+        "prompt": "The passage contrasts knowledge held in a clerk's memory with a map placed on an envelope. Which choice best states its central idea?",
+        "options": [
+          "Wartime zone numbers were created mainly to help soldiers send letters home from unfamiliar cities.",
+          "Large cities received zone numbers because their streets had become too numerous for separate post offices.",
+          "Postal codes moved sorting knowledge from experienced clerks' memories onto each envelope, allowing new workers to route mail.",
+          "Postal digits replaced long street addresses with a compact code that letter writers could use by itself.",
+          "The national code introduced in 1963 removed the need for local carrier routes and route maps."
+        ],
+        "answer": 2,
+        "explanation": "The passage contrasts sorting knowledge held in experienced clerks’ memories with information carried by postal digits on envelopes, which new workers could also use.",
+        "skill": "Main idea"
+      },
+      {
+        "id": "ninjas-q37",
+        "number": 37,
+        "prompt": "According to the passage, zone numbers were given to 124 large cities in 1943 because",
+        "options": [
+          "mail was coming back from the army faster than clerks could sort it",
+          "Robert Moon had proposed a code for the whole country",
+          "those cities had grown too large for one post office each",
+          "only Robert Moon had proposed a code for the whole country",
+          "new clerks had replaced experienced ones who knew the routes"
+        ],
+        "answer": 4,
+        "explanation": "Experienced clerks left for the army, and their replacements did not know the routes. Zone numbers supplied information that those new workers lacked.",
+        "skill": "Detail"
+      },
+      {
+        "id": "ninjas-q38",
+        "number": 38,
+        "prompt": "As used in “The zone number was not a convenience. It was a repair,” the word “repair” most nearly means",
+        "options": [
+          "a payment for damage done",
+          "a promise made to the public",
+          "a way of saving money",
+          "only a promise made to the public",
+          "a fix for something that had broken"
+        ],
+        "answer": 4,
+        "explanation": "The lost route knowledge created a problem, and zone numbers fixed it. “Repair” therefore means a fix for something that had broken.",
+        "skill": "Vocabulary"
+      },
+      {
+        "id": "ninjas-q39",
+        "number": 39,
+        "prompt": "The author includes “It is easy to read past them” in the opening paragraph. How does that detail contribute to the passage?",
+        "options": [
+          "It dismisses the digits as unnecessary because most readers ignore them.",
+          "It introduces the wartime shortage of experienced postal clerks.",
+          "It instructs readers to remove the digits before mailing a letter.",
+          "It contrasts an easily overlooked part of an address with its importance, giving readers a reason to keep reading.",
+          "It shows that postal clerks were unable to read ordinary street addresses."
+        ],
+        "answer": 3,
+        "explanation": "The opening contrasts postal digits that are easy to overlook with their considerable usefulness. That contrast introduces the explanation and invites the reader’s interest.",
+        "skill": "Tone"
+      },
+      {
+        "id": "ninjas-q40",
+        "number": 40,
+        "prompt": "Which statement explains why the author asks readers to notice postal digits?",
+        "options": [
+          "Look at the row of digits at the end of a mailing address",
+          "Experienced clerks went into the army, and the people hired to replace them did not know…",
+          "The zone number was not a convenience",
+          "After 1963 the map sat on the envelope, put there by the person who wrote the…",
+          "They are the most useful thing on the envelope, and the reason is worth knowing"
+        ],
+        "answer": 4,
+        "explanation": "The statement that the digits are “the most useful thing on the envelope” explains why the reader should pay attention to them and introduces the reason the passage will develop.",
+        "skill": "Detail"
+      }
+    ],
+    "answerKeyPage": 50,
+    "adaptationNote": "Printed line references are replaced with quoted phrases or passage context. Line-number prefixes in quoted answer choices are removed."
+  }
+]

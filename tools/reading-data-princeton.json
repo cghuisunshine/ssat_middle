@@ -1,0 +1,880 @@
+[
+  {
+    "id": "princeton-01",
+    "title": "A brief history of Native Americans",
+    "genre": "History",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      12
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "The native inhabitants of the Americas arrived from Asia more than 20,000 years ago. They belonged to numerous tribes and many were skilled hunters, farmers, and fishers. Some of the most famous of the tribes of Native Americans are the Sioux, the Cheyenne, the Iroquois, and the Apache.",
+      "These tribes settled and developed organized societies. The settlers to North America from Europe fought the Native Americans for land. Geronimo was the last great Native American chief to organize rebellions against the settlers. He led raids across the southwest and into Mexico. Although he eventually was captured, he later became a celebrity.",
+      "After a long battle, the United States government moved the Native Americans onto reservations—special sections of land set aside for them—where many still reside today."
+    ],
+    "sourceLines": [
+      "The native inhabitants of the Americas arrived from Asia more than 20,000 years ago. They belonged to",
+      "numerous tribes and many were skilled hunters, farmers, and fishers. Some of the most famous of the tribes of",
+      "Native Americans are the Sioux, the Cheyenne, the Iroquois, and the Apache.",
+      "These tribes settled and developed organized societies. The settlers to North America from Europe fought",
+      "the Native Americans for land. Geronimo was the last great Native American chief to organize rebellions against",
+      "the settlers. He led raids across the southwest and into Mexico. Although he eventually was captured, he later",
+      "became a celebrity.",
+      "After a long battle, the United States government moved the Native Americans onto reservations—special",
+      "sections of land set aside for them—where many still reside today."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q01",
+        "number": 1,
+        "prompt": "The main purpose of this passage is to",
+        "options": [
+          "report on the current status of Native Americans",
+          "offer a solution to the problems of Native Americans",
+          "give a brief history of Native Americans",
+          "discuss ways Native Americans are able to work on reservations",
+          "give a history of different Native American tribes"
+        ],
+        "answer": 2,
+        "skill": "Main idea",
+        "explanation": "The passage moves from early arrival and tribes to conflict with settlers and relocation to reservations, giving a brief historical overview."
+      },
+      {
+        "id": "princeton-q02",
+        "number": 2,
+        "prompt": "According to the passage, the fate of Geronimo was",
+        "options": [
+          "to live out his life in disgrace",
+          "to become a great war hero with no defeats",
+          "to become famous throughout the country",
+          "to die penniless and alone",
+          "to commit suicide"
+        ],
+        "answer": 2,
+        "skill": "Detail",
+        "explanation": "The second paragraph says that, although captured, he later “became a celebrity.”"
+      },
+      {
+        "id": "princeton-q03",
+        "number": 3,
+        "prompt": "The author’s tone in regard to the fate of Native Americans is",
+        "options": [
+          "passionate",
+          "objective",
+          "disappointed",
+          "ambivalent",
+          "envious"
+        ],
+        "answer": 1,
+        "skill": "Tone",
+        "explanation": "The author presents a chronological account without openly expressing personal feelings, so the tone is objective."
+      },
+      {
+        "id": "princeton-q04",
+        "number": 4,
+        "prompt": "Which of the following is the author most likely to discuss next?",
+        "options": [
+          "Possible causes of Native American resentment",
+          "The life of the Native American in modern society",
+          "The battle that defeated Geronimo",
+          "The differences among tribes",
+          "A detailed history of the Sioux"
+        ],
+        "answer": 1,
+        "skill": "Structure",
+        "explanation": "The final sentence reaches reservations where people still live “today.” A discussion of modern life would continue that chronological movement."
+      },
+      {
+        "id": "princeton-q05",
+        "number": 5,
+        "prompt": "The passage names all the following as skills possessed by Native Americans EXCEPT:",
+        "options": [
+          "farming",
+          "hunting",
+          "fishing",
+          "gathering",
+          "fighting"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "Hunters, farmers, and fishers are named directly; the raids and battles also establish fighting. Gathering is not mentioned."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  },
+  {
+    "id": "princeton-02",
+    "title": "Life in the desert",
+    "genre": "Science",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      13
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Twenty percent of all the land on Earth consists of deserts. When most people think of deserts, they think of searing heat, big sand dunes, and camels. But not all deserts are huge sand piles—many are strewn with rocks and some, like those at high altitudes, may actually be quite cold.",
+      "Desert life is interesting and varied as well. Though the desert is a punishing place—it is difficult to find food and water in the desert—many animals live there. Because there is so little water, desert animals have adapted. Camels can survive for days without drinking. Other animals get their water from the insects and plants they eat.",
+      "The extreme temperatures of the desert can make life difficult as well. Many of the mammals there have thick fur to keep out the heat and the cold. Some desert animals are nocturnal, sleeping by day and hunting by night when the air is cooler. It may seem that all deserts are the same, but they are as different as the animals that inhabit them."
+    ],
+    "sourceLines": [
+      "Twenty percent of all the land on Earth consists of deserts. When most people",
+      "think of deserts, they think of searing heat, big sand dunes, and camels. But not all",
+      "deserts are huge sand piles—many are strewn with rocks and some, like those at high",
+      "altitudes, may actually be quite cold.",
+      "Desert life is interesting and varied as well. Though the desert is a punishing place—it",
+      "is difficult to find food and water in the desert—many animals live there. Because",
+      "there is so little water, desert animals have adapted. Camels can survive for days",
+      "without drinking. Other animals get their water from the insects and plants they eat.",
+      "The extreme temperatures of the desert can make life difficult as well. Many of the",
+      "mammals there have thick fur to keep out the heat and the cold. Some desert animals",
+      "are nocturnal, sleeping by day and hunting by night when the air is cooler. It may seem",
+      "that all deserts are the same, but they are as different as the animals that inhabit them."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q06",
+        "number": 6,
+        "prompt": "The passage is primarily about",
+        "options": [
+          "deserts and desert wildlife",
+          "nocturnal animals",
+          "plant life of the desert",
+          "sources of water in the desert",
+          "average desert temperatures"
+        ],
+        "answer": 0,
+        "skill": "Main idea",
+        "explanation": "The passage introduces different kinds of deserts and then explains how animals live in them. The other choices cover only individual details."
+      },
+      {
+        "id": "princeton-q07",
+        "number": 7,
+        "prompt": "Which of the following can be inferred as an example of an adaptation to desert life?",
+        "options": [
+          "The large claws of the lizard",
+          "The heavy outer shell of the beetle",
+          "The long ears of the hedgehog that give off heat to cool the animal",
+          "The large hood of the cobra that scares off predators",
+          "The quick speed of the mongoose so that it may catch its prey"
+        ],
+        "answer": 2,
+        "skill": "Inference",
+        "explanation": "The passage emphasizes extreme desert temperatures. Ears that release heat directly help an animal cope with that environmental challenge."
+      },
+      {
+        "id": "princeton-q08",
+        "number": 8,
+        "prompt": "The style of the passage is most like that found in a(n)",
+        "options": [
+          "scientific thesis",
+          "general book on desert life",
+          "advanced text on animal adaptations",
+          "diary of a naturalist",
+          "biography of a desert researcher"
+        ],
+        "answer": 1,
+        "skill": "Structure",
+        "explanation": "The passage gives accessible general information about deserts and animals. It is neither a technical study nor a personal life story."
+      },
+      {
+        "id": "princeton-q09",
+        "number": 9,
+        "prompt": "According to the passage, camels are well adapted to desert life because",
+        "options": [
+          "they have long legs",
+          "they have thick fur that keeps them cool",
+          "they have large hooded eyes",
+          "they are capable of hunting at night",
+          "they can survive for days without drinking"
+        ],
+        "answer": 4,
+        "skill": "Detail",
+        "explanation": "The passage directly states that camels can survive for days without drinking. This explains an adaptation to scarce water.",
+        "adaptationNote": "Choice E was clarified from the original “they can store water for many days” to match what the passage actually states."
+      },
+      {
+        "id": "princeton-q10",
+        "number": 10,
+        "prompt": "According to the passage, some deserts",
+        "options": [
+          "are filled with lush vegetation",
+          "are home to large bodies of water",
+          "actually get a good deal of rainfall",
+          "can be in a cold climate",
+          "are home to large, thriving cities"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "The first paragraph explicitly says some deserts at high altitudes “may actually be quite cold.”"
+      },
+      {
+        "id": "princeton-q11",
+        "number": 11,
+        "prompt": "The word “punishing” in line 5 most closely means",
+        "options": [
+          "beating",
+          "harsh",
+          "unhappy",
+          "deadly",
+          "fantastic"
+        ],
+        "answer": 1,
+        "skill": "Vocabulary",
+        "explanation": "The phrase is explained by the difficulty of finding food and water. “Punishing” describes harsh conditions, not a literal beating."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  },
+  {
+    "id": "princeton-03",
+    "title": "The Olympic Games, then and now",
+    "genre": "History",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      14
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "The original Olympic Games started in Greece more than 2,000 years ago. These games were a religious festival, and, at their height, lasted for five days. Only men could compete, and the sports included running, wrestling, and chariot racing.",
+      "Today’s Olympic Games are quite a bit different. First, there are two varieties: Winter Olympics and Summer Olympics. They each boast many men and women competing in a multitude of sports, from skiing to gymnastics. They are each held every four years, but not during the same year. They alternate so that there are Olympic Games every two years. The Olympics are no longer held only in one country. They are hosted by different cities around the world. The opening ceremony is a spectacular display, usually incorporating the traditional dances and culture of the host city.",
+      "The highlight of the opening ceremony is the lighting of the Olympic flame. Teams of runners carry the torch from Olympia, the site of the ancient Greek games. Although the games have changed greatly throughout the centuries, the spirit of competition is still alive. The flame represents that spirit."
+    ],
+    "sourceLines": [
+      "The original Olympic Games started in Greece more than 2,000 years ago. These",
+      "games were a religious festival, and, at their height, lasted for five days. Only men",
+      "could compete, and the sports included running, wrestling, and chariot racing.",
+      "Today’s Olympic Games are quite a bit different. First, there are two varieties:",
+      "Winter Olympics and Summer Olympics. They each boast many men and women",
+      "competing in a multitude of sports, from skiing to gymnastics. They are each held",
+      "every four years, but not during the same year. They alternate so that there are Olympic",
+      "Games every two years. The Olympics are no longer held only in one country. They",
+      "are hosted by different cities around the world. The opening ceremony is a spectacular",
+      "display, usually incorporating the traditional dances and culture of the host city.",
+      "The highlight of the opening ceremony is the lighting of the Olympic flame. Teams",
+      "of runners carry the torch from Olympia, the site of the ancient Greek games. Although",
+      "the games have changed greatly throughout the centuries, the spirit of competition is",
+      "still alive. The flame represents that spirit."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q12",
+        "number": 12,
+        "prompt": "The passage is primarily concerned with",
+        "options": [
+          "justifying the existence of the Olympic Games",
+          "explaining all about the games in Ancient Greece",
+          "discussing the differences between Winter Olympics and Summer Olympics",
+          "comparing the modern Olympic Games to those in Ancient Greece",
+          "explaining the process for choosing a host country"
+        ],
+        "answer": 3,
+        "skill": "Main idea",
+        "explanation": "The first paragraph describes ancient games, and the rest compares participation, sports, locations, ceremonies, and the continuing competitive spirit with modern games."
+      },
+      {
+        "id": "princeton-q13",
+        "number": 13,
+        "prompt": "The author mentions “traditional dances and culture of the host city” in order to",
+        "options": [
+          "give an example of how the opening ceremony is so spectacular",
+          "explain the differences among the different host cities",
+          "show that Ancient Greek games were quite boring by contrast",
+          "make an analogy to the life of the Ancient Greeks",
+          "illustrate the complexity of the modern games"
+        ],
+        "answer": 0,
+        "skill": "Structure",
+        "explanation": "The example immediately follows the claim that the opening ceremony is a “spectacular display,” illustrating that description."
+      },
+      {
+        "id": "princeton-q14",
+        "number": 14,
+        "prompt": "The author’s tone in the passage can best be described as",
+        "options": [
+          "disinterested",
+          "upbeat",
+          "gloating",
+          "depressing",
+          "fatalistic"
+        ],
+        "answer": 1,
+        "skill": "Tone",
+        "explanation": "Positive phrases such as “spectacular display,” “highlight,” and “spirit of competition is still alive” create an upbeat tone."
+      },
+      {
+        "id": "princeton-q15",
+        "number": 15,
+        "prompt": "The lighting of the torch is meant to symbolize",
+        "options": [
+          "the destruction caused in Ancient Greece",
+          "the spirit of Ancient Greek competition",
+          "the rousing nature of the games",
+          "the heat generated in competition",
+          "an eternal flame so that the games will continue forever"
+        ],
+        "answer": 1,
+        "skill": "Detail",
+        "explanation": "The last two sentences connect the flame directly with the spirit of competition that continues from the ancient games."
+      },
+      {
+        "id": "princeton-q16",
+        "number": 16,
+        "prompt": "Which of the following can be inferred from the passage?",
+        "options": [
+          "Women in ancient Greece did not want to compete in the Olympics.",
+          "The Olympics were held every year.",
+          "The Olympics used to be held in just one country.",
+          "Ice skating is a winter event.",
+          "Opening ceremonies today are more spectacular than ones in ancient Greece."
+        ],
+        "answer": 2,
+        "skill": "Inference",
+        "explanation": "The statement that the Olympics are “no longer held only in one country” implies that they once were held in just one country."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  },
+  {
+    "id": "princeton-04",
+    "title": "The lives of turtles",
+    "genre": "Science",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      15
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Like snakes, lizards, and crocodiles, turtles are reptiles. The earliest fossils recognized as turtles are about 200 million years old and date from the time when dinosaurs roamed Earth. Unbelievably, turtles have changed little in appearance since that time.",
+      "There are many different types of turtles in many different climates around the world. In contrast to other reptiles, whose populations are confined largely to the tropics, turtles are most abundant in southeastern North America and southeastern Asia. They live in lakes, ponds, salt marshes, rivers, forests, and even deserts. The sizes of turtles vary. Bog or mud turtles grow no larger than about 4 inches (10 centimeters) long. At the other end of the spectrum is the sea-roving leatherback turtle, which may be more than 6.5 feet (2 meters) in length and weigh more than 1,100 pounds (500 kilograms).",
+      "Turtles live longer than most other animals, but reports of turtles living more than a century are questionable. Several kinds, however, have lived more than 50 years in captivity. Even in natural environments, box turtles and slider turtles can reach ages of 20 to 30 years. The ages of some turtles can be estimated by counting the growth rings that form each year on the external bony plates of the shell."
+    ],
+    "sourceLines": [
+      "Like snakes, lizards, and crocodiles, turtles are reptiles. The earliest fossils recognized as turtles",
+      "are about 200 million years old and date from the time when dinosaurs roamed Earth. Unbelievably,",
+      "turtles have changed little in appearance since that time.",
+      "There are many different types of turtles in many different climates around the world. In contrast",
+      "to other reptiles, whose populations are confined largely to the tropics, turtles are most abundant in",
+      "southeastern North America and southeastern Asia. They live in lakes, ponds, salt marshes, rivers,",
+      "forests, and even deserts. The sizes of turtles vary. Bog or mud turtles grow no larger than about 4",
+      "inches (10 centimeters) long. At the other end of the spectrum is the sea-roving leatherback turtle,",
+      "which may be more than 6.5 feet (2 meters) in length and weigh more than 1,100 pounds (500",
+      "kilograms).",
+      "Turtles live longer than most other animals, but reports of turtles living more than a century are",
+      "questionable. Several kinds, however, have lived more than 50 years in captivity. Even in natural",
+      "environments, box turtles and slider turtles can reach ages of 20 to 30 years. The ages of some",
+      "turtles can be estimated by counting the growth rings that form each year on the external bony",
+      "plates of the shell."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q17",
+        "number": 17,
+        "prompt": "The author mentions dinosaurs in the first paragraph to",
+        "options": [
+          "illustrate the age of the turtle fossils",
+          "uncover the mystery of turtle origins",
+          "show that turtles may become extinct",
+          "give an example of the type of predator that turtles once faced",
+          "bring the life of the turtle into focus"
+        ],
+        "answer": 0,
+        "skill": "Structure",
+        "explanation": "Dinosaurs provide a familiar reference for the great age of fossils from roughly 200 million years ago."
+      },
+      {
+        "id": "princeton-q18",
+        "number": 18,
+        "prompt": "Turtles are different from other reptiles because they",
+        "options": [
+          "date back to dinosaur times",
+          "have not adapted to their environment",
+          "live in different climates",
+          "are desert dwellers",
+          "are good pets"
+        ],
+        "answer": 2,
+        "skill": "Detail",
+        "explanation": "The passage contrasts other reptiles largely confined to the tropics with turtles living in many climates and habitats."
+      },
+      {
+        "id": "princeton-q19",
+        "number": 19,
+        "prompt": "When the author discusses the theory that turtles may live to be more than 100, the tone can best be described as",
+        "options": [
+          "respectful",
+          "ridiculing",
+          "horrified",
+          "interested",
+          "skeptical"
+        ],
+        "answer": 4,
+        "skill": "Tone",
+        "explanation": "Calling reports of century-long lives “questionable” expresses doubt, which is a skeptical tone."
+      },
+      {
+        "id": "princeton-q20",
+        "number": 20,
+        "prompt": "One of the ways to verify the age of a turtle is to",
+        "options": [
+          "measure the turtle",
+          "count the rings on its shell",
+          "examine the physical deterioration of its shell",
+          "weigh the turtle",
+          "subtract its weight from its length"
+        ],
+        "answer": 1,
+        "skill": "Detail",
+        "explanation": "The final sentence says the ages of some turtles can be estimated by counting the growth rings on their shells."
+      },
+      {
+        "id": "princeton-q21",
+        "number": 21,
+        "prompt": "The author would most probably agree that",
+        "options": [
+          "turtles are more interesting than other reptiles",
+          "there is a lot to be learned about turtles",
+          "turtles live longer than any other animal",
+          "turtles can be very dangerous",
+          "there are no bad turtles"
+        ],
+        "answer": 1,
+        "skill": "Inference",
+        "explanation": "The author presents varied facts and acknowledges uncertain reports about lifespan. Of these choices, an interest in learning about turtles best fits the passage; the others are unsupported or too absolute."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  },
+  {
+    "id": "princeton-05",
+    "title": "Summer holidays in Norway",
+    "genre": "Literature",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      16
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "The summer holidays! Those magic words! The mere mention of them used to send shivers of joy rippling over my skin. All my summer holidays, from when I was four years old to when I was seventeen (1920 to 1932), were idyllic. This, I am certain, was because we always went to the same idyllic place, and that place was Norway.",
+      "Except for my ancient half-sister and my not-quite-so-ancient half-brother, the rest of us were all pure Norwegian by blood. We all spoke Norwegian and all our relations lived over there. So in a way, going to Norway every summer was like going home.",
+      "Even the journey was an event. Do not forget that there were no commercial aeroplanes in those times, so it took us four whole days to complete the trip out and another four days to get home again."
+    ],
+    "sourceLines": [
+      "The summer holidays! Those magic words! The mere mention",
+      "of them used to send shivers of joy rippling over my skin. All my",
+      "summer holidays, from when I was four years old to when I was",
+      "seventeen (1920 to 1932), were idyllic. This, I am certain, was",
+      "because we always went to the same idyllic place, and that place",
+      "was Norway.",
+      "Except for my ancient half-sister and my not-quite-so-ancient",
+      "half-brother, the rest of us were all pure Norwegian by blood. We",
+      "all spoke Norwegian and all our relations lived over there. So in a",
+      "way, going to Norway every summer was like going home.",
+      "Even the journey was an event. Do not forget that there were no",
+      "commercial aeroplanes in those times, so it took us four whole days",
+      "to complete the trip out and another four days to get home again."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q22",
+        "number": 22,
+        "prompt": "The author’s goal in writing was to express",
+        "options": [
+          "his affection for Norway",
+          "his dislike of his half-sister and half-brother",
+          "dismay at the drudgery of the journey",
+          "how different life was back then",
+          "his realization that the trip was so long"
+        ],
+        "answer": 0,
+        "skill": "Main idea",
+        "explanation": "Joy at the holidays, the repeated word “idyllic,” and the feeling of going home all express affection for Norway."
+      },
+      {
+        "id": "princeton-q23",
+        "number": 23,
+        "prompt": "The author uses the word “idyllic” in the first paragraph to mean",
+        "options": [
+          "scary",
+          "pleasant",
+          "religious",
+          "cold",
+          "boring"
+        ],
+        "answer": 1,
+        "skill": "Vocabulary",
+        "explanation": "“Shivers of joy” and the happy description of Norway show that “idyllic” means wonderfully pleasant or ideal."
+      },
+      {
+        "id": "princeton-q24",
+        "number": 24,
+        "prompt": "The author uses the analogy that “going to Norway every summer was like going home” to illustrate",
+        "options": [
+          "how much he dreaded the journey",
+          "how frequently they went to Norway",
+          "why his half-sister and half-brother were going along",
+          "how long they stayed in Norway",
+          "how happy and comfortable he was there"
+        ],
+        "answer": 4,
+        "skill": "Inference",
+        "explanation": "The family’s language and relatives made Norway familiar and welcoming, like home. The comparison expresses comfort and happiness."
+      },
+      {
+        "id": "princeton-q25",
+        "number": 25,
+        "prompt": "The author mentions the length of the trip in order to",
+        "options": [
+          "make the reader sympathetic to his plight",
+          "make the reader understand why the trip was an adventure",
+          "help the reader visualize the boredom that he faced",
+          "give the reader some sympathy for the half-sister and half-brother",
+          "help the reader visualize Norway"
+        ],
+        "answer": 1,
+        "skill": "Structure",
+        "explanation": "“Even the journey was an event” introduces the four-day trip. The detail makes the journey itself seem like an adventure rather than a complaint."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  },
+  {
+    "id": "princeton-06",
+    "title": "How shells become homes",
+    "genre": "Science",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      17
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "You may love to walk along the seashore and collect beautiful shells, but do you ever think about whose home that shell was before you found it? That’s right, seashells are the home of a whole group of creatures known as shellfish. Some of the most common types of shellfish are the mussel, the clam, and the scallop.",
+      "It may surprise you to learn that the shellfish themselves make the shells. They manage to draw calcium carbonate, a mineral, from the water. They use that mineral to build the shell up layer by layer. The shell can grow larger and larger as the shellfish grows in size.",
+      "There are two main types of shells. There are those that are a single unit, like a conch’s shell, and those that are in two pieces, like a clam’s shell. The two-piece shell is called a bivalve, and the two pieces are hinged together, like a door, so that the shell can open and close for feeding."
+    ],
+    "sourceLines": [
+      "You may love to walk along the seashore and collect beautiful shells, but do you ever",
+      "think about whose home that shell was before you found it? That’s right, seashells are",
+      "the home of a whole group of creatures known as shellfish. Some of the most common",
+      "types of shellfish are the mussel, the clam, and the scallop.",
+      "It may surprise you to learn that the shellfish themselves make the shells. They",
+      "manage to draw calcium carbonate, a mineral, from the water. They use that mineral",
+      "to build the shell up layer by layer. The shell can grow larger and larger as the shellfish",
+      "grows in size.",
+      "There are two main types of shells. There are those that are a single unit, like a",
+      "conch’s shell, and those that are in two pieces, like a clam’s shell. The two-piece shell",
+      "is called a bivalve, and the two pieces are hinged together, like a door, so that the shell",
+      "can open and close for feeding."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q26",
+        "number": 26,
+        "prompt": "The “home” mentioned in line 2 most likely refers to",
+        "options": [
+          "the sea",
+          "the planet",
+          "the places shellfish can be found",
+          "the shell",
+          "a shelter for fish"
+        ],
+        "answer": 3,
+        "skill": "Vocabulary",
+        "explanation": "The author asks whose home “that shell” was, and immediately explains that seashells are shellfish homes."
+      },
+      {
+        "id": "princeton-q27",
+        "number": 27,
+        "prompt": "Which of the following questions is answered by the passage?",
+        "options": [
+          "How do shellfish reproduce?",
+          "How much does the average shellfish weigh?",
+          "What is the average life span of a shellfish?",
+          "What do shellfish feed on?",
+          "How do shellfish make their shells?"
+        ],
+        "answer": 4,
+        "skill": "Detail",
+        "explanation": "The second paragraph explains that shellfish take calcium carbonate from the water and build their shells layer by layer."
+      },
+      {
+        "id": "princeton-q28",
+        "number": 28,
+        "prompt": "This passage is primarily concerned with",
+        "options": [
+          "how shellfish differ from other fish",
+          "the life span of shellfish",
+          "shellfish and their habitats",
+          "a general discussion of shells",
+          "the origin of shells"
+        ],
+        "answer": 3,
+        "skill": "Main idea",
+        "explanation": "The passage covers the role of shells as homes, how they grow, and their two main forms. A general discussion of shells covers all three paragraphs."
+      },
+      {
+        "id": "princeton-q29",
+        "number": 29,
+        "prompt": "The author uses the comparison of the bivalves’ hinge to a door in order to",
+        "options": [
+          "illustrate how the shell opens and closes",
+          "explain why the shell is so fragile",
+          "give a reason for the shells that are found open",
+          "explain the mechanism for how the shells are made",
+          "illustrate that shellfish are not so different from other fish"
+        ],
+        "answer": 0,
+        "skill": "Structure",
+        "explanation": "A door is a familiar hinged object. Comparing the shell to it helps readers picture the opening and closing movement."
+      },
+      {
+        "id": "princeton-q30",
+        "number": 30,
+        "prompt": "What is the best title of the selection?",
+        "options": [
+          "“A Conch by Any Other Name Would Shell as Sweet”",
+          "“Going to the Beach”",
+          "“I Can Grow My Own Home!”",
+          "“The Prettiest Aquatic Life”",
+          "“How to Find Shells”"
+        ],
+        "answer": 2,
+        "skill": "Main idea",
+        "explanation": "The passage describes shells as homes that the shellfish build and enlarge themselves. This title connects those central ideas."
+      },
+      {
+        "id": "princeton-q31",
+        "number": 31,
+        "prompt": "According to the passage, the primary difference between the conch’s shell and the clam’s shell is that",
+        "options": [
+          "the conch shell is more valuable than the clam’s shell",
+          "the conch shell protects better than the clam’s shell",
+          "the conch shell is more beautiful than the clam’s shell",
+          "the clam’s shell is more difficult for the clam to manufacture than the conch shell is for the conch to manufacture",
+          "the conch shell has fewer pieces than the clam shell"
+        ],
+        "answer": 4,
+        "skill": "Detail",
+        "explanation": "A conch shell is a single unit, while a clam shell has two hinged pieces."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  },
+  {
+    "id": "princeton-07",
+    "title": "The bat",
+    "genre": "Poetry",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      18
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "By day the bat is cousin to the mouse;\nHe likes the attic of an aging house.\nHis fingers make a hat about his head.\nHis pulse-beat is so slow we think him dead.\nHe loops in crazy figures half the night\nAmong the trees that face the corner light.\nBut when he brushes up against a screen,\nWe are afraid of what our eyes have seen:\nFor something is amiss or out of place\nWhen mice with wings can wear a human face."
+    ],
+    "sourceLines": [
+      "By day the bat is cousin to the mouse;",
+      "He likes the attic of an aging house.",
+      "His fingers make a hat about his head.",
+      "His pulse-beat is so slow we think him dead.",
+      "He loops in crazy figures half the night",
+      "Among the trees that face the corner light.",
+      "But when he brushes up against a screen,",
+      "We are afraid of what our eyes have seen:",
+      "For something is amiss or out of place",
+      "When mice with wings can wear a human face."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q32",
+        "number": 32,
+        "prompt": "The “hat” referred to in line 3 is meant to refer to",
+        "options": [
+          "the attic of the house",
+          "the bat’s head",
+          "the bat’s wings",
+          "the death of the bat",
+          "the mouse"
+        ],
+        "answer": 2,
+        "skill": "Inference",
+        "explanation": "The bat folds its wing-bearing fingers around its head, creating the image of a hat. The image describes its wings, rather than its head itself."
+      },
+      {
+        "id": "princeton-q33",
+        "number": 33,
+        "prompt": "The passage uses which of the following to describe the bat?\nI. The image of a winged mouse\nII. The image of a vampire\nIII. The way he flies",
+        "options": [
+          "I only",
+          "I and II only",
+          "II and III only",
+          "I and III only",
+          "I, II, and III"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "The final line describes “mice with wings,” and “loops in crazy figures” describes flight. No vampire image appears."
+      },
+      {
+        "id": "princeton-q34",
+        "number": 34,
+        "prompt": "The author mentions the “crazy figures” in line 5 to refer to",
+        "options": [
+          "the comic notion of a mouse with wings",
+          "the pattern of the bat’s flight",
+          "the shape of the house",
+          "the reason the bat appears dead",
+          "the trees in the yard"
+        ],
+        "answer": 1,
+        "skill": "Vocabulary",
+        "explanation": "“He loops in crazy figures half the night” describes the looping shapes traced by the bat in flight."
+      },
+      {
+        "id": "princeton-q35",
+        "number": 35,
+        "prompt": "The author would most probably agree with which of the following statements?",
+        "options": [
+          "Bats are useful animals.",
+          "Bats are related to mice.",
+          "Bats are feared by many.",
+          "Most people have bats in their attic.",
+          "Bats are an uninteresting phenomenon."
+        ],
+        "answer": 2,
+        "skill": "Inference",
+        "explanation": "The speaker says “We are afraid” when the bat comes close. That is direct support for fear; the comparison with a mouse does not establish biological kinship."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key.",
+    "author": "Theodore Roethke",
+    "lines": [
+      "By day the bat is cousin to the mouse;",
+      "He likes the attic of an aging house.",
+      "His fingers make a hat about his head.",
+      "His pulse-beat is so slow we think him dead.",
+      "He loops in crazy figures half the night",
+      "Among the trees that face the corner light.",
+      "But when he brushes up against a screen,",
+      "We are afraid of what our eyes have seen:",
+      "For something is amiss or out of place",
+      "When mice with wings can wear a human face."
+    ]
+  },
+  {
+    "id": "princeton-08",
+    "title": "Why uniforms matter",
+    "genre": "Social science",
+    "sourceId": "princeton",
+    "sourceFile": "princeton_middle_full_test.pdf",
+    "sourcePages": [
+      19
+    ],
+    "level": "Middle",
+    "paragraphs": [
+      "Did you ever watch a sport and admire the players’ uniforms? Perhaps you play in a sport and know the thrill of putting on your team’s uniform. Uniforms are important for many different reasons, whether you are playing a sport or watching one.",
+      "If you are playing a sport, you have many reasons to appreciate your uniform. You may notice how different uniforms are for different sports. That’s because they are designed to make participation both safe and easy. If you participate in track and field, your uniform is designed to help you run faster and move more easily. If you participate in a sport like boxing or football, your uniform will protect you as well. You may wear special shoes, like sneakers or cleats, to help you run faster or keep you from slipping.",
+      "If you watch sports, you can appreciate uniforms as well. Imagine how difficult it would be to tell the players on a field apart without their uniforms. And of course, as sports fans all over the world do, you can show support for the team you favor by wearing the colors of the team’s uniform."
+    ],
+    "sourceLines": [
+      "Did you ever watch a sport and admire the players’ uniforms? Perhaps you play in a sport",
+      "and know the thrill of putting on your team’s uniform. Uniforms are important for many different",
+      "reasons, whether you are playing a sport or watching one.",
+      "If you are playing a sport, you have many reasons to appreciate your uniform. You may",
+      "notice how different uniforms are for different sports. That’s because they are designed to make",
+      "participation both safe and easy. If you participate in track and field, your uniform is designed",
+      "to help you run faster and move more easily. If you participate in a sport like boxing or football,",
+      "your uniform will protect you as well. You may wear special shoes, like sneakers or cleats, to",
+      "help you run faster or keep you from slipping.",
+      "If you watch sports, you can appreciate uniforms as well. Imagine how difficult it would be",
+      "to tell the players on a field apart without their uniforms. And of course, as sports fans all over",
+      "the world do, you can show support for the team you favor by wearing the colors of the team’s",
+      "uniform."
+    ],
+    "questions": [
+      {
+        "id": "princeton-q36",
+        "number": 36,
+        "prompt": "The primary purpose of the passage is to",
+        "options": [
+          "discuss the importance of team spirit",
+          "explain why uniforms are important for safety",
+          "give a general history of uniforms",
+          "help shed light on the controversy surrounding uniforms",
+          "give some reasons why uniforms are useful"
+        ],
+        "answer": 4,
+        "skill": "Main idea",
+        "explanation": "The passage explains several uses: safety, movement, identifying players, and showing team support."
+      },
+      {
+        "id": "princeton-q37",
+        "number": 37,
+        "prompt": "The “support” mentioned in line 12 most probably means",
+        "options": [
+          "nourishment",
+          "salary",
+          "endorsement",
+          "brace",
+          "relief"
+        ],
+        "answer": 2,
+        "skill": "Vocabulary",
+        "explanation": "Wearing team colors shows that you favor or endorse the team. It does not provide a salary or physical support."
+      },
+      {
+        "id": "princeton-q38",
+        "number": 38,
+        "prompt": "Which of the following best describes the author’s attitude toward uniforms?",
+        "options": [
+          "Most of them are basically the same.",
+          "They have many different purposes.",
+          "They’re most useful as protection against injury.",
+          "They are fun to wear.",
+          "They don’t serve any real purpose."
+        ],
+        "answer": 1,
+        "skill": "Main idea",
+        "explanation": "The author repeatedly explains different benefits for both players and spectators, rather than treating safety as the only main use."
+      },
+      {
+        "id": "princeton-q39",
+        "number": 39,
+        "prompt": "According to the passage, people need special uniforms for track and field sports to",
+        "options": [
+          "help spectators cheer on the team",
+          "distinguish them from other athletes",
+          "protect against injury",
+          "give them freedom of movement",
+          "prevent them from losing"
+        ],
+        "answer": 3,
+        "skill": "Detail",
+        "explanation": "The track-and-field uniform is described as helping players “run faster and move more easily.”"
+      },
+      {
+        "id": "princeton-q40",
+        "number": 40,
+        "prompt": "According to the passage, the primary reason that spectators like uniforms is that",
+        "options": [
+          "they help them to distinguish teams",
+          "they have such vibrant colors",
+          "they make great souvenirs",
+          "they are collectible",
+          "they are not too expensive"
+        ],
+        "answer": 0,
+        "skill": "Detail",
+        "explanation": "The last paragraph asks readers to imagine how hard it would be to tell players apart without uniforms. This directly supports identifying teams."
+      }
+    ],
+    "answerProvenance": "Answers and explanations prepared for this practice page; the downloaded Princeton excerpt does not include a publisher answer key."
+  }
+]
