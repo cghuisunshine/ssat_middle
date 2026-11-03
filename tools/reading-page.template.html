@@ -17,20 +17,23 @@
 </header>
 <section class="hero" aria-labelledby="page-title">
 <div><div class="eyebrow">SSAT Middle Level · Grades 5–7</div><h1 id="page-title">Read closely. <em>Think clearly.</em></h1><p>Explore a passage, find the evidence, and build your confidence.<br>Middle Level reading, with explanations for every question.</p></div>
-<div class="hero-stats" aria-label="Practice overview"><div class="hero-stat"><strong>__PASSAGE_COUNT__</strong><span>passages to explore</span></div><div class="hero-stat"><strong>__QUESTION_COUNT__</strong><span>practice questions</span></div><div class="hero-stat"><strong id="hero-completed">0</strong><span>questions checked</span></div></div>
+<div class="hero-stats" aria-label="Practice overview"><div class="hero-stat"><strong id="hero-passage-count">__PASSAGE_COUNT__</strong><span id="hero-passage-label">passages to explore</span></div><div class="hero-stat"><strong id="hero-question-count">__QUESTION_COUNT__</strong><span id="hero-question-label">practice questions</span></div><div class="hero-stat"><strong id="hero-completed">0</strong><span id="hero-completed-label">questions checked</span></div></div>
 </section>
 <main class="workspace" id="workspace">
+<aside class="library-shell" aria-label="Passage navigation">
+<button class="library-rail-toggle" id="library-expand-toggle" aria-controls="library" aria-expanded="false" aria-label="Expand passage library" title="Expand passage library" hidden><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m8 5 7 7-7 7"/></svg><span>Library</span></button>
 <details class="library" id="library" open>
 <summary>Passage library <span id="mobile-library-count"></span></summary>
-<div class="library-title"><h2>Your reading library</h2><span id="library-count"></span></div>
-<label class="sr-only" for="search">Search passages</label><div class="search-wrap"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input type="search" id="search" placeholder="Find a passage…" autocomplete="off"></div>
+<div class="library-title"><div><h2>Your reading library</h2><span id="library-count"></span></div><button class="quiet small" id="library-toggle" aria-controls="library" aria-expanded="true" aria-label="Fold passage library" title="Fold passage library">Fold ‹</button></div>
+<div class="library-browse-controls"><label class="sr-only" for="search">Search passages</label><div class="search-wrap"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input type="search" id="search" placeholder="Find a passage…" autocomplete="off"></div>
 <div class="library-filters"><div><label class="sr-only" for="source-filter">Filter by source</label><select id="source-filter"><option value="all">All five sources</option></select></div><div class="library-filter-extra"><label class="sr-only" for="status-filter">Filter by progress</label><select id="status-filter"><option value="all">All passages</option><option value="new">Not completed</option><option value="complete">Completed</option><option value="missed">Needs another look</option><option value="saved">Saved passages</option></select></div></div>
-<div class="filter-genres" id="genre-filters" aria-label="Filter by genre"></div>
+<div class="filter-genres" id="genre-filters" aria-label="Filter by genre"></div></div>
 <div class="passage-list" id="passage-list" aria-label="Passages"></div>
 <div class="library-bottom"><span id="library-progress">0 of __QUESTION_COUNT__ questions checked</span><div class="item-progress"><span id="library-progress-bar" style="width:0%"></span></div></div>
 </details>
+</aside>
 <div class="study-main">
-<div class="study-toolbar"><div class="mode-tag"><span class="mode-dot" aria-hidden="true"></span><strong id="mode-label">Guided practice</strong><span id="mode-description">· go at your own pace</span></div><div class="toolbar-actions"><span class="timer" id="timer" hidden aria-label="Time remaining"></span><button class="quiet small" id="library-toggle" aria-expanded="true" aria-controls="library">Hide library</button><button class="quiet small" id="focus-button" aria-pressed="false">Focus view</button><button class="quiet small" id="exit-test-button" hidden>Exit review</button></div></div>
+<div class="study-toolbar"><div class="mode-tag"><span class="mode-dot" aria-hidden="true"></span><strong id="mode-label">Guided practice</strong><span id="mode-description">· go at your own pace</span></div><div class="toolbar-actions"><span class="timer" id="timer" hidden aria-label="Time remaining"></span><button class="quiet small" id="focus-button" aria-pressed="false">Focus view</button><button class="quiet small" id="exit-test-button" hidden>Exit review</button></div></div>
 <div class="test-banner" id="test-banner" hidden></div>
 <div class="reading-grid"><article class="passage-card" id="passage-card" aria-labelledby="passage-title"></article><section class="question-card" id="question-card" aria-label="Practice questions"></section></div>
 <div id="passage-result"></div>

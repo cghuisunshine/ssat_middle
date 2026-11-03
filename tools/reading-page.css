@@ -6,3 +6,18 @@
 /* Desktop navigation can collapse independently of focus view. */
 @media screen and (min-width:981px){.workspace.library-collapsed{grid-template-columns:minmax(0,1fr)}.workspace.library-collapsed .library{display:none}}
 .focused #library-toggle{display:none}
+/* A timed test has a fixed passage list; browsing filters apply to guided practice. */
+.active-session .library-browse-controls{display:none}
+/* Keep folding and reopening controls on the left navigation itself. */
+.library-shell{position:sticky;top:20px;min-width:0}
+.library-shell .library{position:static}
+.library-title{gap:8px;align-items:flex-start}
+.library-title>div{min-width:0}
+#library-count{display:block;margin-top:4px}
+#library-toggle{flex-shrink:0;font-size:11px;padding:5px 8px}
+.library-rail-toggle{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;width:44px;min-height:124px;padding:12px 6px;background:var(--sage);border-color:#d7e1ca;color:var(--green);font-size:12px}
+.library-rail-toggle span{writing-mode:vertical-rl;letter-spacing:.5px}
+.focused .library-shell{display:none}
+@media screen and (min-width:981px){.workspace.library-collapsed{grid-template-columns:44px minmax(0,1fr)}.focused .workspace.library-collapsed{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:980px){.library-shell{position:static}}
+@media print{.library-shell{display:none}}

@@ -39,8 +39,21 @@ for(const id of Object.keys(expected)){
  assert.equal(actual,expected[id],id+' published answer key');
 }
 for(const id of ['ivy','ninjas','kaplan','princeton'])assert.equal(data.passages.filter(p=>p.sourceId===id).flatMap(p=>p.questions).length,40);
+assert.equal(data.timedFormat.passages,7);
+assert.equal(data.timedFormat.questions,40);
+assert.equal(data.timedFormat.minutes,40);
+assert.equal(Object.keys(data.timedSets).length,4);
+for(const [id,test] of Object.entries(data.timedSets)){
+ assert.equal(test.passageIds.length,7,id+' must contain exactly seven passages');
+ assert.equal(new Set(test.passageIds).size,7,id+' must not repeat passages');
+ const selected=test.passageIds.map(pid=>data.passages.find(p=>p.id===pid));
+ assert.ok(selected.every(Boolean),id+' unknown passage');
+ assert.equal(selected.flatMap(p=>p.questions).length,40,id+' must contain exactly forty questions');
+ assert.ok(selected.flatMap(p=>p.questions).every(q=>q.options.length===5),id+' must use five-choice questions');
+ assert.equal(new Set(selected.map(p=>p.genre)).size,5,id+' genre coverage');
+}
 assert.equal(data.sources.princeton.answerNote.includes('no publisher answer key'),true);
 assert.ok(!/\bfetch\s*\(|XMLHttpRequest|WebSocket|sendBeacon|https?:\/\//.test(script),'No runtime network/API calls');
 assert.ok(!/<(?:script|link|img)[^>]+(?:src|href)=["']https?:/.test(html),'No external assets');
 assert.ok(fs.readFileSync(path.join(root,'content.html'),'utf8').includes('ssat_middle_reading.html'),'Contents link');
-console.log('PASS: 37 Middle Level passages, 182 unique questions, four complete timed sets, four publisher keys, source boundaries, usable line references, standalone offline page.');
+console.log('PASS: 37 Middle Level passages, 182 unique questions, four timed sets of exactly 7 passages/40 questions, genre coverage, four publisher keys, source boundaries, usable line references, standalone offline page.');

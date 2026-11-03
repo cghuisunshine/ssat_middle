@@ -35,6 +35,34 @@ SOURCES = {
 }
 GENRES = {'Science', 'History', 'Literature', 'Poetry', 'Social science'}
 SKILLS = {'Main idea', 'Detail', 'Inference', 'Vocabulary', 'Tone', 'Structure'}
+TIMED_FORMAT = {
+    'passages': 7, 'questions': 40, 'minutes': 40,
+    'references': {
+        'official': 'https://www.admission.org/help/whats-on-the-middle-level-ssat',
+        'passages': 'https://www.kaptest.com/ssat/what-is-the-ssat',
+    },
+}
+TIMED_SETS = {
+    'kaplan': {
+        'name': 'Kaplan complete test',
+        'passageIds': [f'kaplan-{i:02}' for i in range(1, 8)],
+    },
+    'mixed-a': {
+        'name': 'Mixed practice A',
+        'passageIds': ['ivy-04', 'kaplan-03', 'ivy-08', 'kaplan-04',
+                       'kaplan-07', 'ninjas-01', 'ninjas-02'],
+    },
+    'mixed-b': {
+        'name': 'Mixed practice B',
+        'passageIds': ['kaplan-01', 'ninjas-05', 'kaplan-06', 'kaplan-04',
+                       'princeton-06', 'kaplan-07', 'ninjas-03'],
+    },
+    'mixed-c': {
+        'name': 'Mixed practice C',
+        'passageIds': ['princeton-02', 'kaplan-03', 'kaplan-06', 'princeton-07',
+                       'ivy-04', 'kaplan-07', 'princeton-06'],
+    },
+}
 
 
 def build():
@@ -62,6 +90,13 @@ def build():
     assert len(question_ids) == len(set(question_ids)), 'Duplicate questions'
     fingerprints = [' '.join(p['paragraphs']).casefold() for p in passages]
     assert len(fingerprints) == len(set(fingerprints)), 'Duplicate passage text'
+    passage_by_id = {p['id']: p for p in passages}
+    for set_id, test in TIMED_SETS.items():
+        selected = [passage_by_id[pid] for pid in test['passageIds']]
+        assert len(selected) == len(set(test['passageIds'])) == TIMED_FORMAT['passages'], set_id
+        assert sum(len(p['questions']) for p in selected) == TIMED_FORMAT['questions'], set_id
+        assert all(len(q['options']) == 5 for p in selected for q in p['questions']), set_id
+        assert {p['genre'] for p in selected} == GENRES, f'{set_id}: cover all five genres'
     # Keep provenance reproducible without requiring source PDFs to run the page.
     provenance = {}
     for filename in sorted({p['sourceFile'] for p in passages} | {'ivy_middle_answers.pdf'}):
@@ -69,7 +104,8 @@ def build():
         if source.exists():
             provenance[filename] = hashlib.sha256(source.read_bytes()).hexdigest()
     payload = {'version': 1, 'level': 'SSAT Middle Level', 'sources': SOURCES,
-               'sourceHashes': provenance, 'passages': passages}
+               'sourceHashes': provenance, 'passages': passages,
+               'timedFormat': TIMED_FORMAT, 'timedSets': TIMED_SETS}
     serialized = json.dumps(payload, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
     output = (TOOLS / 'reading-page.template.html').read_text(encoding='utf-8')
     replacements = {

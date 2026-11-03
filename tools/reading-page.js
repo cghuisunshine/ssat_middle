@@ -3,6 +3,8 @@
 const DATA = JSON.parse(document.getElementById('reading-data').textContent);
 const BANK = DATA.passages;
 const SOURCES = DATA.sources;
+const TIMED_SETS = DATA.timedSets;
+const TIMED_FORMAT = DATA.timedFormat;
 const KEY = 'ssat-middle-reading-v1';
 const LETTERS = 'ABCDE';
 const $ = id => document.getElementById(id);
@@ -10,6 +12,7 @@ const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp
 const questionMap = new Map(BANK.flatMap(p => p.questions.map(q => [q.id, q])));
 const passageMap = new Map(BANK.map(p => [p.id, p]));
 let storageAvailable = true;
+let migrationNotice = '';
 let state = loadState();
 let activeId = passageMap.has(state.lastPassage) ? state.lastPassage : BANK[0].id;
 let questionIndex = 0;
@@ -38,14 +41,20 @@ function normalizeState(raw) {
   }
   if (passageMap.has(raw.lastPassage)) next.lastPassage = raw.lastPassage;
   if (Number.isFinite(raw.fontSize)) next.fontSize = Math.max(16,Math.min(24,raw.fontSize));
-  if (Array.isArray(raw.history)) next.history = raw.history.filter(h => SOURCES[h?.sourceId] && Number.isFinite(h.correct) && Number.isFinite(h.date)).slice(-20);
+  if (Array.isArray(raw.history)) next.history = raw.history.filter(h => (TIMED_SETS[h?.setId] || SOURCES[h?.sourceId]) && Number.isFinite(h.correct) && Number.isFinite(h.date)).slice(-20);
   const s = raw.session;
-  if (s && SOURCES[s.sourceId]?.timed && Number.isFinite(s.deadline) && Number.isFinite(s.startedAt)) {
-    next.session = {sourceId:s.sourceId,deadline:s.deadline,startedAt:s.startedAt,finished:s.finished === true,answers:{}};
-    for (const p of BANK.filter(p=>p.sourceId===s.sourceId)) for (const q of p.questions) {
+  if (s && sessionPassages(s).length && Number.isFinite(s.deadline) && Number.isFinite(s.startedAt)) {
+    const setId=TIMED_SETS[s.setId]?s.setId:s.sourceId==='kaplan'?'kaplan':null;
+    const restored={setId,deadline:s.deadline,startedAt:s.startedAt,finished:s.finished === true,answers:{}};
+    for (const p of sessionPassages(s)) for (const q of p.questions) {
       const record = validRecord(s.answers?.[q.id],q);
-      if (record) next.session.answers[q.id] = record;
+      if (record) {
+        if (setId) restored.answers[q.id] = record;
+        else if (record.selected!==null||record.checked) next.records[q.id] = record;
+      }
     }
+    if (setId) next.session=restored;
+    else migrationNotice='Your previous test answers were kept in guided practice. New timed tests contain seven passages.';
   }
   return next;
 }
@@ -67,6 +76,15 @@ function toast(message) {
   toastTimer = setTimeout(() => { $('toast').textContent = ''; },3600);
 }
 function timedActive() { return !!state.session && !state.session.finished; }
+function sessionPassages(session) {
+  if (!session) return [];
+  if (TIMED_SETS[session.setId]) return TIMED_SETS[session.setId].passageIds.map(id=>passageMap.get(id));
+  // Read older publisher sessions so their answers can migrate without data loss.
+  return SOURCES[session.sourceId]?.timed ? BANK.filter(p=>p.sourceId===session.sourceId) : [];
+}
+function sessionName(session) {
+  return TIMED_SETS[session.setId]?.name || SOURCES[session.sourceId]?.name || 'Reading practice';
+}
 function currentPassage() { return passageMap.get(activeId); }
 function currentQuestion() { return currentPassage().questions[questionIndex]; }
 function recordFor(q) { return (state.session ? state.session.answers : state.records)[q.id] || {selected:null,checked:false}; }
@@ -88,9 +106,9 @@ function globalStats() {
   return {checked,correct};
 }
 function visiblePassages() {
+  if (state.session) return sessionPassages(state.session);
   const search=query.trim().toLowerCase();
   return BANK.filter(p=> {
-    if (state.session && p.sourceId!==state.session.sourceId) return false;
     if (sourceFilter!=='all' && p.sourceId!==sourceFilter) return false;
     if (genreFilter!=='all' && p.genre!==genreFilter) return false;
     if (search && ![p.title,SOURCES[p.sourceId].name,p.genre,...p.paragraphs].join(' ').toLowerCase().includes(search)) return false;
@@ -107,13 +125,19 @@ function renderLibraryLayout() {
   const collapsed=!compact&&state.libraryCollapsed;
   $('workspace').classList.toggle('library-collapsed',collapsed);
   $('library-toggle').hidden=compact;
-  $('library-toggle').textContent=collapsed?'Show library':'Hide library';
   $('library-toggle').setAttribute('aria-expanded',String(!collapsed));
+  $('library-expand-toggle').hidden=!collapsed;
+  $('library-expand-toggle').setAttribute('aria-expanded',String(!collapsed));
+}
+function toggleLibrary() {
+  state.libraryCollapsed=!state.libraryCollapsed;
+  save();renderLibraryLayout();
+  $(state.libraryCollapsed?'library-expand-toggle':'library-toggle').focus({preventScroll:true});
 }
 function renderLibrary() {
   const visible=visiblePassages();
-  $('library-count').textContent = `${visible.length} passages`;
-  $('mobile-library-count').textContent = `${visible.length} passages`;
+  $('library-count').textContent = `${visible.length}${state.session?' test':''} passages`;
+  $('mobile-library-count').textContent = `${visible.length}${state.session?' test':''} passages`;
   $('genre-filters').innerHTML = ['all',...new Set(BANK.map(p=>p.genre))].map(g=>`<button class="genre-chip" data-genre="${escape(g)}" aria-pressed="${g===genreFilter}">${g==='all'?'All genres':escape(g)}</button>`).join('');
   $('passage-list').innerHTML = visible.length ? visible.map(p=>{
     const s=passageStats(p), complete=s.checked===p.questions.length;
@@ -121,10 +145,18 @@ function renderLibrary() {
     const wordCount=p.paragraphs.join(' ').split(/\s+/).length;
     return `<button class="library-item${p.id===activeId?' active':''}" data-passage="${p.id}" ${p.id===activeId?'aria-current="true"':''} aria-label="${escape(p.title)}, ${p.questions.length} questions, ${count} ${timedActive()?'answered':'checked'}"><span class="item-top"><span class="item-title">${escape(p.title)}</span><span class="item-status" aria-hidden="true">${state.bookmarks[p.id]?'☆ ':''}${complete?'✓':`${count}/${p.questions.length}`}</span></span><span class="item-meta"><span>${escape(SOURCES[p.sourceId].short)}</span><span>${wordCount} words</span></span><span class="item-progress"><span style="width:${count/p.questions.length*100}%"></span></span></button>`;
   }).join('') : '<p class="empty-library">No passages match these filters. Try another source, genre, or search.</p>';
-  const stats=globalStats();
-  $('hero-completed').textContent=stats.checked;
-  $('library-progress').textContent=`${stats.checked} of ${questionMap.size} questions checked`;
-  $('library-progress-bar').style.width=`${stats.checked/questionMap.size*100}%`;
+  const score=state.session?sessionScore():null;
+  const completed=score?(timedActive()?score.total-score.skipped:score.total):globalStats().checked;
+  const total=score?score.total:questionMap.size;
+  const action=timedActive()?'answered':'checked';
+  $('hero-passage-count').textContent=state.session?visible.length:BANK.length;
+  $('hero-passage-label').textContent=state.session?'passages in this test':'passages to explore';
+  $('hero-question-count').textContent=total;
+  $('hero-question-label').textContent=state.session?'questions in this test':'practice questions';
+  $('hero-completed').textContent=completed;
+  $('hero-completed-label').textContent=`questions ${action}`;
+  $('library-progress').textContent=`${completed} of ${total} questions ${action}`;
+  $('library-progress-bar').style.width=`${completed/total*100}%`;
 }
 function sourceLink(p) {
   return `reading_materials/${encodeURIComponent(p.sourceFile)}${p.sourcePages.length?'#page='+p.sourcePages[0]:''}`;
@@ -159,15 +191,18 @@ function setFont(delta) {
 function renderQuestion() {
   const p=currentPassage(),q=currentQuestion(),r=recordFor(q),locked=r.checked&&!timedActive();
   const correct=r.selected===q.answer;
+  const testQuestions=state.session?sessionPassages(state.session).flatMap(p=>p.questions):null;
+  const questionOffset=testQuestions?testQuestions.findIndex(item=>item.id===p.questions[0].id):0;
+  const questionTotal=testQuestions?testQuestions.length:p.questions.length;
   const nav=p.questions.map((item,i)=>{
     const rec=recordFor(item);
     const status=timedActive() ? rec.selected!=null?'answered':'' : rec.checked?rec.selected===item.answer?'correct':'incorrect':rec.selected!=null?'answered':'';
-    return `<button class="q-dot ${status}${i===questionIndex?' current':''}" data-question="${i}" aria-label="Question ${i+1}, ${status||'not answered'}" ${i===questionIndex?'aria-current="step"':''}>${i+1}</button>`;
+    return `<button class="q-dot ${status}${i===questionIndex?' current':''}" data-question="${i}" aria-label="Question ${questionOffset+i+1}, ${status||'not answered'}" ${i===questionIndex?'aria-current="step"':''}>${questionOffset+i+1}</button>`;
   }).join('');
   const choices=q.options.map((option,i)=>`<label class="choice${r.selected===i?' selected':''}${locked?(i===q.answer?' correct':r.selected===i?' incorrect':'')+' locked':''}"><input type="radio" name="answer" value="${i}" ${r.selected===i?'checked':''} ${locked?'disabled':''} aria-label="${LETTERS[i]}. ${escape(option)}"><span class="choice-letter" aria-hidden="true">${LETTERS[i]}</span><span>${escape(option)}</span>${locked&&(i===q.answer||r.selected===i)?`<span class="choice-result" aria-hidden="true">${i===q.answer?'✓':'×'}</span>`:''}</label>`).join('');
   const feedback=locked?`<div class="feedback${correct?'':' wrong'}" role="status"><h3>${correct?'✓ Well read.':r.selected==null?'Answer revealed.':'A detail worth another look.'}</h3><p class="answer-summary">${correct?'Correct answer':r.selected==null?'Correct answer':'Your choice: '+LETTERS[r.selected]+'. Correct answer'}: ${LETTERS[q.answer]}.</p><p>${escape(q.explanation)}</p>${q.adaptationNote?`<details><summary>About this source question</summary><p>${escape(q.adaptationNote)}</p></details>`:''}</div>`:'';
   const nextLabel=questionIndex<p.questions.length-1?'Next question →':'Next passage →';
-  $('question-card').innerHTML=`<div class="question-head"><div class="question-labels"><h2>Find your evidence</h2><span>Question ${questionIndex+1} of ${p.questions.length}</span></div><nav class="question-nav" aria-label="Questions in this passage">${nav}</nav></div><div class="question-body"><div class="skill-tag">${timedActive()?'Reading comprehension':escape(q.skill)}</div><h3 class="question-prompt" tabindex="-1" id="question-prompt">${escape(q.prompt)}</h3><fieldset class="choices" style="border:0;padding:0;margin:0"><legend class="sr-only">Choose one answer</legend>${choices}</fieldset><div class="question-actions">${timedActive()?`<button class="primary" id="next-question">${nextLabel}</button>`:locked?`<button class="primary" id="next-question">${nextLabel}</button><button class="quiet" id="retry-question" ${state.session?'hidden':''}>Try again</button>`:`<button class="primary" id="check-answer" ${r.selected==null?'disabled':''}>Check answer</button><button class="quiet" id="next-question">Next →</button>`}</div><div class="question-sub"><span>Source question ${q.number}${q.options.length===4?' · 4-choice practice':''}</span>${!timedActive()&&!locked?'<button class="text-link" id="reveal-answer">Show answer</button>':timedActive()?'<span>Answers appear after the test.</span>':'<button class="text-link" id="previous-question">← Previous</button>'}</div>${feedback}</div>`;
+  $('question-card').innerHTML=`<div class="question-head"><div class="question-labels"><h2>Find your evidence</h2><span>Question ${questionOffset+questionIndex+1} of ${questionTotal}</span></div><nav class="question-nav" aria-label="Questions in this passage">${nav}</nav></div><div class="question-body"><div class="skill-tag">${timedActive()?'Reading comprehension':escape(q.skill)}</div><h3 class="question-prompt" tabindex="-1" id="question-prompt">${escape(q.prompt)}</h3><fieldset class="choices" style="border:0;padding:0;margin:0"><legend class="sr-only">Choose one answer</legend>${choices}</fieldset><div class="question-actions">${timedActive()?`<button class="primary" id="next-question">${nextLabel}</button>`:locked?`<button class="primary" id="next-question">${nextLabel}</button><button class="quiet" id="retry-question" ${state.session?'hidden':''}>Try again</button>`:`<button class="primary" id="check-answer" ${r.selected==null?'disabled':''}>Check answer</button><button class="quiet" id="next-question">Next →</button>`}</div><div class="question-sub"><span>Source question ${q.number}${q.options.length===4?' · 4-choice practice':''}</span>${!timedActive()&&!locked?'<button class="text-link" id="reveal-answer">Show answer</button>':timedActive()?'<span>Answers appear after the test.</span>':'<button class="text-link" id="previous-question">← Previous</button>'}</div>${feedback}</div>`;
   $('question-card').querySelectorAll('input[name="answer"]').forEach(input=>input.addEventListener('change',()=>selectAnswer(Number(input.value))));
   $('check-answer')?.addEventListener('click',()=>checkAnswer(false));
   $('reveal-answer')?.addEventListener('click',()=>checkAnswer(true));
@@ -212,11 +247,11 @@ function goQuestion(index) {
 }
 function selectPassage(id, {focus=false}={}) {
   if (!passageMap.has(id)) return;
-  if (state.session&&passageMap.get(id).sourceId!==state.session.sourceId) return;
+  if (state.session&&!sessionPassages(state.session).some(p=>p.id===id)) return;
   activeId=id;state.lastPassage=id;
   questionIndex=state.positions[id]||0;
   if (questionIndex>=currentPassage().questions.length) questionIndex=0;
-  save();renderPassage();renderQuestion();renderLibrary();
+  save();renderPassage();renderQuestion();renderLibrary();renderSessionBanner();
   if (window.matchMedia('(max-width:980px)').matches) $('library').open=false;
   if (focus) $('passage-title').scrollIntoView({behavior:'smooth',block:'start'});
 }
@@ -245,7 +280,7 @@ function showProgress() {
   openModal('Your reading progress',`<p class="dialog-lead">Your latest checked attempt for each question. Revealing an answer counts as checked, but never as correct. Trying again clears that question’s latest result.</p><div class="score-hero"><div><strong>${stats.checked}</strong><span>of ${questionMap.size} checked</span></div><div><strong>${stats.correct}</strong><span>correct answers</span></div><div><strong>${stats.checked?Math.round(stats.correct/stats.checked*100)+'%':'—'}</strong><span>accuracy</span></div></div><h3 style="font-size:13px;margin-top:25px">Skills you’re building</h3>${skills.map(skill=>{
     const qs=[...questionMap.values()].filter(q=>q.skill===skill),checked=qs.filter(q=>state.records[q.id]?.checked),correct=checked.filter(q=>state.records[q.id].selected===q.answer).length;
     return `<div class="skill-row"><span>${escape(skill)}</span><div class="skill-track"><span style="width:${checked.length?correct/checked.length*100:0}%"></span></div><span class="skill-score">${correct}/${checked.length} correct</span></div>`;
-  }).join('')}${state.history.length?`<section class="source-row"><h3>Recent timed practice</h3>${state.history.slice(-5).reverse().map(h=>`<p>${escape(SOURCES[h.sourceId].short)} · ${h.correct}/40 correct · ${new Date(h.date).toLocaleDateString()}</p>`).join('')}</section>`:''}<div class="data-actions"><button id="export-progress">Back up progress</button><button id="import-progress">Restore backup</button><button class="danger" id="reset-progress">Reset progress</button><input type="file" id="import-file" accept="application/json,.json" hidden></div><p class="dialog-lead" style="font-size:11px;margin-bottom:0">${storageAvailable?'Progress and notes stay in this browser. A backup lets you move them to another browser.':'This browser is not allowing local storage. Download a backup to keep your work.'}</p>`);
+  }).join('')}${state.history.length?`<section class="source-row"><h3>Recent timed practice</h3>${state.history.slice(-5).reverse().map(h=>`<p>${escape(sessionName(h))} · ${h.correct}/40 correct · ${new Date(h.date).toLocaleDateString()}</p>`).join('')}</section>`:''}<div class="data-actions"><button id="export-progress">Back up progress</button><button id="import-progress">Restore backup</button><button class="danger" id="reset-progress">Reset progress</button><input type="file" id="import-file" accept="application/json,.json" hidden></div><p class="dialog-lead" style="font-size:11px;margin-bottom:0">${storageAvailable?'Progress and notes stay in this browser. A backup lets you move them to another browser.':'This browser is not allowing local storage. Download a backup to keep your work.'}</p>`);
   $('export-progress').addEventListener('click',exportProgress);
   $('import-progress').addEventListener('click',()=>$('import-file').click());
   $('import-file').addEventListener('change',importProgress);
@@ -266,31 +301,31 @@ async function importProgress(event) {
     const parsed=JSON.parse(await file.text());
     if (parsed.version!==1||!parsed.records) throw Error('Choose an SSAT reading progress backup.');
     if (timedActive()) throw Error('Finish the active timed test before restoring a backup.');
-    state=normalizeState(parsed);activeId=state.lastPassage;questionIndex=state.positions[activeId]||0;save();$('modal').close();restoreFilters();render();tick();toast('Reading progress restored.');
+    state=normalizeState(parsed);activeId=state.lastPassage;questionIndex=state.positions[activeId]||0;save();$('modal').close();restoreFilters();render();tick();toast(migrationNotice||'Reading progress restored.');migrationNotice='';
   } catch(error) {toast(error.message||'This backup could not be read.');}
 }
 function showTimedSetup() {
   if (timedActive()) {showFinishConfirm();return;}
-  openModal('A little focus. Forty minutes.',`<p class="dialog-lead">Choose a complete Middle Level reading set: 40 questions, 40 minutes. You can move between passages and change your answers. Explanations appear after you finish. The clock keeps running if you leave the page.</p><label class="dialog-field" for="test-source">Reading set<select id="test-source">${Object.entries(SOURCES).filter(([,s])=>s.timed).map(([id,s])=>`<option value="${id}">${escape(s.name)} · 40 questions</option>`).join('')}</select></label><p class="dialog-lead" style="font-size:11px">Your guided-practice answers stay saved. Finishing a test updates your latest results for its questions. This is an independent practice exercise, not an official score prediction.</p><div class="dialog-actions"><button id="cancel-test">Keep practicing</button><button class="primary" id="start-test">Start 40-minute practice →</button></div>`);
+  openModal('A little focus. Forty minutes.',`<p class="dialog-lead">Each Middle Level timed test contains exactly 7 passages and 40 questions, with 40 minutes to finish. Only those seven passages are available during the test. You can move between passages and change your answers. Explanations appear after you finish. The clock keeps running if you leave the page.</p><label class="dialog-field" for="test-source">Reading set<select id="test-source">${Object.entries(TIMED_SETS).map(([id,s])=>`<option value="${id}">${escape(s.name)} · 7 passages · 40 questions</option>`).join('')}</select></label><p class="dialog-lead" style="font-size:11px">Your guided-practice answers stay saved. Finishing a test updates your latest results for its questions. This is an independent practice exercise, not an official score prediction.</p><div class="dialog-actions"><button id="cancel-test">Keep practicing</button><button class="primary" id="start-test">Start 40-minute practice →</button></div>`);
   $('cancel-test').addEventListener('click',()=>$('modal').close());
   $('start-test').addEventListener('click',()=>startSession($('test-source').value));
 }
 function restoreFilters() {
-  query='';sourceFilter=state.session?state.session.sourceId:'all';statusFilter='all';genreFilter='all';
+  query='';sourceFilter='all';statusFilter='all';genreFilter='all';
   $('search').value='';$('source-filter').value=sourceFilter;$('status-filter').value='all';
   $('source-filter').disabled=!!state.session;
 }
-function startSession(sourceId) {
-  if (!SOURCES[sourceId]?.timed) return;
+function startSession(setId) {
+  if (!TIMED_SETS[setId]) return;
   if (timedActive()) return;
   const now=Date.now();
-  state.session={sourceId,startedAt:now,deadline:now+40*60*1000,finished:false,answers:{}};
-  for (const p of BANK.filter(p=>p.sourceId===sourceId)) state.positions[p.id]=0;
-  activeId=BANK.find(p=>p.sourceId===sourceId).id;questionIndex=0;state.lastPassage=activeId;
+  state.session={setId,startedAt:now,deadline:now+TIMED_FORMAT.minutes*60*1000,finished:false,answers:{}};
+  for (const p of sessionPassages(state.session)) state.positions[p.id]=0;
+  activeId=sessionPassages(state.session)[0].id;questionIndex=0;state.lastPassage=activeId;
   save();$('modal').close();restoreFilters();render();tick();
 }
 function sessionScore() {
-  const qs=BANK.filter(p=>p.sourceId===state.session.sourceId).flatMap(p=>p.questions);
+  const qs=sessionPassages(state.session).flatMap(p=>p.questions);
   let correct=0,wrong=0,skipped=0;
   for (const q of qs) {const r=state.session.answers[q.id];if (r?.selected==null) skipped++;else if (r.selected===q.answer) correct++;else wrong++;}
   return {correct,wrong,skipped,total:qs.length,raw:correct-wrong*.25};
@@ -306,21 +341,21 @@ function finishSession(expired=false) {
   if (!timedActive()) return;
   state.session.finished=true;
   const s=sessionScore();
-  for (const p of BANK.filter(p=>p.sourceId===state.session.sourceId)) for (const q of p.questions) {
+  for (const p of sessionPassages(state.session)) for (const q of p.questions) {
     const old=state.session.answers[q.id]||{selected:null};
     state.session.answers[q.id]={selected:old.selected,checked:true};
     state.records[q.id]={selected:old.selected,checked:true};
   }
-  state.history.push({sourceId:state.session.sourceId,correct:s.correct,wrong:s.wrong,skipped:s.skipped,raw:s.raw,date:Date.now()});state.history=state.history.slice(-20);
+  state.history.push({setId:state.session.setId,sourceId:state.session.sourceId,correct:s.correct,wrong:s.wrong,skipped:s.skipped,raw:s.raw,date:Date.now()});state.history=state.history.slice(-20);
   save();render();showResults(expired);
 }
 function showResults(expired=false) {
   if (!state.session?.finished) return;
   const s=sessionScore();
-  openModal(expired?'Time’s up. Let’s learn from it.':'Your reading practice, reviewed.',`<p class="dialog-lead">${escape(SOURCES[state.session.sourceId].name)} · 40 questions. Select any question to read its explanation.</p><div class="score-hero"><div><strong>${s.correct}</strong><span>correct</span></div><div><strong>${s.wrong}</strong><span>incorrect</span></div><div><strong>${s.skipped}</strong><span>skipped</span></div></div><p class="dialog-lead">Practice raw score: <strong>${s.raw.toFixed(2).replace(/\.00$/,'')}</strong> / ${s.total}<br><span style="font-size:11px">+1 per correct answer, −0.25 per incorrect answer, 0 per skip. This is a practice calculation, not an official scaled score or percentile.</span></p><div class="dialog-actions"><button id="all-review">Review all questions</button><button class="primary" id="missed-review">${s.wrong+s.skipped?'Review missed questions':'Explore your answers'} →</button></div>`);
+  openModal(expired?'Time’s up. Let’s learn from it.':'Your reading practice, reviewed.',`<p class="dialog-lead">${escape(sessionName(state.session))} · ${sessionPassages(state.session).length} passages · ${s.total} questions. Select any question to read its explanation.</p><div class="score-hero"><div><strong>${s.correct}</strong><span>correct</span></div><div><strong>${s.wrong}</strong><span>incorrect</span></div><div><strong>${s.skipped}</strong><span>skipped</span></div></div><p class="dialog-lead">Practice raw score: <strong>${s.raw.toFixed(2).replace(/\.00$/,'')}</strong> / ${s.total}<br><span style="font-size:11px">+1 per correct answer, −0.25 per incorrect answer, 0 per skip. This is a practice calculation, not an official scaled score or percentile.</span></p><div class="dialog-actions"><button id="all-review">Review all questions</button><button class="primary" id="missed-review">${s.wrong+s.skipped?'Review missed questions':'Explore your answers'} →</button></div>`);
   $('all-review').addEventListener('click',()=>$('modal').close());
   $('missed-review').addEventListener('click',()=>{
-    const p=BANK.filter(p=>p.sourceId===state.session.sourceId).find(p=>p.questions.some(q=>state.session.answers[q.id].selected!==q.answer));
+    const p=sessionPassages(state.session).find(p=>p.questions.some(q=>state.session.answers[q.id].selected!==q.answer));
     if (p) {selectPassage(p.id);goQuestion(p.questions.findIndex(q=>state.session.answers[q.id].selected!==q.answer));}
     $('modal').close();
   });
@@ -336,11 +371,11 @@ function renderSessionBanner() {
   $('timer').hidden=!session||session.finished;
   $('exit-test-button').hidden=!session?.finished;
   $('mode-label').textContent=!session?'Guided practice':session.finished?'Test review':'Timed practice';
-  $('mode-description').textContent=!session?'· go at your own pace':session.finished?'· learn from every answer':'· 40 questions';
+  $('mode-description').textContent=!session?'· go at your own pace':session.finished?'· learn from every answer':`· ${sessionPassages(session).length} passages · 40 questions`;
   $('timed-button').textContent=timedActive()?'Finish practice':session?.finished?'New timed practice ↗':'40-minute practice ↗';
   if (session) {
     const s=sessionScore();
-    $('test-banner').innerHTML=`<div><strong>${escape(SOURCES[session.sourceId].short)} · ${session.finished?'Practice complete':`${s.total-s.skipped} of ${s.total} answered`}</strong><p>${session.finished?`${s.correct} correct · ${s.wrong} incorrect · ${s.skipped} skipped`:'Take your time with the evidence. Your answers are saved as you go.'}</p></div><button class="quiet small" id="banner-test-action">${session.finished?'See results':'Finish & review'}</button>`;
+    $('test-banner').innerHTML=`<div><strong>${escape(sessionName(session))} · ${session.finished?'Practice complete':`Passage ${sessionPassages(session).findIndex(p=>p.id===activeId)+1} of ${sessionPassages(session).length}`}</strong><p>${session.finished?`${s.correct} correct · ${s.wrong} incorrect · ${s.skipped} skipped`:`${s.total-s.skipped} of ${s.total} answered · ${sessionPassages(session).length} passages · 40 minutes`}</p></div><button class="quiet small" id="banner-test-action">${session.finished?'See results':'Finish & review'}</button>`;
     $('banner-test-action').addEventListener('click',()=>session.finished?showResults():showFinishConfirm());
   }
 }
@@ -365,7 +400,8 @@ $('status-filter').addEventListener('change',event=>{statusFilter=event.target.v
 $('genre-filters').addEventListener('click',event=>{const button=event.target.closest('[data-genre]');if (button) {genreFilter=button.dataset.genre;renderLibrary();}});
 $('passage-list').addEventListener('click',event=>{const button=event.target.closest('[data-passage]');if (button) selectPassage(button.dataset.passage,{focus:window.matchMedia('(max-width:680px)').matches});});
 $('question-card').addEventListener('click',event=>{const button=event.target.closest('[data-question]');if (button) goQuestion(Number(button.dataset.question));});
-$('library-toggle').addEventListener('click',()=>{state.libraryCollapsed=!state.libraryCollapsed;save();renderLibraryLayout();});
+$('library-toggle').addEventListener('click',toggleLibrary);
+$('library-expand-toggle').addEventListener('click',toggleLibrary);
 $('focus-button').addEventListener('click',()=>{const focused=document.body.classList.toggle('focused');$('focus-button').textContent=focused?'Exit focus':'Focus view';$('focus-button').setAttribute('aria-pressed',String(focused));});
 $('sources-button').addEventListener('click',sourceSummary);
 $('guide-button').addEventListener('click',showGuide);
@@ -379,10 +415,11 @@ const libraryViewport=window.matchMedia('(max-width:980px)');
 libraryViewport.addEventListener('change',()=>{$('library').open=!libraryViewport.matches;renderLibraryLayout();});
 if (libraryViewport.matches) $('library').open=false;
 if (state.session) {
-  if (currentPassage().sourceId!==state.session.sourceId) activeId=BANK.find(p=>p.sourceId===state.session.sourceId).id;
+  if (!sessionPassages(state.session).some(p=>p.id===activeId)) activeId=sessionPassages(state.session)[0].id;
 }
 questionIndex=state.positions[activeId]||0;
 restoreFilters();render();tick();setInterval(tick,1000);
+if (migrationNotice) {save();toast(migrationNotice);migrationNotice='';}
 // A read-only snapshot and actions support offline regression checks.
 window.ReadingApp={
   data:DATA,
