@@ -1,0 +1,45 @@
+{
+  "version":1,
+  "level":"SSAT Middle Level",
+  "minutes":25,
+  "formatSource":"https://www.admission.org/help/whats-on-the-middle-level-ssat",
+  "prompts":[
+    {"id":"ivy-a","type":"story","title":"An unfamiliar place","text":"It was unlike any place I’d ever been.","source":"Ivy Global","file":"ivy_middle_full_test.pdf","page":3},
+    {"id":"ivy-b","type":"story","title":"What he said","text":"He leaned forward and said …","source":"Ivy Global","file":"ivy_middle_full_test.pdf","page":3},
+    {"id":"princeton-a","type":"story","title":"Across the street","text":"What I noticed across the street caused me to ...","source":"Princeton Review","file":"princeton_middle_full_test.pdf","page":3},
+    {"id":"princeton-b","type":"story","title":"The cold room","text":"The room was surprisingly cold.","source":"Princeton Review","file":"princeton_middle_full_test.pdf","page":3},
+    {"id":"kaplan-a","type":"story","title":"The mission","text":"I had 30 minutes to complete the mission.","source":"Kaplan","file":"ssat_prep.pdf","page":451},
+    {"id":"kaplan-b","type":"story","title":"Keep going","text":"Although I was nervous, I decided to continue.","source":"Kaplan","file":"ssat_prep.pdf","page":451},
+    {"id":"ninjas-a","type":"story","title":"A mysterious package","text":"A package arrived with no address, no stamp, and a key taped to the top.","source":"Test Ninjas","file":"test_ninjas_middle_full_test.pdf","page":6},
+    {"id":"ninjas-b","type":"personal","title":"A box for the future","text":"Imagine you could fill a box for someone to open one hundred years from now. What would you put inside, and what would your choices show that person about life today?","source":"Test Ninjas","file":"test_ninjas_middle_full_test.pdf","page":6},
+    {"id":"original-1a","type":"story","title":"The wrong door","text":"The door opened before I had a chance to knock.","source":"Original practice"},
+    {"id":"original-1b","type":"personal","title":"Learning something difficult","text":"Describe a time you struggled to learn something new. What helped you keep trying, and what did the experience teach you?","source":"Original practice"},
+    {"id":"original-2a","type":"story","title":"The unexpected message","text":"The message was only six words long, but it changed our plans.","source":"Original practice"},
+    {"id":"original-2b","type":"personal","title":"A small act of kindness","text":"Describe a small act of kindness that made a difference to you or someone else. Explain why it mattered.","source":"Original practice"},
+    {"id":"original-3a","type":"story","title":"The missing piece","text":"Everyone was ready to begin when we noticed something was missing.","source":"Original practice"},
+    {"id":"original-3b","type":"personal","title":"A place that matters","text":"Choose a place that is meaningful to you. Use specific details to explain what makes it special and how you feel when you are there.","source":"Original practice"},
+    {"id":"original-4a","type":"story","title":"A different point of view","text":"From up here, the town looked completely different.","source":"Original practice"},
+    {"id":"original-4b","type":"personal","title":"Changing your mind","text":"Describe a time you changed your mind about a person, activity, or idea. What caused the change, and what did you learn?","source":"Original practice"},
+    {"id":"original-5a","type":"story","title":"The promise","text":"I had made a promise, and now I had to decide how to keep it.","source":"Original practice"},
+    {"id":"original-5b","type":"personal","title":"Someone you admire","text":"Describe a quality you admire in someone you know. Give a specific example of that quality in action and explain why it matters to you.","source":"Original practice"},
+    {"id":"original-6a","type":"story","title":"The last chance","text":"There was still one way to solve the problem, but we would have to work together.","source":"Original practice"},
+    {"id":"original-6b","type":"personal","title":"An unexpected lesson","text":"Describe something you learned outside a classroom. Explain how you learned it and why the lesson has stayed with you.","source":"Original practice"}
+  ],
+  "timedSets":[
+    {"id":"ninjas","name":"Test Ninjas prompt pair","promptIds":["ninjas-a","ninjas-b"]},
+    {"id":"original-1","name":"Practice pair 1 · discovery & persistence","promptIds":["original-1a","original-1b"]},
+    {"id":"original-2","name":"Practice pair 2 · surprises & kindness","promptIds":["original-2a","original-2b"]},
+    {"id":"original-3","name":"Practice pair 3 · teamwork & belonging","promptIds":["original-3a","original-3b"]},
+    {"id":"original-4","name":"Practice pair 4 · new perspectives","promptIds":["original-4a","original-4b"]},
+    {"id":"original-5","name":"Practice pair 5 · promises & role models","promptIds":["original-5a","original-5b"]},
+    {"id":"original-6","name":"Practice pair 6 · solving & learning","promptIds":["original-6a","original-6b"]}
+  ],
+  "checklist":[
+    {"id":"prompt","title":"I answered the chosen prompt.","detail":"For a story, use the supplied opening sentence. For a personal response, address each part of the question."},
+    {"id":"focus","title":"My writing has a clear focus.","detail":"A story follows a character facing a clear challenge. A personal response develops one main point."},
+    {"id":"details","title":"I used specific details.","detail":"Replace vague statements with an action, image, example, or moment the reader can picture."},
+    {"id":"organization","title":"My ideas connect in a sensible order.","detail":"Give the reader a clear beginning, a developed middle, and an ending. Start new paragraphs when the focus changes."},
+    {"id":"voice","title":"My sentences sound clear and natural.","detail":"Use precise words and vary sentence openings. Prefer a word you understand to an unfamiliar one."},
+    {"id":"editing","title":"I checked my final draft.","detail":"Look for missing words, run-on sentences, capitalization, punctuation, and spelling. Read the ending one more time."}
+  ]
+}

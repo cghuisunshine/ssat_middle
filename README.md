@@ -1,6 +1,10 @@
-# SSAT Middle Level vocabulary practice
+# SSAT Middle Level practice
 
 Open [the contents page](content.html) or [vocabulary practice](ssat_middle_vocabulary.html) directly in a browser. The practice page is self-contained and works offline; reviews, stars, and custom words stay in browser storage.
+
+Open [Middle Level writing practice](ssat_middle_writing.html) for 20 prompts, guided planning, an autosaving writing editor, and a self-review checklist. Seven 25-minute timed pairs offer one story starter and one personal prompt; students choose one after the timer starts. The deadline survives reloads, the editor locks when time expires, and revisions are saved separately from finished originals. Writing is unscored. Drafts can be downloaded as text, printed, or backed up to JSON; merging a backup keeps existing drafts. Eight prompts come from the explicitly Middle Level writing pages in Ivy Global, Princeton Review, Kaplan, and Test Ninjas. Twelve are original practice prompts. Older two-story source pairs are used for guided practice; timed pairs follow the current [official Middle Level format](https://www.admission.org/help/whats-on-the-middle-level-ssat). Upper Level, ISEE, and argumentative essay drills are excluded.
+
+Writing source data is in `tools/writing-data.json`, with UI sources in `tools/writing-page.*`. Run `python3 tools/build_writing_page.py` to rebuild the standalone page and `node tools/check_writing.cjs` for its source, format, and offline checks. `tools/check_writing_browser.js` runs in an isolated writing-page browser context to verify planners, drafting, all seven timed pairs, expiry, separate revisions, safe printing, and backup merging. The page embeds the shared Wordwise styles plus writing-specific styles and needs no network connection to practice.
 
 Open [Middle Level reading practice](ssat_middle_reading.html) for 37 passages and 182 questions selected from `reading_materials/`. Guided practice includes immediate explanations; four sets of exactly seven passages and 40 questions support 40-minute practice with answers hidden until submission. Passage notes, bookmarks, latest results, and backup/restore work locally in your browser. No external assets or services are needed to practice.
 
