@@ -17,7 +17,7 @@ let query = '', sourceFilter = 'all', statusFilter = 'all', genreFilter = 'all';
 let toastTimer;
 let lineView = true;
 
-function blankState() { return {version:1,records:{},bookmarks:{},notes:{},positions:{},lastPassage:BANK[0].id,fontSize:18,session:null,history:[]}; }
+function blankState() { return {version:1,records:{},bookmarks:{},notes:{},positions:{},lastPassage:BANK[0].id,fontSize:18,libraryCollapsed:false,session:null,history:[]}; }
 function validRecord(record, q) {
   if (!record || typeof record !== 'object') return null;
   const selected = Number.isInteger(record.selected) && record.selected >= 0 && record.selected < q.options.length ? record.selected : null;
@@ -26,6 +26,7 @@ function validRecord(record, q) {
 function normalizeState(raw) {
   const next = blankState();
   if (!raw || raw.version !== 1) return next;
+  next.libraryCollapsed = raw.libraryCollapsed === true;
   for (const [id,q] of questionMap) {
     const record = validRecord(raw.records?.[id],q);
     if (record) next.records[id] = record;
@@ -100,6 +101,14 @@ function visiblePassages() {
     if (statusFilter==='saved' && !state.bookmarks[p.id]) return false;
     return true;
   });
+}
+function renderLibraryLayout() {
+  const compact=window.matchMedia('(max-width:980px)').matches;
+  const collapsed=!compact&&state.libraryCollapsed;
+  $('workspace').classList.toggle('library-collapsed',collapsed);
+  $('library-toggle').hidden=compact;
+  $('library-toggle').textContent=collapsed?'Show library':'Hide library';
+  $('library-toggle').setAttribute('aria-expanded',String(!collapsed));
 }
 function renderLibrary() {
   const visible=visiblePassages();
@@ -344,6 +353,7 @@ function tick() {
 }
 function render() {
   document.documentElement.style.setProperty('--reading-size',state.fontSize+'px');
+  renderLibraryLayout();
   renderLibrary();renderPassage();renderQuestion();renderSessionBanner();
 }
 for (const [id,source] of Object.entries(SOURCES)) {
@@ -355,6 +365,7 @@ $('status-filter').addEventListener('change',event=>{statusFilter=event.target.v
 $('genre-filters').addEventListener('click',event=>{const button=event.target.closest('[data-genre]');if (button) {genreFilter=button.dataset.genre;renderLibrary();}});
 $('passage-list').addEventListener('click',event=>{const button=event.target.closest('[data-passage]');if (button) selectPassage(button.dataset.passage,{focus:window.matchMedia('(max-width:680px)').matches});});
 $('question-card').addEventListener('click',event=>{const button=event.target.closest('[data-question]');if (button) goQuestion(Number(button.dataset.question));});
+$('library-toggle').addEventListener('click',()=>{state.libraryCollapsed=!state.libraryCollapsed;save();renderLibraryLayout();});
 $('focus-button').addEventListener('click',()=>{const focused=document.body.classList.toggle('focused');$('focus-button').textContent=focused?'Exit focus':'Focus view';$('focus-button').setAttribute('aria-pressed',String(focused));});
 $('sources-button').addEventListener('click',sourceSummary);
 $('guide-button').addEventListener('click',showGuide);
@@ -364,7 +375,9 @@ $('exit-test-button').addEventListener('click',exitReview);
 $('modal').addEventListener('click',event=>{if(event.target===$('modal')) {const r=$('modal').getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom) $('modal').close();}});
 window.addEventListener('focus',tick);
 document.addEventListener('visibilitychange',()=>{if (!document.hidden) tick();});
-if (window.matchMedia('(max-width:980px)').matches) $('library').open=false;
+const libraryViewport=window.matchMedia('(max-width:980px)');
+libraryViewport.addEventListener('change',()=>{$('library').open=!libraryViewport.matches;renderLibraryLayout();});
+if (libraryViewport.matches) $('library').open=false;
 if (state.session) {
   if (currentPassage().sourceId!==state.session.sourceId) activeId=BANK.find(p=>p.sourceId===state.session.sourceId).id;
 }

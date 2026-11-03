@@ -12,6 +12,9 @@
 @media(max-width:980px){.workspace{grid-template-columns:1fr}.library{position:static;display:block;border:1px solid var(--line);border-radius:10px;background:#fff;padding:13px 16px}.library>summary{display:flex;align-items:center;justify-content:space-between;cursor:pointer;font-size:12px;color:var(--green);font-weight:600}.library>summary::after{content:'Browse passages +';color:var(--muted);font-weight:400}.library[open]>summary::after{content:'Close −'}.library[open]>summary{padding-bottom:15px}.library-title{display:none}.passage-list{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;max-height:300px}.library-bottom{display:none}.search-wrap{max-width:100%}.library-filters{display:grid;grid-template-columns:1fr 1fr;gap:8px}#source-filter,#status-filter{margin-top:8px}.hero{padding:31px 0 27px}.hero-stats{gap:15px}.hero-stat+.hero-stat{padding-left:15px}.reading-grid{grid-template-columns:minmax(0,1.3fr) minmax(300px,1fr)}.passage-scroll{max-height:600px}.focused .library{display:none}.toplinks{gap:16px}}
 @media(max-width:680px){.shell{padding:0 17px}.topbar{height:70px}.brand{font-size:21px}.toplinks>a{display:none}.toplinks{gap:10px}.toplinks button{font-size:11px;padding:7px 9px}.hero{align-items:flex-start;display:block;padding:28px 0 25px}h1{font-size:41px;letter-spacing:-1px}.hero p{font-size:12px;max-width:440px}.hero-stats{margin-top:23px;justify-content:flex-start;gap:26px}.hero-stat+.hero-stat{padding-left:26px}.hero-stat strong{font-size:25px}.hero-stat span{font-size:10px}.workspace{gap:17px}.reading-grid,.focused .reading-grid{grid-template-columns:1fr}.question-card{position:static}.passage-scroll,.focused .passage-scroll{max-height:460px;min-height:180px}.passage-heading h2{font-size:29px}.passage-heading{padding:20px 21px}.question-body{padding:22px}.question-head{padding:18px 22px}.question-prompt{font-size:21px}.choice{font-size:13px;padding:12px}.passage-text{font-size:var(--reading-size)}.study-toolbar{flex-wrap:wrap}.toolbar-actions{margin-left:auto}.passage-list{grid-template-columns:1fr 1fr}.library-item{padding:10px}.bottom-bar{display:block;font-size:10px;line-height:1.7}.footer-links{margin-top:14px;gap:20px}.reading-tip{font-size:10px}.dialog-inner{padding:23px}.dialog-top h2{font-size:26px}.score-hero{gap:21px}.score-hero strong{font-size:29px}.test-banner{align-items:flex-start}.test-banner button{flex-shrink:0}.focused .workspace{margin-top:18px}.source-line{grid-template-columns:17px 1fr!important;gap:8px!important}.line-text{overflow-wrap:anywhere}.skill-row{grid-template-columns:90px 1fr 65px;gap:9px}}
 @media print{.topbar,.hero,.library,.study-toolbar,.question-card,.reading-controls,.passage-foot,.bottom-bar,.reading-tip,.test-banner,.passage-result,dialog{display:none!important}.shell{padding:0;max-width:none}.workspace,.reading-grid{display:block}.passage-card{border:0}.passage-scroll{max-height:none;overflow:visible;padding:0}.passage-heading{padding-left:0}.passage-text{font-size:12pt}.line-number{color:#777}.passage-heading h2{font-size:25pt}}
+/* Desktop navigation can collapse independently of focus view. */
+@media screen and (min-width:981px){.workspace.library-collapsed{grid-template-columns:minmax(0,1fr)}.workspace.library-collapsed .library{display:none}}
+.focused #library-toggle{display:none}
 </style>
 </head>
 <body>
@@ -35,7 +38,7 @@
 <div class="library-bottom"><span id="library-progress">0 of 182 questions checked</span><div class="item-progress"><span id="library-progress-bar" style="width:0%"></span></div></div>
 </details>
 <div class="study-main">
-<div class="study-toolbar"><div class="mode-tag"><span class="mode-dot" aria-hidden="true"></span><strong id="mode-label">Guided practice</strong><span id="mode-description">· go at your own pace</span></div><div class="toolbar-actions"><span class="timer" id="timer" hidden aria-label="Time remaining"></span><button class="quiet small" id="focus-button" aria-pressed="false">Focus view</button><button class="quiet small" id="exit-test-button" hidden>Exit review</button></div></div>
+<div class="study-toolbar"><div class="mode-tag"><span class="mode-dot" aria-hidden="true"></span><strong id="mode-label">Guided practice</strong><span id="mode-description">· go at your own pace</span></div><div class="toolbar-actions"><span class="timer" id="timer" hidden aria-label="Time remaining"></span><button class="quiet small" id="library-toggle" aria-expanded="true" aria-controls="library">Hide library</button><button class="quiet small" id="focus-button" aria-pressed="false">Focus view</button><button class="quiet small" id="exit-test-button" hidden>Exit review</button></div></div>
 <div class="test-banner" id="test-banner" hidden></div>
 <div class="reading-grid"><article class="passage-card" id="passage-card" aria-labelledby="passage-title"></article><section class="question-card" id="question-card" aria-label="Practice questions"></section></div>
 <div id="passage-result"></div>
@@ -67,7 +70,7 @@ let query = '', sourceFilter = 'all', statusFilter = 'all', genreFilter = 'all';
 let toastTimer;
 let lineView = true;
 
-function blankState() { return {version:1,records:{},bookmarks:{},notes:{},positions:{},lastPassage:BANK[0].id,fontSize:18,session:null,history:[]}; }
+function blankState() { return {version:1,records:{},bookmarks:{},notes:{},positions:{},lastPassage:BANK[0].id,fontSize:18,libraryCollapsed:false,session:null,history:[]}; }
 function validRecord(record, q) {
   if (!record || typeof record !== 'object') return null;
   const selected = Number.isInteger(record.selected) && record.selected >= 0 && record.selected < q.options.length ? record.selected : null;
@@ -76,6 +79,7 @@ function validRecord(record, q) {
 function normalizeState(raw) {
   const next = blankState();
   if (!raw || raw.version !== 1) return next;
+  next.libraryCollapsed = raw.libraryCollapsed === true;
   for (const [id,q] of questionMap) {
     const record = validRecord(raw.records?.[id],q);
     if (record) next.records[id] = record;
@@ -150,6 +154,14 @@ function visiblePassages() {
     if (statusFilter==='saved' && !state.bookmarks[p.id]) return false;
     return true;
   });
+}
+function renderLibraryLayout() {
+  const compact=window.matchMedia('(max-width:980px)').matches;
+  const collapsed=!compact&&state.libraryCollapsed;
+  $('workspace').classList.toggle('library-collapsed',collapsed);
+  $('library-toggle').hidden=compact;
+  $('library-toggle').textContent=collapsed?'Show library':'Hide library';
+  $('library-toggle').setAttribute('aria-expanded',String(!collapsed));
 }
 function renderLibrary() {
   const visible=visiblePassages();
@@ -394,6 +406,7 @@ function tick() {
 }
 function render() {
   document.documentElement.style.setProperty('--reading-size',state.fontSize+'px');
+  renderLibraryLayout();
   renderLibrary();renderPassage();renderQuestion();renderSessionBanner();
 }
 for (const [id,source] of Object.entries(SOURCES)) {
@@ -405,6 +418,7 @@ $('status-filter').addEventListener('change',event=>{statusFilter=event.target.v
 $('genre-filters').addEventListener('click',event=>{const button=event.target.closest('[data-genre]');if (button) {genreFilter=button.dataset.genre;renderLibrary();}});
 $('passage-list').addEventListener('click',event=>{const button=event.target.closest('[data-passage]');if (button) selectPassage(button.dataset.passage,{focus:window.matchMedia('(max-width:680px)').matches});});
 $('question-card').addEventListener('click',event=>{const button=event.target.closest('[data-question]');if (button) goQuestion(Number(button.dataset.question));});
+$('library-toggle').addEventListener('click',()=>{state.libraryCollapsed=!state.libraryCollapsed;save();renderLibraryLayout();});
 $('focus-button').addEventListener('click',()=>{const focused=document.body.classList.toggle('focused');$('focus-button').textContent=focused?'Exit focus':'Focus view';$('focus-button').setAttribute('aria-pressed',String(focused));});
 $('sources-button').addEventListener('click',sourceSummary);
 $('guide-button').addEventListener('click',showGuide);
@@ -414,7 +428,9 @@ $('exit-test-button').addEventListener('click',exitReview);
 $('modal').addEventListener('click',event=>{if(event.target===$('modal')) {const r=$('modal').getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom) $('modal').close();}});
 window.addEventListener('focus',tick);
 document.addEventListener('visibilitychange',()=>{if (!document.hidden) tick();});
-if (window.matchMedia('(max-width:980px)').matches) $('library').open=false;
+const libraryViewport=window.matchMedia('(max-width:980px)');
+libraryViewport.addEventListener('change',()=>{$('library').open=!libraryViewport.matches;renderLibraryLayout();});
+if (libraryViewport.matches) $('library').open=false;
 if (state.session) {
   if (currentPassage().sourceId!==state.session.sourceId) activeId=BANK.find(p=>p.sourceId===state.session.sourceId).id;
 }
