@@ -27,7 +27,7 @@ RELATIONSHIPS = {
 }
 
 
-def build_lessons(raw_words, examples, secondary, families, analogy_lines):
+def build_lessons(raw_words, examples, secondary, families, analogy_lines, reading_notes=None):
     authored = {}
     for line in (HERE / 'word-lesson-notes.txt').read_text().splitlines():
         if not line or line.startswith('#'):
@@ -35,6 +35,9 @@ def build_lessons(raw_words, examples, secondary, families, analogy_lines):
         key, note, tip = line.split('|')
         assert key not in authored and note and tip, key
         authored[key] = (note, tip)
+    for key, note in (reading_notes or {}).items():
+        assert key not in authored and all(note), key
+        authored[key] = note
     words = []
     for line in raw_words.splitlines():
         if not line or line.startswith('@'):

@@ -18,13 +18,15 @@ The reading bank includes only explicitly labeled SSAT Middle Level sections fro
 
 Reviewed reading data lives in `tools/reading-data-*.json`; UI sources are `tools/reading-page.*`. Rebuild the standalone page with `python3 tools/build_reading_page.py` and check its data, publisher keys, and offline structure with `node tools/check_reading.cjs`. `tools/check_reading_browser.js` runs in an open reading-page browser context to verify all 182 questions, four seven-passage timed sets, grading, notes, and deadline behavior; it restores the original saved browser state afterward. Source texts remain credited to their publishers; keep this collection for local study.
 
-The expanded bank contains 950 words with context sentences, 40 additional meanings, 36 groups of related words, and 85 analogy questions. It includes every headword in the two Ivy Global sample lists checked in the [coverage audit](vocabulary_coverage_audit.md). These are preparation benchmarks, not an official exhaustive SSAT word list.
+The expanded bank contains 1,100 words with context sentences, 47 additional meanings, 45 groups of related words, and 85 analogy questions. The latest expansion adds 150 words and seven meanings from all 37 reviewed Middle Level passages in `reading_materials/`, spanning Ivy Global, Test Ninjas, Kaplan, Princeton Review, and GoTestPrep. It includes every headword in the two Ivy Global sample lists checked in the [coverage audit](vocabulary_coverage_audit.md). These are preparation benchmarks, not an official exhaustive SSAT word list.
 
-**Check answer** immediately shows a prebuilt lesson for the exact word meaning or analogy relationship, a comparison of every displayed choice, a memory cue, and Chinese support when enabled. All 990 word senses and 85 analogies have lessons embedded in the HTML. The page uses no AI endpoint or network requests to explain answers.
+**Check answer** immediately shows a prebuilt lesson for the exact word meaning or analogy relationship, a comparison of every displayed choice, a memory cue, and Chinese support when enabled. All 1,147 word senses and 85 analogies have lessons embedded in the HTML. The page uses no AI endpoint or network requests to explain answers.
 
 The lessons also appear after a skipped question and in the results of ordinary and timed drills. They never change grades or review records. Word lessons are compiled ahead of time from the definitions, examples, related-word groups, and teaching notes in `tools/word-lesson-notes.txt`. Each analogy has authored distractor explanations in `tools/analogy-choice-notes.txt`. Randomized quizzes combine those existing lessons locally to match the choices actually shown. Learner-added words use their supplied definitions locally.
 
 Expansion source files are in `tools/`. Definitions, translations, and sentences are original practice content. `vocabulary-benchmarks.json` records headwords from the publisher's [75-word core sample](https://downloads.ivyglobal.com/ssat/segments/English_75_Core_SSAT_Words.pdf) and [125-word essential sample](https://downloads.ivyglobal.com/ssat/SSAT_ISEE_Vocabulary_1.pdf).
+
+`tools/reading-vocabulary.json` contains the reading-derived entries, original teaching notes and memory cues, and source passage IDs with the exact inflected forms found in those passages. Word details and flashcards show each reading connection, including the source filename and PDF pages where applicable. The builder checks the forms against the reviewed `tools/reading-data-*.json` texts, so rebuilding does not require the ignored source downloads. New words use their base forms where appropriate: for example, “botched” becomes **botch**, and “figures” becomes **figure**. Distinct senses, such as a shop **counter** and the verb **counter**, retain separate examples and lessons.
 
 After changing the expansion sources, rebuild the embedded data and UI, then run the data and behavior checks:
 
@@ -36,7 +38,7 @@ node tools/check_prebuilt_explanations.cjs
 
 The builder preserves existing word IDs, the browser storage key, and the first 60 analogy IDs. It updates the contents-page counts and requires a context sentence for every built-in word. No build tools are needed to use the finished HTML page.
 
-The explanation checks run with the browser marked offline and a network-request trap. They verify all 3,960 word-question variants, every analogy and its choices, exact word senses, immediate feedback, timed-review explanations, safe text rendering, Chinese toggling, and grade preservation.
+The explanation checks run with offline browser stubs and a network-request trap. They verify all 4,588 word-question variants, every analogy and its choices, exact word senses, immediate feedback, timed-review explanations, safe text rendering, Chinese toggling, and grade preservation. The vocabulary checks also verify every reading-derived entry and source connection and preserve progress for formerly custom words that are now built in.
 
 Download the public reading practice resources with `python3 tools/download_ssat_reading.py`.
 Open `reading_materials/index.html` for the files and their sources; downloaded materials are ignored by Git.

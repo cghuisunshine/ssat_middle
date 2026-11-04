@@ -24,7 +24,7 @@ const context = vm.createContext({
 vm.runInContext(script, context, {timeout:10000});
 vm.runInContext(`
   let variants = 0, meanings = 0;
-  assert.equal(Object.keys(PREBUILT_WORD_LESSONS).length, 950);
+  assert.equal(Object.keys(PREBUILT_WORD_LESSONS).length, 1100);
   assert.equal(Object.keys(PREBUILT_ANALOGY_LESSONS).length, 85);
   for (const word of WORDS) {
     const senses = wordSenses(word);
@@ -50,8 +50,8 @@ vm.runInContext(`
       }
     }
   }
-  assert.equal(meanings,990);
-  assert.equal(variants,3960);
+  assert.equal(meanings,1147);
+  assert.equal(variants,4588);
   for (const a of ANALOGIES) {
     const q = analogyQuestion(a);
     assert.equal(q.lesson,PREBUILT_ANALOGY_LESSONS[a.id]);
@@ -97,6 +97,6 @@ vm.runInContext(`
   const review=resultView();
   assert.ok(review.includes('Detailed explanation') && review.includes('Why this answer fits'), 'Timed results include offline lessons');
   assert.ok(!review.includes('undefined'));
-  console.log('PASS: 990 prebuilt word senses, 3,960 question variants, 85 analogy lessons, every displayed choice explained, immediate offline feedback, timed-review lessons, bilingual support, and preserved grades.');
+  console.log('PASS: 1,147 prebuilt word senses, 4,588 question variants, 85 analogy lessons, every displayed choice explained, immediate offline feedback, timed-review lessons, bilingual support, and preserved grades.');
 `, context, {timeout:30000});
 assert.equal(requests,0,'No network requests occurred');

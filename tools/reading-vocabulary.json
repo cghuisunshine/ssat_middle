@@ -1,0 +1,2821 @@
+[
+  {
+    "word": "impromptu",
+    "pos": "adj",
+    "definition": "made or done without advance planning",
+    "zh": "即兴的；临时准备的",
+    "synonym": "unplanned",
+    "example": "We held an impromptu picnic after the clouds cleared.",
+    "note": "Impromptu describes the lack of advance preparation, even when the result works well.",
+    "memory": "Picture making a plan only when the moment arrives.",
+    "tier": "Core",
+    "topic": "Time, order & certainty",
+    "sources": [
+      {
+        "passageId": "gotestprep-01",
+        "form": "impromptu"
+      }
+    ]
+  },
+  {
+    "word": "indefinite",
+    "pos": "adj",
+    "definition": "not clearly fixed or specified",
+    "zh": "不确定的；未明确的",
+    "synonym": "unspecified",
+    "example": "The meeting was postponed for an indefinite period.",
+    "note": "Indefinite leaves a number, limit, or time unsettled; it does not necessarily mean endless.",
+    "memory": "An indefinite date has no fixed place on the calendar.",
+    "tier": "Core",
+    "topic": "Time, order & certainty",
+    "sources": [
+      {
+        "passageId": "gotestprep-01",
+        "form": "indefinite"
+      }
+    ]
+  },
+  {
+    "word": "stout",
+    "pos": "adj",
+    "definition": "thick and strongly built",
+    "zh": "粗壮结实的",
+    "synonym": "sturdy",
+    "example": "A stout wooden pole supported the heavy sign.",
+    "note": "Here stout concerns thickness and strength, rather than courage or a kind of drink.",
+    "memory": "Picture a thick pole that will not easily bend.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "gotestprep-01",
+        "form": "stout"
+      }
+    ]
+  },
+  {
+    "word": "considerable",
+    "pos": "adj",
+    "definition": "large enough in amount or degree to be important",
+    "zh": "相当大的",
+    "synonym": "substantial",
+    "example": "Restoring the old theater required considerable effort.",
+    "note": "Considerable indicates a substantial amount; it does not mean thoughtful toward others.",
+    "memory": "Considerable effort is enough effort to take seriously.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "gotestprep-01",
+        "form": "considerable"
+      }
+    ]
+  },
+  {
+    "word": "furnish",
+    "pos": "v",
+    "definition": "to provide or supply something needed",
+    "zh": "提供",
+    "synonym": "supply",
+    "example": "The school will furnish all the equipment for the experiment.",
+    "note": "Furnish can mean provide, even when no furniture is involved.",
+    "memory": "Furnish evidence means supply evidence.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "gotestprep-01",
+        "form": "furnished"
+      }
+    ]
+  },
+  {
+    "word": "migration",
+    "pos": "n",
+    "definition": "the regular movement of animals from one region to another",
+    "zh": "迁徙",
+    "synonym": "seasonal movement",
+    "example": "Bird migration brings thousands of geese to the wetland each autumn.",
+    "note": "Animal migration is movement between regions, often linked to seasons, feeding, or breeding.",
+    "memory": "Picture birds following a seasonal route.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-02",
+        "form": "migration"
+      }
+    ]
+  },
+  {
+    "word": "extinction",
+    "pos": "n",
+    "definition": "the complete disappearance of a species",
+    "zh": "灭绝",
+    "synonym": "species loss",
+    "example": "Protecting nesting sites can help prevent the extinction of a rare bird.",
+    "note": "Extinction means no members of a species remain alive; a local decline alone is different.",
+    "memory": "No living members remain.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-02",
+        "form": "extinction"
+      }
+    ]
+  },
+  {
+    "word": "naturalist",
+    "pos": "n",
+    "definition": "a person who studies plants and animals in their surroundings",
+    "zh": "博物学家",
+    "synonym": "nature researcher",
+    "example": "The naturalist recorded the insects living beneath fallen logs.",
+    "note": "A naturalist studies nature; the word does not simply name someone who likes being outdoors.",
+    "memory": "Nature is the naturalist's subject.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-02",
+        "form": "naturalists"
+      }
+    ]
+  },
+  {
+    "word": "notify",
+    "pos": "v",
+    "definition": "to formally tell someone about something",
+    "zh": "通知",
+    "synonym": "inform",
+    "example": "Please notify the librarian if you find the missing book.",
+    "note": "To notify is to give someone information, often about an event or required action.",
+    "memory": "A notification tells you something.",
+    "tier": "Core",
+    "topic": "Speech & expression",
+    "sources": [
+      {
+        "passageId": "gotestprep-02",
+        "form": "notify"
+      }
+    ]
+  },
+  {
+    "word": "federal",
+    "pos": "adj",
+    "definition": "relating to the national government in a system of shared national and regional powers",
+    "zh": "联邦政府的",
+    "synonym": "national-government",
+    "example": "A federal agency manages the program across several states.",
+    "note": "Federal identifies the national level of government within a federation, rather than a city office.",
+    "memory": "Think of the national level in a federation.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "gotestprep-02",
+        "form": "federal"
+      }
+    ]
+  },
+  {
+    "word": "ancestry",
+    "pos": "n",
+    "definition": "the line of earlier generations from which a person or living thing descends",
+    "zh": "祖先世系",
+    "synonym": "lineage",
+    "example": "The two dog breeds share a common ancestry.",
+    "note": "Ancestry looks backward toward earlier generations; descendants come later.",
+    "memory": "Trace the family tree backward.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "ancestry"
+      }
+    ]
+  },
+  {
+    "word": "predator",
+    "pos": "n",
+    "definition": "an animal that hunts and eats other animals",
+    "zh": "捕食者",
+    "synonym": "hunter",
+    "example": "The owl is a predator that catches mice at night.",
+    "note": "A predator obtains food by hunting prey; it is a feeding role rather than a size category.",
+    "memory": "The predator hunts; the prey is hunted.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "predator"
+      }
+    ]
+  },
+  {
+    "word": "fossil",
+    "pos": "n",
+    "definition": "a preserved remain or trace of an organism from the distant past",
+    "zh": "化石",
+    "synonym": "ancient life trace",
+    "example": "The fossil showed the outline of a leaf in the rock.",
+    "note": "A fossil may be a body remain or a trace such as a footprint, not necessarily a complete skeleton.",
+    "memory": "Picture a trace of ancient life preserved in rock.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "fossil"
+      }
+    ]
+  },
+  {
+    "word": "paleontologist",
+    "pos": "n",
+    "definition": "a scientist who studies ancient life through fossils",
+    "zh": "古生物学家",
+    "synonym": "fossil researcher",
+    "example": "The paleontologist examined a tooth found in the cliff.",
+    "note": "Paleontologists study ancient life; archaeologists study the human past through material remains.",
+    "memory": "Fossils are clues for the paleontologist.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "paleontologist"
+      }
+    ]
+  },
+  {
+    "word": "controversy",
+    "pos": "n",
+    "definition": "a disagreement about a matter that people debate strongly",
+    "zh": "争议",
+    "synonym": "dispute",
+    "example": "The proposed road caused controversy among local residents.",
+    "note": "Controversy involves disagreement; it does not establish which side is correct.",
+    "memory": "Picture opposing sides debating the same question.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "controversy"
+      }
+    ]
+  },
+  {
+    "word": "resemble",
+    "pos": "v",
+    "definition": "to look or be like someone or something",
+    "zh": "像；与……相似",
+    "synonym": "be similar to",
+    "example": "The moth's folded wings resemble a dry leaf.",
+    "note": "Resemble expresses similarity, without claiming two things are identical.",
+    "memory": "Similar features make one thing resemble another.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "resemble"
+      }
+    ]
+  },
+  {
+    "word": "majestic",
+    "pos": "adj",
+    "definition": "impressively grand or dignified",
+    "zh": "雄伟的；威严的",
+    "synonym": "grand",
+    "example": "The majestic mountain rose above the clouds.",
+    "note": "Majestic describes an imposing appearance or dignity, rather than ordinary usefulness.",
+    "memory": "Picture a mountain towering over the landscape.",
+    "tier": "Core",
+    "topic": "Subtle descriptions",
+    "sources": [
+      {
+        "passageId": "gotestprep-04",
+        "form": "majestic"
+      }
+    ]
+  },
+  {
+    "word": "remnant",
+    "pos": "n",
+    "definition": "a small part left after most of something is gone",
+    "zh": "残余部分",
+    "synonym": "remainder",
+    "example": "A remnant of the old wall stood beside the new road.",
+    "note": "A remnant is what survives removal, destruction, or loss; it need not be a complete object.",
+    "memory": "Most is gone; a remnant remains.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "gotestprep-04",
+        "form": "remnant"
+      }
+    ]
+  },
+  {
+    "word": "territory",
+    "pos": "n",
+    "definition": "an area of land under a particular control or occupation",
+    "zh": "领土；领地",
+    "synonym": "domain",
+    "example": "The wolf pack defended its territory from other packs.",
+    "note": "Territory is an area associated with control or occupation, not simply any scenic location.",
+    "memory": "Picture the boundary of an area a group controls.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "gotestprep-04",
+        "form": "territory"
+      }
+    ]
+  },
+  {
+    "word": "inhabit",
+    "pos": "v",
+    "definition": "to live in a place",
+    "zh": "栖居于；居住于",
+    "synonym": "occupy",
+    "example": "Several kinds of frogs inhabit the marsh.",
+    "note": "Inhabit takes the place directly: animals inhabit a forest, without needing the preposition in.",
+    "memory": "A habitat is a place that organisms inhabit.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-04",
+        "form": "inhabit"
+      }
+    ]
+  },
+  {
+    "word": "native",
+    "pos": "adj",
+    "definition": "originally occurring in a particular region",
+    "zh": "原产的；本地的",
+    "synonym": "indigenous",
+    "example": "The garden contains only plants native to the region.",
+    "note": "Native relates an organism to its original region; it does not mean merely common everywhere.",
+    "memory": "Link a native species to its home region.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-04",
+        "form": "native"
+      }
+    ]
+  },
+  {
+    "word": "counter",
+    "pos": "v",
+    "definition": "to act against something in order to reduce its effect",
+    "zh": "抵制；对抗",
+    "synonym": "oppose",
+    "example": "The town planted trees to counter the effects of soil erosion.",
+    "note": "Here counter is an action taken against a problem, rather than a shop surface or counting device.",
+    "memory": "A countermeasure works against a threat.",
+    "tier": "Core",
+    "topic": "Conflict & cooperation",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "counter"
+      }
+    ]
+  },
+  {
+    "word": "survey",
+    "pos": "v",
+    "definition": "to measure and examine land in order to map or plan it",
+    "zh": "测量勘察",
+    "synonym": "map out",
+    "example": "Engineers will survey the valley before designing the bridge.",
+    "note": "Here survey means examining and measuring terrain, rather than asking people for opinions.",
+    "memory": "A land survey comes before a route is planned.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "surveyed"
+      }
+    ]
+  },
+  {
+    "word": "plume",
+    "pos": "n",
+    "definition": "a long cloud or stream shaped like a feather",
+    "zh": "羽状烟尘；柱状烟尘",
+    "synonym": "billowing column",
+    "example": "A plume of dust rose behind the truck.",
+    "note": "A plume can be a feather-shaped cloud of dust, smoke, or vapor, rather than a bird's actual feather.",
+    "memory": "Picture dust rising in a featherlike column.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "plumes"
+      }
+    ]
+  },
+  {
+    "word": "hover",
+    "pos": "v",
+    "definition": "to remain suspended in the air above one place",
+    "zh": "悬浮；盘旋",
+    "synonym": "hang in the air",
+    "example": "A dragonfly seemed to hover above the pond.",
+    "note": "Hover emphasizes remaining over an area, rather than traveling steadily onward.",
+    "memory": "Picture staying in the air over one spot.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "hovers"
+      }
+    ]
+  },
+  {
+    "word": "buckle",
+    "pos": "v",
+    "definition": "to bend or give way under pressure",
+    "zh": "弯曲变形",
+    "synonym": "warp",
+    "example": "Extreme heat can cause a metal rail to buckle.",
+    "note": "Here buckle means bend out of shape, rather than fasten a belt.",
+    "memory": "Picture a straight strip bending under stress.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "buckles"
+      }
+    ]
+  },
+  {
+    "word": "torrential",
+    "pos": "adj",
+    "definition": "falling or flowing rapidly in very large amounts",
+    "zh": "倾泻的；猛烈的",
+    "synonym": "rushing",
+    "example": "The torrential rain flooded the footpath within minutes.",
+    "note": "Torrential describes powerful quantities of water, not just a few scattered drops.",
+    "memory": "Think of water pouring in a torrent.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "Torrential"
+      }
+    ]
+  },
+  {
+    "word": "commendable",
+    "pos": "adj",
+    "definition": "deserving praise or approval",
+    "zh": "值得称赞的",
+    "synonym": "praiseworthy",
+    "example": "Her commendable honesty helped the team correct its mistake.",
+    "note": "Commendable evaluates an action as worthy of praise; commend means to praise.",
+    "memory": "An action you would commend is commendable.",
+    "tier": "Core",
+    "topic": "Quality & judgment",
+    "sources": [
+      {
+        "passageId": "gotestprep-05",
+        "form": "commendable"
+      }
+    ]
+  },
+  {
+    "word": "conservation",
+    "pos": "n",
+    "definition": "the protection and careful use of natural resources",
+    "zh": "保护；资源保育",
+    "synonym": "resource protection",
+    "example": "Water conservation helped the town through the dry summer.",
+    "note": "Conservation protects resources and avoids waste; it need not mean preventing all use.",
+    "memory": "Conserve today so resources remain tomorrow.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-06",
+        "form": "conservation"
+      }
+    ]
+  },
+  {
+    "word": "depletion",
+    "pos": "n",
+    "definition": "the reduction of a supply through use or loss",
+    "zh": "消耗；枯竭",
+    "synonym": "using up",
+    "example": "Repeated pumping caused the depletion of the underground water supply.",
+    "note": "Depletion describes a supply becoming smaller, sometimes before it is completely exhausted.",
+    "memory": "Picture the supply level falling.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-06",
+        "form": "depletion"
+      }
+    ]
+  },
+  {
+    "word": "inexhaustible",
+    "pos": "adj",
+    "definition": "impossible to use up completely",
+    "zh": "用之不尽的",
+    "synonym": "unlimited",
+    "example": "The storyteller seemed to have an inexhaustible supply of ideas.",
+    "note": "Inexhaustible means unable to be exhausted; a very large supply can still have limits.",
+    "memory": "Inexhaustible is the opposite of able to run out.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-06",
+        "form": "inexhaustible"
+      }
+    ]
+  },
+  {
+    "word": "pollution",
+    "pos": "n",
+    "definition": "the presence of harmful substances or waste in the environment",
+    "zh": "污染",
+    "synonym": "contamination",
+    "example": "The cleanup reduced pollution in the stream.",
+    "note": "Pollution harms environmental quality; ordinary natural change is not automatically pollution.",
+    "memory": "Picture harmful waste entering clean water.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-06",
+        "form": "pollution"
+      }
+    ]
+  },
+  {
+    "word": "timber",
+    "pos": "n",
+    "definition": "wood used or prepared for building",
+    "zh": "木材",
+    "synonym": "lumber",
+    "example": "The workers stacked the timber beside the unfinished shed.",
+    "note": "Timber names wood as a building resource, rather than an individual finished table or chair.",
+    "memory": "Trees can supply building timber.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "gotestprep-06",
+        "form": "Timber"
+      }
+    ]
+  },
+  {
+    "word": "abundance",
+    "pos": "n",
+    "definition": "a very large quantity of something",
+    "zh": "丰富；大量",
+    "synonym": "plenty",
+    "example": "The orchard produced an abundance of apples this year.",
+    "note": "Abundance means a plentiful supply; it is the noun related to abundant.",
+    "memory": "Abundant describes; abundance names the plenty.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "gotestprep-06",
+        "form": "abundance"
+      }
+    ]
+  },
+  {
+    "word": "botch",
+    "pos": "v",
+    "definition": "to do something badly through mistakes or poor skill",
+    "zh": "把……搞砸",
+    "synonym": "bungle",
+    "example": "Rushing may cause you to botch an otherwise simple repair.",
+    "note": "Botch emphasizes a job done badly, rather than a plan merely delayed.",
+    "memory": "A botched job needs to be put right.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "botched"
+      }
+    ]
+  },
+  {
+    "word": "calculate",
+    "pos": "v",
+    "definition": "to determine a quantity or result by mathematical reasoning",
+    "zh": "计算",
+    "synonym": "compute",
+    "example": "We can calculate the area by multiplying length by width.",
+    "note": "Calculate involves working out a result, rather than simply reporting a guess.",
+    "memory": "Use known numbers to work out an unknown.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "calculate"
+      }
+    ]
+  },
+  {
+    "word": "orbit",
+    "pos": "n",
+    "definition": "the curved path of an object moving around another object in space",
+    "zh": "轨道",
+    "synonym": "orbital path",
+    "example": "The satellite follows an orbit around Earth.",
+    "note": "Orbit names the path, rather than the object traveling along it.",
+    "memory": "Picture the path circling a planet.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "orbits"
+      }
+    ]
+  },
+  {
+    "word": "gravity",
+    "pos": "n",
+    "definition": "the attraction between objects that have mass",
+    "zh": "引力；重力",
+    "synonym": "gravitational attraction",
+    "example": "Earth's gravity pulls the dropped ball toward the ground.",
+    "note": "Here gravity is a physical attraction, rather than seriousness of manner.",
+    "memory": "A falling ball is a familiar clue to gravity.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "gravity"
+      }
+    ]
+  },
+  {
+    "word": "astronomer",
+    "pos": "n",
+    "definition": "a scientist who studies objects and phenomena in space",
+    "zh": "天文学家",
+    "synonym": "space researcher",
+    "example": "The astronomer used a telescope to examine the distant star.",
+    "note": "Astronomers study space; the word does not mean a person who travels there.",
+    "memory": "The astronomer studies stars; the astronaut travels in space.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "astronomers"
+      }
+    ]
+  },
+  {
+    "word": "observation",
+    "pos": "n",
+    "definition": "information gained by carefully watching or measuring",
+    "zh": "观察结果",
+    "synonym": "recorded finding",
+    "example": "Her observation of the nest helped explain the birds' behavior.",
+    "note": "An observation records what is noticed or measured; an explanation interprets those findings.",
+    "memory": "First observe a pattern, then try to explain it.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "observations"
+      }
+    ]
+  },
+  {
+    "word": "exception",
+    "pos": "n",
+    "definition": "a case that does not follow a general rule or pattern",
+    "zh": "例外",
+    "synonym": "special case",
+    "example": "Every shelf was empty, with the exception of the top one.",
+    "note": "An exception falls outside a stated pattern; it does not necessarily disprove every part of it.",
+    "memory": "One case stands apart from the usual rule.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "ivy-01",
+        "form": "exception"
+      }
+    ]
+  },
+  {
+    "word": "presently",
+    "pos": "adv",
+    "definition": "after a short time; soon",
+    "zh": "不久；一会儿",
+    "synonym": "shortly",
+    "example": "The rain stopped, and presently the children returned outside.",
+    "note": "In older storytelling, presently often means soon afterward; it can mean currently in other contexts.",
+    "memory": "In a story, picture the next event happening shortly.",
+    "tier": "Core",
+    "topic": "Time, order & certainty",
+    "sources": [
+      {
+        "passageId": "ivy-02",
+        "form": "Presently"
+      }
+    ]
+  },
+  {
+    "word": "oblige",
+    "pos": "v",
+    "definition": "to require someone to do something because of a duty or circumstance",
+    "zh": "迫使；使不得不",
+    "synonym": "compel",
+    "example": "The blocked road may oblige us to take a longer route.",
+    "note": "In be obliged to, a person is required or forced to act; it is different from doing a favor.",
+    "memory": "Obliged to means having to.",
+    "tier": "Core",
+    "topic": "Decisions & purposeful actions",
+    "sources": [
+      {
+        "passageId": "ivy-02",
+        "form": "obliged"
+      }
+    ]
+  },
+  {
+    "word": "enthusiast",
+    "pos": "n",
+    "definition": "a person who is very interested in an activity or subject",
+    "zh": "爱好者；热衷者",
+    "synonym": "devotee",
+    "example": "A gardening enthusiast offered to help with the school greenhouse.",
+    "note": "An enthusiast shows strong interest, without necessarily being a paid professional.",
+    "memory": "Enthusiasm describes the enthusiast's interest.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "Enthusiasts"
+      }
+    ]
+  },
+  {
+    "word": "participant",
+    "pos": "n",
+    "definition": "a person who takes part in an activity",
+    "zh": "参与者",
+    "synonym": "person taking part",
+    "example": "Each participant received a map before the walking tour.",
+    "note": "A participant takes part; a spectator mainly watches.",
+    "memory": "Participate is the action; participant is the person.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "participants"
+      }
+    ]
+  },
+  {
+    "word": "resident",
+    "pos": "n",
+    "definition": "a person who lives in a particular place",
+    "zh": "居民",
+    "synonym": "inhabitant",
+    "example": "A longtime resident explained how the neighborhood had changed.",
+    "note": "A resident lives in a place, rather than merely visiting it.",
+    "memory": "Residence is home to a resident.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "resident"
+      }
+    ]
+  },
+  {
+    "word": "suburb",
+    "pos": "n",
+    "definition": "a residential community on the edge of or near a city",
+    "zh": "郊区",
+    "synonym": "outlying community",
+    "example": "Their suburb has a train connection to the city center.",
+    "note": "A suburb is connected to a larger city and is not simply any distant rural village.",
+    "memory": "Picture a community near the city's edge.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "suburb"
+      }
+    ]
+  },
+  {
+    "word": "wardrobe",
+    "pos": "n",
+    "definition": "the collection of clothes a person owns",
+    "zh": "全部衣物",
+    "synonym": "clothing collection",
+    "example": "She added a warm coat to her winter wardrobe.",
+    "note": "Here wardrobe means someone's clothes, rather than the cupboard used to store them.",
+    "memory": "Picture all your clothes considered as one collection.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "wardrobes"
+      }
+    ]
+  },
+  {
+    "word": "charitable",
+    "pos": "adj",
+    "definition": "intended to help people in need",
+    "zh": "慈善的",
+    "synonym": "benevolent",
+    "example": "The club organized a charitable sale to support the food bank.",
+    "note": "Charitable describes help for others, rather than an activity done only for personal profit.",
+    "memory": "A charity carries out charitable work.",
+    "tier": "Core",
+    "topic": "Character & integrity",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "charitable"
+      }
+    ]
+  },
+  {
+    "word": "concept",
+    "pos": "n",
+    "definition": "a general idea or principle",
+    "zh": "概念",
+    "synonym": "idea",
+    "example": "The model helped explain the concept of balance.",
+    "note": "A concept is an idea that helps organize understanding; an example illustrates it.",
+    "memory": "One concept can be illustrated by many examples.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "ivy-03",
+        "form": "concept"
+      }
+    ]
+  },
+  {
+    "word": "sustenance",
+    "pos": "n",
+    "definition": "food or nourishment needed to support life",
+    "zh": "食物；营养",
+    "synonym": "nourishment",
+    "example": "The small seeds provide sustenance for birds in winter.",
+    "note": "Sustenance keeps a living thing alive; entertainment alone does not provide it.",
+    "memory": "Sustain life with sustenance.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "sustenance"
+      }
+    ]
+  },
+  {
+    "word": "appendage",
+    "pos": "n",
+    "definition": "a part attached to the main body of an animal or object",
+    "zh": "附肢；附属物",
+    "synonym": "attached part",
+    "example": "The crab used a jointed appendage to move food toward its mouth.",
+    "note": "An appendage is attached to a main body, rather than being the whole organism.",
+    "memory": "Picture a limb attached to a body.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "appendage"
+      }
+    ]
+  },
+  {
+    "word": "microscopic",
+    "pos": "adj",
+    "definition": "so small that a microscope is needed to see it clearly",
+    "zh": "微观的；极微小的",
+    "synonym": "minute",
+    "example": "The pond water contained microscopic organisms.",
+    "note": "Microscopic concerns very small scale; it does not mean simply far away.",
+    "memory": "A microscope makes microscopic things visible.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "microscopic"
+      }
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "pos": "n",
+    "definition": "a community of organisms and the physical environment with which they interact",
+    "zh": "生态系统",
+    "synonym": "ecological system",
+    "example": "The pond ecosystem includes insects, fish, plants, water, and soil.",
+    "note": "An ecosystem includes both organisms and their physical surroundings, not just a list of animals.",
+    "memory": "Living things plus their interacting environment.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "ecosystems"
+      }
+    ]
+  },
+  {
+    "word": "abyssal",
+    "pos": "adj",
+    "definition": "relating to the very deep regions of the ocean",
+    "zh": "深海的",
+    "synonym": "deep-ocean",
+    "example": "Very little sunlight reaches the abyssal regions of the sea.",
+    "note": "Abyssal identifies great ocean depth, rather than merely being underwater near a beach.",
+    "memory": "Think of the deep ocean beyond sunlight.",
+    "tier": "Stretch",
+    "topic": "Subtle descriptions",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "abyssal"
+      }
+    ]
+  },
+  {
+    "word": "shroud",
+    "pos": "v",
+    "definition": "to cover or hide something from view",
+    "zh": "笼罩；遮蔽",
+    "synonym": "veil",
+    "example": "Thick fog can shroud the island before sunrise.",
+    "note": "As a verb, shroud means conceal under a covering; it need not involve a burial cloth.",
+    "memory": "Picture fog wrapping a hill and hiding it.",
+    "tier": "Core",
+    "topic": "Powerful verbs",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "shrouded"
+      }
+    ]
+  },
+  {
+    "word": "dazzle",
+    "pos": "v",
+    "definition": "to impress or amaze with brightness or beauty",
+    "zh": "使赞叹；使眼花缭乱",
+    "synonym": "impress brilliantly",
+    "example": "The brilliant colors of the mural dazzle visitors.",
+    "note": "Dazzle can describe an overwhelming visual impression, rather than explaining something logically.",
+    "memory": "Picture brilliant color capturing your attention.",
+    "tier": "Core",
+    "topic": "Powerful verbs",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "dazzle"
+      }
+    ]
+  },
+  {
+    "word": "teem",
+    "pos": "v",
+    "definition": "to be full of living things",
+    "zh": "充满；遍布",
+    "synonym": "abound",
+    "example": "The tide pools teem with small crabs and snails.",
+    "note": "Teem with emphasizes abundant life or activity; it does not mean merely contain one item.",
+    "memory": "A pool that teems is alive with many creatures.",
+    "tier": "Core",
+    "topic": "Powerful verbs",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "teems"
+      }
+    ]
+  },
+  {
+    "word": "slumber",
+    "pos": "n",
+    "definition": "sleep, especially peaceful sleep",
+    "zh": "安眠；睡眠",
+    "synonym": "sleep",
+    "example": "The distant thunder did not disturb the baby's slumber.",
+    "note": "Slumber is a literary word for sleep; plants may be described as sleeping figuratively.",
+    "memory": "Picture a peaceful sleeper.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "ivy-05",
+        "form": "slumber"
+      }
+    ]
+  },
+  {
+    "word": "scrawny",
+    "pos": "adj",
+    "definition": "unusually thin and weak-looking",
+    "zh": "骨瘦如柴的；瘦弱的",
+    "synonym": "skinny",
+    "example": "The scrawny seedling needed better light and soil.",
+    "note": "Scrawny suggests thinness with weakness or poor growth, rather than elegant slimness.",
+    "memory": "Picture a thin, struggling seedling.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "ivy-05",
+        "form": "scrawny"
+      }
+    ]
+  },
+  {
+    "word": "frolic",
+    "pos": "v",
+    "definition": "to play and move about happily",
+    "zh": "嬉戏",
+    "synonym": "romp",
+    "example": "The puppies frolic on the grass after their nap.",
+    "note": "Frolic combines playful movement with enjoyment, rather than ordinary walking.",
+    "memory": "Picture puppies leaping in play.",
+    "tier": "Core",
+    "topic": "Actions & movement",
+    "sources": [
+      {
+        "passageId": "ivy-05",
+        "form": "frolic"
+      }
+    ]
+  },
+  {
+    "word": "reluctantly",
+    "pos": "adv",
+    "definition": "in an unwilling or hesitant manner",
+    "zh": "不情愿地",
+    "synonym": "unwillingly",
+    "example": "He reluctantly left the playground when it was time to go.",
+    "note": "Reluctantly describes how someone acts despite not wanting to do it.",
+    "memory": "The action happens, but the person would rather avoid it.",
+    "tier": "Core",
+    "topic": "Emotions & attitudes",
+    "sources": [
+      {
+        "passageId": "ivy-05",
+        "form": "reluctantly"
+      }
+    ]
+  },
+  {
+    "word": "neglect",
+    "pos": "v",
+    "definition": "to fail to give needed care or attention to something",
+    "zh": "疏于照料；忽视",
+    "synonym": "leave uncared for",
+    "example": "If we neglect the young plants, they may dry out.",
+    "note": "Neglect concerns a lack of necessary care; deliberate destruction is a different action.",
+    "memory": "Care is needed but not given.",
+    "tier": "Core",
+    "topic": "Character & behavior",
+    "sources": [
+      {
+        "passageId": "ivy-05",
+        "form": "Neglected"
+      }
+    ]
+  },
+  {
+    "word": "ritual",
+    "pos": "n",
+    "definition": "an established set of actions performed for a ceremony or tradition",
+    "zh": "仪式；惯例",
+    "synonym": "ceremonial practice",
+    "example": "Lighting the lanterns became a yearly ritual in the village.",
+    "note": "A ritual follows an established pattern and often has symbolic meaning.",
+    "memory": "Picture a ceremony performed in a familiar order.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-06",
+        "form": "rituals"
+      }
+    ]
+  },
+  {
+    "word": "pardon",
+    "pos": "v",
+    "definition": "to officially forgive someone or release them from a punishment",
+    "zh": "赦免",
+    "synonym": "grant clemency",
+    "example": "The ruler agreed to pardon the prisoner after reviewing the case.",
+    "note": "Pardon removes or forgives a penalty; it does not necessarily establish innocence.",
+    "memory": "A pardon releases someone from punishment.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-06",
+        "form": "pardoned"
+      }
+    ]
+  },
+  {
+    "word": "preside",
+    "pos": "v",
+    "definition": "to lead or be in charge of a meeting or ceremony",
+    "zh": "主持",
+    "synonym": "chair",
+    "example": "The principal will preside over the graduation ceremony.",
+    "note": "Preside concerns leading proceedings, rather than merely attending them.",
+    "memory": "The person at the chair presides.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ivy-06",
+        "form": "presided"
+      }
+    ]
+  },
+  {
+    "word": "annually",
+    "pos": "adv",
+    "definition": "once every year",
+    "zh": "每年一次地",
+    "synonym": "yearly",
+    "example": "The town holds its harvest fair annually.",
+    "note": "Annually specifies a yearly frequency; it does not mean every season.",
+    "memory": "Annual events happen annually.",
+    "tier": "Core",
+    "topic": "Time, order & certainty",
+    "sources": [
+      {
+        "passageId": "ivy-06",
+        "form": "annually"
+      }
+    ]
+  },
+  {
+    "word": "surface",
+    "pos": "n",
+    "definition": "the outside or uppermost layer of something",
+    "zh": "表面",
+    "synonym": "outer layer",
+    "example": "A leaf floated on the surface of the pond.",
+    "note": "Here surface names the upper boundary of the water, rather than the action of coming up.",
+    "memory": "Picture the boundary between water and air.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ivy-07",
+        "form": "surface"
+      }
+    ]
+  },
+  {
+    "word": "commodity",
+    "pos": "n",
+    "definition": "a basic good or raw material that can be bought and sold",
+    "zh": "商品；原材料",
+    "synonym": "trade good",
+    "example": "Wheat is an important commodity in many farming regions.",
+    "note": "A commodity is a tradable good, often a basic material, rather than a service or opinion.",
+    "memory": "Picture grain sold as a basic trade good.",
+    "tier": "Core",
+    "topic": "Power, resources & achievement",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "commodity"
+      }
+    ]
+  },
+  {
+    "word": "staple",
+    "pos": "n",
+    "definition": "a food regularly eaten as a main part of a diet",
+    "zh": "主食",
+    "synonym": "basic food",
+    "example": "Rice is a staple in many households.",
+    "note": "Here staple means a basic dietary food, rather than the metal fastener used for paper.",
+    "memory": "A dietary staple appears on the table regularly.",
+    "tier": "Core",
+    "topic": "Power, resources & achievement",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "staple"
+      }
+    ]
+  },
+  {
+    "word": "paltry",
+    "pos": "adj",
+    "definition": "so small in amount that it seems inadequate or unimportant",
+    "zh": "微不足道的；少得可怜的",
+    "synonym": "meager",
+    "example": "The paltry payment barely covered the cost of the bus ride.",
+    "note": "Paltry adds a judgment of insufficiency to small size or amount.",
+    "memory": "Picture a payment too small to cover the need.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "paltry"
+      }
+    ]
+  },
+  {
+    "word": "opulent",
+    "pos": "adj",
+    "definition": "showing great wealth and luxury",
+    "zh": "豪华富丽的",
+    "synonym": "luxurious",
+    "example": "The opulent hall had marble floors and gilded ceilings.",
+    "note": "Opulent stresses richness and luxury, rather than simple comfort.",
+    "memory": "Picture a room overflowing with costly decoration.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "opulent"
+      }
+    ]
+  },
+  {
+    "word": "reputed",
+    "pos": "adj",
+    "definition": "generally believed or said to be something",
+    "zh": "据说的；被认为的",
+    "synonym": "supposed",
+    "example": "The reputed expert could not explain the simplest part of the machine.",
+    "note": "Reputed marks what people say or believe, without guaranteeing that the reputation is deserved.",
+    "memory": "A reputation is a report, not proof.",
+    "tier": "Core",
+    "topic": "Time, order & certainty",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "reputed"
+      }
+    ]
+  },
+  {
+    "word": "utterance",
+    "pos": "n",
+    "definition": "something spoken aloud",
+    "zh": "话语；言语",
+    "synonym": "spoken statement",
+    "example": "Her brief utterance ended the long silence.",
+    "note": "An utterance is a spoken expression; it need not be a long formal speech.",
+    "memory": "To utter is to speak; an utterance is what is spoken.",
+    "tier": "Core",
+    "topic": "Speech & expression",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "utterance"
+      }
+    ]
+  },
+  {
+    "word": "aftermath",
+    "pos": "n",
+    "definition": "the period or consequences following a major and usually harmful event",
+    "zh": "余波；后果",
+    "synonym": "consequences",
+    "example": "Neighbors helped repair homes in the aftermath of the storm.",
+    "note": "Aftermath focuses on what follows an event, especially its damaging consequences.",
+    "memory": "Picture the cleanup after the storm.",
+    "tier": "Core",
+    "topic": "Adversity & achievement nouns",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "aftermath"
+      }
+    ]
+  },
+  {
+    "word": "fabrication",
+    "pos": "n",
+    "definition": "an invented story presented as though it were true",
+    "zh": "捏造；虚构的说法",
+    "synonym": "false invention",
+    "example": "The witness admitted that the dramatic story was a fabrication.",
+    "note": "Here fabrication means a made-up account, rather than the manufacture of an object.",
+    "memory": "A fabricated account was invented, not observed.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "fabrication"
+      }
+    ]
+  },
+  {
+    "word": "misattribution",
+    "pos": "n",
+    "definition": "the mistaken crediting of words or work to the wrong source",
+    "zh": "错误归属",
+    "synonym": "incorrect attribution",
+    "example": "The misattribution gave the poet credit for a line written by someone else.",
+    "note": "Misattribution gives the wrong source credit; the words themselves may still be real.",
+    "memory": "Real words can have the wrong name attached.",
+    "tier": "Stretch",
+    "topic": "Literary & academic distinctions",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "misattribution"
+      }
+    ]
+  },
+  {
+    "word": "pedant",
+    "pos": "n",
+    "definition": "a person who places excessive importance on minor rules or details",
+    "zh": "卖弄学问者；拘泥细节者",
+    "synonym": "nitpicker",
+    "example": "The pedant interrupted the story to correct a tiny error in the date.",
+    "note": "Pedant is critical of excessive concern with details, rather than a neutral label for any careful scholar.",
+    "memory": "Picture tiny corrections interrupting the main point.",
+    "tier": "Stretch",
+    "topic": "Literary & academic distinctions",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "pedants"
+      }
+    ]
+  },
+  {
+    "word": "cloister",
+    "pos": "v",
+    "definition": "to shut away from ordinary social contact",
+    "zh": "使与世隔绝",
+    "synonym": "seclude",
+    "example": "The writer chose to cloister herself in a quiet cabin until the draft was finished.",
+    "note": "Cloister as a verb stresses separation from outside life, rather than simply living in a particular room.",
+    "memory": "Picture a retreat cut off from daily bustle.",
+    "tier": "Stretch",
+    "topic": "Literary & academic distinctions",
+    "sources": [
+      {
+        "passageId": "ivy-08",
+        "form": "cloistered"
+      }
+    ]
+  },
+  {
+    "word": "insertion",
+    "pos": "n",
+    "definition": "the act of putting something into something else",
+    "zh": "插入",
+    "synonym": "putting in",
+    "example": "The insertion of a new paragraph made the explanation clearer.",
+    "note": "Insertion is adding something inside an existing space or structure, rather than removing it.",
+    "memory": "Insert means put in; insertion names the act.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "kaplan-01",
+        "form": "insertion"
+      }
+    ]
+  },
+  {
+    "word": "complementary",
+    "pos": "adj",
+    "definition": "different in ways that combine well or complete one another",
+    "zh": "互补的",
+    "synonym": "mutually completing",
+    "example": "Their complementary skills made the project easier to finish.",
+    "note": "Complementary things complete or balance each other; complimentary means praising or free of charge.",
+    "memory": "Complementary skills complete a team.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "kaplan-01",
+        "form": "complementary"
+      }
+    ]
+  },
+  {
+    "word": "mechanism",
+    "pos": "n",
+    "definition": "the process or system through which something works",
+    "zh": "机制；作用过程",
+    "synonym": "working process",
+    "example": "The students investigated the mechanism that makes the toy move.",
+    "note": "A mechanism explains how a result is produced, rather than merely naming the result.",
+    "memory": "Ask how the parts or steps make it work.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "kaplan-01",
+        "form": "mechanism"
+      }
+    ]
+  },
+  {
+    "word": "philosophy",
+    "pos": "n",
+    "definition": "a system of ideas about life, knowledge, or how things should be understood",
+    "zh": "哲学；思想体系",
+    "synonym": "system of beliefs",
+    "example": "The school's philosophy emphasizes curiosity and careful reasoning.",
+    "note": "Philosophy organizes broad ideas and principles; it is more than one passing opinion.",
+    "memory": "Picture guiding ideas that fit into a system.",
+    "tier": "Core",
+    "topic": "Reasoning & knowledge",
+    "sources": [
+      {
+        "passageId": "kaplan-01",
+        "form": "philosophy"
+      }
+    ]
+  },
+  {
+    "word": "primate",
+    "pos": "n",
+    "definition": "a mammal belonging to the group that includes humans, apes, monkeys, and lemurs",
+    "zh": "灵长类动物",
+    "synonym": "primate mammal",
+    "example": "A lemur is a primate with grasping hands and feet.",
+    "note": "Primate names a biological group, rather than every tree-dwelling animal.",
+    "memory": "Think of humans, apes, monkeys, and lemurs.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "kaplan-02",
+        "form": "primates"
+      }
+    ]
+  },
+  {
+    "word": "mammal",
+    "pos": "n",
+    "definition": "an animal in the group whose females produce milk to feed their young",
+    "zh": "哺乳动物",
+    "synonym": "milk-nursing animal",
+    "example": "The whale is a mammal even though it lives in the sea.",
+    "note": "Mammals are classified by biological traits, rather than by whether they live on land.",
+    "memory": "Milk for the young is a key clue.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "kaplan-02",
+        "form": "mammals"
+      }
+    ]
+  },
+  {
+    "word": "contrary",
+    "pos": "adj",
+    "definition": "opposite in meaning, direction, or effect",
+    "zh": "相反的",
+    "synonym": "opposing",
+    "example": "The two witnesses gave contrary accounts of the same event.",
+    "note": "In contrary to, the meaning is opposed to, rather than in support of.",
+    "memory": "Contrary evidence points the other way.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "kaplan-02",
+        "form": "contrary"
+      }
+    ]
+  },
+  {
+    "word": "bid",
+    "pos": "v",
+    "definition": "to tell or command someone to do something",
+    "zh": "吩咐；命令",
+    "synonym": "instruct",
+    "example": "The old tale says the queen would bid her guards open the gate.",
+    "note": "In older writing, bid can mean command; bade and bidden are related past forms.",
+    "memory": "A queen's bidding is her command.",
+    "tier": "Stretch",
+    "topic": "Literary & academic distinctions",
+    "sources": [
+      {
+        "passageId": "kaplan-03",
+        "form": "bidden"
+      }
+    ]
+  },
+  {
+    "word": "harbor",
+    "pos": "n",
+    "definition": "a sheltered area of water where ships can stay safely",
+    "zh": "港湾",
+    "synonym": "port",
+    "example": "The fishing boats returned to the harbor before the storm.",
+    "note": "A harbor shelters boats; it is a place rather than a particular vessel.",
+    "memory": "Picture boats sheltered behind a breakwater.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "kaplan-03",
+        "form": "harbor"
+      }
+    ]
+  },
+  {
+    "word": "bough",
+    "pos": "n",
+    "definition": "a large branch of a tree",
+    "zh": "大树枝",
+    "synonym": "limb",
+    "example": "Snow collected on the lowest bough of the oak.",
+    "note": "A bough is a main tree branch, rather than a tiny twig or the tree's trunk.",
+    "memory": "Picture a thick branch extending from the trunk.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-04",
+        "form": "bough"
+      }
+    ]
+  },
+  {
+    "word": "hue",
+    "pos": "n",
+    "definition": "a color or shade of color",
+    "zh": "色调",
+    "synonym": "shade",
+    "example": "The sunset gave the clouds a rosy hue.",
+    "note": "Hue identifies color, rather than an object's shape or texture.",
+    "memory": "Ask which color you see.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-04",
+        "form": "hued"
+      }
+    ]
+  },
+  {
+    "word": "sober",
+    "pos": "adj",
+    "definition": "subdued or restrained in color or style",
+    "zh": "素净的；不鲜艳的",
+    "synonym": "muted",
+    "example": "The room's sober colors suited the quiet memorial.",
+    "note": "Here sober describes restrained coloring, rather than whether someone has consumed alcohol.",
+    "memory": "Picture muted colors in a quiet room.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-04",
+        "form": "Soberer"
+      }
+    ]
+  },
+  {
+    "word": "reconstruction",
+    "pos": "n",
+    "definition": "the process of building again after damage or destruction",
+    "zh": "重建",
+    "synonym": "rebuilding",
+    "example": "The reconstruction of the bridge took two years after the flood.",
+    "note": "Reconstruction builds again; it is different from constructing something for the first time.",
+    "memory": "Re- adds the idea of again.",
+    "tier": "Core",
+    "topic": "Change & progress",
+    "sources": [
+      {
+        "passageId": "kaplan-05",
+        "form": "reconstruction"
+      }
+    ]
+  },
+  {
+    "word": "stability",
+    "pos": "n",
+    "definition": "the condition of remaining steady and unlikely to change or collapse",
+    "zh": "稳定",
+    "synonym": "steadiness",
+    "example": "Extra supports improved the stability of the platform.",
+    "note": "Stability is steadiness in a structure or situation, rather than rapid growth.",
+    "memory": "A stable structure has stability.",
+    "tier": "Core",
+    "topic": "Change & progress",
+    "sources": [
+      {
+        "passageId": "kaplan-05",
+        "form": "stability"
+      }
+    ]
+  },
+  {
+    "word": "unified",
+    "pos": "adj",
+    "definition": "joined into a single coordinated whole",
+    "zh": "统一的；联合的",
+    "synonym": "united",
+    "example": "The groups presented a unified plan for cleaning the park.",
+    "note": "Unified means brought together, without requiring every member to be identical.",
+    "memory": "Many parts work as one whole.",
+    "tier": "Core",
+    "topic": "Change & progress",
+    "sources": [
+      {
+        "passageId": "kaplan-05",
+        "form": "unified"
+      }
+    ]
+  },
+  {
+    "word": "assistance",
+    "pos": "n",
+    "definition": "help or support given to someone",
+    "zh": "援助；帮助",
+    "synonym": "aid",
+    "example": "The hikers needed assistance to move the fallen branch.",
+    "note": "Assistance names the help provided; assistant names a person who helps.",
+    "memory": "Assist is the action; assistance is the help.",
+    "tier": "Core",
+    "topic": "Change & progress",
+    "sources": [
+      {
+        "passageId": "kaplan-05",
+        "form": "assistance"
+      }
+    ]
+  },
+  {
+    "word": "stark",
+    "pos": "adj",
+    "definition": "plain and striking, with little decoration or softness",
+    "zh": "简朴鲜明的；荒凉的",
+    "synonym": "bare",
+    "example": "The photograph captured the stark beauty of the treeless hillside.",
+    "note": "Stark can describe a bare yet striking appearance, rather than rich decoration.",
+    "memory": "Picture a bare hillside with clear, strong outlines.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-06",
+        "form": "stark"
+      }
+    ]
+  },
+  {
+    "word": "pioneering",
+    "pos": "adj",
+    "definition": "introducing new ideas or methods that others may later follow",
+    "zh": "开创性的",
+    "synonym": "trailblazing",
+    "example": "Her pioneering design changed how later bridges were built.",
+    "note": "Pioneering concerns leading the way in a field, not merely copying an established method.",
+    "memory": "A pioneer opens a path for others.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-06",
+        "form": "pioneering"
+      }
+    ]
+  },
+  {
+    "word": "depict",
+    "pos": "v",
+    "definition": "to show or represent something in words or pictures",
+    "zh": "描绘",
+    "synonym": "portray",
+    "example": "The painting will depict the town as it looked a century ago.",
+    "note": "Depict means represent; it does not guarantee a completely realistic or literal treatment.",
+    "memory": "A depiction shows a subject.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-06",
+        "form": "depict"
+      }
+    ]
+  },
+  {
+    "word": "idealized",
+    "pos": "adj",
+    "definition": "represented as more perfect than it is in reality",
+    "zh": "理想化的",
+    "synonym": "perfected in portrayal",
+    "example": "The poster showed an idealized village without traffic or litter.",
+    "note": "Idealized describes a polished representation, rather than proof that the subject is perfect.",
+    "memory": "Picture reality with its flaws removed.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-06",
+        "form": "idealized"
+      }
+    ]
+  },
+  {
+    "word": "semiabstract",
+    "pos": "adj",
+    "definition": "showing recognizable subjects through simplified or partly abstract forms",
+    "zh": "半抽象的",
+    "synonym": "partly abstract",
+    "example": "The semiabstract painting suggested a flower through a few curved shapes.",
+    "note": "Semiabstract art keeps some recognizable features while simplifying others.",
+    "memory": "Semi- means partly: partly abstract, partly recognizable.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "kaplan-06",
+        "form": "semiabstract"
+      }
+    ]
+  },
+  {
+    "word": "residential",
+    "pos": "adj",
+    "definition": "relating to places where people live",
+    "zh": "住宅的；居住的",
+    "synonym": "housing-related",
+    "example": "The new rules limit loud construction in residential streets.",
+    "note": "Residential concerns homes and their areas, rather than factories or commercial offices.",
+    "memory": "Residents live in residential areas.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "kaplan-07",
+        "form": "residential"
+      }
+    ]
+  },
+  {
+    "word": "campaign",
+    "pos": "n",
+    "definition": "an organized series of actions intended to reach a goal",
+    "zh": "有组织的活动",
+    "synonym": "organized effort",
+    "example": "The class began a campaign to reduce paper waste.",
+    "note": "A campaign is sustained, organized effort; it need not involve an election or a war.",
+    "memory": "Many coordinated actions work toward one goal.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "kaplan-07",
+        "form": "campaign"
+      }
+    ]
+  },
+  {
+    "word": "collectively",
+    "pos": "adv",
+    "definition": "with people or things considered or acting together",
+    "zh": "共同地；集体地",
+    "synonym": "together",
+    "example": "The classes collectively collected enough books to fill the library shelf.",
+    "note": "Collectively emphasizes the combined group, rather than each person's separate result.",
+    "memory": "Collect the separate efforts into one group result.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "kaplan-07",
+        "form": "collectively"
+      }
+    ]
+  },
+  {
+    "word": "underemphasize",
+    "pos": "v",
+    "definition": "to give less attention or importance to something than it deserves",
+    "zh": "对……强调不足",
+    "synonym": "downplay",
+    "example": "A short report may underemphasize the difficulties faced by volunteers.",
+    "note": "Underemphasize means give too little weight, rather than say nothing at all.",
+    "memory": "Under- means too little emphasis.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "kaplan-07",
+        "form": "underemphasized"
+      }
+    ]
+  },
+  {
+    "word": "operator",
+    "pos": "n",
+    "definition": "a person who controls or runs a machine or system",
+    "zh": "操作员",
+    "synonym": "equipment controller",
+    "example": "The operator checked the controls before starting the machine.",
+    "note": "An operator runs equipment; the word does not automatically mean its inventor or owner.",
+    "memory": "Operate is the action; operator is the person.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ninjas-01",
+        "form": "operator"
+      }
+    ]
+  },
+  {
+    "word": "loom",
+    "pos": "n",
+    "definition": "a machine or frame used for weaving cloth",
+    "zh": "织布机",
+    "synonym": "weaving machine",
+    "example": "The weaver stretched threads across the loom.",
+    "note": "Here loom is a noun naming equipment, rather than a verb meaning appear threateningly.",
+    "memory": "The loom is the weaver's tool.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "ninjas-01",
+        "form": "loom"
+      }
+    ]
+  },
+  {
+    "word": "artificial",
+    "pos": "adj",
+    "definition": "made or produced by people rather than occurring naturally",
+    "zh": "人造的",
+    "synonym": "human-made",
+    "example": "The greenhouse used artificial light during the short winter days.",
+    "note": "Artificial describes origin, not necessarily poor quality or deliberate deception.",
+    "memory": "A lamp supplies artificial light.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-02",
+        "form": "artificial"
+      }
+    ]
+  },
+  {
+    "word": "illumination",
+    "pos": "n",
+    "definition": "light that makes an area or object visible",
+    "zh": "照明；光照",
+    "synonym": "lighting",
+    "example": "The reading lamp provided enough illumination for the desk.",
+    "note": "Illumination here is physical lighting, rather than a new understanding of an idea.",
+    "memory": "Illuminate means light up.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-02",
+        "form": "illumination"
+      }
+    ]
+  },
+  {
+    "word": "corridor",
+    "pos": "n",
+    "definition": "a narrow connecting passage or route",
+    "zh": "通道；走廊",
+    "synonym": "connecting passage",
+    "example": "A corridor of protected woodland links the two forests.",
+    "note": "A corridor can be an ecological route, as well as a hallway inside a building.",
+    "memory": "Picture a narrow connection between larger areas.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-02",
+        "form": "corridor"
+      }
+    ]
+  },
+  {
+    "word": "spiral",
+    "pos": "v",
+    "definition": "to move in a curve that winds around a center",
+    "zh": "盘旋",
+    "synonym": "circle in coils",
+    "example": "We watched a paper seed spiral toward the ground.",
+    "note": "Spiral movement winds around a center while changing distance or height.",
+    "memory": "Picture a coiling path rather than a straight line.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-02",
+        "form": "spiral"
+      }
+    ]
+  },
+  {
+    "word": "monitor",
+    "pos": "v",
+    "definition": "to watch or check something over time",
+    "zh": "持续监测",
+    "synonym": "track",
+    "example": "The students will monitor the pond's water level each week.",
+    "note": "Monitor means continue checking for change, rather than make only one observation.",
+    "memory": "Repeated checks reveal a trend.",
+    "tier": "Core",
+    "topic": "Decisions & purposeful actions",
+    "sources": [
+      {
+        "passageId": "ninjas-02",
+        "form": "Monitoring"
+      }
+    ]
+  },
+  {
+    "word": "shield",
+    "pos": "v",
+    "definition": "to protect or screen something from exposure or harm",
+    "zh": "遮挡；保护",
+    "synonym": "screen",
+    "example": "A shade can shield the window from the afternoon sun.",
+    "note": "Shield can mean block exposure with a cover, as well as defend against a physical attack.",
+    "memory": "Picture a cover between the object and the exposure.",
+    "tier": "Core",
+    "topic": "Decisions & purposeful actions",
+    "sources": [
+      {
+        "passageId": "ninjas-02",
+        "form": "shielded"
+      }
+    ]
+  },
+  {
+    "word": "panel",
+    "pos": "n",
+    "definition": "one framed picture in a sequence in a comic",
+    "zh": "漫画的一格",
+    "synonym": "comic frame",
+    "example": "The final panel shows the cyclist arriving home.",
+    "note": "In comics, a panel is one picture unit; several panels build a sequence.",
+    "memory": "One comic picture fits inside one panel.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "ninjas-03",
+        "form": "panel"
+      }
+    ]
+  },
+  {
+    "word": "gutter",
+    "pos": "n",
+    "definition": "the blank space separating panels in a comic",
+    "zh": "漫画分格间的空白",
+    "synonym": "panel gap",
+    "example": "The gutter separates the two drawings without showing every moment between them.",
+    "note": "Here gutter means the blank between comic panels, rather than a channel that carries rainwater.",
+    "memory": "The reader bridges the blank between pictures.",
+    "tier": "Core",
+    "topic": "Ideas, art & literature",
+    "sources": [
+      {
+        "passageId": "ninjas-03",
+        "form": "gutter"
+      }
+    ]
+  },
+  {
+    "word": "hive",
+    "pos": "n",
+    "definition": "a nest or structure in which a colony of bees lives",
+    "zh": "蜂巢",
+    "synonym": "bee home",
+    "example": "The bees returned to the hive carrying pollen.",
+    "note": "A hive is the colony's home, rather than one bee or one drop of honey.",
+    "memory": "Many bees share one hive.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-04",
+        "form": "hive"
+      }
+    ]
+  },
+  {
+    "word": "reveal",
+    "pos": "v",
+    "definition": "to make something previously hidden or unclear known or visible",
+    "zh": "显露；揭示",
+    "synonym": "disclose",
+    "example": "The falling water level began to reveal the stones beneath.",
+    "note": "Reveal brings something into view or understanding, rather than creating it from nothing.",
+    "memory": "A hidden pattern becomes visible.",
+    "tier": "Core",
+    "topic": "Useful academic adverbs & verbs",
+    "sources": [
+      {
+        "passageId": "ninjas-04",
+        "form": "reveals"
+      }
+    ]
+  },
+  {
+    "word": "spidery",
+    "pos": "adj",
+    "definition": "having thin, irregular lines like a spider's legs",
+    "zh": "细长弯曲的；像蜘蛛腿的",
+    "synonym": "thin and straggling",
+    "example": "The old letter was covered in spidery handwriting.",
+    "note": "Spidery compares the shape of lines to spider legs; it does not claim that a spider wrote them.",
+    "memory": "Picture thin handwriting spreading like spider legs.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "ninjas-05",
+        "form": "spidery"
+      }
+    ]
+  },
+  {
+    "word": "fade",
+    "pos": "v",
+    "definition": "to gradually lose color, strength, or clarity",
+    "zh": "褪色；逐渐模糊",
+    "synonym": "grow faint",
+    "example": "Sunlight can cause the ink to fade over time.",
+    "note": "Fade is a gradual weakening, rather than something disappearing all at once.",
+    "memory": "Picture ink growing paler year after year.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "ninjas-05",
+        "form": "faded"
+      }
+    ]
+  },
+  {
+    "word": "permit",
+    "pos": "n",
+    "definition": "an official document giving permission to do something",
+    "zh": "许可证",
+    "synonym": "license",
+    "example": "The hikers obtained a permit before camping in the reserve.",
+    "note": "Here permit is a noun naming authorization; as a verb it can mean allow.",
+    "memory": "A permit is paper proof of permission.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "ninjas-06",
+        "form": "permit"
+      }
+    ]
+  },
+  {
+    "word": "canister",
+    "pos": "n",
+    "definition": "a firm container used for holding or storing something",
+    "zh": "罐；筒",
+    "synonym": "storage container",
+    "example": "We kept the flour in a sealed canister.",
+    "note": "A canister is a container, not the food or equipment stored inside it.",
+    "memory": "Picture a firm container with a lid.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "ninjas-06",
+        "form": "canister"
+      }
+    ]
+  },
+  {
+    "word": "figure",
+    "pos": "n",
+    "definition": "a number representing an amount or measurement",
+    "zh": "数字；数值",
+    "synonym": "numerical amount",
+    "example": "The report included a figure for the number of daily visitors.",
+    "note": "Here figure means a numerical value, rather than a shape, person, or drawing.",
+    "memory": "A column of figures is a column of numbers.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "ninjas-06",
+        "form": "figures"
+      }
+    ]
+  },
+  {
+    "word": "chrysalis",
+    "pos": "n",
+    "definition": "the pupa stage or outer case of a butterfly during its transformation",
+    "zh": "蝶蛹",
+    "synonym": "butterfly pupa",
+    "example": "The chrysalis hung beneath the branch until the butterfly emerged.",
+    "note": "A chrysalis is the butterfly's pupal stage or case, rather than a silk cocoon spun around it.",
+    "memory": "Caterpillar, chrysalis, then butterfly.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-07",
+        "form": "chrysalis"
+      }
+    ]
+  },
+  {
+    "word": "antenna",
+    "pos": "n",
+    "definition": "one of the sensory feelers on an insect's head",
+    "zh": "触角",
+    "synonym": "sensory feeler",
+    "example": "The insect moved one antenna toward the drop of nectar.",
+    "note": "Here antenna is a biological sensory part, rather than equipment for receiving radio signals.",
+    "memory": "An insect senses with its antennae.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "ninjas-07",
+        "form": "antenna"
+      }
+    ]
+  },
+  {
+    "word": "digit",
+    "pos": "n",
+    "definition": "any one of the numerals from zero to nine",
+    "zh": "数字符号",
+    "synonym": "numeral",
+    "example": "The final digit of the code is seven.",
+    "note": "A digit is one numeral; a multi-digit number contains several of them.",
+    "memory": "Three symbols make a three-digit number.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "ninjas-08",
+        "form": "digits"
+      }
+    ]
+  },
+  {
+    "word": "clerk",
+    "pos": "n",
+    "definition": "a worker who keeps records or performs routine office tasks",
+    "zh": "文书；办事员",
+    "synonym": "office worker",
+    "example": "The clerk checked the address before sorting the mail.",
+    "note": "A clerk handles routine records or transactions; the job is different from directing the whole organization.",
+    "memory": "Picture careful sorting and record keeping.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "ninjas-08",
+        "form": "clerk"
+      }
+    ]
+  },
+  {
+    "word": "convenience",
+    "pos": "n",
+    "definition": "something that makes a task easier or saves effort",
+    "zh": "便利之物",
+    "synonym": "helpful feature",
+    "example": "The online map was a convenience for visitors planning their route.",
+    "note": "A convenience makes life easier; it may be useful without being essential.",
+    "memory": "Convenient describes; convenience names the help.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "ninjas-08",
+        "form": "convenience"
+      }
+    ]
+  },
+  {
+    "word": "inhabitant",
+    "pos": "n",
+    "definition": "a person or animal that lives in a particular place",
+    "zh": "居民；栖居动物",
+    "synonym": "dweller",
+    "example": "Each inhabitant of the island depended on the ferry service.",
+    "note": "Inhabitant names a living occupant; inhabit is the verb for living there.",
+    "memory": "Those who inhabit a place are its inhabitants.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-01",
+        "form": "inhabitants"
+      }
+    ]
+  },
+  {
+    "word": "rebellion",
+    "pos": "n",
+    "definition": "organized resistance against a government or other authority",
+    "zh": "反抗；叛乱",
+    "synonym": "uprising",
+    "example": "The rebellion began when the ruler refused to hear the people's demands.",
+    "note": "Rebellion is resistance to authority, rather than ordinary disagreement between equals.",
+    "memory": "Picture an uprising against those in power.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-01",
+        "form": "rebellions"
+      }
+    ]
+  },
+  {
+    "word": "reside",
+    "pos": "v",
+    "definition": "to have one's home in a place",
+    "zh": "居住",
+    "synonym": "live",
+    "example": "Many of the artists reside near the old harbor.",
+    "note": "Reside is a formal word for live in a place; a brief visit need not be residence.",
+    "memory": "A resident resides in a residence.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-01",
+        "form": "reside"
+      }
+    ]
+  },
+  {
+    "word": "reservation",
+    "pos": "n",
+    "definition": "an area of land set aside for a particular purpose or community",
+    "zh": "保留地",
+    "synonym": "designated land",
+    "example": "The map marked the boundary of the reservation.",
+    "note": "Here reservation names land, rather than a booking or a doubt about a proposal.",
+    "memory": "Reserve can mean set aside; this sense names land set aside.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-01",
+        "form": "reservations"
+      }
+    ]
+  },
+  {
+    "word": "searing",
+    "pos": "adj",
+    "definition": "extremely hot or burning",
+    "zh": "灼热的",
+    "synonym": "scorching",
+    "example": "The searing afternoon heat drove the hikers into the shade.",
+    "note": "Searing heat is intense enough to suggest burning, rather than merely mild warmth.",
+    "memory": "Picture heat that feels as if it burns.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "princeton-02",
+        "form": "searing"
+      }
+    ]
+  },
+  {
+    "word": "strewn",
+    "pos": "adj",
+    "definition": "scattered loosely over an area",
+    "zh": "散布的",
+    "synonym": "scattered",
+    "example": "The path was strewn with fallen leaves.",
+    "note": "Strewn describes things spread about irregularly, rather than arranged in tidy rows.",
+    "memory": "Picture leaves scattered across a path.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "princeton-02",
+        "form": "strewn"
+      }
+    ]
+  },
+  {
+    "word": "altitude",
+    "pos": "n",
+    "definition": "height above sea level or another stated reference point",
+    "zh": "海拔；高度",
+    "synonym": "elevation",
+    "example": "The air became cooler as the climbers gained altitude.",
+    "note": "Altitude measures height, rather than distance traveled along the ground.",
+    "memory": "Higher elevation means greater altitude.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "princeton-02",
+        "form": "altitudes"
+      }
+    ]
+  },
+  {
+    "word": "multitude",
+    "pos": "n",
+    "definition": "a very large number of people or things",
+    "zh": "大量；众多",
+    "synonym": "great number",
+    "example": "A multitude of stars appeared above the dark valley.",
+    "note": "Multitude stresses a large number, without specifying an exact count.",
+    "memory": "Picture more items than you can quickly count.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "princeton-03",
+        "form": "multitude"
+      }
+    ]
+  },
+  {
+    "word": "ceremony",
+    "pos": "n",
+    "definition": "a formal event performed according to an established pattern",
+    "zh": "典礼；仪式",
+    "synonym": "formal observance",
+    "example": "The awards ceremony began with a welcome from the principal.",
+    "note": "A ceremony is a formal occasion; a ritual can be one repeated action within it.",
+    "memory": "Picture a formal event with planned proceedings.",
+    "tier": "Core",
+    "topic": "Everyday academic nouns",
+    "sources": [
+      {
+        "passageId": "princeton-03",
+        "form": "ceremony"
+      }
+    ]
+  },
+  {
+    "word": "spectacular",
+    "pos": "adj",
+    "definition": "strikingly impressive or dramatic to see",
+    "zh": "壮观的",
+    "synonym": "dazzling",
+    "example": "The fireworks created a spectacular display above the lake.",
+    "note": "Spectacular emphasizes visual or dramatic impact, rather than quiet usefulness.",
+    "memory": "A spectacle is an impressive sight.",
+    "tier": "Core",
+    "topic": "Quality & judgment",
+    "sources": [
+      {
+        "passageId": "princeton-03",
+        "form": "spectacular"
+      }
+    ]
+  },
+  {
+    "word": "incorporate",
+    "pos": "v",
+    "definition": "to include something as part of a larger whole",
+    "zh": "纳入；包含",
+    "synonym": "integrate",
+    "example": "The architect will incorporate a reading corner into the library design.",
+    "note": "Incorporate means make something part of a whole, rather than leave it separate beside it.",
+    "memory": "Picture adding a part into the larger design.",
+    "tier": "Core",
+    "topic": "Change & progress",
+    "sources": [
+      {
+        "passageId": "princeton-03",
+        "form": "incorporating"
+      }
+    ]
+  },
+  {
+    "word": "captivity",
+    "pos": "n",
+    "definition": "the state of being kept confined rather than living freely",
+    "zh": "圈养；囚禁状态",
+    "synonym": "confinement",
+    "example": "The rescued turtle lived in captivity while its injury healed.",
+    "note": "Captivity concerns restricted freedom; it does not by itself describe whether care is good or poor.",
+    "memory": "Contrast a kept animal with one living freely.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "princeton-04",
+        "form": "captivity"
+      }
+    ]
+  },
+  {
+    "word": "confine",
+    "pos": "v",
+    "definition": "to keep within particular limits or boundaries",
+    "zh": "限制于；禁闭",
+    "synonym": "restrict",
+    "example": "The temporary fence will confine the animals to one field.",
+    "note": "Confine limits movement or range; it does not always mean putting someone in prison.",
+    "memory": "Picture a boundary that cannot be crossed.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "princeton-04",
+        "form": "confined"
+      }
+    ]
+  },
+  {
+    "word": "spectrum",
+    "pos": "n",
+    "definition": "a range containing different degrees or kinds of something",
+    "zh": "范围；系列",
+    "synonym": "range",
+    "example": "The survey recorded a broad spectrum of opinions.",
+    "note": "Spectrum can mean a whole range, rather than only the colors produced by light.",
+    "memory": "Picture different positions along one range.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "princeton-04",
+        "form": "spectrum"
+      }
+    ]
+  },
+  {
+    "word": "questionable",
+    "pos": "adj",
+    "definition": "open to doubt about truth, reliability, or acceptability",
+    "zh": "有疑问的；不可靠的",
+    "synonym": "doubtful",
+    "example": "The report's questionable figures needed checking before publication.",
+    "note": "Questionable invites doubt or checking; it does not automatically mean proved false.",
+    "memory": "A questionable claim still needs verification.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "princeton-04",
+        "form": "questionable"
+      }
+    ]
+  },
+  {
+    "word": "idyllic",
+    "pos": "adj",
+    "definition": "extremely peaceful, pleasant, and seemingly perfect",
+    "zh": "田园诗般的；恬静美好的",
+    "synonym": "blissful",
+    "example": "They spent an idyllic afternoon beside the quiet lake.",
+    "note": "Idyllic describes a peaceful ideal of happiness, especially in a place or experience.",
+    "memory": "Picture a calm afternoon that seems perfect.",
+    "tier": "Core",
+    "topic": "Manner, sound & sensation",
+    "sources": [
+      {
+        "passageId": "princeton-05",
+        "form": "idyllic"
+      }
+    ]
+  },
+  {
+    "word": "commercial",
+    "pos": "adj",
+    "definition": "relating to business or the sale of goods and services",
+    "zh": "商业的",
+    "synonym": "business-related",
+    "example": "The harbor serves both fishing boats and commercial ships.",
+    "note": "Commercial concerns business activity; it does not mean that something is automatically successful.",
+    "memory": "Commerce is trade; commercial activity involves business.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-05",
+        "form": "commercial"
+      }
+    ]
+  },
+  {
+    "word": "relation",
+    "pos": "n",
+    "definition": "a member of one's family",
+    "zh": "亲属",
+    "synonym": "relative",
+    "example": "A distant relation sent us a photograph from the family archive.",
+    "note": "In family contexts, a relation is a relative, rather than a connection between two ideas.",
+    "memory": "Family relations are people related to you.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-05",
+        "form": "relations"
+      }
+    ]
+  },
+  {
+    "word": "mineral",
+    "pos": "n",
+    "definition": "a naturally occurring inorganic solid with a characteristic structure and composition",
+    "zh": "矿物",
+    "synonym": "natural inorganic solid",
+    "example": "Quartz is a mineral found in many kinds of rock.",
+    "note": "A mineral is a particular natural solid; a rock may contain several minerals.",
+    "memory": "A rock can be made of several mineral ingredients.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "princeton-06",
+        "form": "mineral"
+      }
+    ]
+  },
+  {
+    "word": "bivalve",
+    "pos": "n",
+    "definition": "a mollusk with a shell made of two hinged parts",
+    "zh": "双壳类软体动物",
+    "synonym": "two-shelled mollusk",
+    "example": "The clam is a bivalve that can close its shell tightly.",
+    "note": "Bivalve refers to two shell parts, rather than two separate animals sharing a shell.",
+    "memory": "Bi- means two: picture two joined shell halves.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "princeton-06",
+        "form": "bivalve"
+      }
+    ]
+  },
+  {
+    "word": "hinge",
+    "pos": "v",
+    "definition": "to join parts so that they can swing open and closed",
+    "zh": "用铰链连接",
+    "synonym": "pivotally join",
+    "example": "The builder will hinge the lid to the back of the box.",
+    "note": "To hinge parts is to connect them at a moving joint, rather than glue them rigidly together.",
+    "memory": "Picture a door turning on its hinges.",
+    "tier": "Core",
+    "topic": "Nature & science",
+    "sources": [
+      {
+        "passageId": "princeton-06",
+        "form": "hinged"
+      }
+    ]
+  },
+  {
+    "word": "amiss",
+    "pos": "adj",
+    "definition": "wrong or out of its proper place",
+    "zh": "不对劲的",
+    "synonym": "wrong",
+    "example": "The unusual silence suggested that something was amiss.",
+    "note": "Amiss points to something wrong or out of order, rather than specifying exactly what the problem is.",
+    "memory": "Something feels out of place.",
+    "tier": "Core",
+    "topic": "Conditions & contrasts",
+    "sources": [
+      {
+        "passageId": "princeton-07",
+        "form": "amiss"
+      }
+    ]
+  },
+  {
+    "word": "participation",
+    "pos": "n",
+    "definition": "the act of taking part in an activity",
+    "zh": "参与",
+    "synonym": "involvement",
+    "example": "The coach encouraged participation from every student.",
+    "note": "Participation is taking part, rather than simply watching or knowing about an event.",
+    "memory": "Participants show participation by joining in.",
+    "tier": "Core",
+    "topic": "Society & people",
+    "sources": [
+      {
+        "passageId": "princeton-08",
+        "form": "participation"
+      }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "pos": "v",
+    "definition": "to recognize the value or good qualities of something",
+    "zh": "欣赏；重视",
+    "synonym": "value",
+    "example": "After the long walk, we began to appreciate the comfort of a warm room.",
+    "note": "Appreciate means recognize worth; it can involve gratitude without requiring a spoken thank-you.",
+    "memory": "Notice the value of something you might overlook.",
+    "tier": "Core",
+    "topic": "Emotions & attitudes",
+    "sources": [
+      {
+        "passageId": "princeton-08",
+        "form": "appreciate"
+      }
+    ]
+  },
+  {
+    "word": "hostile",
+    "pos": "adj",
+    "definition": "unfavorable or dangerous to life or comfort",
+    "zh": "恶劣的；不利于生存的",
+    "synonym": "harsh",
+    "example": "The hostile environment made it difficult for the plants to survive.",
+    "note": "A hostile environment has difficult or harmful conditions; it need not have feelings or intend to attack.",
+    "memory": "Picture conditions that work against survival.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "ivy-04",
+        "form": "hostile"
+      }
+    ]
+  },
+  {
+    "word": "alternate",
+    "pos": "v",
+    "definition": "to take turns or occur one after the other repeatedly",
+    "zh": "交替；轮流",
+    "synonym": "take turns",
+    "example": "The two students alternate as discussion leader each week.",
+    "note": "As a verb, alternate describes taking turns; the adjective can describe every other item or occasion.",
+    "memory": "A then B, then A again.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "princeton-03",
+        "form": "alternate"
+      }
+    ]
+  },
+  {
+    "word": "descendant",
+    "pos": "n",
+    "definition": "an organism that comes from an earlier ancestral organism or group",
+    "zh": "后代生物",
+    "synonym": "later offspring",
+    "example": "The bird is a descendant of an earlier animal lineage.",
+    "note": "In biology, descendant applies to organisms and evolutionary lineages, rather than only a human family tree.",
+    "memory": "Ancestry looks backward; descendants come later.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "gotestprep-03",
+        "form": "descendants"
+      }
+    ]
+  },
+  {
+    "word": "surface",
+    "pos": "v",
+    "definition": "to come up to the top of a body of water",
+    "zh": "浮出水面",
+    "synonym": "come up",
+    "example": "The swimmer had to surface for a breath.",
+    "note": "As a verb, surface names movement toward the top; as a noun, it names the outer boundary itself.",
+    "memory": "Move up until you reach the water surface.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "ivy-07",
+        "form": "surface"
+      }
+    ]
+  },
+  {
+    "word": "counter",
+    "pos": "n",
+    "definition": "a long work surface where customers are served",
+    "zh": "柜台",
+    "synonym": "service surface",
+    "example": "She placed the coins on the counter beside the cash register.",
+    "note": "Here counter is a shop surface, rather than the verb meaning oppose or a device that counts.",
+    "memory": "Picture the surface between a customer and a server.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "ninjas-05",
+        "form": "counter"
+      }
+    ]
+  },
+  {
+    "word": "panel",
+    "pos": "n",
+    "definition": "a flat section forming part of a larger surface or structure",
+    "zh": "面板；镶板",
+    "synonym": "flat section",
+    "example": "A glass panel allowed visitors to see inside the hive.",
+    "note": "This sense names a physical section of a surface, rather than one picture in a comic sequence.",
+    "memory": "Picture one flat section in a wall or window.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "ninjas-04",
+        "form": "panel"
+      }
+    ]
+  },
+  {
+    "word": "figure",
+    "pos": "n",
+    "definition": "a visible shape or pattern",
+    "zh": "形状；图形",
+    "synonym": "shape",
+    "example": "The skater traced a looping figure on the ice.",
+    "note": "Here figure is a shape or movement pattern, rather than a number in a report.",
+    "memory": "Picture a loop drawn by a moving skater.",
+    "kind": "secondary",
+    "sources": [
+      {
+        "passageId": "princeton-07",
+        "form": "figures"
+      }
+    ]
+  }
+]

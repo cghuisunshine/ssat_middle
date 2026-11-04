@@ -1,8 +1,18 @@
 # SSAT Middle Level vocabulary coverage audit
 
-Checked: October 29, 2026. File: `ssat_middle_vocabulary.html`.
+Updated: November 4, 2026. File: `ssat_middle_vocabulary.html`.
 
-## After the practice-page update
+## Reading-material expansion: November 4, 2026
+
+The bank now has **1,100 unique words**, **1,147 taught senses**, **45 related-word groups**, and **85 analogies**. This update adds 150 headwords, seven additional senses, and nine word-family groups. All words have original English definitions, Chinese glosses, synonyms, context sentences, teaching distinctions, and memory cues. The 157 new sense lessons are authored in `tools/reading-vocabulary.json` and embedded for offline practice.
+
+The additions cover all 37 reviewed Middle Level passages from five publishers. The manifest records the passage ID and exact source form; the builder embeds the passage title, source filename, and PDF page references for word details and flashcards. Words are normalized to useful base forms without discarding the source spelling: “botched” maps to **botch**, “hued” to **hue**, and “figures” to **figure**. The seven extra senses teach **hostile** conditions, **alternate** as a verb, biological **descendant**, **surface** as a verb, a shop **counter**, a physical **panel**, and **figure** as a shape. Sources appear for 153 distinct entries, including the three existing headwords receiving new senses.
+
+The source selection uses the already reviewed reading bank, including Kaplan PDF pages 462–473. It excludes mixed-level drills, Upper Level and ISEE material, and duplicated reading sections. Source connections identify where the vocabulary was encountered; the definitions, translations, examples, and teaching notes are original study content. These additions do not imply an official or exhaustive exam syllabus.
+
+Validation checks all 4,588 word-question variants across 1,147 senses, all reading-derived fields and source references, every benchmark headword, the 60-question timed drill, Chinese support, and progress migration for formerly custom words. The offline explanation check also covers all 85 analogies and every displayed answer choice. All 157 source-form references were additionally checked directly against the downloaded local PDFs or HTML snapshots.
+
+## Previous practice-page update: October 29, 2026
 
 The gaps identified in the two checked sample lists are now closed. The bank has **950 unique words**, including the 130 missing benchmark headwords and 20 additional related forms. Every word has an original example sentence and is eligible for context practice.
 

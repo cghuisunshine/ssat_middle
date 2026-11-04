@@ -8,6 +8,9 @@ const root = path.resolve(__dirname, '..');
 const html = fs.readFileSync(path.join(root, 'ssat_middle_vocabulary.html'), 'utf8');
 const script = html.match(/<script>([\s\S]*?)<\/script>/)[1];
 const benchmarks = JSON.parse(fs.readFileSync(path.join(__dirname, 'vocabulary-benchmarks.json'), 'utf8'));
+const readingEntries = JSON.parse(fs.readFileSync(path.join(__dirname, 'reading-vocabulary.json'), 'utf8'));
+const passages = Object.fromEntries(fs.readdirSync(__dirname).filter(f => /^reading-data-.*\.json$/.test(f))
+  .flatMap(f => JSON.parse(fs.readFileSync(path.join(__dirname, f), 'utf8'))).map(p => [p.id, p]));
 const nodes = new Map();
 const element = id => {
   if (!nodes.has(id)) nodes.set(id, {innerHTML: '', textContent: '', hidden: false, open: false, addEventListener() {}, showModal() {this.open = true;}, close() {this.open = false;}});
@@ -18,10 +21,12 @@ const saved = {
   records: {
     candid: {seen: 8, correct: 7, wrong: 1, level: 3, due: 1234, last: 123, star: true},
     tact: {seen: 4, correct: 4, wrong: 0, level: 3, due: 1234, last: 123, star: true},
+    counter: {seen: 3, correct: 2, wrong: 1, level: 2, due: 1234, last: 123, star: true},
     testword: {seen: 1, correct: 0, wrong: 1, level: 0, due: 1234, last: 123, star: false},
   },
   custom: [
     {word: 'tact', pos: 'n', def: 'skill in avoiding offense', zh: '得体', syn: 'diplomacy'},
+    {word: 'counter', pos: 'v', def: 'act against', zh: '对抗', syn: 'oppose'},
     {word: 'testword', pos: 'n', def: 'a custom entry used for validation', zh: '测试', syn: 'custom item'},
   ],
   days: {'2026-10-28': 12},
@@ -30,7 +35,7 @@ const saved = {
 };
 let storage = JSON.stringify(saved);
 const context = vm.createContext({
-  assert, benchmarks, console,
+  assert, benchmarks, readingEntries, passages, console,
   document: {getElementById: element, querySelector: () => element('query'), addEventListener() {}},
   window: {scrollTo() {}, addEventListener() {}},
   localStorage: {getItem: () => storage, setItem: (_, value) => {storage = value;}},
@@ -40,7 +45,7 @@ vm.runInContext(script, context, {timeout: 10000});
 vm.runInContext(`
   const ids = new Set(WORDS.map(w => w.id));
   assert.equal(ids.size, WORDS.length, 'Duplicate headwords');
-  assert.equal(WORDS.length, 950);
+  assert.equal(WORDS.length, 1100);
   assert.equal(Object.keys(EXAMPLES).length, WORDS.length);
   assert.equal(benchmarks.core75.length, 75);
   assert.equal(benchmarks.essential125.length, 125);
@@ -48,6 +53,36 @@ vm.runInContext(`
     assert.equal(new Set(words).size, words.length);
     for (const id of words) assert.ok(ids.has(id), name + ' missing ' + id);
   }
+  assert.equal(readingEntries.filter(e => e.kind !== 'secondary').length, 150);
+  assert.equal(readingEntries.filter(e => e.kind === 'secondary').length, 7);
+  const sourcePassages = new Set();
+  for (const entry of readingEntries) {
+    const word = wordById(entry.word);
+    assert.ok(word, entry.word + ' missing reading entry');
+    const sense = wordSenses(word).find(s => s.def === entry.definition);
+    assert.ok(sense, entry.word + ' missing reading sense');
+    for (const [field, expected] of Object.entries({pos:entry.pos, zh:entry.zh, syn:entry.synonym, example:entry.example})) {
+      assert.equal(sense[field], expected, entry.word + ' mismatched ' + field);
+    }
+    const lesson = wordLesson(sense);
+    assert.equal(lesson.memory, entry.memory);
+    assert.ok(lesson.why.synonyms.includes(entry.note));
+    for (const ref of entry.sources) {
+      const p = passages[ref.passageId];
+      assert.ok(p, 'Unknown reading passage ' + ref.passageId);
+      const source = READING_WORD_SOURCES[word.id].find(s => s.passageId === p.id && s.form === ref.form);
+      assert.ok(source, word.id + ' missing embedded source');
+      assert.equal(source.file, p.sourceFile);
+      assert.equal(source.title, p.title);
+      assert.equal(JSON.stringify(source.pages), JSON.stringify(p.sourcePages));
+      const tokens = (p.title + ' ' + p.paragraphs.join(' ')).toLowerCase().match(/[a-z]+/g);
+      assert.ok(tokens.includes(ref.form.toLowerCase()), word.id + ' source form missing');
+      sourcePassages.add(p.id);
+    }
+    assert.ok(extraWordDetails(word).includes('From your reading materials'));
+  }
+  assert.equal(Object.keys(READING_WORD_SOURCES).length, 153);
+  assert.equal(sourcePassages.size, 37);
   let questionChecks = 0, senseCount = 0;
   for (const w of WORDS) {
     for (const key of ['word','pos','def','zh','syn','tier','topic']) assert.ok(w[key], w.id + ' missing ' + key);
@@ -84,6 +119,9 @@ vm.runInContext(`
   assert.ok(relatedWords(wordById('tact')).some(w => w.id === 'tactful'));
   assert.ok(related(wordById('fiasco'), wordById('debacle')), 'Do not use close synonyms as distractors');
   assert.ok(related(wordById('tact'), wordById('discretion')), 'Exclude overlapping meanings');
+  assert.ok(relatedWords(wordById('resident')).some(w => w.id === 'residential'));
+  assert.ok(related(wordById('paltry'), wordById('meager')), 'Exclude new close synonyms');
+  assert.equal(senseCount, 1147);
   for (const [type, count] of Object.entries(ANALOGIES.reduce((a,q) => (a[q.type]=(a[q.type]||0)+1,a), {}))) assert.ok(count >= 5, type);
   for (const q of ANALOGIES) {
     assert.equal(q.wrong.length, 4);
@@ -95,12 +133,14 @@ vm.runInContext(`
   assert.equal(rec('candid').seen, 8);
   assert.equal(rec('candid').star, true);
   assert.equal(rec('tact').seen, 4, 'New built-in entry must preserve earlier custom progress');
+  assert.equal(rec('counter').seen, 3, 'Reading expansion must preserve earlier custom progress');
+  assert.equal(rec('counter').star, true);
   assert.equal(state.custom.length, 1, 'Remove the newly built-in word from custom duplicates');
   assert.equal(state.custom[0].id, 'testword');
   assert.equal(rec('testword').wrong, 1);
   assert.equal(state.days['2026-10-28'], 12);
   assert.equal(state.history[0].correct, 8);
-  assert.equal(allWords().length, 951);
+  assert.equal(allWords().length, 1101);
   filters = {tier:'Core',topic:'Emotions & attitudes',status:'All'};
   practiceMode = 'context'; practiceCount = 30; startPractice();
   assert.equal(session.qs.length, 30);

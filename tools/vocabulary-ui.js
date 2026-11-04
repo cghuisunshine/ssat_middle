@@ -12,20 +12,24 @@ function relatedWords(w) {
 
 // @function extraWordDetails
 function extraWordDetails(w) {
-  const senses = SECONDARY_MEANINGS[w.id] || [], family = relatedWords(w);
-  if (!senses.length && !family.length) return '';
-  return '<details class="extra-meanings"><summary>More meanings &amp; related words</summary>' +
+  const senses = SECONDARY_MEANINGS[w.id] || [], family = relatedWords(w), sources = READING_WORD_SOURCES[w.id] || [];
+  if (!senses.length && !family.length && !sources.length) return '';
+  return '<details class="extra-meanings"><summary>More meanings, related words &amp; reading sources</summary>' +
     senses.map(s => '<div class="sense"><strong>' + esc(s.pos) + '.</strong> ' + esc(s.def) +
       (state.settings.chinese ? '<div class="zh" lang="zh">' + esc(s.zh) + '</div>' : '') +
       '<div class="sub">Closest synonym: ' + esc(s.syn) + '</div><p class="example">' + esc(s.example) + '</p></div>').join('') +
     (family.length ? '<div class="sense"><strong>Related words</strong><p class="sub">Compare their meanings and parts of speech.</p><div class="family-links">' +
-      family.map(v => '<button class="text-btn" data-action="detail" data-id="' + esc(v.id) + '">' + esc(v.word) + ' <span class="sub">' + esc(v.pos) + '.</span></button>').join('') + '</div></div>' : '') + '</details>';
+      family.map(v => '<button class="text-btn" data-action="detail" data-id="' + esc(v.id) + '">' + esc(v.word) + ' <span class="sub">' + esc(v.pos) + '.</span></button>').join('') + '</div></div>' : '') +
+    (sources.length ? '<div class="sense"><strong>From your reading materials</strong>' + sources.map(s =>
+      '<p class="sub">' + esc(s.title) + ' · form in the reading: “' + esc(s.form) + '”<br>' + esc(s.file) +
+      (s.pages.length ? ' · PDF page' + (s.pages.length === 1 ? ' ' : 's ') + esc(s.pages.join(', ')) : '') + '</p>').join('') + '</div>' : '') + '</details>';
 }
 
 // @function coverage
 function coverage() {
   return '<div class="coverage"><strong>' + WORDS.length + ' words · context practice for every word</strong><br>' +
     'Includes all headwords in Ivy Global’s <a href="https://www.ssatprep.com/ssat-vocabulary/" target="_blank" rel="noopener">75-word core and 125-word essential samples</a>, plus related forms. ' +
+    Object.keys(READING_WORD_SOURCES).length + ' entries also connect to the 37 passages in your reading materials. ' +
     'Both samples serve more than one test level; they are preparation benchmarks. This is a broad study bank, not an official or exhaustive exam list.</div>';
 }
 

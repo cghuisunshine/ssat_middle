@@ -37,6 +37,23 @@ def replace(old, new):
 
 raw = constant('RAW_WORDS')
 examples = constant('EXAMPLES')
+reading_entries = json.loads((TOOLS / 'reading-vocabulary.json').read_text())
+passages = {p['id']: p for file in sorted(TOOLS.glob('reading-data-*.json')) for p in json.loads(file.read_text())}
+reading_sources, reading_notes, reading_keys = {}, {}, set()
+for entry in reading_entries:
+    word = entry['word']
+    key = (word, entry.get('kind', 'new'))
+    assert key not in reading_keys, key
+    reading_keys.add(key)
+    refs = []
+    for ref in entry['sources']:
+        passage = passages[ref['passageId']]
+        source_text = passage['title'] + '\n' + '\n'.join(passage['paragraphs'])
+        assert re.search(r'\b' + re.escape(ref['form']) + r'\b', source_text, re.I), (word, ref)
+        refs.append(dict(passageId=passage['id'], title=passage['title'], file=passage['sourceFile'], pages=passage['sourcePages'], form=ref['form']))
+    assert refs, word
+    reading_sources.setdefault(word, []).extend(ref for ref in refs if ref not in reading_sources.get(word, []))
+constant('READING_WORD_SOURCES', reading_sources)
 additions = []
 tier = topic = ''
 for line in (TOOLS / 'vocabulary-additions.txt').read_text().splitlines():
@@ -51,6 +68,14 @@ for line in (TOOLS / 'vocabulary-additions.txt').read_text().splitlines():
     assert tier in ['Foundation', 'Core', 'Stretch'] and topic
     additions.append((word, pos, definition, zh, synonym, tier, topic))
     examples[word] = example
+for entry in reading_entries:
+    if entry.get('kind') == 'secondary':
+        continue
+    word = entry['word']
+    assert entry['tier'] in ['Foundation', 'Core', 'Stretch'] and entry['topic'], word
+    additions.append(tuple(entry[k] for k in ['word', 'pos', 'definition', 'zh', 'synonym', 'tier', 'topic']))
+    examples[word] = entry['example']
+    reading_notes[word] = (entry['note'], entry['memory'])
 assert len({w[0] for w in additions}) == len(additions)
 updates = {w[0]: w for w in additions}
 primary_updates = {
@@ -101,6 +126,18 @@ for line in (TOOLS / 'secondary-meanings.txt').read_text().splitlines():
     assert len(re.findall(r'\b' + re.escape(word) + r'\b', example, re.I)) == 1, word
     senses.setdefault(word, []).append(dict(pos=pos, def_=definition, zh=zh, syn=synonym, example=example))
 senses = {word: [{('def' if k == 'def_' else k): v for k, v in sense.items()} for sense in items] for word, items in senses.items()}
+for entry in reading_entries:
+    if entry.get('kind') != 'secondary':
+        continue
+    word = entry['word']
+    assert word in seen, word
+    assert len(re.findall(r'\b' + re.escape(word) + r'\b', entry['example'], re.I)) == 1, word
+    primary = next(line.split('|') for line in lines if line.startswith(word + '|'))
+    existing_meanings = [(primary[1], primary[2])] + [(s['pos'], s['def']) for s in senses.get(word, [])]
+    assert (entry['pos'], entry['definition']) not in existing_meanings, ('Duplicate reading sense', word)
+    index = len(senses.get(word, [])) + 1
+    senses.setdefault(word, []).append({'pos': entry['pos'], 'def': entry['definition'], 'zh': entry['zh'], 'syn': entry['synonym'], 'example': entry['example']})
+    reading_notes[f'{word}#{index}'] = (entry['note'], entry['memory'])
 constant('SECONDARY_MEANINGS', senses)
 families = json.loads((TOOLS / 'word-families.json').read_text())
 assert all(len(f) >= 2 and set(f) <= seen for f in families)
@@ -159,6 +196,33 @@ constant('EXTRA_SYNONYM_FAMILIES', [
     ['vulnerable', 'vulnerability', 'susceptible', 'fragile'],
     ['painstaking', 'meticulous', 'scrupulous', 'careful', 'methodical'],
     ['hoard', 'greedy', 'avaricious'],
+    ['stout', 'sturdy', 'robust', 'strong'],
+    ['considerable', 'substantial', 'large', 'significant'],
+    ['furnish', 'supply', 'provide'],
+    ['inhabit', 'reside', 'occupy', 'live', 'dwell'],
+    ['inhabitant', 'resident', 'dweller'],
+    ['abundance', 'plenty', 'profusion'],
+    ['notify', 'inform', 'tell'],
+    ['teem', 'abound'],
+    ['paltry', 'meager', 'scant', 'inadequate'],
+    ['opulent', 'luxurious', 'lavish'],
+    ['confine', 'restrict', 'limit', 'restrain'],
+    ['depict', 'portray', 'represent'],
+    ['incorporate', 'integrate', 'include', 'assimilate'],
+    ['reveal', 'disclose', 'expose', 'unveil'],
+    ['counter', 'oppose', 'resist', 'withstand'],
+    ['shroud', 'veil', 'conceal', 'hide', 'obscure'],
+    ['commendable', 'praiseworthy', 'admirable'],
+    ['artificial', 'human-made', 'synthetic'],
+    ['illumination', 'lighting', 'light'],
+    ['questionable', 'doubtful', 'dubious', 'uncertain'],
+    ['assistance', 'aid', 'help', 'support'],
+    ['reluctantly', 'unwillingly', 'hesitantly'],
+    ['indefinite', 'unspecified', 'uncertain', 'vague'],
+    ['idyllic', 'blissful', 'peaceful'],
+    ['searing', 'scorching', 'burning', 'hot'],
+    ['participation', 'involvement'],
+    ['appreciate', 'value', 'esteem', 'admire'],
 ])
 if 'const RELATION_CACHE = new Map();' not in html:
     html = html.replace('const WORDS=[];', 'const RELATION_CACHE = new Map();\nconst WORDS=[];', 1)
@@ -191,7 +255,7 @@ for i, line in enumerate(analogies):
 constant('RAW_ANALOGIES', '\n'.join(analogies))
 
 html = re.sub(r'^// BEGIN vocabulary-ai\n.*?^// END vocabulary-ai\n?', '', html, count=1, flags=re.M | re.S)
-word_lessons, analogy_lessons = build_lessons('\n'.join(lines), examples, senses, families, analogies)
+word_lessons, analogy_lessons = build_lessons('\n'.join(lines), examples, senses, families, analogies, reading_notes)
 constant('PREBUILT_WORD_LESSONS', word_lessons)
 constant('PREBUILT_ANALOGY_LESSONS', analogy_lessons)
 explanation_block = '// BEGIN vocabulary-explanations\n' + (TOOLS / 'vocabulary-explanations.js').read_text().strip() + '\n// END vocabulary-explanations'
@@ -236,7 +300,7 @@ if explanation_css not in html:
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ curated words', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' curated words', html)
 PAGE.write_text(html)
 contents = (ROOT / 'content.html').read_text()
-contents = re.sub(r'<li>\d+ vocabulary words</li>', '<li>' + str(len(seen)) + ' vocabulary words with context sentences</li>', contents)
+contents = re.sub(r'<li>\d+ vocabulary words(?: with context sentences)?</li>', '<li>' + str(len(seen)) + ' vocabulary words with context sentences</li>', contents)
 contents = re.sub(r'Words in context and \d+ analogies', 'Words in context and ' + str(len(analogies)) + ' analogies', contents)
 if 'Alternate meanings and related word forms' not in contents:
     contents = contents.replace('<li>54 prefixes, roots, and suffixes</li>', '<li>Alternate meanings and related word forms</li>\n        <li>54 prefixes, roots, and suffixes</li>')
