@@ -298,7 +298,8 @@ explanation_css = '.answer-explanation{margin-top:20px;padding:20px;border:1px s
 if explanation_css not in html:
     html = html.replace('</style>', explanation_css + '\n</style>', 1)
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ curated words', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' curated words', html)
-PAGE.write_text(html)
+from student_profiles import embed_profiles
+PAGE.write_text(embed_profiles(html))
 contents = (ROOT / 'content.html').read_text()
 contents = re.sub(r'<li>\d+ vocabulary words(?: with context sentences)?</li>', '<li>' + str(len(seen)) + ' vocabulary words with context sentences</li>', contents)
 contents = re.sub(r'Words in context and \d+ analogies', 'Words in context and ' + str(len(analogies)) + ' analogies', contents)
@@ -306,6 +307,6 @@ if 'Alternate meanings and related word forms' not in contents:
     contents = contents.replace('<li>54 prefixes, roots, and suffixes</li>', '<li>Alternate meanings and related word forms</li>\n        <li>54 prefixes, roots, and suffixes</li>')
 contents = contents.replace('AI explanations after checking answers (online)', 'Detailed offline answer explanations')
 contents = contents.replace('Core practice works offline; AI explanations need internet.', 'Practice and explanations work offline.')
-(ROOT / 'content.html').write_text(contents)
+(ROOT / 'content.html').write_text(embed_profiles(contents))
 print(f'Updated {len(seen)} words, {len(examples)} examples, {sum(map(len, senses.values()))} alternate meanings, {len(families)} related-word groups, {len(analogies)} analogies.')
 print(f'Embedded {sum(map(len, word_lessons.values()))} prebuilt word lessons and {len(analogy_lessons)} analogy lessons.')

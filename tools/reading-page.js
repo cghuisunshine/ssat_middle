@@ -1,5 +1,6 @@
 'use strict';
 (() => {
+const progressStorage=window.SSATUsers?.storage||localStorage;
 const DATA = JSON.parse(document.getElementById('reading-data').textContent);
 const BANK = DATA.passages;
 const SOURCES = DATA.sources;
@@ -59,11 +60,11 @@ function normalizeState(raw) {
   return next;
 }
 function loadState() {
-  try { return normalizeState(JSON.parse(localStorage.getItem(KEY))); }
+  try { return normalizeState(JSON.parse(progressStorage.getItem(KEY))); }
   catch { storageAvailable = false; return blankState(); }
 }
 function save() {
-  try { localStorage.setItem(KEY, JSON.stringify(state)); }
+  try { progressStorage.setItem(KEY, JSON.stringify(state)); }
   catch {
     if (storageAvailable) toast('Browser storage is unavailable. This session will still work, but progress cannot be saved.');
     storageAvailable = false;

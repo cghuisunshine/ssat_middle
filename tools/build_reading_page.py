@@ -3,6 +3,7 @@
 import hashlib
 import json
 from pathlib import Path
+from student_profiles import embed_profiles
 
 ROOT = Path(__file__).resolve().parents[1]
 TOOLS = ROOT / 'tools'
@@ -116,7 +117,7 @@ def build():
     for token, value in replacements.items():
         output = output.replace(token, value)
     target = ROOT / 'ssat_middle_reading.html'
-    target.write_text(output, encoding='utf-8')
+    target.write_text(embed_profiles(output), encoding='utf-8')
     print(f'Built {target.name}: {len(passages)} passages, {len(question_ids)} questions, {len(SOURCES)} Middle Level sources.')
 
 

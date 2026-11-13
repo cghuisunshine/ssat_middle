@@ -1,7 +1,8 @@
 // Run in the reading page's browser context. Leaves the original saved state intact.
 (() => {
+  const progressStorage=window.SSATUsers?.storage||localStorage;
   const app=window.ReadingApp;
-  const backup=localStorage.getItem('ssat-middle-reading-v1');
+  const backup=progressStorage.getItem('ssat-middle-reading-v1');
   const reports=[];
   const assert=(condition,message)=>{if(!condition)throw Error(message);};
   const $=id=>document.getElementById(id);
@@ -101,6 +102,6 @@
     reports.push('Deadline expiry automatically submits');
     return {passed:true,reports};
   } finally {
-    if(backup===null)localStorage.removeItem('ssat-middle-reading-v1');else localStorage.setItem('ssat-middle-reading-v1',backup);
+    if(backup===null)progressStorage.removeItem('ssat-middle-reading-v1');else progressStorage.setItem('ssat-middle-reading-v1',backup);
   }
 })();

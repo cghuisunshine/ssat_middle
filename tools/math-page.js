@@ -1,5 +1,6 @@
 'use strict';
 (() => {
+const progressStorage=window.SSATUsers?.storage||localStorage;
 const DATA=JSON.parse(document.getElementById('math-data').textContent),BANK=DATA.questions,SETS=DATA.sets;
 const qmap=new Map(BANK.map(q=>[q.id,q])),KEY='ssat-middle-math-v1',LETTERS='ABCDE';
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -21,8 +22,8 @@ function normalize(raw){
  }
  return next;
 }
-function load(){try{return normalize(JSON.parse(localStorage.getItem(KEY)));}catch{storageOK=false;return blank();}}
-function save(){try{localStorage.setItem(KEY,JSON.stringify(state));storageOK=true;}catch{storageOK=false;}if($('scratch-status'))$('scratch-status').textContent=storageOK?'Saved in this browser':'Storage unavailable · back up your work';}
+function load(){try{return normalize(JSON.parse(progressStorage.getItem(KEY)));}catch{storageOK=false;return blank();}}
+function save(){try{progressStorage.setItem(KEY,JSON.stringify(state));storageOK=true;}catch{storageOK=false;}if($('scratch-status'))$('scratch-status').textContent=storageOK?'Saved in this browser':'Storage unavailable · back up your work';}
 function toast(message){$('toast').textContent=message;clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('toast').textContent='',4000);}
 function current(){return qmap.get(state.activeId);}
 function timed(){return !!state.session&&!state.session.finished;}

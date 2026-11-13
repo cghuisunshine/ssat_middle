@@ -1,0 +1,32 @@
+.ssat-user-bar{background:#eef3e8;border-bottom:1px solid #dce4d5;color:#194d3d;font:13px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.ssat-user-inner{max-width:1540px;margin:auto;min-height:48px;padding:8px 30px;display:flex;align-items:center;gap:12px}
+.ssat-user-hint{font-size:10px;letter-spacing:1.5px;margin-right:auto;color:#64765f}
+.ssat-user-bar button{font:inherit;border:1px solid #cedbc4;border-radius:7px;background:#fff;color:#194d3d;padding:6px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;max-width:65%;width:auto;margin:0}
+#student-name-label{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:200px}
+.ssat-user-avatar{width:23px;height:23px;border-radius:50%;background:#194d3d;color:#e2efcf;display:inline-grid;place-items:center;font-size:11px;flex-shrink:0}
+.ssat-user-switch{font-size:11px;color:#6a766e;padding-left:5px;border-left:1px solid #e1e5db}
+#student-dialog{box-sizing:border-box;width:min(480px,calc(100% - 28px));max-height:calc(100dvh - 40px);padding:0;border:1px solid #d5decd;border-radius:16px;color:#243a32;background:#fff;box-shadow:0 25px 80px #16372b30;font:14px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;overflow:auto}
+#student-dialog::backdrop{background:#17392ce0;backdrop-filter:blur(4px)}
+.ssat-user-dialog{padding:30px;position:relative;overflow-wrap:anywhere}
+.ssat-user-kicker{font-size:10px;letter-spacing:2px;color:#728467;margin-bottom:14px}
+#student-dialog h2{font:normal 34px/1.15 Georgia,serif;letter-spacing:-.6px;margin:0 20px 14px 0;color:#194d3d}
+#student-dialog p{font:inherit;margin:12px 0;color:#65705f}
+#student-dialog label{display:block;color:#243a32;font-size:12px;font-weight:600;margin:16px 0 6px}
+#student-dialog input{display:block;box-sizing:border-box;width:100%;padding:12px;border:1px solid #ced9c6;border-radius:8px;background:#fff;color:#243a32;font:inherit;font-size:16px;line-height:1.4;margin:0 0 12px}
+#student-dialog button{width:auto;cursor:pointer;border:1px solid #d8e1cf;border-radius:7px;background:#f7f9f4;color:#194d3d;font:inherit;font-size:13px;line-height:1.4;padding:10px 12px;margin:0}
+#student-dialog button:disabled{cursor:wait;opacity:.5}
+#student-dialog button.ssat-user-primary{background:#194d3d;color:#fff;width:100%;padding:13px;border-color:#194d3d;margin-top:3px}
+#student-dialog #student-close{position:absolute;right:18px;top:17px;background:transparent;border:0;font-size:24px;padding:0 8px}
+#student-dialog [hidden]{display:none!important}
+.ssat-known-row{display:flex;gap:6px;margin:8px 0}
+.ssat-known-row button:first-child{flex:1;text-align:left;overflow-wrap:anywhere}
+#student-dialog button[aria-current=true]{background:#e8efdf;border-color:#b1c69d}
+#known-students{max-height:175px;overflow:auto;margin:12px 0}
+.ssat-user-actions{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+#student-dialog details{border-top:1px solid #e1e5db;margin-top:22px;padding-top:16px}
+#student-dialog summary{cursor:pointer;color:#194d3d;font-weight:600}
+#student-dialog .ssat-user-footnote{font-size:11px;border-top:1px solid #e1e5db;padding-top:14px;margin-top:22px}
+#student-dialog #student-error{color:#a03929;font-size:13px}
+#student-dialog button:focus-visible,#student-dialog input:focus-visible,.ssat-user-bar button:focus-visible{outline:3px solid #9ab978;outline-offset:3px}
+@media(max-width:600px){.ssat-user-inner{padding:8px 14px;gap:8px}.ssat-user-hint{display:none}.ssat-user-bar button{font-size:12px}.ssat-user-dialog{padding:25px 22px}#student-dialog h2{font-size:30px}.ssat-user-bar #student-settings{margin-left:auto}#student-name-label{max-width:135px}}
+@media print{.ssat-user-bar,#student-dialog{display:none!important}}

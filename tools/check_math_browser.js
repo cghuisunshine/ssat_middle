@@ -1,6 +1,7 @@
 // Run in an isolated math-page browser context. Restores saved browser state afterward.
 (async()=>{
- const app=MathApp,$=id=>document.getElementById(id),original=localStorage.getItem('ssat-middle-math-v1'),reports=[];
+ const progressStorage=window.SSATUsers?.storage||localStorage;
+ const app=MathApp,$=id=>document.getElementById(id),original=progressStorage.getItem('ssat-middle-math-v1'),reports=[];
  const assert=(condition,message)=>{if(!condition)throw Error(message);};
  const input=(el,value)=>{el.value=value;el.dispatchEvent(new Event('input',{bubbles:true}));};
  try{
@@ -48,5 +49,5 @@
   $('confirm-restore').click();assert($('scratch').value==='Restored scratch work.','Confirmed backup restores scratch work');
   reports.push('Backup type validation, explicit restore confirmation, and restored scratch work');
   return {passed:true,reports};
- }finally{if(original===null)localStorage.removeItem('ssat-middle-math-v1');else localStorage.setItem('ssat-middle-math-v1',original);}
+ }finally{if(original===null)progressStorage.removeItem('ssat-middle-math-v1');else progressStorage.setItem('ssat-middle-math-v1',original);}
 })();

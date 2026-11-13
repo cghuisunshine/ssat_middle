@@ -2,6 +2,7 @@
 """Build a standalone Middle Level writing studio with no runtime dependencies."""
 from pathlib import Path
 import json
+from student_profiles import embed_profiles
 
 ROOT = Path(__file__).resolve().parents[1]
 TOOLS = ROOT / 'tools'
@@ -22,7 +23,7 @@ def build():
     html = (TOOLS / 'writing-page.template.html').read_text()
     for key, value in {'__CSS__': css, '__DATA__': json.dumps(data, ensure_ascii=False).replace('<', '\\u003c'), '__JS__': (TOOLS / 'writing-page.js').read_text()}.items():
         html = html.replace(key, value)
-    (ROOT / 'ssat_middle_writing.html').write_text(html, encoding='utf-8')
+    (ROOT / 'ssat_middle_writing.html').write_text(embed_profiles(html), encoding='utf-8')
     print('Built ssat_middle_writing.html: 20 prompts, 7 pairs, 25-minute timed practice.')
 
 

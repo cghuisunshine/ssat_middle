@@ -1,5 +1,6 @@
 'use strict';
 (() => {
+const progressStorage=window.SSATUsers?.storage||localStorage;
 const DATA=JSON.parse(document.getElementById('writing-data').textContent);
 const prompts=new Map(DATA.prompts.map(p=>[p.id,p]));
 const sets=new Map(DATA.timedSets.map(s=>[s.id,s]));
@@ -26,8 +27,8 @@ function normalize(raw){
   const pending=next.drafts.find(d=>d.mode==='timed'&&d.status==='draft');if(pending)next.activeId=pending.id;
   next.libraryCollapsed=raw.libraryCollapsed===true;return next;
 }
-function load(){try{return normalize(JSON.parse(localStorage.getItem(KEY)));}catch{storageOK=false;return blank();}}
-function save(){try{localStorage.setItem(KEY,JSON.stringify(state));storageOK=true;}catch{storageOK=false;}if($('save-status'))$('save-status').textContent=storageOK?'Saved in this browser':'Storage unavailable · download a copy';}
+function load(){try{return normalize(JSON.parse(progressStorage.getItem(KEY)));}catch{storageOK=false;return blank();}}
+function save(){try{progressStorage.setItem(KEY,JSON.stringify(state));storageOK=true;}catch{storageOK=false;}if($('save-status'))$('save-status').textContent=storageOK?'Saved in this browser':'Storage unavailable · download a copy';}
 function toast(message){$('toast').textContent=message;clearTimeout(noticeTimer);noticeTimer=setTimeout(()=>$('toast').textContent='',4200);}
 function active(){return state.drafts.find(d=>d.id===state.activeId);}
 function timed(){return active()?.mode==='timed'&&active().status==='draft';}

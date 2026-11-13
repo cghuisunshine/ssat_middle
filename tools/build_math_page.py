@@ -5,6 +5,7 @@ import hashlib
 import json
 import re
 from xml.etree import ElementTree as ET
+from student_profiles import embed_profiles
 
 ROOT = Path(__file__).resolve().parents[1]
 TOOLS = ROOT / 'tools'
@@ -57,7 +58,7 @@ def build():
     html = (TOOLS/'math-page.template.html').read_text()
     for key,value in {'__COUNT__':str(len(questions)), '__SETS__':str(len(sets)), '__CSS__':(TOOLS/'reading-page.css').read_text()+'\n'+(TOOLS/'math-page.css').read_text(), '__DATA__':json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c'), '__JS__':(TOOLS/'math-page.js').read_text()}.items():
         html = html.replace(key,value)
-    (ROOT/'ssat_middle_math.html').write_text(html)
+    (ROOT/'ssat_middle_math.html').write_text(embed_profiles(html))
     print(f'Built ssat_middle_math.html: {len(questions)} questions, {len(sets)} sections, {sum(bool(q.get("diagramSvg")) for q in questions)} diagrams.')
 
 

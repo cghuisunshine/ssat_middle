@@ -1,6 +1,7 @@
 // Run in an isolated writing-page browser context. Restores the saved state afterward.
 (async()=>{
-const app=WritingApp,$=id=>document.getElementById(id),original=localStorage.getItem('ssat-middle-writing-v1');
+ const progressStorage=window.SSATUsers?.storage||localStorage;
+const app=WritingApp,$=id=>document.getElementById(id),original=progressStorage.getItem('ssat-middle-writing-v1');
 const assert=(v,m)=>{if(!v)throw Error(m);};
 const input=(element,value)=>{element.value=value;element.dispatchEvent(new Event('input',{bubbles:true}));};
 const reports=[];
@@ -46,5 +47,5 @@ try{
  assert(app.snapshot().state.drafts.length===existingCount+1,'Backup merge adds a response');assert(app.snapshot().state.drafts.some(d=>d.id===snapshot.active.id),'Backup merge keeps current draft');$('modal').close();
  reports.push('Blank expiry, HTML-safe writing/printing, and backup merge preserving existing drafts');
  return {passed:true,reports};
-}finally{if(original===null)localStorage.removeItem('ssat-middle-writing-v1');else localStorage.setItem('ssat-middle-writing-v1',original);}
+}finally{if(original===null)progressStorage.removeItem('ssat-middle-writing-v1');else progressStorage.setItem('ssat-middle-writing-v1',original);}
 })();
