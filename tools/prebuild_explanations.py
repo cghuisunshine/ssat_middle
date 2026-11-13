@@ -2,12 +2,14 @@
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-PARTS = {'adj': 'adjective', 'v': 'verb', 'n': 'noun', 'adv': 'adverb'}
+PARTS = {'adj': 'adjective', 'v': 'verb', 'n': 'noun', 'adv': 'adverb', 'conj': 'conjunction', 'interj': 'interjection'}
 GRAMMAR = {
     'adj': 'An adjective describes a person, thing, or idea. Check which quality the sentence requires.',
     'v': 'A verb names an action or process. Check what happens and who or what is involved.',
     'n': 'A noun names a person, thing, idea, or state. Check precisely what the definition names.',
     'adv': 'An adverb can describe how, when, or to what degree something happens. Check the intended manner or timing.',
+    'conj': 'A conjunction connects words, phrases, or clauses. Check the logical relationship, such as contrast or concession.',
+    'interj': 'An interjection expresses a reaction or acknowledgment. Check what the speaker is responding to.',
 }
 RELATIONSHIPS = {
     'Synonym': ('The two words have the same or nearly the same meaning. Preserve the sense and approximate strength, not just the topic.', '两词意思相同或相近；要比较具体义项和程度，而不只是主题相同。', 'Try replacing the first word with the second without changing the intended meaning.'),

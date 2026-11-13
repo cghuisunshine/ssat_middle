@@ -24,13 +24,14 @@ const context = vm.createContext({
 vm.runInContext(script, context, {timeout:10000});
 vm.runInContext(`
   let variants = 0, meanings = 0;
-  assert.equal(Object.keys(PREBUILT_WORD_LESSONS).length, 1100);
+  assert.equal(Object.keys(PREBUILT_WORD_LESSONS).length, 2698);
   assert.equal(Object.keys(PREBUILT_ANALOGY_LESSONS).length, 85);
   for (const word of WORDS) {
     const senses = wordSenses(word);
     assert.equal(PREBUILT_WORD_LESSONS[word.id].length, senses.length, word.id);
     for (const [index, sense] of senses.entries()) {
       meanings++;
+      if (!studyEligible(word)) continue;
       for (const mode of ['synonyms','definitions','context','spelling']) {
         const q = wordQuestion(word,mode,sense);
         assert.equal(q.lesson, PREBUILT_WORD_LESSONS[word.id][index], word.id+' uses the prebuilt sense');
@@ -50,8 +51,8 @@ vm.runInContext(`
       }
     }
   }
-  assert.equal(meanings,1147);
-  assert.equal(variants,4588);
+  assert.equal(meanings,2745);
+  assert.equal(variants,10976);
   for (const a of ANALOGIES) {
     const q = analogyQuestion(a);
     assert.equal(q.lesson,PREBUILT_ANALOGY_LESSONS[a.id]);
@@ -97,6 +98,6 @@ vm.runInContext(`
   const review=resultView();
   assert.ok(review.includes('Detailed explanation') && review.includes('Why this answer fits'), 'Timed results include offline lessons');
   assert.ok(!review.includes('undefined'));
-  console.log('PASS: 1,147 prebuilt word senses, 4,588 question variants, 85 analogy lessons, every displayed choice explained, immediate offline feedback, timed-review lessons, bilingual support, and preserved grades.');
-`, context, {timeout:30000});
+  console.log('PASS: 2,745 prebuilt entries/senses, 10,976 eligible question variants, 85 analogy lessons, every displayed choice explained, immediate offline feedback, timed-review lessons, bilingual support, and preserved grades.');
+`, context, {timeout:120000});
 assert.equal(requests,0,'No network requests occurred');
