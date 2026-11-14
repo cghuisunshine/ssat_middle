@@ -8,7 +8,8 @@ let calls=[],pending=null,reply={response:JSON.stringify(article)},status=200,sa
 const timers=new Map();let next=0;
 const context=vm.createContext({console,AbortController,Date,Map,Set,JSON,Error,TypeError,
  state:{reviewLog:[],srsSession:{queue:['able']},cards:{},days:{}},
- dayKey:d=>(d||new Date()).toISOString().slice(0,10),srsDescriptor:id=>id==='able'||id==='able#0'?descriptor:null,srsId:()=> 'able#0',
+ currentDescriptor:null,srsCurrent:()=>context.currentDescriptor,
+ dayKey:d=>(d||new Date()).toISOString().slice(0,10),srsDescriptor:id=>context.currentDescriptor?.id===id?context.currentDescriptor:id==='able'||id==='able#0'?descriptor:null,srsId:()=> 'able#0',
  wordPattern:w=>new RegExp('\\b'+w+'\\b','gi'),esc:v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),
  $:node,save:()=>saved++,toast(){},document:{addEventListener(){},querySelector:()=>null},window:{addEventListener(){}},
  setTimeout:fn=>{timers.set(++next,fn);return next},clearTimeout:id=>timers.delete(id),
@@ -36,10 +37,25 @@ assert.ok(!escaped.includes('<img')&&!escaped.includes('<script>')&&escaped.incl
  const body=JSON.parse(calls[0].options.body);assert.deepEqual(Object.keys(body),['message']);assert.ok(body.message.includes('capable'));assert.ok(!body.message.includes('reviewLog'));
  assert.equal(saved,1);assert.equal(vm.runInContext('state.reviewArticle.title',context),article.title);
  assert.equal(vm.runInContext('state.reviewLog.length',context),0);
- status=500;await vm.runInContext('generateReviewArticle()',context);assert.equal(saved,1,'Failure keeps old article');
- status=200;pending={};const job=vm.runInContext('generateReviewArticle()',context);await vm.runInContext('generateReviewArticle()',context);assert.equal(calls.length,3,'Double click creates one request');
- vm.runInContext('cancelArticle()',context);await job;assert.equal(saved,1);assert.equal(vm.runInContext('articleRequest',context),null);
- pending={};const stale=vm.runInContext('generateReviewArticle()',context);vm.runInContext('state={reviewLog:[],cards:{}}',context);pending.resolve({ok:true,status:200,json:async()=>reply});await stale;assert.equal(saved,1,'Stale response cannot overwrite imported/reset state');
+ const initialCalls=calls.length;
+ context.currentDescriptor={...descriptor,id:'able',index:1,sense:{def:'alternate meaning'}};
+ vm.runInContext("state.reviewLog=[{cardId:'able#0',reviewTime:new Date().toISOString()}]",context);
+ assert.equal(vm.runInContext('articleTargets()[0].index',context),1,'Current meaning wins over older reviews of the same word');
+ vm.runInContext('state.reviewLog=[]',context);
+ await vm.runInContext('openReviewArticle()',context);
+ assert.equal(calls.length,initialCalls,'Covered current word opens existing article without a request');
+ vm.runInContext("state.reviewArticle.paragraphs=['The unable team continued.']",context);
+ await vm.runInContext('openReviewArticle()',context);
+ assert.equal(calls.length,initialCalls+1,'Substring is not coverage; missing current word automatically generates');
+ assert.ok(JSON.parse(calls.at(-1).options.body).message.includes('able'));
+ context.currentDescriptor=null;
+ await vm.runInContext('openReviewArticle()',context);
+ assert.equal(calls.length,initialCalls+1,'No active card reuses saved article');
+ const generatedCount=calls.length;
+ status=500;await vm.runInContext('generateReviewArticle()',context);assert.equal(saved,2,'Failure keeps old article');
+ status=200;pending={};const job=vm.runInContext('generateReviewArticle()',context);await vm.runInContext('generateReviewArticle()',context);assert.equal(calls.length,generatedCount+2,'Double click creates one request');
+ vm.runInContext('cancelArticle()',context);await job;assert.equal(saved,2);assert.equal(vm.runInContext('articleRequest',context),null);
+ pending={};const stale=vm.runInContext('generateReviewArticle()',context);vm.runInContext('state={reviewLog:[],cards:{}}',context);pending.resolve({ok:true,status:200,json:async()=>reply});await stale;assert.equal(saved,2,'Stale response cannot overwrite imported/reset state');
  assert.equal(timers.size,0);
  console.log('PASS: exact AMC endpoint/request contract, explicit requests only, review/session word selection, safe parsing, length/word coverage, failures, cancellation, duplicate/stale responses, and unchanged FSRS progress.');
 })().catch(e=>{console.error(e);process.exitCode=1});

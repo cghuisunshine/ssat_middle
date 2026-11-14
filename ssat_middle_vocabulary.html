@@ -315274,7 +315274,8 @@ const REVIEW_ARTICLE_ENDPOINT='https://lakesideart.gochatus.org/grade-service/ge
 var articleRequest=null;
 function articleTargets() {
   const today=state.reviewLog.filter(r=>dayKey(new Date(r.reviewTime))===dayKey()).reverse();
-  const ids=today.length?today.map(r=>r.cardId):(state.srsSession?.queue||[]);
+  const current=srsCurrent();
+  const ids=[...(current?[current.id]:[]),...(today.length?today.map(r=>r.cardId):(state.srsSession?.queue||[]))];
   const result=[],seen=new Set();
   for(const id of ids){const d=srsDescriptor(id);if(!d||seen.has(d.word))continue;seen.add(d.word);result.push({word:d.word,index:d.index,definition:d.sense.def});if(result.length===8)break;}
   return result;
@@ -315321,6 +315322,12 @@ function renderArticleDialog(message='') {
   if(!dialog.open)dialog.showModal();
 }
 function cancelArticle() {if(articleRequest){articleRequest.controller.abort();articleRequest=null;} }
+function openReviewArticle() {
+  if(articleRequest){renderArticleDialog();return;}
+  const current=srsCurrent(),article=state.reviewArticle;
+  if(article&&(!current||wordPattern(current.word).test(article.paragraphs.join(' ')))){renderArticleDialog();return;}
+  return generateReviewArticle();
+}
 async function generateReviewArticle() {
   if(articleRequest)return;
   const targets=articleTargets();if(!targets.length){renderArticleDialog('Start a flashcard session or review some words first.');return;}
@@ -315339,7 +315346,7 @@ async function generateReviewArticle() {
 }
 document.addEventListener('click',e=>{
  const b=e.target.closest('[data-article-action],[data-action="generate-article"]');if(!b||b.disabled)return;
- if(b.dataset.action==='generate-article'){if(state.reviewArticle||articleRequest)renderArticleDialog();else void generateReviewArticle();return;}
+ if(b.dataset.action==='generate-article'){void openReviewArticle();return;}
  const a=b.dataset.articleAction;if(a==='close'){articleDialog().close();return;}if(a==='generate')void generateReviewArticle();if(a==='cancel'){cancelArticle();renderArticleDialog('Generation canceled. Your previous article is kept.');}
 });
 window.addEventListener('pagehide',cancelArticle);
