@@ -1,0 +1,57 @@
+{
+  "id": "article-27743e1f9b122b93",
+  "tier": "Core",
+  "topic": "Power, resources & achievement",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The first section of the collection placed these observations side by side. Volunteers will distribute blankets among the families at the shelter. We plan to donate the books to a school that needs them. The long climb could exhaust even a strong hiker. The council may grant permission to build on the empty land.",
+    "A later section added further scenes for comparison. The children will inherit the property when its owner dies. They plan to invest money in equipment that will improve production. You must obtain a permit before entering the protected area. Only a few museums possess a complete skeleton of this dinosaur.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "distribute",
+      "index": 0,
+      "definition": "to give out among several people or places"
+    },
+    {
+      "word": "donate",
+      "index": 0,
+      "definition": "to give something to help a cause"
+    },
+    {
+      "word": "exhaust",
+      "index": 0,
+      "definition": "to use up completely"
+    },
+    {
+      "word": "grant",
+      "index": 0,
+      "definition": "to give formally or allow"
+    },
+    {
+      "word": "inherit",
+      "index": 0,
+      "definition": "to receive property from someone who died"
+    },
+    {
+      "word": "invest",
+      "index": 0,
+      "definition": "to put time or money into a future benefit"
+    },
+    {
+      "word": "obtain",
+      "index": 0,
+      "definition": "to get something through effort"
+    },
+    {
+      "word": "possess",
+      "index": 0,
+      "definition": "to own or have"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

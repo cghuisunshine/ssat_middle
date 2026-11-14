@@ -1,0 +1,57 @@
+{
+  "id": "article-a039d517e358bce5",
+  "tier": "Core",
+  "topic": "Character & integrity",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The valiant rescuers entered the flooded village to save its residents. The submissive follower accepted every order without protest. The knight's fidelity to the queen never wavered. Her tactful suggestion corrected the mistake without insulting the writer.",
+    "Other records complicated that first impression and encouraged a closer reading. The industrious volunteers finished the repairs before sunset. The loyal friend continued to offer support during difficult times. The tolerant community welcomed neighbors with many different traditions. The club organized a charitable sale to support the food bank.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "valiant",
+      "index": 0,
+      "definition": "showing courage in the face of danger or difficulty"
+    },
+    {
+      "word": "submissive",
+      "index": 0,
+      "definition": "willing to accept another person's authority without resistance"
+    },
+    {
+      "word": "fidelity",
+      "index": 0,
+      "definition": "continued loyalty to a person or belief"
+    },
+    {
+      "word": "tactful",
+      "index": 0,
+      "definition": "careful to avoid upsetting or embarrassing others"
+    },
+    {
+      "word": "industrious",
+      "index": 0,
+      "definition": "working steadily and energetically"
+    },
+    {
+      "word": "loyal",
+      "index": 0,
+      "definition": "remaining faithful to a person, group, or belief"
+    },
+    {
+      "word": "tolerant",
+      "index": 0,
+      "definition": "willing to accept differences in beliefs or behavior"
+    },
+    {
+      "word": "charitable",
+      "index": 0,
+      "definition": "intended to help people in need"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

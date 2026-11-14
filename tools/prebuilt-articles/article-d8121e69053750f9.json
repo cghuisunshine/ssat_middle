@@ -1,0 +1,57 @@
+{
+  "id": "article-d8121e69053750f9",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. The wily fox escaped by doubling back through the stream. The child's winsome smile won over the audience. The powerful storm could wreak havoc along the coast. The lawyer asked the court to issue a writ requiring the records.",
+    "Other records complicated that first impression and encouraged a closer reading. The injured creature began to writhe on the ground. The community campaign challenged xenophobia and welcomed new neighbors. After months abroad, she began to yearn for home. The artist reached the zenith of her career with this exhibition.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "wily",
+      "index": 0,
+      "definition": "clever at gaining an advantage through tricks"
+    },
+    {
+      "word": "winsome",
+      "index": 0,
+      "definition": "attractive in a charming and innocent way"
+    },
+    {
+      "word": "wreak",
+      "index": 0,
+      "definition": "to cause serious damage or harm"
+    },
+    {
+      "word": "writ",
+      "index": 0,
+      "definition": "a formal written order issued by a court"
+    },
+    {
+      "word": "writhe",
+      "index": 0,
+      "definition": "to twist the body, especially in pain"
+    },
+    {
+      "word": "xenophobia",
+      "index": 0,
+      "definition": "fear or hostility toward people perceived as foreign"
+    },
+    {
+      "word": "yearn",
+      "index": 0,
+      "definition": "to feel a strong and deep desire"
+    },
+    {
+      "word": "zenith",
+      "index": 0,
+      "definition": "the highest point of success or development"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-88da3c83cc1427d4",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "Several records provided a starting point for the discussion. The herbs made the plain dish more palatable. The parched hikers were relieved to find fresh water. Snow covered the mountain's narrow peak. She wore a pensive expression while reading the letter.",
+    "Other records complicated that first impression and encouraged a closer reading. The team chose to persevere after the first design failed. The pessimistic forecast predicted another difficult season. Their petty quarrels distracted them from the shared goal. Winning the award marked the pinnacle of her career.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "palatable",
+      "index": 0,
+      "definition": "pleasant to taste or acceptable to consider"
+    },
+    {
+      "word": "parched",
+      "index": 0,
+      "definition": "extremely dry or thirsty"
+    },
+    {
+      "word": "peak",
+      "index": 0,
+      "definition": "the highest point of a mountain or level of activity"
+    },
+    {
+      "word": "pensive",
+      "index": 0,
+      "definition": "quietly thoughtful, often with sadness"
+    },
+    {
+      "word": "persevere",
+      "index": 0,
+      "definition": "to keep trying despite difficulty"
+    },
+    {
+      "word": "pessimistic",
+      "index": 0,
+      "definition": "expecting an unfavorable result"
+    },
+    {
+      "word": "petty",
+      "index": 0,
+      "definition": "small-minded or concerned with unimportant details"
+    },
+    {
+      "word": "pinnacle",
+      "index": 0,
+      "definition": "the highest point of achievement or position"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

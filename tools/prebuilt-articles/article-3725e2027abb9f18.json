@@ -1,0 +1,57 @@
+{
+  "id": "article-3725e2027abb9f18",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The arduous climb left every hiker tired but satisfied. Her aspiration was to design safer bridges. The captain waited for the team's assent before changing the plan. He volunteered extra hours to atone for neglecting his duties.",
+    "A later section added further scenes for comparison. Please attach the label to the outside of the box. A barbed fence surrounded the pasture. The speaker faced a barrage of questions after the announcement. The bashful child spoke softly when meeting new classmates.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "arduous",
+      "index": 0,
+      "definition": "requiring great effort and endurance"
+    },
+    {
+      "word": "aspiration",
+      "index": 0,
+      "definition": "a strong hope or ambition for the future"
+    },
+    {
+      "word": "assent",
+      "index": 0,
+      "definition": "agreement or approval"
+    },
+    {
+      "word": "atone",
+      "index": 0,
+      "definition": "to make amends for a wrong action"
+    },
+    {
+      "word": "attach",
+      "index": 0,
+      "definition": "to fasten or connect one thing to another"
+    },
+    {
+      "word": "barbed",
+      "index": 0,
+      "definition": "having sharp points that project backward"
+    },
+    {
+      "word": "barrage",
+      "index": 0,
+      "definition": "a rapid and continuous series of things"
+    },
+    {
+      "word": "bashful",
+      "index": 0,
+      "definition": "shy and easily embarrassed"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

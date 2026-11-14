@@ -1,0 +1,57 @@
+{
+  "id": "article-1e3c799b50101ad6",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The group began by reading the following accounts without adding explanations of its own. The theft succeeded through the connivance of an insider. A connoisseur of ceramics examined the old vase. The changes were consensual, with every member approving them. They exchanged conspiratorial whispers about the surprise party.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The contented cat slept beside the warm window. His main contention was that the bridge needed repairs. The reader used contextual clues to understand the unfamiliar word. The performer could contort her body into surprising positions.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "connivance",
+      "index": 0,
+      "definition": "secret cooperation in dishonest or harmful activity"
+    },
+    {
+      "word": "connoisseur",
+      "index": 0,
+      "definition": "a person with expert knowledge and judgment in an area"
+    },
+    {
+      "word": "consensual",
+      "index": 0,
+      "definition": "agreed to willingly by the people involved"
+    },
+    {
+      "word": "conspiratorial",
+      "index": 0,
+      "definition": "suggesting secret cooperation or a hidden plan"
+    },
+    {
+      "word": "contented",
+      "index": 0,
+      "definition": "happy and satisfied with one's situation"
+    },
+    {
+      "word": "contention",
+      "index": 0,
+      "definition": "an opinion or claim offered in an argument"
+    },
+    {
+      "word": "contextual",
+      "index": 0,
+      "definition": "related to the surrounding circumstances or text"
+    },
+    {
+      "word": "contort",
+      "index": 0,
+      "definition": "to twist into a strange or awkward shape"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

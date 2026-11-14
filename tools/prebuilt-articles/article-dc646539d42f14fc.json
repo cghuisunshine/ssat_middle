@@ -1,0 +1,57 @@
+{
+  "id": "article-dc646539d42f14fc",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. The gullible buyer accepted an impossible promise without checking. The tools lay in a haphazard pile on the floor. The haughty visitor refused to speak to the staff. The squirrel began to hoard nuts for winter.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The story's homely character was admired for her kindness. After the first chapter, she was hooked on the mystery. The kitchen was immaculate after the thorough cleaning. The unusual incident attracted the attention of the local paper.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "gullible",
+      "index": 0,
+      "definition": "too ready to believe what others say"
+    },
+    {
+      "word": "haphazard",
+      "index": 0,
+      "definition": "lacking planning or an orderly pattern"
+    },
+    {
+      "word": "haughty",
+      "index": 0,
+      "definition": "acting as though one is better than others"
+    },
+    {
+      "word": "hoard",
+      "index": 0,
+      "definition": "to gather and keep a large supply, often secretly"
+    },
+    {
+      "word": "homely",
+      "index": 0,
+      "definition": "plain or unattractive in appearance"
+    },
+    {
+      "word": "hooked",
+      "index": 0,
+      "definition": "strongly captivated by or dependent on something"
+    },
+    {
+      "word": "immaculate",
+      "index": 0,
+      "definition": "perfectly clean and free from marks or faults"
+    },
+    {
+      "word": "incident",
+      "index": 0,
+      "definition": "an event or occurrence, often a notable one"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

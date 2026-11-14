@@ -1,0 +1,57 @@
+{
+  "id": "article-29271e432650ccd5",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The first section of the collection placed these observations side by side. The judge questioned the relevancy of the unrelated evidence. She began to relish the challenge of solving the puzzle. The town planted a tree in remembrance of the rescuer. The organization will remunerate the specialist for her time.",
+    "A later section added further scenes for comparison. The restored theater helped inspire a cultural renaissance. The old bridge was our rendezvous after the hike. The partners agreed to renegotiate the contract. The project brought renewal to the neglected park.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "relevancy",
+      "index": 0,
+      "definition": "a direct connection to the matter being considered"
+    },
+    {
+      "word": "relish",
+      "index": 0,
+      "definition": "to enjoy something greatly"
+    },
+    {
+      "word": "remembrance",
+      "index": 0,
+      "definition": "the act of remembering or a memory kept"
+    },
+    {
+      "word": "remunerate",
+      "index": 0,
+      "definition": "to pay someone for work or service"
+    },
+    {
+      "word": "renaissance",
+      "index": 0,
+      "definition": "a revival of interest, activity, or achievement"
+    },
+    {
+      "word": "rendezvous",
+      "index": 0,
+      "definition": "a meeting arranged for a particular place and time"
+    },
+    {
+      "word": "renegotiate",
+      "index": 0,
+      "definition": "to discuss an agreement again in order to change it"
+    },
+    {
+      "word": "renewal",
+      "index": 0,
+      "definition": "the act of restoring or extending something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

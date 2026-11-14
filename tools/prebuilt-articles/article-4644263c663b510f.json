@@ -1,0 +1,57 @@
+{
+  "id": "article-4644263c663b510f",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. Her grandparents chose to emigrate in search of new opportunities. An eminent scientist delivered the opening lecture. The instrument measured the emission of light from the sample. The old emporium sold everything from fabric to cooking pots.",
+    "It then considered a second group of accounts, looking for both similarities and differences. One sentence can encapsulate the main idea of the essay. Heavy bags would encumber the hikers on the steep trail. The donation will endow a scholarship for future students. The deliberate deception would enrage the honest shopkeeper.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "emigrate",
+      "index": 0,
+      "definition": "to leave one's country to live elsewhere"
+    },
+    {
+      "word": "eminent",
+      "index": 0,
+      "definition": "highly respected and distinguished in a field"
+    },
+    {
+      "word": "emission",
+      "index": 0,
+      "definition": "something released or sent out, such as light or gas"
+    },
+    {
+      "word": "emporium",
+      "index": 0,
+      "definition": "a large shop selling many kinds of goods"
+    },
+    {
+      "word": "encapsulate",
+      "index": 0,
+      "definition": "to express the main features briefly or enclose in a capsule"
+    },
+    {
+      "word": "encumber",
+      "index": 0,
+      "definition": "to burden or hinder movement or progress"
+    },
+    {
+      "word": "endow",
+      "index": 0,
+      "definition": "to provide with a gift, quality, or lasting source of funds"
+    },
+    {
+      "word": "enrage",
+      "index": 0,
+      "definition": "to make someone extremely angry"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,22 @@
+{
+  "id": "article-0f48f5724113a74e",
+  "tier": "Core",
+  "topic": "Manner, sound & sensation",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. They spent an idyllic afternoon beside the quiet lake.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended.",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "idyllic",
+      "index": 0,
+      "definition": "extremely peaceful, pleasant, and seemingly perfect"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

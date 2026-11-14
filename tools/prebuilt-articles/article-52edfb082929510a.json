@@ -1,0 +1,57 @@
+{
+  "id": "article-52edfb082929510a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. The corridor provided a safe means of egress. In older stories, a startled character may ejaculate a brief cry. The rubber band's elasticity allowed it to stretch without breaking. The architect created an elegant solution to the design problem.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The poet wrote an elegy in memory of her friend. The course begins with elementary principles of measurement. An elevated walkway connected the two buildings. The shadows began to elongate as the sun sank.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "egress",
+      "index": 0,
+      "definition": "a way out or the act of going out"
+    },
+    {
+      "word": "ejaculate",
+      "index": 0,
+      "definition": "to exclaim something suddenly"
+    },
+    {
+      "word": "elasticity",
+      "index": 0,
+      "definition": "the ability to stretch and return to an original shape"
+    },
+    {
+      "word": "elegant",
+      "index": 0,
+      "definition": "graceful, stylish, or pleasingly simple"
+    },
+    {
+      "word": "elegy",
+      "index": 0,
+      "definition": "a poem or song expressing sorrow, especially for someone who has died"
+    },
+    {
+      "word": "elementary",
+      "index": 0,
+      "definition": "basic and introductory"
+    },
+    {
+      "word": "elevated",
+      "index": 0,
+      "definition": "raised above the surrounding level"
+    },
+    {
+      "word": "elongate",
+      "index": 0,
+      "definition": "to make or become longer"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

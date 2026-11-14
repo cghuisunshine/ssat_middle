@@ -1,0 +1,57 @@
+{
+  "id": "article-b83ba703559ec20d",
+  "tier": "Core",
+  "topic": "Ideas, art & literature",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. Freedom is an abstract idea that cannot be held in your hand. The literal meaning of the phrase differs from its joking use. The fictional kingdom exists only in the author's stories. Calling her a ray of sunshine is figurative language, not a weather report.",
+    "It then considered a second group of accounts, looking for both similarities and differences. It was ironic that the safety inspector tripped over his own warning sign. The anonymous donor chose not to reveal her name. The speaker opened with a short anecdote about his first day at school. The biography tells the story of the scientist's life.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "abstract",
+      "index": 0,
+      "definition": "relating to ideas rather than physical things"
+    },
+    {
+      "word": "literal",
+      "index": 0,
+      "definition": "using the basic meaning without figurative language"
+    },
+    {
+      "word": "fictional",
+      "index": 0,
+      "definition": "invented rather than real"
+    },
+    {
+      "word": "figurative",
+      "index": 0,
+      "definition": "using a nonliteral comparison or image"
+    },
+    {
+      "word": "ironic",
+      "index": 0,
+      "definition": "showing a contrast between expectation and reality"
+    },
+    {
+      "word": "anonymous",
+      "index": 0,
+      "definition": "having an unknown or unnamed creator"
+    },
+    {
+      "word": "anecdote",
+      "index": 0,
+      "definition": "a short account of an incident"
+    },
+    {
+      "word": "biography",
+      "index": 0,
+      "definition": "a written account of someone's life"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

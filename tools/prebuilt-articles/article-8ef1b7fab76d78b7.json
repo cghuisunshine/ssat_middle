@@ -1,0 +1,57 @@
+{
+  "id": "article-8ef1b7fab76d78b7",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. The artist introduced her talented protégé to the gallery owner. The essay raised a provocative question about fairness. The investigator searched for the proximate cause of the failure. Prudence led us to postpone the climb.",
+    "A later section added further scenes for comparison. The novel's prudish character disapproved of the harmless joke. The gardener will prune the rose bushes in spring. The puny seedling needed protection from the wind. The editor decided to purge repeated errors from the list.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "protégé",
+      "index": 0,
+      "definition": "a person guided and supported by a more experienced mentor"
+    },
+    {
+      "word": "provocative",
+      "index": 0,
+      "definition": "causing a strong reaction or encouraging debate"
+    },
+    {
+      "word": "proximate",
+      "index": 0,
+      "definition": "nearest in time, place, or relationship"
+    },
+    {
+      "word": "prudence",
+      "index": 0,
+      "definition": "careful judgment about risks and consequences"
+    },
+    {
+      "word": "prudish",
+      "index": 0,
+      "definition": "excessively concerned with strict standards of modesty"
+    },
+    {
+      "word": "prune",
+      "index": 0,
+      "definition": "to cut away unwanted growth or unnecessary material"
+    },
+    {
+      "word": "puny",
+      "index": 0,
+      "definition": "small and weak"
+    },
+    {
+      "word": "purge",
+      "index": 0,
+      "definition": "to remove unwanted or harmful material"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

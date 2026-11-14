@@ -1,0 +1,57 @@
+{
+  "id": "article-2a9cfff0aec3c1a0",
+  "tier": "Core",
+  "topic": "Change & progress",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "Several records provided a starting point for the discussion. If the rain continues to persist, the game will be postponed. Extra supplies would prolong the expedition by several days. Businesses may prosper when customers have more money to spend. The conservators hope to restore the damaged painting to its former beauty.",
+    "Other records complicated that first impression and encouraged a closer reading. The advancing fire forced the rescuers to retreat to safer ground. Fresh water helped revive the drooping plants. The renovation will transform the empty warehouse into a library. The magician made the coin seem to vanish from his hand.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "persist",
+      "index": 0,
+      "definition": "to continue despite difficulty"
+    },
+    {
+      "word": "prolong",
+      "index": 0,
+      "definition": "to make something last longer"
+    },
+    {
+      "word": "prosper",
+      "index": 0,
+      "definition": "to do well and become successful"
+    },
+    {
+      "word": "restore",
+      "index": 0,
+      "definition": "to bring back to an earlier condition"
+    },
+    {
+      "word": "retreat",
+      "index": 0,
+      "definition": "to move back from danger or opposition"
+    },
+    {
+      "word": "revive",
+      "index": 0,
+      "definition": "to bring back to life or activity"
+    },
+    {
+      "word": "transform",
+      "index": 0,
+      "definition": "to change greatly in form or character"
+    },
+    {
+      "word": "vanish",
+      "index": 0,
+      "definition": "to disappear suddenly or completely"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

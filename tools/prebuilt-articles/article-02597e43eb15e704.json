@@ -1,0 +1,57 @@
+{
+  "id": "article-02597e43eb15e704",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. The conservator examined the statue's mutilation. The captain feared a mutiny among the angry crew. The exhibition offered myriad examples of inventive design. The defeat marked the nadir of the team's season.",
+    "The remaining pages widened the discussion with additional observations. The announcement launched a nationwide campaign. The old record gave the place of his nativity. The biology diagram illustrated an area of necrosis. His negativism made every discussion difficult.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "mutilation",
+      "index": 0,
+      "definition": "severe damage that destroys an original form"
+    },
+    {
+      "word": "mutiny",
+      "index": 0,
+      "definition": "organized refusal to obey an authority, especially aboard a ship"
+    },
+    {
+      "word": "myriad",
+      "index": 0,
+      "definition": "extremely numerous or varied"
+    },
+    {
+      "word": "nadir",
+      "index": 0,
+      "definition": "the lowest point in a situation"
+    },
+    {
+      "word": "nationwide",
+      "index": 0,
+      "definition": "extending throughout a country"
+    },
+    {
+      "word": "nativity",
+      "index": 0,
+      "definition": "birth or the circumstances surrounding a birth"
+    },
+    {
+      "word": "necrosis",
+      "index": 0,
+      "definition": "the death of cells or tissue in a living organism"
+    },
+    {
+      "word": "negativism",
+      "index": 0,
+      "definition": "a habitual tendency to resist or reject suggestions"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

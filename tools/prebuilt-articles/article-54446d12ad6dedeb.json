@@ -1,0 +1,57 @@
+{
+  "id": "article-54446d12ad6dedeb",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. The punctual train departed exactly as scheduled. We stayed in a quaint cottage beside the stream. The ravenous campers finished every bowl of stew. The reckless driver sped along the icy road.",
+    "Other records complicated that first impression and encouraged a closer reading. The office acted quickly to rectify the error. We stopped at the spring to replenish our water supply. He tried to repress a smile during the serious speech. A little residual heat remained in the stones.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "punctual",
+      "index": 0,
+      "definition": "arriving or happening at the expected time"
+    },
+    {
+      "word": "quaint",
+      "index": 0,
+      "definition": "attractively unusual or old-fashioned"
+    },
+    {
+      "word": "ravenous",
+      "index": 0,
+      "definition": "extremely hungry"
+    },
+    {
+      "word": "reckless",
+      "index": 0,
+      "definition": "acting without proper care for danger or consequences"
+    },
+    {
+      "word": "rectify",
+      "index": 0,
+      "definition": "to correct a mistake or put something right"
+    },
+    {
+      "word": "replenish",
+      "index": 0,
+      "definition": "to fill something again after it has been reduced"
+    },
+    {
+      "word": "repress",
+      "index": 0,
+      "definition": "to hold back or suppress an action or feeling"
+    },
+    {
+      "word": "residual",
+      "index": 0,
+      "definition": "remaining after the main part is gone"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

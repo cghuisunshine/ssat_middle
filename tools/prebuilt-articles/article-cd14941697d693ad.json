@@ -1,0 +1,57 @@
+{
+  "id": "article-cd14941697d693ad",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The cook warmed the broth in a pipkin. The history chapter described piracy along the trading routes. The injured bird gave a pitiful cry. The colorful costumes added pizzazz to the performance.",
+    "The remaining pages widened the discussion with additional observations. The lake's placidity contrasted with the busy road nearby. Students must not plagiarize material in their reports. Minor equipment failures continued to plague the expedition. The mayor heard the residents' plea for a safer crossing.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "pipkin",
+      "index": 0,
+      "definition": "a small earthenware cooking pot"
+    },
+    {
+      "word": "piracy",
+      "index": 0,
+      "definition": "robbery at sea or unauthorized copying of protected work"
+    },
+    {
+      "word": "pitiful",
+      "index": 0,
+      "definition": "causing pity or being sadly inadequate"
+    },
+    {
+      "word": "pizzazz",
+      "index": 0,
+      "definition": "striking energy, flair, or excitement"
+    },
+    {
+      "word": "placidity",
+      "index": 0,
+      "definition": "a state of calmness and peace"
+    },
+    {
+      "word": "plagiarize",
+      "index": 0,
+      "definition": "to present another person's words or ideas as one's own"
+    },
+    {
+      "word": "plague",
+      "index": 0,
+      "definition": "to trouble repeatedly or persistently"
+    },
+    {
+      "word": "plea",
+      "index": 0,
+      "definition": "an earnest request or appeal"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

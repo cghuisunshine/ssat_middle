@@ -1,0 +1,57 @@
+{
+  "id": "article-f59397c35355e21d",
+  "tier": "Foundation",
+  "topic": "Everyday academic nouns",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The hail caused damage to the roof and windows. The difficult repair required great effort from the whole team. The muddy footprints provided evidence that someone had entered the house. A small fault in the wire caused the machine to stop.",
+    "Other records complicated that first impression and encouraged a closer reading. The bird's most noticeable feature is its bright red beak. Our goal is to raise enough money to repair the playground. Reading before bed became a daily habit. The journey across the mountains took five days.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "damage",
+      "index": 0,
+      "definition": "harm that reduces usefulness or value"
+    },
+    {
+      "word": "effort",
+      "index": 0,
+      "definition": "energy used to accomplish something"
+    },
+    {
+      "word": "evidence",
+      "index": 0,
+      "definition": "facts supporting a conclusion"
+    },
+    {
+      "word": "fault",
+      "index": 0,
+      "definition": "a defect or imperfection"
+    },
+    {
+      "word": "feature",
+      "index": 0,
+      "definition": "a noticeable characteristic"
+    },
+    {
+      "word": "goal",
+      "index": 0,
+      "definition": "a result one aims to achieve"
+    },
+    {
+      "word": "habit",
+      "index": 0,
+      "definition": "a behavior done regularly"
+    },
+    {
+      "word": "journey",
+      "index": 0,
+      "definition": "travel from one place to another"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

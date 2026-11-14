@@ -1,0 +1,52 @@
+{
+  "id": "article-18e51d03374b1b93",
+  "tier": "Core",
+  "topic": "Change & progress",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. Fear of criticism can stifle creative ideas before they are shared. One small modification made the handle much easier to grip. The reconstruction of the bridge took two years after the flood. Extra supports improved the stability of the platform.",
+    "A later section added further scenes for comparison. The groups presented a unified plan for cleaning the park. The hikers needed assistance to move the fallen branch. The architect will incorporate a reading corner into the library design.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "stifle",
+      "index": 0,
+      "definition": "to hold back or prevent something from developing or being expressed"
+    },
+    {
+      "word": "modification",
+      "index": 0,
+      "definition": "a limited change made to improve or adapt something"
+    },
+    {
+      "word": "reconstruction",
+      "index": 0,
+      "definition": "the process of building again after damage or destruction"
+    },
+    {
+      "word": "stability",
+      "index": 0,
+      "definition": "the condition of remaining steady and unlikely to change or collapse"
+    },
+    {
+      "word": "unified",
+      "index": 0,
+      "definition": "joined into a single coordinated whole"
+    },
+    {
+      "word": "assistance",
+      "index": 0,
+      "definition": "help or support given to someone"
+    },
+    {
+      "word": "incorporate",
+      "index": 0,
+      "definition": "to include something as part of a larger whole"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

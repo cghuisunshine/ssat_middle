@@ -1,0 +1,57 @@
+{
+  "id": "article-2c9b6447804166ed",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. He haughtily dismissed the beginner's suggestion. The deer had a pale mark on its haunch. The sheltered bay provided a haven from the storm. Loose rocks created a hazard on the steep path.",
+    "The remaining pages widened the discussion with additional observations. The heady excitement of success made caution difficult. The visitors received a hearty welcome. The morning was hectic as everyone prepared to leave. The heiress used part of her inheritance to support the museum.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "haughtily",
+      "index": 0,
+      "definition": "in an arrogantly superior manner"
+    },
+    {
+      "word": "haunch",
+      "index": 0,
+      "definition": "the upper part of an animal's hind leg and adjoining body"
+    },
+    {
+      "word": "haven",
+      "index": 0,
+      "definition": "a safe place offering shelter"
+    },
+    {
+      "word": "hazard",
+      "index": 0,
+      "definition": "a source of possible danger"
+    },
+    {
+      "word": "heady",
+      "index": 0,
+      "definition": "exciting or powerful enough to affect clear judgment"
+    },
+    {
+      "word": "hearty",
+      "index": 0,
+      "definition": "warm, enthusiastic, or substantial"
+    },
+    {
+      "word": "hectic",
+      "index": 0,
+      "definition": "full of hurried activity and confusion"
+    },
+    {
+      "word": "heiress",
+      "index": 0,
+      "definition": "a woman expected to inherit substantial property or wealth"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

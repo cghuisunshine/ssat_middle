@@ -1,0 +1,57 @@
+{
+  "id": "article-a7218b6aa4042f4a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. The design's singularity attracted attention. The illustration showed the location of a facial sinus. The sketch showed the building's skeletal structure. The speaker tried to skirt the difficult question.",
+    "The remaining pages widened the discussion with additional observations. The wind began to slacken near sunset. The accusation amounted to slander because it was false. The scene used slapstick rather than clever dialogue. The long vertical stripes helped slenderize the costume's outline.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "singularity",
+      "index": 0,
+      "definition": "the quality of being unique or unusual"
+    },
+    {
+      "word": "sinus",
+      "index": 0,
+      "definition": "a cavity in bone or tissue, especially around the nose"
+    },
+    {
+      "word": "skeletal",
+      "index": 0,
+      "definition": "related to a skeleton or reduced to a basic framework"
+    },
+    {
+      "word": "skirt",
+      "index": 0,
+      "definition": "to go around or avoid dealing directly with something"
+    },
+    {
+      "word": "slacken",
+      "index": 0,
+      "definition": "to become less tight, active, or intense"
+    },
+    {
+      "word": "slander",
+      "index": 0,
+      "definition": "a false spoken statement damaging someone's reputation"
+    },
+    {
+      "word": "slapstick",
+      "index": 0,
+      "definition": "comedy based on exaggerated physical actions and accidents"
+    },
+    {
+      "word": "slenderize",
+      "index": 0,
+      "definition": "to make someone or something appear slimmer"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

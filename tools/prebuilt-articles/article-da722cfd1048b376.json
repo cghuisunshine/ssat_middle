@@ -1,0 +1,57 @@
+{
+  "id": "article-da722cfd1048b376",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "Several records provided a starting point for the discussion. The neighborhood association meets each month to discuss local concerns. Her assured voice helped the nervous students relax. The magician's final trick will astonish the audience. The essay compared atheism with several religious viewpoints.",
+    "Other records complicated that first impression and encouraged a closer reading. Her athletic ability helped her learn several new games quickly. Even her quietest words were audible in the silent room. Clear skies provided an auspicious start to the expedition. The austere room contained only a bed and a desk.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "association",
+      "index": 0,
+      "definition": "an organized group of people with a shared interest"
+    },
+    {
+      "word": "assured",
+      "index": 0,
+      "definition": "confident and certain in manner"
+    },
+    {
+      "word": "astonish",
+      "index": 0,
+      "definition": "to surprise someone greatly"
+    },
+    {
+      "word": "atheism",
+      "index": 0,
+      "definition": "the belief that no gods exist"
+    },
+    {
+      "word": "athletic",
+      "index": 0,
+      "definition": "physically active and skilled in sports"
+    },
+    {
+      "word": "audible",
+      "index": 0,
+      "definition": "loud enough to be heard"
+    },
+    {
+      "word": "auspicious",
+      "index": 0,
+      "definition": "suggesting that success or good fortune is likely"
+    },
+    {
+      "word": "austere",
+      "index": 0,
+      "definition": "very plain and without unnecessary comfort or decoration"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

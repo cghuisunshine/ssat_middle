@@ -1,0 +1,57 @@
+{
+  "id": "article-6cbe40491fc70977",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. The athlete launched the javelin across the field. The comment was made in jest rather than anger. The burglar tried to jimmy the locked window. A jocund melody filled the village square.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The rough road made the loose handle joggle. The festival brought music and jollity to the streets. The passengers tried not to jostle one another at the doorway. Her interest in journalism began with the school newspaper.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "javelin",
+      "index": 0,
+      "definition": "a long spear thrown in an athletic event"
+    },
+    {
+      "word": "jest",
+      "index": 0,
+      "definition": "a joke or playful remark"
+    },
+    {
+      "word": "jimmy",
+      "index": 0,
+      "definition": "to force something open with a short lever"
+    },
+    {
+      "word": "jocund",
+      "index": 0,
+      "definition": "cheerful and lighthearted"
+    },
+    {
+      "word": "joggle",
+      "index": 0,
+      "definition": "to shake or nudge with small repeated movements"
+    },
+    {
+      "word": "jollity",
+      "index": 0,
+      "definition": "lively cheerfulness and fun"
+    },
+    {
+      "word": "jostle",
+      "index": 0,
+      "definition": "to bump or push against someone in a crowd"
+    },
+    {
+      "word": "journalism",
+      "index": 0,
+      "definition": "the work of gathering and reporting news"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

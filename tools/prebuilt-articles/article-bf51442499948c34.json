@@ -1,0 +1,57 @@
+{
+  "id": "article-bf51442499948c34",
+  "tier": "Foundation",
+  "topic": "Size, quantity & appearance",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The dense forest allowed very little sunlight to reach the ground. The distant mountain looked tiny from our campsite. A dull glow came from the lamp's dusty shade. An enormous whale surfaced beside the much smaller boat.",
+    "A later section added further scenes for comparison. We heard a faint whisper from the far end of the hall. Frequent interruptions made it hard to finish the assignment. The project required an immense amount of time and money. The massive stone was too heavy for six people to lift.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "dense",
+      "index": 0,
+      "definition": "closely packed together"
+    },
+    {
+      "word": "distant",
+      "index": 0,
+      "definition": "far away in space or time"
+    },
+    {
+      "word": "dull",
+      "index": 0,
+      "definition": "lacking brightness or sharpness"
+    },
+    {
+      "word": "enormous",
+      "index": 0,
+      "definition": "very large in size"
+    },
+    {
+      "word": "faint",
+      "index": 0,
+      "definition": "weak and difficult to see or hear"
+    },
+    {
+      "word": "frequent",
+      "index": 0,
+      "definition": "happening often"
+    },
+    {
+      "word": "immense",
+      "index": 0,
+      "definition": "extremely great in size or amount"
+    },
+    {
+      "word": "massive",
+      "index": 0,
+      "definition": "very large and heavy"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

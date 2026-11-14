@@ -1,0 +1,22 @@
+{
+  "id": "article-792f7d72c66140d9",
+  "tier": "Foundation",
+  "topic": "Actions & movement",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. Without a map, tourists may wander through the streets for hours.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "wander",
+      "index": 0,
+      "definition": "to move without a fixed destination"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

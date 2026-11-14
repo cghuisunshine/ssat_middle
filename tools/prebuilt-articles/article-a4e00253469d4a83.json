@@ -1,0 +1,57 @@
+{
+  "id": "article-a4e00253469d4a83",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. The club holds a semiannual exhibition. The character was semiconscious after waking from a deep sleep. He studied theology at a seminary. The exhibit offered a sensory experience of sounds and textures.",
+    "Other records complicated that first impression and encouraged a closer reading. The description emphasized the sensuality of fragrance and warm sunlight. A sentry stood beside the gate. The model had several separable sections. The report described weakness as a sequela of the illness.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "semiannual",
+      "index": 0,
+      "definition": "occurring twice a year"
+    },
+    {
+      "word": "semiconscious",
+      "index": 0,
+      "definition": "partly awake or only partly aware"
+    },
+    {
+      "word": "seminary",
+      "index": 0,
+      "definition": "a school for religious training"
+    },
+    {
+      "word": "sensory",
+      "index": 0,
+      "definition": "related to the senses"
+    },
+    {
+      "word": "sensuality",
+      "index": 0,
+      "definition": "enjoyment of physical sensations and pleasures"
+    },
+    {
+      "word": "sentry",
+      "index": 0,
+      "definition": "a guard stationed to watch a place"
+    },
+    {
+      "word": "separable",
+      "index": 0,
+      "definition": "able to be divided or detached"
+    },
+    {
+      "word": "sequela",
+      "index": 0,
+      "definition": "a condition or consequence remaining after an earlier disease or event"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

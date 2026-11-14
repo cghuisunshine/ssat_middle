@@ -1,0 +1,57 @@
+{
+  "id": "article-925edc001248bd66",
+  "tier": "Core",
+  "topic": "Character & integrity",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. The vain prince spent hours admiring his reflection. The courteous passenger offered her seat to an older traveler. The gracious runner congratulated the rival who had beaten her. The headstrong child refused help even after several failed attempts.",
+    "A later section added further scenes for comparison. The malicious rumor was invented to damage the captain's reputation. He was a hypocrite for demanding honesty while cheating on the test. The resolute climber kept training after an early defeat. Her steadfast support never weakened during the team's losing season.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "vain",
+      "index": 0,
+      "definition": "excessively proud of one's appearance or abilities"
+    },
+    {
+      "word": "courteous",
+      "index": 0,
+      "definition": "showing politeness and respect for others"
+    },
+    {
+      "word": "gracious",
+      "index": 0,
+      "definition": "kind and polite even in a difficult situation"
+    },
+    {
+      "word": "headstrong",
+      "index": 0,
+      "definition": "determined to do things one's own way despite advice"
+    },
+    {
+      "word": "malicious",
+      "index": 0,
+      "definition": "intending to hurt someone or cause harm"
+    },
+    {
+      "word": "hypocrite",
+      "index": 0,
+      "definition": "a person whose actions contradict the beliefs they claim to hold"
+    },
+    {
+      "word": "resolute",
+      "index": 0,
+      "definition": "firmly determined and unlikely to give up"
+    },
+    {
+      "word": "steadfast",
+      "index": 0,
+      "definition": "remaining loyal and firm despite difficulties"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

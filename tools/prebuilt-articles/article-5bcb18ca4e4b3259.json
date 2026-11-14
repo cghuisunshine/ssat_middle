@@ -1,0 +1,57 @@
+{
+  "id": "article-5bcb18ca4e4b3259",
+  "tier": "Foundation",
+  "topic": "Character & behavior",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. Despite winning the prize, the humble scientist thanked her entire team. The machine stood idle while workers waited for replacement parts. The lazy worker avoided every task that required effort. A polite guest thanks the host before leaving.",
+    "Other records complicated that first impression and encouraged a closer reading. She felt proud of the bridge she had built herself. Keeping all the supplies for yourself would be selfish. The shy child whispered instead of introducing himself aloud. The stubborn mule refused to move despite our repeated efforts.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "humble",
+      "index": 0,
+      "definition": "not believing oneself better than others"
+    },
+    {
+      "word": "idle",
+      "index": 0,
+      "definition": "not working or being used"
+    },
+    {
+      "word": "lazy",
+      "index": 0,
+      "definition": "unwilling to work or make an effort"
+    },
+    {
+      "word": "polite",
+      "index": 0,
+      "definition": "showing good manners and respect"
+    },
+    {
+      "word": "proud",
+      "index": 0,
+      "definition": "feeling pleased with one's achievements"
+    },
+    {
+      "word": "selfish",
+      "index": 0,
+      "definition": "concerned mainly with one's own needs"
+    },
+    {
+      "word": "shy",
+      "index": 0,
+      "definition": "nervous or uncomfortable around other people"
+    },
+    {
+      "word": "stubborn",
+      "index": 0,
+      "definition": "unwilling to change one's mind"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

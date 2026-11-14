@@ -1,0 +1,57 @@
+{
+  "id": "article-76482cf383552c53",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The opening pages introduced several situations worth examining carefully. The claim remained disputable because the evidence was weak. Do not disregard the warnings beside the damaged path. The library helped disseminate information about the event. The proposal passed despite strong dissent from several members.",
+    "The remaining pages widened the discussion with additional observations. The dissident called for changes to the restrictive law. The dissipation of the fog revealed the distant shore. The statement announced the group's dissociation from the campaign. Her friends tried to dissuade her from taking the unsafe route.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "disputable",
+      "index": 0,
+      "definition": "open to challenge or disagreement"
+    },
+    {
+      "word": "disregard",
+      "index": 0,
+      "definition": "to pay no attention to something"
+    },
+    {
+      "word": "disseminate",
+      "index": 0,
+      "definition": "to spread information or ideas widely"
+    },
+    {
+      "word": "dissent",
+      "index": 0,
+      "definition": "disagreement with an official or majority opinion"
+    },
+    {
+      "word": "dissident",
+      "index": 0,
+      "definition": "a person who openly opposes an established authority or policy"
+    },
+    {
+      "word": "dissipation",
+      "index": 0,
+      "definition": "the gradual scattering or loss of something"
+    },
+    {
+      "word": "dissociation",
+      "index": 0,
+      "definition": "separation from a connection or association"
+    },
+    {
+      "word": "dissuade",
+      "index": 0,
+      "definition": "to persuade someone not to do something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-ee21bde3c3690a86",
+  "tier": "Core",
+  "topic": "Time, order & certainty",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "Several records provided a starting point for the discussion. The gradual rise in temperature happened slowly over several weeks. The injured animal needed immediate attention rather than a long wait. With the roof already collapsing, further damage seemed inevitable. The initial plan changed several times before we began work.",
+    "Other records complicated that first impression and encouraged a closer reading. Intermittent rain stopped and started throughout the afternoon. New technology made the old recording device obsolete. The permanent ink could not be washed off the label. The paragraph preceding the conclusion introduces the final piece of evidence.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "gradual",
+      "index": 0,
+      "definition": "happening slowly in stages"
+    },
+    {
+      "word": "immediate",
+      "index": 0,
+      "definition": "happening without delay"
+    },
+    {
+      "word": "inevitable",
+      "index": 0,
+      "definition": "certain to happen and impossible to avoid"
+    },
+    {
+      "word": "initial",
+      "index": 0,
+      "definition": "occurring at the beginning"
+    },
+    {
+      "word": "intermittent",
+      "index": 0,
+      "definition": "stopping and starting at intervals"
+    },
+    {
+      "word": "obsolete",
+      "index": 0,
+      "definition": "no longer used or useful"
+    },
+    {
+      "word": "permanent",
+      "index": 0,
+      "definition": "lasting without an expected end"
+    },
+    {
+      "word": "preceding",
+      "index": 0,
+      "definition": "coming before something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

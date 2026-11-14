@@ -1,0 +1,57 @@
+{
+  "id": "article-a30795bcafa8d4c7",
+  "tier": "Core",
+  "topic": "Power, resources & achievement",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. The cold, dry air helps preserve the ancient wooden tools. We need to purchase enough paint for all four walls. The recipe will require three eggs and a cup of flour. The thick walls retain heat long after the fire has gone out.",
+    "A later section added further scenes for comparison. She chose to sacrifice her free afternoon to help a friend study. The new lock will secure the store against theft. Do not squander your limited supplies by using them carelessly. The stored food could sustain the hikers for another week.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "preserve",
+      "index": 0,
+      "definition": "to keep safe from damage or decay"
+    },
+    {
+      "word": "purchase",
+      "index": 0,
+      "definition": "to obtain by paying money"
+    },
+    {
+      "word": "require",
+      "index": 0,
+      "definition": "to need or demand"
+    },
+    {
+      "word": "retain",
+      "index": 0,
+      "definition": "to keep possession of"
+    },
+    {
+      "word": "sacrifice",
+      "index": 0,
+      "definition": "to give up something valuable for another purpose"
+    },
+    {
+      "word": "secure",
+      "index": 0,
+      "definition": "to make safe from danger or loss"
+    },
+    {
+      "word": "squander",
+      "index": 0,
+      "definition": "to waste carelessly"
+    },
+    {
+      "word": "sustain",
+      "index": 0,
+      "definition": "to support or keep going over time"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

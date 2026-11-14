@@ -1,0 +1,57 @@
+{
+  "id": "article-54fb9f8937792eae",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. The reviewer criticized the insipidity of the dialogue. The insolvent firm could not meet its obligations. The loose base caused instability in the tall display. The lessons aimed to instill respect for living things.",
+    "The remaining pages widened the discussion with additional observations. The library is an important institution in the town. Her careful research was instrumental in solving the mystery. The shop purchased insurance against fire damage. Radio interference made the message difficult to hear.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "insipidity",
+      "index": 0,
+      "definition": "the quality of lacking flavor or interest"
+    },
+    {
+      "word": "insolvent",
+      "index": 0,
+      "definition": "unable to pay debts"
+    },
+    {
+      "word": "instability",
+      "index": 0,
+      "definition": "a tendency to change or become unsteady"
+    },
+    {
+      "word": "instill",
+      "index": 0,
+      "definition": "to gradually introduce a feeling, value, or idea"
+    },
+    {
+      "word": "institution",
+      "index": 0,
+      "definition": "an established organization serving a public or social purpose"
+    },
+    {
+      "word": "instrumental",
+      "index": 0,
+      "definition": "playing an important part in causing a result"
+    },
+    {
+      "word": "insurance",
+      "index": 0,
+      "definition": "an arrangement providing financial protection against specified losses"
+    },
+    {
+      "word": "interference",
+      "index": 0,
+      "definition": "unwanted involvement or an obstruction to an activity"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

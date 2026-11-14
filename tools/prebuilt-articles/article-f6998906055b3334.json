@@ -1,0 +1,57 @@
+{
+  "id": "article-f6998906055b3334",
+  "tier": "Core",
+  "topic": "Ideas, art & literature",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. The author's respectful tone shows admiration for the explorer. Snow collected on the lowest bough of the oak. The sunset gave the clouds a rosy hue. The room's sober colors suited the quiet memorial.",
+    "The remaining pages widened the discussion with additional observations. The photograph captured the stark beauty of the treeless hillside. Her pioneering design changed how later bridges were built. The painting will depict the town as it looked a century ago. The poster showed an idealized village without traffic or litter.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "tone",
+      "index": 0,
+      "definition": "the writer's attitude toward a subject"
+    },
+    {
+      "word": "bough",
+      "index": 0,
+      "definition": "a large branch of a tree"
+    },
+    {
+      "word": "hue",
+      "index": 0,
+      "definition": "a color or shade of color"
+    },
+    {
+      "word": "sober",
+      "index": 0,
+      "definition": "subdued or restrained in color or style"
+    },
+    {
+      "word": "stark",
+      "index": 0,
+      "definition": "plain and striking, with little decoration or softness"
+    },
+    {
+      "word": "pioneering",
+      "index": 0,
+      "definition": "introducing new ideas or methods that others may later follow"
+    },
+    {
+      "word": "depict",
+      "index": 0,
+      "definition": "to show or represent something in words or pictures"
+    },
+    {
+      "word": "idealized",
+      "index": 0,
+      "definition": "represented as more perfect than it is in reality"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

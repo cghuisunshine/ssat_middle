@@ -1,0 +1,57 @@
+{
+  "id": "article-9374829303eac4d1",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. She wore a simple frock to the summer gathering. He cast a furtive glance at the hidden package. Trying to repair the shattered cup was futile. A gargantuan statue towered above the square.",
+    "Other records complicated that first impression and encouraged a closer reading. She could glean useful clues from the old letters. Polish restored the gloss of the wooden table. She felt gratified by the warm response to her work. The residents listed their grievances at the public meeting.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "frock",
+      "index": 0,
+      "definition": "a dress"
+    },
+    {
+      "word": "furtive",
+      "index": 0,
+      "definition": "trying to avoid notice because of secrecy"
+    },
+    {
+      "word": "futile",
+      "index": 0,
+      "definition": "unable to produce a useful result"
+    },
+    {
+      "word": "gargantuan",
+      "index": 0,
+      "definition": "extremely large"
+    },
+    {
+      "word": "glean",
+      "index": 0,
+      "definition": "to gather information gradually from different sources"
+    },
+    {
+      "word": "gloss",
+      "index": 0,
+      "definition": "a smooth, shiny appearance"
+    },
+    {
+      "word": "gratified",
+      "index": 0,
+      "definition": "pleased or satisfied by something"
+    },
+    {
+      "word": "grievances",
+      "index": 0,
+      "definition": "complaints about wrongs or unfair treatment"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

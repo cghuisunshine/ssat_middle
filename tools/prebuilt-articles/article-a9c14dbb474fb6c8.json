@@ -1,0 +1,57 @@
+{
+  "id": "article-a9c14dbb474fb6c8",
+  "tier": "Stretch",
+  "topic": "Movement & physical processes",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. The car began to accelerate as it entered the open highway. Dust will accumulate on the shelves if they are never cleaned. The label will adhere to the jar if the surface is clean and dry. The hikers will ascend the mountain along its gentler eastern slope.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The two carts could collide if both enter the narrow aisle at once. The machine will compress the loose paper into a tightly packed block. Several small paths converge at the central fountain. We watched the balloon descend slowly toward the field.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "accelerate",
+      "index": 0,
+      "definition": "to move or happen faster"
+    },
+    {
+      "word": "accumulate",
+      "index": 0,
+      "definition": "to collect gradually over time"
+    },
+    {
+      "word": "adhere",
+      "index": 0,
+      "definition": "to stick firmly to a surface or rule"
+    },
+    {
+      "word": "ascend",
+      "index": 0,
+      "definition": "to move upward"
+    },
+    {
+      "word": "collide",
+      "index": 0,
+      "definition": "to strike against something forcefully"
+    },
+    {
+      "word": "compress",
+      "index": 0,
+      "definition": "to press into a smaller space"
+    },
+    {
+      "word": "converge",
+      "index": 0,
+      "definition": "to move toward the same point"
+    },
+    {
+      "word": "descend",
+      "index": 0,
+      "definition": "to move downward"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

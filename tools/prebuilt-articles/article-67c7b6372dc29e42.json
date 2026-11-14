@@ -1,0 +1,57 @@
+{
+  "id": "article-67c7b6372dc29e42",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The opening pages introduced several situations worth examining carefully. The question contained a presupposition that the plan had failed. He used the missing book as a pretext to return. The team hoped that careful preparation would prevail. The display included primitive stone tools.",
+    "The remaining pages widened the discussion with additional observations. A procedural error delayed the decision. The proclamation announced a day of celebration. He has a proclivity for taking unnecessary risks. The team worked to procure the needed equipment.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "presupposition",
+      "index": 0,
+      "definition": "an assumption that must already be accepted for an argument or statement"
+    },
+    {
+      "word": "pretext",
+      "index": 0,
+      "definition": "a stated reason used to hide a real purpose"
+    },
+    {
+      "word": "prevail",
+      "index": 0,
+      "definition": "to succeed or prove stronger than opposition"
+    },
+    {
+      "word": "primitive",
+      "index": 0,
+      "definition": "belonging to an early stage of development"
+    },
+    {
+      "word": "procedural",
+      "index": 0,
+      "definition": "related to an established way of doing something"
+    },
+    {
+      "word": "proclamation",
+      "index": 0,
+      "definition": "a public and official announcement"
+    },
+    {
+      "word": "proclivity",
+      "index": 0,
+      "definition": "a natural tendency to behave in a particular way"
+    },
+    {
+      "word": "procure",
+      "index": 0,
+      "definition": "to obtain something through effort"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

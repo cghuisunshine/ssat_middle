@@ -1,0 +1,57 @@
+{
+  "id": "article-809d120a35f87525",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The weekly meetings resumed after a short hiatus. A hideous noise came from the damaged engine. The highwayman stopped the carriage on the lonely road. The unexpected costume caused great hilarity.",
+    "The remaining pages widened the discussion with additional observations. The novel portrays the corrupt official's helper as a hireling. Her unnecessary histrionics distracted everyone from the real problem. The concert paid homage to the late composer. The machine helped homogenize the liquid mixture.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "hiatus",
+      "index": 0,
+      "definition": "a pause or gap in an activity or sequence"
+    },
+    {
+      "word": "hideous",
+      "index": 0,
+      "definition": "extremely unpleasant or ugly"
+    },
+    {
+      "word": "highwayman",
+      "index": 0,
+      "definition": "a historical robber who attacked travelers on roads"
+    },
+    {
+      "word": "hilarity",
+      "index": 0,
+      "definition": "loud amusement and laughter"
+    },
+    {
+      "word": "hireling",
+      "index": 0,
+      "definition": "a person hired to work, often described contemptuously"
+    },
+    {
+      "word": "histrionics",
+      "index": 0,
+      "definition": "exaggerated emotional behavior intended to attract attention"
+    },
+    {
+      "word": "homage",
+      "index": 0,
+      "definition": "public respect or honor paid to someone"
+    },
+    {
+      "word": "homogenize",
+      "index": 0,
+      "definition": "to make a mixture uniform throughout"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

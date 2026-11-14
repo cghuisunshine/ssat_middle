@@ -1,0 +1,22 @@
+{
+  "id": "article-d8e33b4dc5f92000",
+  "tier": "Core",
+  "topic": "Actions & movement",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The puppies frolic on the grass after their nap.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison.",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "frolic",
+      "index": 0,
+      "definition": "to play and move about happily"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-43d73ee066a62cba",
+  "tier": "Core",
+  "topic": "Reasoning & knowledge",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "Several records provided a starting point for the discussion. The actor worked each evening to memorize his lines. A reader may misconceive the author's argument by ignoring the final paragraph. Animals can often perceive sounds that humans cannot hear. I could recognize my friend's voice even in the noisy crowd.",
+    "Other records complicated that first impression and encouraged a closer reading. Take a moment to reflect on what the experiment taught you. The editor will scrutinize every sentence for errors. Without enough evidence, we can only speculate about what happened. Please summarize the chapter in three sentences rather than repeating every detail.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "memorize",
+      "index": 0,
+      "definition": "to learn so one can recall exactly"
+    },
+    {
+      "word": "misconceive",
+      "index": 0,
+      "definition": "to understand incorrectly"
+    },
+    {
+      "word": "perceive",
+      "index": 0,
+      "definition": "to become aware through senses or thought"
+    },
+    {
+      "word": "recognize",
+      "index": 0,
+      "definition": "to identify as previously known"
+    },
+    {
+      "word": "reflect",
+      "index": 0,
+      "definition": "to think carefully about something"
+    },
+    {
+      "word": "scrutinize",
+      "index": 0,
+      "definition": "to inspect with close attention"
+    },
+    {
+      "word": "speculate",
+      "index": 0,
+      "definition": "to form ideas without certain evidence"
+    },
+    {
+      "word": "summarize",
+      "index": 0,
+      "definition": "to state only the main points"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

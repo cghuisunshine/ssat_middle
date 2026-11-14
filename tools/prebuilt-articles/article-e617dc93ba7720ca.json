@@ -1,0 +1,57 @@
+{
+  "id": "article-e617dc93ba7720ca",
+  "tier": "Core",
+  "topic": "Character & integrity",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. The amiable shopkeeper greeted every customer with a friendly smile. The arrogant player acted as though no teammate was his equal. The benevolent ruler used her fortune to fund hospitals for the poor. The compassionate nurse comforted the frightened patient.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The conscientious student checked every source before submitting her report. It was considerate to lower the music while the baby slept. The deceitful seller hid the bicycle's broken brakes from the buyer. Our dependable neighbor always feeds the cat when we are away.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "amiable",
+      "index": 0,
+      "definition": "friendly and pleasant in manner"
+    },
+    {
+      "word": "arrogant",
+      "index": 0,
+      "definition": "acting as though superior to others"
+    },
+    {
+      "word": "benevolent",
+      "index": 0,
+      "definition": "kind and wishing to help others"
+    },
+    {
+      "word": "compassionate",
+      "index": 0,
+      "definition": "showing concern for others' suffering"
+    },
+    {
+      "word": "conscientious",
+      "index": 0,
+      "definition": "careful to do one's duties properly"
+    },
+    {
+      "word": "considerate",
+      "index": 0,
+      "definition": "thoughtful about other people's needs"
+    },
+    {
+      "word": "deceitful",
+      "index": 0,
+      "definition": "intending to mislead or cheat"
+    },
+    {
+      "word": "dependable",
+      "index": 0,
+      "definition": "able to be trusted or relied upon"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

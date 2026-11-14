@@ -1,0 +1,57 @@
+{
+  "id": "article-f7cd8c15dea65db8",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. The aggregate of the three donations exceeded our goal. Their aimless walk ended when they finally chose a destination. The feeling was akin to the excitement before a holiday. An amorphous patch of fog drifted over the field.",
+    "The remaining pages widened the discussion with additional observations. He felt anguish when he learned that the treasured letters were lost. The city voted to annex the land beside its eastern boundary. The medical team quickly identified an antidote to the poison. A small flag marked the apex of the steep roof.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "aggregate",
+      "index": 0,
+      "definition": "a total formed by combining separate amounts"
+    },
+    {
+      "word": "aimless",
+      "index": 0,
+      "definition": "having no clear purpose or direction"
+    },
+    {
+      "word": "akin",
+      "index": 0,
+      "definition": "similar or closely related to something"
+    },
+    {
+      "word": "amorphous",
+      "index": 0,
+      "definition": "without a definite or clearly organized shape"
+    },
+    {
+      "word": "anguish",
+      "index": 0,
+      "definition": "extreme emotional or physical suffering"
+    },
+    {
+      "word": "annex",
+      "index": 0,
+      "definition": "to add an area or territory to a larger one"
+    },
+    {
+      "word": "antidote",
+      "index": 0,
+      "definition": "a treatment that counteracts a poison or harmful effect"
+    },
+    {
+      "word": "apex",
+      "index": 0,
+      "definition": "the highest point or peak of something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

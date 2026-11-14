@@ -1,0 +1,57 @@
+{
+  "id": "article-b34dec6451a66901",
+  "tier": "Core",
+  "topic": "Conflict & cooperation",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The group began by reading the following accounts without adding explanations of its own. You should not accuse someone of stealing without evidence. The manager offered refunds to appease the angry customers. The two classes will cooperate to clean the entire playground. Athletes from ten schools will compete for the trophy.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The urgent danger may compel us to leave before sunrise. She decided to confront the problem instead of ignoring it. The army hoped to conquer the neighboring kingdom by force. The owner must consent before we can use the field.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "accuse",
+      "index": 0,
+      "definition": "to claim someone has done wrong"
+    },
+    {
+      "word": "appease",
+      "index": 0,
+      "definition": "to calm anger by giving what is wanted"
+    },
+    {
+      "word": "cooperate",
+      "index": 0,
+      "definition": "to work together toward a goal"
+    },
+    {
+      "word": "compete",
+      "index": 0,
+      "definition": "to try to win against others"
+    },
+    {
+      "word": "compel",
+      "index": 0,
+      "definition": "to force someone to act"
+    },
+    {
+      "word": "confront",
+      "index": 0,
+      "definition": "to face a difficulty or opponent directly"
+    },
+    {
+      "word": "conquer",
+      "index": 0,
+      "definition": "to defeat and gain control over"
+    },
+    {
+      "word": "consent",
+      "index": 0,
+      "definition": "to give permission or agreement"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

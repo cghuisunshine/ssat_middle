@@ -1,0 +1,57 @@
+{
+  "id": "article-21917e2e3e491dae",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. The museum celebrated the scientist's illustrious career. The story takes place in an imaginary kingdom. The satirist used imbecility as a harsh criticism of the plan. The old poem used imbrue to describe staining a garment.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The stories helped imbue the children with a sense of wonder. The campaign aimed to immunize the community against the infection. The teacher hoped to impart a love of reading. The judge remained impassive while hearing the dramatic account.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "illustrious",
+      "index": 0,
+      "definition": "famous and respected for impressive achievements"
+    },
+    {
+      "word": "imaginary",
+      "index": 0,
+      "definition": "existing in the mind rather than in reality"
+    },
+    {
+      "word": "imbecility",
+      "index": 0,
+      "definition": "extreme foolishness, expressed in dated and often insulting language"
+    },
+    {
+      "word": "imbrue",
+      "index": 0,
+      "definition": "to stain or soak something, traditionally with blood"
+    },
+    {
+      "word": "imbue",
+      "index": 0,
+      "definition": "to fill someone or something with a particular quality or feeling"
+    },
+    {
+      "word": "immunize",
+      "index": 0,
+      "definition": "to provide protection against a disease"
+    },
+    {
+      "word": "impart",
+      "index": 0,
+      "definition": "to give or communicate information or a quality"
+    },
+    {
+      "word": "impassive",
+      "index": 0,
+      "definition": "showing little or no outward emotion"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

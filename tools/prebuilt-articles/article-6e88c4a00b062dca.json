@@ -1,0 +1,22 @@
+{
+  "id": "article-6e88c4a00b062dca",
+  "tier": "Core",
+  "topic": "Learning & public life",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. She approached the volunteer project with such zeal that others soon joined her.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended.",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "zeal",
+      "index": 0,
+      "definition": "great energy and enthusiasm for a cause"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

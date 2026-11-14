@@ -1,0 +1,57 @@
+{
+  "id": "article-7fb475c31ed54423",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. The lachrymose ending moved several readers to tears. His lackadaisical effort disappointed the hardworking team. The report described the lamentable loss of the historic building. The cartoonist chose to lampoon the pompous official.",
+    "Other records complicated that first impression and encouraged a closer reading. The painting showed a lancer carrying a long spear. He pinned a small flower to his lapel. The plant had thick, leathery leaves. The lecture explained how volcanoes form.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "lachrymose",
+      "index": 0,
+      "definition": "tearful or inclined to cause tears"
+    },
+    {
+      "word": "lackadaisical",
+      "index": 0,
+      "definition": "lacking energy, care, or enthusiasm"
+    },
+    {
+      "word": "lamentable",
+      "index": 0,
+      "definition": "deserving sorrow or regret"
+    },
+    {
+      "word": "lampoon",
+      "index": 0,
+      "definition": "to mock someone through exaggerated humor"
+    },
+    {
+      "word": "lancer",
+      "index": 0,
+      "definition": "a cavalry soldier armed with a lance"
+    },
+    {
+      "word": "lapel",
+      "index": 0,
+      "definition": "the folded part of a coat beside the collar"
+    },
+    {
+      "word": "leathery",
+      "index": 0,
+      "definition": "tough and resembling leather"
+    },
+    {
+      "word": "lecture",
+      "index": 0,
+      "definition": "a prepared educational talk"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

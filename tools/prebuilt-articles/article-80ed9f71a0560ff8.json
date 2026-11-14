@@ -1,0 +1,57 @@
+{
+  "id": "article-80ed9f71a0560ff8",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "Several records provided a starting point for the discussion. The voracious reader finished three novels in one weekend. The leaves circled rapidly in the river's vortex. I can vouch for her honesty because we have worked together for years. The teacher asked the students to stop using vulgar language.",
+    "Other records complicated that first impression and encouraged a closer reading. The editor removed the vulgarity from the children's edition. The smell of bread began to waft from the bakery. The library agreed to waive the late fee. After the illness, his face still looked wan.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "voracious",
+      "index": 0,
+      "definition": "having a very great appetite or desire for something"
+    },
+    {
+      "word": "vortex",
+      "index": 0,
+      "definition": "a spinning mass of fluid that draws things toward its center"
+    },
+    {
+      "word": "vouch",
+      "index": 0,
+      "definition": "to confirm that someone or something is reliable or true"
+    },
+    {
+      "word": "vulgar",
+      "index": 0,
+      "definition": "crude, offensive, or lacking good taste"
+    },
+    {
+      "word": "vulgarity",
+      "index": 0,
+      "definition": "behavior or language that is crude or offensive"
+    },
+    {
+      "word": "waft",
+      "index": 0,
+      "definition": "to move gently through the air"
+    },
+    {
+      "word": "waive",
+      "index": 0,
+      "definition": "to choose not to enforce or claim a right or requirement"
+    },
+    {
+      "word": "wan",
+      "index": 0,
+      "definition": "pale and weak-looking"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

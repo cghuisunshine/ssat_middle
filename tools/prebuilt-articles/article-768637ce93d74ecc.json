@@ -1,0 +1,57 @@
+{
+  "id": "article-768637ce93d74ecc",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The deliberate cruelty was repugnant to the audience. The magnets demonstrated repulsion when like poles faced each other. They bought the instrument from a reputable dealer. The scientist was a researcher of international repute.",
+    "A later section added further scenes for comparison. The council voted to rescind the outdated restriction. The cool evening brought respite from the day's heat. The agreement required restitution for the damaged property. The painting underwent careful restoration.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "repugnant",
+      "index": 0,
+      "definition": "causing strong disgust or opposition"
+    },
+    {
+      "word": "repulsion",
+      "index": 0,
+      "definition": "a strong feeling of disgust or a force pushing things apart"
+    },
+    {
+      "word": "reputable",
+      "index": 0,
+      "definition": "having a good and trustworthy reputation"
+    },
+    {
+      "word": "repute",
+      "index": 0,
+      "definition": "the general opinion people have of someone or something"
+    },
+    {
+      "word": "rescind",
+      "index": 0,
+      "definition": "to officially cancel a rule, agreement, or decision"
+    },
+    {
+      "word": "respite",
+      "index": 0,
+      "definition": "a short period of relief from difficulty or work"
+    },
+    {
+      "word": "restitution",
+      "index": 0,
+      "definition": "the return of something lost or payment for harm"
+    },
+    {
+      "word": "restoration",
+      "index": 0,
+      "definition": "the act of returning something to an earlier good condition"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

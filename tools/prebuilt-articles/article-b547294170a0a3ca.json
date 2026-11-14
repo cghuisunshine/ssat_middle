@@ -1,0 +1,57 @@
+{
+  "id": "article-b547294170a0a3ca",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The first section of the collection placed these observations side by side. The delicate plants are susceptible to frost. The victorious captain began to swagger into the locker room. The players rested in the shade during the sweltering afternoon. Scientists gathered for a symposium on ocean life.",
+    "A later section added further scenes for comparison. Read the synopsis before deciding whether to borrow the novel. Their silence suggested tacit approval of the plan. The taciturn farmer rarely joined the village gossip. The cheating scandal could taint the team's victory.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "susceptible",
+      "index": 0,
+      "definition": "easily affected or influenced by something"
+    },
+    {
+      "word": "swagger",
+      "index": 0,
+      "definition": "to walk or behave with excessive confidence"
+    },
+    {
+      "word": "sweltering",
+      "index": 0,
+      "definition": "extremely hot and uncomfortable"
+    },
+    {
+      "word": "symposium",
+      "index": 0,
+      "definition": "a meeting at which specialists discuss a subject"
+    },
+    {
+      "word": "synopsis",
+      "index": 0,
+      "definition": "a brief account of the main points of something"
+    },
+    {
+      "word": "tacit",
+      "index": 0,
+      "definition": "understood without being directly stated"
+    },
+    {
+      "word": "taciturn",
+      "index": 0,
+      "definition": "habitually saying very little"
+    },
+    {
+      "word": "taint",
+      "index": 0,
+      "definition": "to spoil or damage the purity or reputation of something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

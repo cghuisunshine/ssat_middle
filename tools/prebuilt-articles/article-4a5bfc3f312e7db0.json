@@ -1,0 +1,57 @@
+{
+  "id": "article-4a5bfc3f312e7db0",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. The jovial host greeted every visitor warmly. The jubilant players celebrated their unexpected victory. The town held a jubilee to mark its founding. Sharp rocks jut from the cliff above the path.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The exhibit will juxtapose ancient and modern tools. The damaged keel required careful repair. The farmer stored the drink in a wooden keg. Steam rose from the kettle on the stove.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "jovial",
+      "index": 0,
+      "definition": "cheerful, friendly, and good-humored"
+    },
+    {
+      "word": "jubilant",
+      "index": 0,
+      "definition": "showing great joy after success"
+    },
+    {
+      "word": "jubilee",
+      "index": 0,
+      "definition": "a special celebration of an important anniversary"
+    },
+    {
+      "word": "jut",
+      "index": 0,
+      "definition": "to extend outward beyond a surface"
+    },
+    {
+      "word": "juxtapose",
+      "index": 0,
+      "definition": "to place things side by side for comparison"
+    },
+    {
+      "word": "keel",
+      "index": 0,
+      "definition": "the main structural piece along the bottom of a boat"
+    },
+    {
+      "word": "keg",
+      "index": 0,
+      "definition": "a small barrel"
+    },
+    {
+      "word": "kettle",
+      "index": 0,
+      "definition": "a container used to boil water"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

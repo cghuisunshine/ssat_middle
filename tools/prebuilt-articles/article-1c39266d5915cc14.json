@@ -1,0 +1,57 @@
+{
+  "id": "article-1c39266d5915cc14",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The group began by reading the following accounts without adding explanations of its own. The class is designed for students with intermediate skills. The historical record noted the place of interment. The two streams intermingle below the bridge. A brief interruption delayed the announcement.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The two paths intersect beside the fountain. The editor chose to intersperse photographs throughout the chapter. The novel contains several interwoven stories. The difficult problem did not intimidate the experienced solver.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "intermediate",
+      "index": 0,
+      "definition": "between two stages, levels, or extremes"
+    },
+    {
+      "word": "interment",
+      "index": 0,
+      "definition": "the burial of a dead person"
+    },
+    {
+      "word": "intermingle",
+      "index": 0,
+      "definition": "to mix together"
+    },
+    {
+      "word": "interruption",
+      "index": 0,
+      "definition": "an event that stops an activity temporarily"
+    },
+    {
+      "word": "intersect",
+      "index": 0,
+      "definition": "to meet or cross at a point"
+    },
+    {
+      "word": "intersperse",
+      "index": 0,
+      "definition": "to place things at intervals among other things"
+    },
+    {
+      "word": "interwoven",
+      "index": 0,
+      "definition": "closely mixed or connected with other strands or elements"
+    },
+    {
+      "word": "intimidate",
+      "index": 0,
+      "definition": "to frighten someone into losing confidence or obeying"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

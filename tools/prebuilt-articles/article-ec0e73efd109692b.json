@@ -1,0 +1,57 @@
+{
+  "id": "article-ec0e73efd109692b",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. The committee sought an equitable division of the costs. His equivocal answer left us unsure of his intentions. Even experienced players sometimes err under pressure. The shepherd searched for an errant lamb.",
+    "Other records complicated that first impression and encouraged a closer reading. The erroneous address sent the package to another town. The erudite scholar explained the ancient inscription. The article used esoteric terms unfamiliar to most readers. The artist used a sharp tool to etch the pattern.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "equitable",
+      "index": 0,
+      "definition": "fair and reasonable to all involved"
+    },
+    {
+      "word": "equivocal",
+      "index": 0,
+      "definition": "unclear or open to more than one interpretation"
+    },
+    {
+      "word": "err",
+      "index": 0,
+      "definition": "to make a mistake"
+    },
+    {
+      "word": "errant",
+      "index": 0,
+      "definition": "straying from the proper path or accepted behavior"
+    },
+    {
+      "word": "erroneous",
+      "index": 0,
+      "definition": "based on a mistake or containing an error"
+    },
+    {
+      "word": "erudite",
+      "index": 0,
+      "definition": "showing extensive knowledge gained through study"
+    },
+    {
+      "word": "esoteric",
+      "index": 0,
+      "definition": "understood by only a small group with special knowledge"
+    },
+    {
+      "word": "etch",
+      "index": 0,
+      "definition": "to cut or mark a design into a surface"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-e99ad93eb4890a43",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. The ambassador welcomed visitors from the neighboring nation. The recovering patient was ambulatory and could cross the room unaided. The new water supply should ameliorate conditions in the village. The council proposed an amendment to the outdated rule.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The amoral character judged every choice only by its profit. The surgeon had to amputate the badly damaged limb. Her analytical approach uncovered the error in the argument. An annotation in the margin explained the unfamiliar reference.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "ambassador",
+      "index": 0,
+      "definition": "an official representative of a country in another country"
+    },
+    {
+      "word": "ambulatory",
+      "index": 0,
+      "definition": "able to walk or related to walking"
+    },
+    {
+      "word": "ameliorate",
+      "index": 0,
+      "definition": "to make a difficult or unpleasant condition better"
+    },
+    {
+      "word": "amendment",
+      "index": 0,
+      "definition": "a change or addition intended to improve a document or rule"
+    },
+    {
+      "word": "amoral",
+      "index": 0,
+      "definition": "not concerned with whether actions are morally right or wrong"
+    },
+    {
+      "word": "amputate",
+      "index": 0,
+      "definition": "to remove a body part by surgery"
+    },
+    {
+      "word": "analytical",
+      "index": 0,
+      "definition": "examining something carefully by separating it into parts"
+    },
+    {
+      "word": "annotation",
+      "index": 0,
+      "definition": "a note added to explain or comment on a text"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

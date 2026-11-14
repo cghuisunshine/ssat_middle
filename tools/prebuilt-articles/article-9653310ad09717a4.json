@@ -1,0 +1,57 @@
+{
+  "id": "article-9653310ad09717a4",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. The researchers hypothesize that temperature affects the result. The tower became an iconic feature of the city. Her idealism inspired the neighborhood improvement project. The young athlete finally met her sporting idol.",
+    "The remaining pages widened the discussion with additional observations. The betrayal was driven by an ignoble desire for profit. The program offered lessons to adults who were illiterate. The example helped illuminate the difficult idea. A simple diagram can illustrate the process clearly.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "hypothesize",
+      "index": 0,
+      "definition": "to propose an explanation that can be tested"
+    },
+    {
+      "word": "iconic",
+      "index": 0,
+      "definition": "widely recognized as a representative symbol"
+    },
+    {
+      "word": "idealism",
+      "index": 0,
+      "definition": "the pursuit of high standards or an imagined better world"
+    },
+    {
+      "word": "idol",
+      "index": 0,
+      "definition": "a person greatly admired or an object worshiped as a god"
+    },
+    {
+      "word": "ignoble",
+      "index": 0,
+      "definition": "dishonorable or lacking high principles"
+    },
+    {
+      "word": "illiterate",
+      "index": 0,
+      "definition": "unable to read and write"
+    },
+    {
+      "word": "illuminate",
+      "index": 0,
+      "definition": "to light up or make something easier to understand"
+    },
+    {
+      "word": "illustrate",
+      "index": 0,
+      "definition": "to explain with examples or provide pictures"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-5583439ff8efb653",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The group began by reading the following accounts without adding explanations of its own. The label used a generic name instead of a trade name. The class explored genetics through patterns of inherited traits. The guests maintained a genteel conversation throughout dinner. The expert confirmed that the painting was genuine.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Warmth and water encouraged germination of the seeds. A ghostly shape appeared in the mist. The film should not glamorize dangerous behavior. His glib answer did not address the serious concern.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "generic",
+      "index": 0,
+      "definition": "describing a whole class rather than a specific example or brand"
+    },
+    {
+      "word": "genetics",
+      "index": 0,
+      "definition": "the study of heredity and inherited characteristics"
+    },
+    {
+      "word": "genteel",
+      "index": 0,
+      "definition": "polite and refined in manner"
+    },
+    {
+      "word": "genuine",
+      "index": 0,
+      "definition": "real and not false or pretending"
+    },
+    {
+      "word": "germination",
+      "index": 0,
+      "definition": "the process in which a seed begins to grow"
+    },
+    {
+      "word": "ghostly",
+      "index": 0,
+      "definition": "resembling a ghost or seeming pale and eerie"
+    },
+    {
+      "word": "glamorize",
+      "index": 0,
+      "definition": "to make something appear more attractive or exciting than it is"
+    },
+    {
+      "word": "glib",
+      "index": 0,
+      "definition": "fluent and confident but lacking sincerity or thought"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

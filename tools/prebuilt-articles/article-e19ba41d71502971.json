@@ -1,0 +1,57 @@
+{
+  "id": "article-e19ba41d71502971",
+  "tier": "Core",
+  "topic": "Ideas, art & literature",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. The dark setting creates a fearful mood for the reader. The detective sought a motive that would explain the theft. The narrative follows the explorer's journey from the coast to the mountains. The plot describes the connected events that drive the story forward.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The protagonist faces the central conflict and changes by the story's end. The satire mocks wasteful officials to expose problems in government. The phrase \"as quiet as a mouse\" is a simile. The novel develops the theme that friendship requires trust.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "mood",
+      "index": 0,
+      "definition": "the atmosphere or feeling created by a work"
+    },
+    {
+      "word": "motive",
+      "index": 0,
+      "definition": "the reason behind an action"
+    },
+    {
+      "word": "narrative",
+      "index": 0,
+      "definition": "a spoken or written account of events"
+    },
+    {
+      "word": "plot",
+      "index": 0,
+      "definition": "the sequence of events in a story"
+    },
+    {
+      "word": "protagonist",
+      "index": 0,
+      "definition": "the central character in a story"
+    },
+    {
+      "word": "satire",
+      "index": 0,
+      "definition": "humor used to expose faults"
+    },
+    {
+      "word": "simile",
+      "index": 0,
+      "definition": "a comparison using like or as"
+    },
+    {
+      "word": "theme",
+      "index": 0,
+      "definition": "a central idea explored in a work"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

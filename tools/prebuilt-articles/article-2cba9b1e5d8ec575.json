@@ -1,0 +1,22 @@
+{
+  "id": "article-2cba9b1e5d8ec575",
+  "tier": "Core",
+  "topic": "Relationships & structure",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. The bridge's structure distributes weight across several strong supports.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer.",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "structure",
+      "index": 0,
+      "definition": "the arrangement of parts in a whole"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-5e92958e6fdd8ce7",
+  "tier": "Core",
+  "topic": "Manner, sound & sensation",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. Her zestful dancing showed energy and enjoyment from beginning to end. The engaging presentation kept even the youngest listeners attentive. The boisterous crowd cheered loudly and stamped its feet. The reserved student listened carefully but said little about herself.",
+    "A later section added further scenes for comparison. The usually cheerful class was subdued after hearing the sad news. Instead of remaining passive, the residents organized a meeting to seek change. The lake looked serene in the still morning air. He was livid when he discovered that someone had deliberately broken his model.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "zestful",
+      "index": 0,
+      "definition": "full of energy and enjoyment"
+    },
+    {
+      "word": "engaging",
+      "index": 0,
+      "definition": "interesting and able to hold attention"
+    },
+    {
+      "word": "boisterous",
+      "index": 0,
+      "definition": "noisy and full of energy"
+    },
+    {
+      "word": "reserved",
+      "index": 0,
+      "definition": "quiet and restrained about sharing feelings"
+    },
+    {
+      "word": "subdued",
+      "index": 0,
+      "definition": "quieter or less lively than usual"
+    },
+    {
+      "word": "passive",
+      "index": 0,
+      "definition": "accepting events without trying to influence them"
+    },
+    {
+      "word": "serene",
+      "index": 0,
+      "definition": "calm and free from disturbance"
+    },
+    {
+      "word": "livid",
+      "index": 0,
+      "definition": "extremely angry"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

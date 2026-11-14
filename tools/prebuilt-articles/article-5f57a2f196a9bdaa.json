@@ -1,0 +1,57 @@
+{
+  "id": "article-5f57a2f196a9bdaa",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The first section of the collection placed these observations side by side. Several kinds of frogs inhabit the marsh. The garden contains only plants native to the region. A plume of dust rose behind the truck. A dragonfly seemed to hover above the pond.",
+    "A later section added further scenes for comparison. Extreme heat can cause a metal rail to buckle. The torrential rain flooded the footpath within minutes. Water conservation helped the town through the dry summer. Repeated pumping caused the depletion of the underground water supply.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "inhabit",
+      "index": 0,
+      "definition": "to live in a place"
+    },
+    {
+      "word": "native",
+      "index": 0,
+      "definition": "originally occurring in a particular region"
+    },
+    {
+      "word": "plume",
+      "index": 0,
+      "definition": "a long cloud or stream shaped like a feather"
+    },
+    {
+      "word": "hover",
+      "index": 0,
+      "definition": "to remain suspended in the air above one place"
+    },
+    {
+      "word": "buckle",
+      "index": 0,
+      "definition": "to bend or give way under pressure"
+    },
+    {
+      "word": "torrential",
+      "index": 0,
+      "definition": "falling or flowing rapidly in very large amounts"
+    },
+    {
+      "word": "conservation",
+      "index": 0,
+      "definition": "the protection and careful use of natural resources"
+    },
+    {
+      "word": "depletion",
+      "index": 0,
+      "definition": "the reduction of a supply through use or loss"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

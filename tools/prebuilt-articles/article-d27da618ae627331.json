@@ -1,0 +1,57 @@
+{
+  "id": "article-d27da618ae627331",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. We were leery of the offer because it sounded impossible. The schedule allowed some leeway for unexpected delays. The documents established the legitimacy of the claim. The researcher studied changes in the language's lexicon.",
+    "The remaining pages widened the discussion with additional observations. She served as a liaison between the school and the museum. The editor checked the claim to avoid publishing libel. The plant developed a firm, ligneous stem. Fish were visible in the limpid stream.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "leery",
+      "index": 0,
+      "definition": "suspicious or cautious about something"
+    },
+    {
+      "word": "leeway",
+      "index": 0,
+      "definition": "freedom or extra room within limits"
+    },
+    {
+      "word": "legitimacy",
+      "index": 0,
+      "definition": "the quality of being lawful, justified, or accepted"
+    },
+    {
+      "word": "lexicon",
+      "index": 0,
+      "definition": "the vocabulary of a language or a dictionary"
+    },
+    {
+      "word": "liaison",
+      "index": 0,
+      "definition": "communication or cooperation connecting groups"
+    },
+    {
+      "word": "libel",
+      "index": 0,
+      "definition": "a published false statement that harms a person's reputation"
+    },
+    {
+      "word": "ligneous",
+      "index": 0,
+      "definition": "made of or resembling wood"
+    },
+    {
+      "word": "limpid",
+      "index": 0,
+      "definition": "clear and transparent"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

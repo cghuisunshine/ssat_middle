@@ -1,0 +1,57 @@
+{
+  "id": "article-9e82632e07ab52e7",
+  "tier": "Core",
+  "topic": "Reasoning & knowledge",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. We will analyze each part of the machine to learn how it works. Drivers should anticipate icy roads when temperatures fall below freezing. The inspector will assess the damage before estimating repair costs. Do not assume the door is locked without checking it.",
+    "Other records complicated that first impression and encouraged a closer reading. The younger students struggled to comprehend the complex instructions. From the wet pavement, we can conclude that it rained recently. She sat quietly to contemplate the consequences of her decision. From the footprints, the tracker could deduce which way the deer went.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "analyze",
+      "index": 0,
+      "definition": "to examine the parts of something closely"
+    },
+    {
+      "word": "anticipate",
+      "index": 0,
+      "definition": "to expect or prepare for in advance"
+    },
+    {
+      "word": "assess",
+      "index": 0,
+      "definition": "to judge the value or quality of"
+    },
+    {
+      "word": "assume",
+      "index": 0,
+      "definition": "to accept as true without proof"
+    },
+    {
+      "word": "comprehend",
+      "index": 0,
+      "definition": "to understand fully"
+    },
+    {
+      "word": "conclude",
+      "index": 0,
+      "definition": "to reach a judgment after considering facts"
+    },
+    {
+      "word": "contemplate",
+      "index": 0,
+      "definition": "to think deeply about"
+    },
+    {
+      "word": "deduce",
+      "index": 0,
+      "definition": "to reach a conclusion by reasoning"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

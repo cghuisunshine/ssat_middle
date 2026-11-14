@@ -1,0 +1,57 @@
+{
+  "id": "article-0ef07b4c6e88b452",
+  "tier": "Stretch",
+  "topic": "Powerful verbs",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. Repeated dishonesty can undermine trust between friends. Do not condescend to younger students by assuming they cannot understand. She hoped to emulate her mentor's patience and generosity. It would hurt his feelings to snub him when he offered a friendly greeting.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Fresh flowers adorn the tables at the celebration. The complicated instructions would bemuse even an experienced player. The maze of unfamiliar streets can bewilder a first-time visitor. The pirate began to brandish his sword above his head.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "undermine",
+      "index": 0,
+      "definition": "to weaken gradually or secretly"
+    },
+    {
+      "word": "condescend",
+      "index": 0,
+      "definition": "to behave as if others are less worthy or intelligent"
+    },
+    {
+      "word": "emulate",
+      "index": 0,
+      "definition": "to try to match someone admired by following their example"
+    },
+    {
+      "word": "snub",
+      "index": 0,
+      "definition": "to ignore or reject someone deliberately and rudely"
+    },
+    {
+      "word": "adorn",
+      "index": 0,
+      "definition": "to decorate or make something more attractive"
+    },
+    {
+      "word": "bemuse",
+      "index": 0,
+      "definition": "to puzzle or confuse someone"
+    },
+    {
+      "word": "bewilder",
+      "index": 0,
+      "definition": "to make someone very confused"
+    },
+    {
+      "word": "brandish",
+      "index": 0,
+      "definition": "to wave or display something in a threatening or excited way"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

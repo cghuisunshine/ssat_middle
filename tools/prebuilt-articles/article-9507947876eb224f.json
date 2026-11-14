@@ -1,0 +1,57 @@
+{
+  "id": "article-9507947876eb224f",
+  "tier": "Core",
+  "topic": "Useful academic adverbs & verbs",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The first section of the collection placed these observations side by side. The tower is approximately twenty meters tall, though we have not measured it exactly. The bridge was closed; consequently, we had to take a longer route. He deliberately left the gate open so the visitors could enter. After many failed attempts, they eventually repaired the engine.",
+    "A later section added further scenes for comparison. The busy train runs frequently, arriving every ten minutes. The sky gradually brightened as the sun rose. The narrow stream was merely ankle-deep, so we crossed easily. The journey was difficult; nevertheless, we decided to continue.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "approximately",
+      "index": 0,
+      "definition": "close to an amount but not exactly"
+    },
+    {
+      "word": "consequently",
+      "index": 0,
+      "definition": "as a result of something"
+    },
+    {
+      "word": "deliberately",
+      "index": 0,
+      "definition": "in an intentional way"
+    },
+    {
+      "word": "eventually",
+      "index": 0,
+      "definition": "in the end after some time"
+    },
+    {
+      "word": "frequently",
+      "index": 0,
+      "definition": "many times or often"
+    },
+    {
+      "word": "gradually",
+      "index": 0,
+      "definition": "slowly in small steps"
+    },
+    {
+      "word": "merely",
+      "index": 0,
+      "definition": "only and nothing more"
+    },
+    {
+      "word": "nevertheless",
+      "index": 0,
+      "definition": "despite what has just been said"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

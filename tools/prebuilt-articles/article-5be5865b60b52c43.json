@@ -1,0 +1,57 @@
+{
+  "id": "article-5be5865b60b52c43",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. The frolicsome puppies chased one another around the garden. Accurate observation is fundamental to the investigation. The sailors began to furl the sails as they entered port. The plow left a straight furrow across the field.",
+    "Other records complicated that first impression and encouraged a closer reading. The excited children began to gabble about the surprising news. A small window was set in the cottage's gable. No one could gainsay the evidence before the committee. He had the gall to demand thanks after causing the trouble.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "frolicsome",
+      "index": 0,
+      "definition": "lively and playfully energetic"
+    },
+    {
+      "word": "fundamental",
+      "index": 0,
+      "definition": "forming an essential base or principle"
+    },
+    {
+      "word": "furl",
+      "index": 0,
+      "definition": "to roll or fold something neatly for storage"
+    },
+    {
+      "word": "furrow",
+      "index": 0,
+      "definition": "a long, narrow groove in a surface"
+    },
+    {
+      "word": "gabble",
+      "index": 0,
+      "definition": "to speak quickly and unclearly"
+    },
+    {
+      "word": "gable",
+      "index": 0,
+      "definition": "the triangular upper part of a wall beneath a sloping roof"
+    },
+    {
+      "word": "gainsay",
+      "index": 0,
+      "definition": "to deny or contradict something"
+    },
+    {
+      "word": "gall",
+      "index": 0,
+      "definition": "bold behavior that is offensively rude"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

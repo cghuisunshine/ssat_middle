@@ -1,0 +1,57 @@
+{
+  "id": "article-c22b6913c540322e",
+  "tier": "Core",
+  "topic": "Manner, sound & sensation",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. The cat made a stealthy approach, moving quietly behind the bird. The sullen child sat silently and refused to join the game. The tranquil garden offered a quiet place to rest. The turbulent river tossed the boat from side to side.",
+    "The remaining pages widened the discussion with additional observations. The decision was unanimous: every member voted in favor. Her vehement protest showed the strength of her opposition. The vigilant guard watched carefully for any sign of trouble. The vocal supporters made their opinions known at every meeting.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "stealthy",
+      "index": 0,
+      "definition": "moving secretly to avoid being noticed"
+    },
+    {
+      "word": "sullen",
+      "index": 0,
+      "definition": "silently bad-tempered"
+    },
+    {
+      "word": "tranquil",
+      "index": 0,
+      "definition": "quiet and free from disturbance"
+    },
+    {
+      "word": "turbulent",
+      "index": 0,
+      "definition": "moving violently or marked by disorder"
+    },
+    {
+      "word": "unanimous",
+      "index": 0,
+      "definition": "agreed to by everyone involved"
+    },
+    {
+      "word": "vehement",
+      "index": 0,
+      "definition": "showing intense force or feeling"
+    },
+    {
+      "word": "vigilant",
+      "index": 0,
+      "definition": "watching carefully for danger"
+    },
+    {
+      "word": "vocal",
+      "index": 0,
+      "definition": "openly expressing opinions"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

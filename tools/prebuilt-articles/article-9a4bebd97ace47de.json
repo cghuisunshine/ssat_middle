@@ -1,0 +1,57 @@
+{
+  "id": "article-9a4bebd97ace47de",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The group began by reading the following accounts without adding explanations of its own. The tipsy guest wisely called a taxi instead of driving. The portrait shows a woman with titian hair. The newspaper selected a topical issue for its weekly debate. The heavy rain turned the narrow creek into a torrent.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Few plants survived the torrid summer without water. The injured climber endured a torturous journey down the mountain. When she exposed the flaw in his argument, he smiled and said touché. Sunlight passed through the stone tracery of the cathedral window.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "tipsy",
+      "index": 0,
+      "definition": "slightly drunk"
+    },
+    {
+      "word": "titian",
+      "index": 0,
+      "definition": "having a reddish-gold or auburn color"
+    },
+    {
+      "word": "topical",
+      "index": 0,
+      "definition": "relating to subjects of current interest"
+    },
+    {
+      "word": "torrent",
+      "index": 0,
+      "definition": "a powerful rushing stream or large sudden flow"
+    },
+    {
+      "word": "torrid",
+      "index": 0,
+      "definition": "very hot and dry"
+    },
+    {
+      "word": "torturous",
+      "index": 0,
+      "definition": "causing extreme pain or suffering"
+    },
+    {
+      "word": "touché",
+      "index": 0,
+      "definition": "an acknowledgment that someone has made a clever or effective reply"
+    },
+    {
+      "word": "tracery",
+      "index": 0,
+      "definition": "decorative lines forming an intricate pattern, especially in a window"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

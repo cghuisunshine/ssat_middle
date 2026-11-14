@@ -1,0 +1,57 @@
+{
+  "id": "article-56a75f43d7f749fd",
+  "tier": "Foundation",
+  "topic": "Feelings & reactions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The group began by reading the following accounts without adding explanations of its own. The curious child kept asking how the telescope worked. We were delighted when our missing cat returned home. She was disappointed that rain had canceled the match. He felt embarrassed after calling his teacher by the wrong name.",
+    "It then considered a second group of accounts, looking for both similarities and differences. She was envious of the prize her rival had won. The excited fans could hardly wait for the concert to begin. The owner was furious when someone deliberately damaged his garden. We were grateful to the stranger who helped change our tire.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "curious",
+      "index": 0,
+      "definition": "wanting to learn or know more"
+    },
+    {
+      "word": "delighted",
+      "index": 0,
+      "definition": "very pleased"
+    },
+    {
+      "word": "disappointed",
+      "index": 0,
+      "definition": "sad because a hope was not fulfilled"
+    },
+    {
+      "word": "embarrassed",
+      "index": 0,
+      "definition": "feeling self-conscious or uncomfortable"
+    },
+    {
+      "word": "envious",
+      "index": 0,
+      "definition": "wanting something another person has"
+    },
+    {
+      "word": "excited",
+      "index": 0,
+      "definition": "filled with eager interest"
+    },
+    {
+      "word": "furious",
+      "index": 0,
+      "definition": "extremely angry"
+    },
+    {
+      "word": "grateful",
+      "index": 0,
+      "definition": "feeling or showing thanks"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

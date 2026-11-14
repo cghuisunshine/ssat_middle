@@ -1,0 +1,57 @@
+{
+  "id": "article-89e478e75c1f2a3c",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The lost climbers made a desperate attempt to signal the helicopter. They detest the cruelty shown by the story's villain. She gave a dignified response to the unfair criticism. We had to dilute the strong solution with water.",
+    "A later section added further scenes for comparison. The group chose to disavow the false statement. The actor's disguise made him difficult to recognize. The museum will display the restored painting next week. The disputed boundary appeared differently on the two maps.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "desperate",
+      "index": 0,
+      "definition": "having little hope and willing to take serious risks"
+    },
+    {
+      "word": "detest",
+      "index": 0,
+      "definition": "to dislike something intensely"
+    },
+    {
+      "word": "dignified",
+      "index": 0,
+      "definition": "showing calm seriousness and self-respect"
+    },
+    {
+      "word": "dilute",
+      "index": 0,
+      "definition": "to make a liquid or effect weaker by adding something"
+    },
+    {
+      "word": "disavow",
+      "index": 0,
+      "definition": "to deny responsibility for or connection with something"
+    },
+    {
+      "word": "disguise",
+      "index": 0,
+      "definition": "a changed appearance intended to hide identity or nature"
+    },
+    {
+      "word": "display",
+      "index": 0,
+      "definition": "to show something so that it can be seen"
+    },
+    {
+      "word": "disputed",
+      "index": 0,
+      "definition": "questioned or argued about by different sides"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

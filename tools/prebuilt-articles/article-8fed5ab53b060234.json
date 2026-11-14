@@ -1,0 +1,57 @@
+{
+  "id": "article-8fed5ab53b060234",
+  "tier": "Core",
+  "topic": "Emotions & attitudes",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. We were apprehensive about crossing the damaged bridge. The bewildered visitor stared at the contradictory directions. The dejected players walked slowly home after their defeat. She was elated when she learned that her story would be published.",
+    "A later section added further scenes for comparison. He was indifferent to the result and did not care who won. The old photograph left her feeling melancholy about lost friendships. Hearing the school song made the former student nostalgic for childhood. The reluctant swimmer hesitated at the edge of the cold pool.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "apprehensive",
+      "index": 0,
+      "definition": "worried that something bad may happen"
+    },
+    {
+      "word": "bewildered",
+      "index": 0,
+      "definition": "deeply confused and unsure"
+    },
+    {
+      "word": "dejected",
+      "index": 0,
+      "definition": "sad and discouraged"
+    },
+    {
+      "word": "elated",
+      "index": 0,
+      "definition": "extremely happy about something"
+    },
+    {
+      "word": "indifferent",
+      "index": 0,
+      "definition": "showing no interest or preference"
+    },
+    {
+      "word": "melancholy",
+      "index": 0,
+      "definition": "quietly and thoughtfully sad"
+    },
+    {
+      "word": "nostalgic",
+      "index": 0,
+      "definition": "feeling affection for a past time"
+    },
+    {
+      "word": "reluctant",
+      "index": 0,
+      "definition": "unwilling or hesitant to act"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

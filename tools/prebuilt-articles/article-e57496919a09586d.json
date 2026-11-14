@@ -1,0 +1,57 @@
+{
+  "id": "article-e57496919a09586d",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The first section of the collection placed these observations side by side. The coach warned the players never to taunt their opponents. These plants thrive in moist soil and partial shade. The locked gate helped thwart the thieves' escape. The tiresome delay made everyone impatient.",
+    "A later section added further scenes for comparison. She gave him a flower as a token of gratitude. Memories of the accident continued to torment him. The translucent curtain softened the bright sunlight. Our ultimate goal is to restore the damaged wetland.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "taunt",
+      "index": 0,
+      "definition": "to provoke or hurt someone with mocking words"
+    },
+    {
+      "word": "thrive",
+      "index": 0,
+      "definition": "to grow strongly or do very well"
+    },
+    {
+      "word": "thwart",
+      "index": 0,
+      "definition": "to prevent someone from achieving a goal"
+    },
+    {
+      "word": "tiresome",
+      "index": 0,
+      "definition": "causing boredom or annoyance"
+    },
+    {
+      "word": "token",
+      "index": 0,
+      "definition": "an object that represents a feeling, fact, or value"
+    },
+    {
+      "word": "torment",
+      "index": 0,
+      "definition": "to cause severe mental or physical suffering"
+    },
+    {
+      "word": "translucent",
+      "index": 0,
+      "definition": "allowing light through without showing clear images"
+    },
+    {
+      "word": "ultimate",
+      "index": 0,
+      "definition": "final or most important"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-1d5c63983e4aca62",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. A succession of storms delayed the harvest. Her succinct summary covered the entire debate in three sentences. The stranded travelers found succor at a nearby farm. Smoke can cause a person to suffocate in an enclosed room.",
+    "A later section added further scenes for comparison. The suggestible child believed every rumor her classmates repeated. The guests enjoyed a sumptuous feast in the palace. The earthquake seemed powerful enough to sunder the mountain. The drawer held pencils, buttons, and sundry small tools.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "succession",
+      "index": 0,
+      "definition": "a series of things following one another"
+    },
+    {
+      "word": "succinct",
+      "index": 0,
+      "definition": "expressed clearly in few words"
+    },
+    {
+      "word": "succor",
+      "index": 0,
+      "definition": "help given to someone in danger or distress"
+    },
+    {
+      "word": "suffocate",
+      "index": 0,
+      "definition": "to be unable to breathe or to prevent breathing"
+    },
+    {
+      "word": "suggestible",
+      "index": 0,
+      "definition": "easily influenced by other people's ideas"
+    },
+    {
+      "word": "sumptuous",
+      "index": 0,
+      "definition": "rich, expensive, and luxurious"
+    },
+    {
+      "word": "sunder",
+      "index": 0,
+      "definition": "to split or separate forcibly"
+    },
+    {
+      "word": "sundry",
+      "index": 0,
+      "definition": "of several different kinds"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

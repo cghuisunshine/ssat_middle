@@ -1,0 +1,57 @@
+{
+  "id": "article-aa7dcb52166f69b2",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The group began by reading the following accounts without adding explanations of its own. The rule had a preclusive effect on late applications. The child's musical precocity amazed her teachers. The evidence challenged his preconception about the neighborhood. She has a predilection for historical novels.",
+    "It then considered a second group of accounts, looking for both similarities and differences. His predisposition toward caution made him check every detail. The predominance of blue gave the painting a cool mood. A clear explanation may preempt unnecessary complaints. The company will prefabricate the wall panels at its factory.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "preclusive",
+      "index": 0,
+      "definition": "preventing something from happening or being considered"
+    },
+    {
+      "word": "precocity",
+      "index": 0,
+      "definition": "the early development of unusual ability or maturity"
+    },
+    {
+      "word": "preconception",
+      "index": 0,
+      "definition": "an opinion formed before enough information is available"
+    },
+    {
+      "word": "predilection",
+      "index": 0,
+      "definition": "a strong liking or preference"
+    },
+    {
+      "word": "predisposition",
+      "index": 0,
+      "definition": "a tendency to behave or develop in a particular way"
+    },
+    {
+      "word": "predominance",
+      "index": 0,
+      "definition": "the state of being greater in influence, amount, or importance"
+    },
+    {
+      "word": "preempt",
+      "index": 0,
+      "definition": "to act before another person or prevent an expected action"
+    },
+    {
+      "word": "prefabricate",
+      "index": 0,
+      "definition": "to manufacture sections before assembling them at a site"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-705d4a57086f7133",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. The visitors waited in the theater's spacious foyer. The family opened a franchise of the popular bakery. Visitors had time to fraternize after the formal meeting. The investigation revealed the fraudulence of the sales claims.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The train carried freight to the coastal warehouses. A freshet swept branches down the valley stream. The fretful child could not settle down to sleep. A line of trees marked the fringe of the field.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "foyer",
+      "index": 0,
+      "definition": "an entrance hall in a building"
+    },
+    {
+      "word": "franchise",
+      "index": 0,
+      "definition": "permission to operate a business using another company's name and system"
+    },
+    {
+      "word": "fraternize",
+      "index": 0,
+      "definition": "to associate with others in a friendly way"
+    },
+    {
+      "word": "fraudulence",
+      "index": 0,
+      "definition": "the quality of being deliberately deceptive"
+    },
+    {
+      "word": "freight",
+      "index": 0,
+      "definition": "goods transported by ship, train, truck, or aircraft"
+    },
+    {
+      "word": "freshet",
+      "index": 0,
+      "definition": "a sudden rise in a stream caused by rain or melting snow"
+    },
+    {
+      "word": "fretful",
+      "index": 0,
+      "definition": "restless, worried, and easily upset"
+    },
+    {
+      "word": "fringe",
+      "index": 0,
+      "definition": "the outer edge or border of something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

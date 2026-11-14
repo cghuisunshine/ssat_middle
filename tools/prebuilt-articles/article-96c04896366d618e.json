@@ -1,0 +1,57 @@
+{
+  "id": "article-96c04896366d618e",
+  "tier": "Core",
+  "topic": "Change & progress",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The first section of the collection placed these observations side by side. Desert animals must adapt to extreme heat and little water. We need to alter the plan because the original route is blocked. A second battery will augment the amount of power available. The machinery will cease operating when the power is disconnected.",
+    "A later section added further scenes for comparison. The ceremony will commence as soon as all the guests are seated. Attendance began to decline as fewer people bought tickets. The abandoned building will deteriorate without regular repairs. With practice, a student's writing skills can develop over time.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "adapt",
+      "index": 0,
+      "definition": "to change to suit new conditions"
+    },
+    {
+      "word": "alter",
+      "index": 0,
+      "definition": "to make something different"
+    },
+    {
+      "word": "augment",
+      "index": 0,
+      "definition": "to increase in size or amount"
+    },
+    {
+      "word": "cease",
+      "index": 0,
+      "definition": "to stop happening or doing"
+    },
+    {
+      "word": "commence",
+      "index": 0,
+      "definition": "to begin"
+    },
+    {
+      "word": "decline",
+      "index": 0,
+      "definition": "to become smaller or weaker"
+    },
+    {
+      "word": "deteriorate",
+      "index": 0,
+      "definition": "to become worse in condition"
+    },
+    {
+      "word": "develop",
+      "index": 0,
+      "definition": "to grow or become more advanced"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

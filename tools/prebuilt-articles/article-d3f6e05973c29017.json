@@ -1,0 +1,57 @@
+{
+  "id": "article-d3f6e05973c29017",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. A period of austerity forced the town to postpone expensive projects. The guide provided an authoritative account of the region's history. The fable warns that avarice can destroy a friendship. Her interest in aviation began during a visit to an air museum.",
+    "It then considered a second group of accounts, looking for both similarities and differences. White clouds crossed the azure sky above the lake. She earned her baccalaureate after four years of university study. The children continued to badger their brother for another story. The baffled detective studied the unexpected clue again.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "austerity",
+      "index": 0,
+      "definition": "strict simplicity or a policy of sharply reduced spending"
+    },
+    {
+      "word": "authoritative",
+      "index": 0,
+      "definition": "showing reliable knowledge or recognized authority"
+    },
+    {
+      "word": "avarice",
+      "index": 0,
+      "definition": "an extreme desire to gain and keep wealth"
+    },
+    {
+      "word": "aviation",
+      "index": 0,
+      "definition": "the activity or science of flying aircraft"
+    },
+    {
+      "word": "azure",
+      "index": 0,
+      "definition": "bright blue like a clear sky"
+    },
+    {
+      "word": "baccalaureate",
+      "index": 0,
+      "definition": "an academic degree awarded after an undergraduate course"
+    },
+    {
+      "word": "badger",
+      "index": 0,
+      "definition": "to bother someone repeatedly with requests or criticism"
+    },
+    {
+      "word": "baffled",
+      "index": 0,
+      "definition": "completely confused and unable to understand something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

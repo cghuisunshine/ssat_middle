@@ -1,0 +1,57 @@
+{
+  "id": "article-795707150c42b899",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The sprightly dancer leaped lightly across the stage. The scientist exposed the spurious claim with a simple experiment. The children began to squabble over who would sit by the window. A stabilizer kept the camera level as the boat rocked.",
+    "The remaining pages widened the discussion with additional observations. The town's economic stagnancy ended when new businesses opened. The staid professor surprised everyone by joining the dance. Our stalwart volunteers returned every weekend to help. The candidate explained her stance on protecting local forests.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "sprightly",
+      "index": 0,
+      "definition": "lively and energetic"
+    },
+    {
+      "word": "spurious",
+      "index": 0,
+      "definition": "false or not genuine"
+    },
+    {
+      "word": "squabble",
+      "index": 0,
+      "definition": "to argue noisily about a small matter"
+    },
+    {
+      "word": "stabilizer",
+      "index": 0,
+      "definition": "something that helps keep an object or situation steady"
+    },
+    {
+      "word": "stagnancy",
+      "index": 0,
+      "definition": "a state of little movement or development"
+    },
+    {
+      "word": "staid",
+      "index": 0,
+      "definition": "serious and restrained in behavior or appearance"
+    },
+    {
+      "word": "stalwart",
+      "index": 0,
+      "definition": "strong and dependable in support"
+    },
+    {
+      "word": "stance",
+      "index": 0,
+      "definition": "a stated attitude or position on an issue"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

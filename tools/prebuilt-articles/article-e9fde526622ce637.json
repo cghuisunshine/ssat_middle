@@ -1,0 +1,57 @@
+{
+  "id": "article-e9fde526622ce637",
+  "tier": "Core",
+  "topic": "Emotions & attitudes",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. The empty meeting hall revealed widespread apathy about the proposal. His strong aversion to heights kept him away from the cliff edge. She showed contempt for the dishonest scheme by refusing to take part. The rescuers' arrival replaced our despair with hope.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Her own experience of loss helped her show empathy toward the grieving child. The volunteers began the project with eagerness and enthusiasm. We expressed our gratitude to the neighbors who helped us move. The family felt deep grief after losing their beloved dog.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "apathy",
+      "index": 0,
+      "definition": "a lack of interest or concern"
+    },
+    {
+      "word": "aversion",
+      "index": 0,
+      "definition": "a strong dislike of something"
+    },
+    {
+      "word": "contempt",
+      "index": 0,
+      "definition": "a feeling that someone is unworthy of respect"
+    },
+    {
+      "word": "despair",
+      "index": 0,
+      "definition": "the complete loss of hope"
+    },
+    {
+      "word": "empathy",
+      "index": 0,
+      "definition": "the ability to understand others' feelings"
+    },
+    {
+      "word": "enthusiasm",
+      "index": 0,
+      "definition": "strong and eager interest"
+    },
+    {
+      "word": "gratitude",
+      "index": 0,
+      "definition": "a feeling of thankfulness"
+    },
+    {
+      "word": "grief",
+      "index": 0,
+      "definition": "deep sorrow especially after a loss"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

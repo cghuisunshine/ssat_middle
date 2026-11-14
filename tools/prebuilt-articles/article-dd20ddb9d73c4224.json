@@ -1,0 +1,57 @@
+{
+  "id": "article-dd20ddb9d73c4224",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The famished hikers quickly finished their evening meal. A fierce wind drove the waves against the shore. The hikers cleaned their filthy boots before entering. The wilted plant's leaves looked flaccid.",
+    "Other records complicated that first impression and encouraged a closer reading. A flexible schedule allowed time for the unexpected visit. Crossing the flooded road would be foolhardy. We were fortunate to find shelter before the storm. She gave a frank account of the experiment's failure.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "famished",
+      "index": 0,
+      "definition": "extremely hungry"
+    },
+    {
+      "word": "fierce",
+      "index": 0,
+      "definition": "very forceful, aggressive, or intense"
+    },
+    {
+      "word": "filthy",
+      "index": 0,
+      "definition": "extremely dirty"
+    },
+    {
+      "word": "flaccid",
+      "index": 0,
+      "definition": "soft, limp, and lacking firmness"
+    },
+    {
+      "word": "flexible",
+      "index": 0,
+      "definition": "able to bend or adapt without breaking"
+    },
+    {
+      "word": "foolhardy",
+      "index": 0,
+      "definition": "taking risks without sensible caution"
+    },
+    {
+      "word": "fortunate",
+      "index": 0,
+      "definition": "having good luck or favorable circumstances"
+    },
+    {
+      "word": "frank",
+      "index": 0,
+      "definition": "honest and direct in speech"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

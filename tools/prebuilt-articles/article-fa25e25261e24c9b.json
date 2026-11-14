@@ -1,0 +1,57 @@
+{
+  "id": "article-fa25e25261e24c9b",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. The gallant rescuer entered the dangerous building. The gander followed the rest of the flock toward the pond. The gangly puppy had not yet grown into its long legs. We squeezed through a gap in the fence.",
+    "Other records complicated that first impression and encouraged a closer reading. The visitors began to gape at the enormous sculpture. A poor connection can garble the speaker's words. Rain poured from the mouth of the stone gargoyle. The performance helped the young actor garner praise.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "gallant",
+      "index": 0,
+      "definition": "brave and noble in conduct"
+    },
+    {
+      "word": "gander",
+      "index": 0,
+      "definition": "an adult male goose"
+    },
+    {
+      "word": "gangly",
+      "index": 0,
+      "definition": "tall, thin, and awkward in movement"
+    },
+    {
+      "word": "gap",
+      "index": 0,
+      "definition": "an opening or an interval between things"
+    },
+    {
+      "word": "gape",
+      "index": 0,
+      "definition": "to stare with one's mouth open in surprise"
+    },
+    {
+      "word": "garble",
+      "index": 0,
+      "definition": "to mix up a message so that it becomes unclear"
+    },
+    {
+      "word": "gargoyle",
+      "index": 0,
+      "definition": "a carved figure, often a grotesque creature, used on a building"
+    },
+    {
+      "word": "garner",
+      "index": 0,
+      "definition": "to gather or earn something valuable"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

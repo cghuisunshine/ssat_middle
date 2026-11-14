@@ -1,0 +1,57 @@
+{
+  "id": "article-72ed2b87637faf65",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The first section of the collection placed these observations side by side. The miser refused to replace his broken chair. The modest winner thanked everyone who had helped her. The surprising news left the audience mute. The unexplained disappearance continued to mystify the investigators.",
+    "A later section added further scenes for comparison. The guide helped us navigate the narrow channels. His noncommittal reply revealed little about his decision. The passage described a notorious jewel thief. The workers avoided breathing the noxious fumes.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "miser",
+      "index": 0,
+      "definition": "a person who hoards money and avoids spending it"
+    },
+    {
+      "word": "modest",
+      "index": 0,
+      "definition": "not boasting about one's abilities or achievements"
+    },
+    {
+      "word": "mute",
+      "index": 0,
+      "definition": "silent or unable to speak"
+    },
+    {
+      "word": "mystify",
+      "index": 0,
+      "definition": "to confuse someone by being difficult to explain"
+    },
+    {
+      "word": "navigate",
+      "index": 0,
+      "definition": "to find or direct a route through a place"
+    },
+    {
+      "word": "noncommittal",
+      "index": 0,
+      "definition": "avoiding a definite opinion or promise"
+    },
+    {
+      "word": "notorious",
+      "index": 0,
+      "definition": "well known for something bad"
+    },
+    {
+      "word": "noxious",
+      "index": 0,
+      "definition": "harmful or poisonous"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

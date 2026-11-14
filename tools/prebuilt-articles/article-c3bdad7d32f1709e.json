@@ -1,0 +1,57 @@
+{
+  "id": "article-c3bdad7d32f1709e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. The museum displayed bones of an extinct animal. The plain meal contrasted with the extravagance of the decorations. The interview explored another facet of her work. The facile explanation ignored the problem's real complexity.",
+    "A later section added further scenes for comparison. The farmer left the field fallow for a season. The story described a fantastical city above the clouds. The farcical misunderstanding caused everyone to laugh. The farsighted decision preserved land for future parks.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "extinct",
+      "index": 0,
+      "definition": "no longer existing, especially of a species"
+    },
+    {
+      "word": "extravagance",
+      "index": 0,
+      "definition": "excessive spending or unnecessary luxury"
+    },
+    {
+      "word": "facet",
+      "index": 0,
+      "definition": "one distinct part or aspect of something"
+    },
+    {
+      "word": "facile",
+      "index": 0,
+      "definition": "seeming easy or confident but lacking depth"
+    },
+    {
+      "word": "fallow",
+      "index": 0,
+      "definition": "left unplanted for a period to restore fertility"
+    },
+    {
+      "word": "fantastical",
+      "index": 0,
+      "definition": "strange and imaginative rather than realistic"
+    },
+    {
+      "word": "farcical",
+      "index": 0,
+      "definition": "so absurd or exaggerated as to be ridiculous"
+    },
+    {
+      "word": "farsighted",
+      "index": 0,
+      "definition": "able to plan wisely for future needs"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

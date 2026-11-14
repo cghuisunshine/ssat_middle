@@ -1,0 +1,57 @@
+{
+  "id": "article-49c5017462e731ef",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. The final stanza repeats the poem's opening image. The young actor rose to stardom after one successful film. The church steeple was visible above the village rooftops. The laboratory uses heat to sterilize its glass equipment.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Her sterling service earned the community's respect. The campaign challenged the stigma surrounding mental illness. The teacher used a puzzle to stimulate discussion. The sudden flash was the stimulus that made the animal turn.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "stanza",
+      "index": 0,
+      "definition": "a group of lines forming a section of a poem"
+    },
+    {
+      "word": "stardom",
+      "index": 0,
+      "definition": "the state of being a famous performer"
+    },
+    {
+      "word": "steeple",
+      "index": 0,
+      "definition": "a tall pointed tower on a building, especially a church"
+    },
+    {
+      "word": "sterilize",
+      "index": 0,
+      "definition": "to make something free of living germs"
+    },
+    {
+      "word": "sterling",
+      "index": 0,
+      "definition": "of excellent quality or character"
+    },
+    {
+      "word": "stigma",
+      "index": 0,
+      "definition": "a mark of shame or social disapproval attached to something"
+    },
+    {
+      "word": "stimulate",
+      "index": 0,
+      "definition": "to encourage activity or development"
+    },
+    {
+      "word": "stimulus",
+      "index": 0,
+      "definition": "something that causes a response or encourages activity"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,42 @@
+{
+  "id": "article-d00bcb5076aaecdc",
+  "tier": "Stretch",
+  "topic": "Literary & academic distinctions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The whimsical illustration showed a rabbit sailing in a teacup. The misattribution gave the poet credit for a line written by someone else. The pedant interrupted the story to correct a tiny error in the date.",
+    "Other records complicated that first impression and encouraged a closer reading. The writer chose to cloister herself in a quiet cabin until the draft was finished. The old tale says the queen would bid her guards open the gate.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "whimsical",
+      "index": 0,
+      "definition": "playful and unusual in an imaginative way"
+    },
+    {
+      "word": "misattribution",
+      "index": 0,
+      "definition": "the mistaken crediting of words or work to the wrong source"
+    },
+    {
+      "word": "pedant",
+      "index": 0,
+      "definition": "a person who places excessive importance on minor rules or details"
+    },
+    {
+      "word": "cloister",
+      "index": 0,
+      "definition": "to shut away from ordinary social contact"
+    },
+    {
+      "word": "bid",
+      "index": 0,
+      "definition": "to tell or command someone to do something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

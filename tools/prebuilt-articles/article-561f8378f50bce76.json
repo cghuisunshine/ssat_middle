@@ -1,0 +1,42 @@
+{
+  "id": "article-561f8378f50bce76",
+  "tier": "Stretch",
+  "topic": "Powerful verbs",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The group began by reading the following accounts without adding explanations of its own. With no supplies remaining, the defenders had to capitulate. A new footpath let walkers circumvent the flooded section of trail. Time and rain can efface the lettering on an old stone.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The poem seeks to exalt the courage of ordinary workers. The video evidence will exonerate the student accused of taking the bag.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "capitulate",
+      "index": 0,
+      "definition": "to stop resisting and accept an opponent's demands"
+    },
+    {
+      "word": "circumvent",
+      "index": 0,
+      "definition": "to find a way around a rule or obstacle"
+    },
+    {
+      "word": "efface",
+      "index": 0,
+      "definition": "to erase or remove a mark or trace"
+    },
+    {
+      "word": "exalt",
+      "index": 0,
+      "definition": "to praise highly or raise in rank"
+    },
+    {
+      "word": "exonerate",
+      "index": 0,
+      "definition": "to clear someone of blame or wrongdoing"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

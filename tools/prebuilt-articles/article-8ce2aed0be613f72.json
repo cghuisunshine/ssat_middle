@@ -1,0 +1,57 @@
+{
+  "id": "article-8ce2aed0be613f72",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "Several records provided a starting point for the discussion. Her disinclination to argue kept the discussion brief. Rain and empty streets gave the town a dismal appearance. To our dismay, the last train had already left. The dismayed hikers discovered that the bridge was gone.",
+    "Other records complicated that first impression and encouraged a closer reading. A dispassionate review considered evidence from both sides. The village dispensary received a shipment of essential supplies. The student received a dispensation to submit the work late. Her cheerful disposition made difficult days more pleasant.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "disinclination",
+      "index": 0,
+      "definition": "a lack of desire or willingness to do something"
+    },
+    {
+      "word": "dismal",
+      "index": 0,
+      "definition": "gloomy, depressing, or very poor"
+    },
+    {
+      "word": "dismay",
+      "index": 0,
+      "definition": "distress caused by an unexpected difficulty"
+    },
+    {
+      "word": "dismayed",
+      "index": 0,
+      "definition": "upset or discouraged by an unwelcome surprise"
+    },
+    {
+      "word": "dispassionate",
+      "index": 0,
+      "definition": "judging fairly without strong personal emotion"
+    },
+    {
+      "word": "dispensary",
+      "index": 0,
+      "definition": "a place where medicines or medical supplies are distributed"
+    },
+    {
+      "word": "dispensation",
+      "index": 0,
+      "definition": "official permission to be excused from a rule"
+    },
+    {
+      "word": "disposition",
+      "index": 0,
+      "definition": "a person's usual mood or character"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

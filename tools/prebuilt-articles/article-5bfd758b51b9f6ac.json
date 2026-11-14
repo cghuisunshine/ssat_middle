@@ -1,0 +1,57 @@
+{
+  "id": "article-5bfd758b51b9f6ac",
+  "tier": "Core",
+  "topic": "Relationships & structure",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. Our classroom is adjacent to the library, sharing a common wall. The teams meet on alternate Saturdays, with one Saturday off between meetings. The garden contains a diverse collection of plants from many climates. Two fifty-cent coins are equivalent in value to one dollar.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The external walls face the street rather than the rooms inside. The independent researcher worked without financial support from any company. The mechanic inspected the internal parts hidden inside the engine. Their friendship was built on mutual respect and trust.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "adjacent",
+      "index": 0,
+      "definition": "next to or sharing a boundary"
+    },
+    {
+      "word": "alternate",
+      "index": 0,
+      "definition": "occurring every other time or in turns"
+    },
+    {
+      "word": "diverse",
+      "index": 0,
+      "definition": "including a variety of different kinds"
+    },
+    {
+      "word": "equivalent",
+      "index": 0,
+      "definition": "equal in value or meaning"
+    },
+    {
+      "word": "external",
+      "index": 0,
+      "definition": "on or relating to the outside"
+    },
+    {
+      "word": "independent",
+      "index": 0,
+      "definition": "not relying on another for support"
+    },
+    {
+      "word": "internal",
+      "index": 0,
+      "definition": "on or relating to the inside"
+    },
+    {
+      "word": "mutual",
+      "index": 0,
+      "definition": "shared by both or all involved"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

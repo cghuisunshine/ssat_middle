@@ -1,0 +1,57 @@
+{
+  "id": "article-13164f3eadd931cb",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. The sailor carried a small stone as a talisman. The tardy student entered after the lesson had begun. The new tariff increased the cost of imported steel. Moist air can tarnish the silver tray.",
+    "Other records complicated that first impression and encouraged a closer reading. They chose taupe for the walls to match the wooden furniture. The stall displayed tawdry jewelry made from painted plastic. The entry was rejected on a technicality because the form lacked a date. Technological advances made long-distance communication faster.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "talisman",
+      "index": 0,
+      "definition": "an object believed to bring protection or good luck"
+    },
+    {
+      "word": "tardy",
+      "index": 0,
+      "definition": "arriving or happening late"
+    },
+    {
+      "word": "tariff",
+      "index": 0,
+      "definition": "a tax on goods entering or leaving a country"
+    },
+    {
+      "word": "tarnish",
+      "index": 0,
+      "definition": "to dull a shiny surface or damage a reputation"
+    },
+    {
+      "word": "taupe",
+      "index": 0,
+      "definition": "a grayish-brown color"
+    },
+    {
+      "word": "tawdry",
+      "index": 0,
+      "definition": "showy but cheap and of poor quality"
+    },
+    {
+      "word": "technicality",
+      "index": 0,
+      "definition": "a small formal detail in a rule or procedure"
+    },
+    {
+      "word": "technological",
+      "index": 0,
+      "definition": "relating to the practical use of scientific knowledge"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

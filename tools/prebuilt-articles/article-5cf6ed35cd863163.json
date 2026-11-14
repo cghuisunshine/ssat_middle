@@ -1,0 +1,57 @@
+{
+  "id": "article-5cf6ed35cd863163",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The first section of the collection placed these observations side by side. The university course examined penology and rehabilitation. The penultimate chapter revealed an important clue. The traveler wondered whether a room was perchance available. The rescuers faced a perilous climb.",
+    "A later section added further scenes for comparison. The witness refused to perjure herself despite the pressure. The permeable layer allowed rainwater to reach the roots. The permissive rules allowed many different designs. The rumor had a pernicious effect on trust.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "penology",
+      "index": 0,
+      "definition": "the study of punishment and prison systems"
+    },
+    {
+      "word": "penultimate",
+      "index": 0,
+      "definition": "next to last"
+    },
+    {
+      "word": "perchance",
+      "index": 0,
+      "definition": "perhaps or by chance"
+    },
+    {
+      "word": "perilous",
+      "index": 0,
+      "definition": "full of danger"
+    },
+    {
+      "word": "perjure",
+      "index": 0,
+      "definition": "to deliberately lie while under oath"
+    },
+    {
+      "word": "permeable",
+      "index": 0,
+      "definition": "allowing liquid or gas to pass through"
+    },
+    {
+      "word": "permissive",
+      "index": 0,
+      "definition": "allowing considerable freedom and imposing few restrictions"
+    },
+    {
+      "word": "pernicious",
+      "index": 0,
+      "definition": "causing serious harm, often gradually"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

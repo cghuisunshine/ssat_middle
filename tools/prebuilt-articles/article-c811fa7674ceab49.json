@@ -1,0 +1,57 @@
+{
+  "id": "article-c811fa7674ceab49",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. The character wondered whether the strange vision was a hallucination. She had a hankering for fresh bread after the long walk. The first migrating birds were a harbinger of spring. The clay will harden when it dries.",
+    "The remaining pages widened the discussion with additional observations. The family endured great hardship during the winter. These hardy plants can survive a light frost. The choir practiced the song's harmonic structure. The musicians learned to harmonize their voices.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "hallucination",
+      "index": 0,
+      "definition": "an experience of seeing or hearing something that is not present"
+    },
+    {
+      "word": "hankering",
+      "index": 0,
+      "definition": "a strong desire for something"
+    },
+    {
+      "word": "harbinger",
+      "index": 0,
+      "definition": "a sign that something else is approaching"
+    },
+    {
+      "word": "harden",
+      "index": 0,
+      "definition": "to make or become firm, tough, or less sensitive"
+    },
+    {
+      "word": "hardship",
+      "index": 0,
+      "definition": "a condition involving suffering or serious difficulty"
+    },
+    {
+      "word": "hardy",
+      "index": 0,
+      "definition": "able to survive difficult conditions"
+    },
+    {
+      "word": "harmonic",
+      "index": 0,
+      "definition": "related to musical harmony or pleasing combinations of sounds"
+    },
+    {
+      "word": "harmonize",
+      "index": 0,
+      "definition": "to bring into agreement or produce pleasing sounds together"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

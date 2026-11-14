@@ -1,0 +1,57 @@
+{
+  "id": "article-fca28ad27be9b796",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The mixture will solidify as it cools. The mathematician studied the problem's solvability. The story's somnambulist wandered into the hallway at night. The monotonous lecture had a somniferous effect on the audience.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The warm room increased their somnolence. The somnolent passengers rested against the windows. The language lesson compared a sonant sound with an unvoiced one. The laboratory used a sophisticated measuring instrument.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "solidify",
+      "index": 0,
+      "definition": "to make or become solid or more secure"
+    },
+    {
+      "word": "solvability",
+      "index": 0,
+      "definition": "the quality of being capable of a solution"
+    },
+    {
+      "word": "somnambulist",
+      "index": 0,
+      "definition": "a person who walks while asleep"
+    },
+    {
+      "word": "somniferous",
+      "index": 0,
+      "definition": "causing or tending to cause sleep"
+    },
+    {
+      "word": "somnolence",
+      "index": 0,
+      "definition": "a state of sleepiness"
+    },
+    {
+      "word": "somnolent",
+      "index": 0,
+      "definition": "sleepy or likely to cause sleep"
+    },
+    {
+      "word": "sonant",
+      "index": 0,
+      "definition": "produced with vibration of the vocal cords"
+    },
+    {
+      "word": "sophisticated",
+      "index": 0,
+      "definition": "highly developed or showing experienced understanding"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-295e49d031e44f98",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. The library remained a bastion of learning during difficult times. Technical problems continued to bedevil the recording session. A distant blast shook the windows of the empty building. The brash newcomer interrupted the discussion without listening first.",
+    "The remaining pages widened the discussion with additional observations. The brazen thief waved at the camera before taking the bicycle. A breach in the wall allowed water into the garden. The bulky package would not fit through the narrow doorway. The fisher prepared to cast the line across the stream.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "bastion",
+      "index": 0,
+      "definition": "a strong defense or place protecting something valued"
+    },
+    {
+      "word": "bedevil",
+      "index": 0,
+      "definition": "to trouble someone or something persistently"
+    },
+    {
+      "word": "blast",
+      "index": 0,
+      "definition": "a sudden powerful explosion or burst"
+    },
+    {
+      "word": "brash",
+      "index": 0,
+      "definition": "bold in a rude or thoughtless way"
+    },
+    {
+      "word": "brazen",
+      "index": 0,
+      "definition": "openly bold and showing no shame"
+    },
+    {
+      "word": "breach",
+      "index": 0,
+      "definition": "a break in a barrier, agreement, or duty"
+    },
+    {
+      "word": "bulky",
+      "index": 0,
+      "definition": "large and awkward to carry or handle"
+    },
+    {
+      "word": "cast",
+      "index": 0,
+      "definition": "to throw something in a particular direction"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

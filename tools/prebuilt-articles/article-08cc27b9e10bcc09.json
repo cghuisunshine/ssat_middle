@@ -1,0 +1,57 @@
+{
+  "id": "article-08cc27b9e10bcc09",
+  "tier": "Core",
+  "topic": "Manner, sound & sensation",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The first section of the collection placed these observations side by side. Her answer was inaudible over the roar of the crowd. We took a leisurely walk, stopping often and never hurrying. The nimble squirrel moved quickly from branch to branch. The villagers refused to obey the ruler's odious and cruel orders.",
+    "A later section added further scenes for comparison. The placid pony stood calmly while the children brushed its coat. The pungent smell of raw onion made my eyes water. The river's rapid flow carried the leaf away in seconds. The raucous shouting from the stands drowned out the announcer.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "inaudible",
+      "index": 0,
+      "definition": "too quiet to be heard"
+    },
+    {
+      "word": "leisurely",
+      "index": 0,
+      "definition": "done slowly without hurry"
+    },
+    {
+      "word": "nimble",
+      "index": 0,
+      "definition": "quick and light in movement"
+    },
+    {
+      "word": "odious",
+      "index": 0,
+      "definition": "extremely unpleasant and deserving hatred"
+    },
+    {
+      "word": "placid",
+      "index": 0,
+      "definition": "calm and not easily disturbed"
+    },
+    {
+      "word": "pungent",
+      "index": 0,
+      "definition": "having a sharply strong smell or taste"
+    },
+    {
+      "word": "rapid",
+      "index": 0,
+      "definition": "happening or moving very quickly"
+    },
+    {
+      "word": "raucous",
+      "index": 0,
+      "definition": "loud and harsh in sound"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

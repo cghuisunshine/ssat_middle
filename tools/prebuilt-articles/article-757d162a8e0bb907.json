@@ -1,0 +1,57 @@
+{
+  "id": "article-757d162a8e0bb907",
+  "tier": "Core",
+  "topic": "Conditions & contrasts",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The first section of the collection placed these observations side by side. Wearing the team's colors was an overt sign of support. The rural village is surrounded by fields and farms. The clock tower is a prominent landmark visible from across the town. The conventional design used familiar materials and a standard layout.",
+    "A later section added further scenes for comparison. A stout wooden pole supported the heavy sign. Restoring the old theater required considerable effort. The paltry payment barely covered the cost of the bus ride. The opulent hall had marble floors and gilded ceilings.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "overt",
+      "index": 0,
+      "definition": "done openly and without concealment"
+    },
+    {
+      "word": "rural",
+      "index": 0,
+      "definition": "relating to the countryside"
+    },
+    {
+      "word": "prominent",
+      "index": 0,
+      "definition": "widely known or easily noticed"
+    },
+    {
+      "word": "conventional",
+      "index": 0,
+      "definition": "following established customs or usual methods"
+    },
+    {
+      "word": "stout",
+      "index": 0,
+      "definition": "thick and strongly built"
+    },
+    {
+      "word": "considerable",
+      "index": 0,
+      "definition": "large enough in amount or degree to be important"
+    },
+    {
+      "word": "paltry",
+      "index": 0,
+      "definition": "so small in amount that it seems inadequate or unimportant"
+    },
+    {
+      "word": "opulent",
+      "index": 0,
+      "definition": "showing great wealth and luxury"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

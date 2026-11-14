@@ -1,0 +1,57 @@
+{
+  "id": "article-876bf3e9eb169c34",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. Each candidate answered questions about leading the student council. We appreciated her candor about the plan's weaknesses. The gardener removed the cankerous branch from the tree. The library kept the canonical version beside later adaptations.",
+    "The remaining pages widened the discussion with additional observations. The dense canopy shaded the forest floor. The cantankerous neighbor complained about every small noise. Moving the furniture again seemed to be a mere caprice. The capricious weather shifted from sunshine to heavy rain.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "candidate",
+      "index": 0,
+      "definition": "a person being considered for a position or award"
+    },
+    {
+      "word": "candor",
+      "index": 0,
+      "definition": "honesty and openness in expressing an opinion"
+    },
+    {
+      "word": "cankerous",
+      "index": 0,
+      "definition": "having sores or a harmful, spreading disease"
+    },
+    {
+      "word": "canonical",
+      "index": 0,
+      "definition": "accepted as authoritative or following an established standard"
+    },
+    {
+      "word": "canopy",
+      "index": 0,
+      "definition": "a covering above something, such as tree branches or a cloth roof"
+    },
+    {
+      "word": "cantankerous",
+      "index": 0,
+      "definition": "bad-tempered and ready to argue"
+    },
+    {
+      "word": "caprice",
+      "index": 0,
+      "definition": "a sudden and unpredictable change of desire or mood"
+    },
+    {
+      "word": "capricious",
+      "index": 0,
+      "definition": "changing unpredictably in mood or behavior"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

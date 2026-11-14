@@ -1,0 +1,57 @@
+{
+  "id": "article-6f829d42cef4bd02",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. He felt envy when he saw his friend's new bicycle. The novel's epigraph hinted at its central theme. The collection included an epistle to the author's closest friend. The epitaph praised her kindness and courage.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The king earned an epithet referring to his wisdom. Her equable manner helped calm the upset visitors. We solved the equation by subtracting three from both sides. The fountain was equidistant from the two gates.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "envy",
+      "index": 0,
+      "definition": "a desire to have something another person possesses"
+    },
+    {
+      "word": "epigraph",
+      "index": 0,
+      "definition": "a short quotation at the beginning of a book or section"
+    },
+    {
+      "word": "epistle",
+      "index": 0,
+      "definition": "a letter, especially a formal or literary one"
+    },
+    {
+      "word": "epitaph",
+      "index": 0,
+      "definition": "words written in memory of a dead person, often on a grave"
+    },
+    {
+      "word": "epithet",
+      "index": 0,
+      "definition": "a descriptive name or phrase applied to someone or something"
+    },
+    {
+      "word": "equable",
+      "index": 0,
+      "definition": "calm and steady rather than easily disturbed"
+    },
+    {
+      "word": "equation",
+      "index": 0,
+      "definition": "a statement that two mathematical expressions are equal"
+    },
+    {
+      "word": "equidistant",
+      "index": 0,
+      "definition": "at the same distance from two or more points"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

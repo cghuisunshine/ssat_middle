@@ -1,0 +1,57 @@
+{
+  "id": "article-84b4e11b3f0194cd",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The other judges concur with her assessment of the performance. The newspaper published a condemnatory account of the fraud. His condescending explanation annoyed the experienced workers. The memoir had a candid, confessional tone.",
+    "Other records complicated that first impression and encouraged a closer reading. The injured animal required temporary confinement while it recovered. The melted wax began to congeal around the candle. The condition was congenital and had been present since birth. Without records, the explanation remained conjectural.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "concur",
+      "index": 0,
+      "definition": "to agree or reach the same opinion"
+    },
+    {
+      "word": "condemnatory",
+      "index": 0,
+      "definition": "expressing strong disapproval or blame"
+    },
+    {
+      "word": "condescending",
+      "index": 0,
+      "definition": "treating others as though they are less intelligent or important"
+    },
+    {
+      "word": "confessional",
+      "index": 0,
+      "definition": "openly revealing personal thoughts or private experiences"
+    },
+    {
+      "word": "confinement",
+      "index": 0,
+      "definition": "the state of being kept within limits or an enclosed place"
+    },
+    {
+      "word": "congeal",
+      "index": 0,
+      "definition": "to become thicker or solid as it cools"
+    },
+    {
+      "word": "congenital",
+      "index": 0,
+      "definition": "present from birth rather than acquired later"
+    },
+    {
+      "word": "conjectural",
+      "index": 0,
+      "definition": "based on guesses rather than firm evidence"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

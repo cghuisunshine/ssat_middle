@@ -1,0 +1,32 @@
+{
+  "id": "article-04635d3959d85efb",
+  "tier": "Core",
+  "topic": "Power, resources & achievement",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The group began by reading the following accounts without adding explanations of its own. Fishing is the main industry in the coastal town. Wheat is an important commodity in many farming regions.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Rice is a staple in many households.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "industry",
+      "index": 0,
+      "definition": "the activity of producing goods or providing services in a particular field"
+    },
+    {
+      "word": "commodity",
+      "index": 0,
+      "definition": "a basic good or raw material that can be bought and sold"
+    },
+    {
+      "word": "staple",
+      "index": 0,
+      "definition": "a food regularly eaten as a main part of a diet"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-23dd61edfcc3eb2f",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. The sudden change in plans seemed to discombobulate the host. There was clear discordance between the two accounts. The committee condemned the member's discreditable conduct. The witnesses gave discrepant descriptions of the vehicle.",
+    "It then considered a second group of accounts, looking for both similarities and differences. We will disembark as soon as the ferry docks. The disappointing visit began to disenchant the hopeful travelers. The disgraced official resigned from office. The discovery threatened to disillusion the enthusiastic supporters.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "discombobulate",
+      "index": 0,
+      "definition": "to confuse or upset someone's composure"
+    },
+    {
+      "word": "discordance",
+      "index": 0,
+      "definition": "a lack of agreement or harmony"
+    },
+    {
+      "word": "discreditable",
+      "index": 0,
+      "definition": "likely to bring shame or damage a reputation"
+    },
+    {
+      "word": "discrepant",
+      "index": 0,
+      "definition": "different in a way that suggests inconsistency"
+    },
+    {
+      "word": "disembark",
+      "index": 0,
+      "definition": "to leave a ship, aircraft, or other vehicle"
+    },
+    {
+      "word": "disenchant",
+      "index": 0,
+      "definition": "to free someone from an illusion or disappointed expectation"
+    },
+    {
+      "word": "disgraced",
+      "index": 0,
+      "definition": "having lost respect because of wrongdoing"
+    },
+    {
+      "word": "disillusion",
+      "index": 0,
+      "definition": "to destroy a mistaken or overly hopeful belief"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

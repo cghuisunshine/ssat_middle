@@ -1,0 +1,57 @@
+{
+  "id": "article-9219b7f7a3301e0a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The opening pages introduced several situations worth examining carefully. A diagram helped elucidate the complicated process. Rescuers found the emaciated dog beside the abandoned house. The accountant was accused of trying to embezzle company funds. Repeated unfair treatment can embitter even a patient person.",
+    "The remaining pages widened the discussion with additional observations. The team will emblazon its crest on the new banner. Her generous actions embody the club's spirit of service. Their support helped embolden the shy speaker. The emergence of new evidence changed the case.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "elucidate",
+      "index": 0,
+      "definition": "to explain something clearly"
+    },
+    {
+      "word": "emaciated",
+      "index": 0,
+      "definition": "extremely thin from inadequate nourishment or illness"
+    },
+    {
+      "word": "embezzle",
+      "index": 0,
+      "definition": "to steal money entrusted to one's care"
+    },
+    {
+      "word": "embitter",
+      "index": 0,
+      "definition": "to fill someone with lasting anger or resentment"
+    },
+    {
+      "word": "emblazon",
+      "index": 0,
+      "definition": "to display a design or symbol prominently on something"
+    },
+    {
+      "word": "embody",
+      "index": 0,
+      "definition": "to give clear expression or physical form to an idea"
+    },
+    {
+      "word": "embolden",
+      "index": 0,
+      "definition": "to give someone courage or confidence"
+    },
+    {
+      "word": "emergence",
+      "index": 0,
+      "definition": "the process of coming into view or becoming known"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

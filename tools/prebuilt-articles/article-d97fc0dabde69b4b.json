@@ -1,0 +1,57 @@
+{
+  "id": "article-d97fc0dabde69b4b",
+  "tier": "Stretch",
+  "topic": "Precise character words",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. It was naive to trust the stranger's promise without checking it. The obstinate child refused to change his mind despite clear evidence. The petulant player complained childishly when he was asked to wait. The resilient community rebuilt quickly after the flood.",
+    "Other records complicated that first impression and encouraged a closer reading. The resourceful camper made a useful shelter from fallen branches. The scrupulous accountant refused to hide even a small financial error. The stoic runner showed little outward emotion despite the painful injury. The tenacious investigator kept searching long after others gave up.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "naive",
+      "index": 0,
+      "definition": "lacking experience and easily deceived"
+    },
+    {
+      "word": "obstinate",
+      "index": 0,
+      "definition": "refusing to change an opinion or course"
+    },
+    {
+      "word": "petulant",
+      "index": 0,
+      "definition": "childishly bad-tempered"
+    },
+    {
+      "word": "resilient",
+      "index": 0,
+      "definition": "able to recover after difficulty"
+    },
+    {
+      "word": "resourceful",
+      "index": 0,
+      "definition": "good at finding ways to solve problems"
+    },
+    {
+      "word": "scrupulous",
+      "index": 0,
+      "definition": "careful to be honest and morally correct"
+    },
+    {
+      "word": "stoic",
+      "index": 0,
+      "definition": "enduring pain without showing distress"
+    },
+    {
+      "word": "tenacious",
+      "index": 0,
+      "definition": "holding firmly to a purpose despite difficulty"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

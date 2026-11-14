@@ -1,0 +1,57 @@
+{
+  "id": "article-9150e0f6526cc79a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. An airlift brought food to the town after the roads flooded. The alarmed hikers hurried away from the falling rocks. An alate seed can travel farther on the wind. The climb was successful, albeit more difficult than expected.",
+    "The remaining pages widened the discussion with additional observations. The alchemist hoped to turn an ordinary metal into gold. A reading chair stood in an alcove beside the window. The mystery writer published the story under an alias. The contract described which property rights were alienable.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "airlift",
+      "index": 0,
+      "definition": "the transportation of people or supplies by aircraft"
+    },
+    {
+      "word": "alarmed",
+      "index": 0,
+      "definition": "frightened or worried by possible danger"
+    },
+    {
+      "word": "alate",
+      "index": 0,
+      "definition": "having wings or winglike extensions"
+    },
+    {
+      "word": "albeit",
+      "index": 0,
+      "definition": "although it is or although it may be"
+    },
+    {
+      "word": "alchemist",
+      "index": 0,
+      "definition": "a historical practitioner who tried to transform metals and discover secret remedies"
+    },
+    {
+      "word": "alcove",
+      "index": 0,
+      "definition": "a small recessed space opening from a larger room"
+    },
+    {
+      "word": "alias",
+      "index": 0,
+      "definition": "a name used instead of a person's usual name"
+    },
+    {
+      "word": "alienable",
+      "index": 0,
+      "definition": "capable of being transferred to another owner"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

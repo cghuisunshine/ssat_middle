@@ -1,0 +1,37 @@
+{
+  "id": "article-a4c578a4bbe6bb7b",
+  "tier": "Stretch",
+  "topic": "Precise character words",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. The loquacious traveler told stories for the entire train journey. Her impeccable calculations contained not a single error.",
+    "Other records complicated that first impression and encouraged a closer reading. His unconventional house design used old shipping containers as rooms. The conservative designer preferred familiar styles to experimental shapes.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "loquacious",
+      "index": 0,
+      "definition": "tending to talk a great deal"
+    },
+    {
+      "word": "impeccable",
+      "index": 0,
+      "definition": "free from faults or errors"
+    },
+    {
+      "word": "unconventional",
+      "index": 0,
+      "definition": "different from what is usually done or accepted"
+    },
+    {
+      "word": "conservative",
+      "index": 0,
+      "definition": "favoring established practices and cautious change"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

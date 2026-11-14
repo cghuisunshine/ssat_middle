@@ -1,0 +1,57 @@
+{
+  "id": "article-3bce4e300d186698",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. The sculpture's tentacular arms curved around the central column. During her tenure as mayor, the town built a new library. The lease is terminable if either party breaks its conditions. His terse reply consisted of a single word.",
+    "It then considered a second group of accounts, looking for both similarities and differences. We used a theorem about right triangles to find the missing side. The design looked effective in theoretical calculations but failed in testing. She found the quiet garden therapeutic after a stressful week. The doctor noticed a slight tic near the patient's eye.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "tentacular",
+      "index": 0,
+      "definition": "having or resembling long grasping tentacles"
+    },
+    {
+      "word": "tenure",
+      "index": 0,
+      "definition": "the period during which someone holds a position"
+    },
+    {
+      "word": "terminable",
+      "index": 0,
+      "definition": "capable of being ended"
+    },
+    {
+      "word": "terse",
+      "index": 0,
+      "definition": "using very few words, sometimes in an abrupt manner"
+    },
+    {
+      "word": "theorem",
+      "index": 0,
+      "definition": "a mathematical statement that has been proved"
+    },
+    {
+      "word": "theoretical",
+      "index": 0,
+      "definition": "based on ideas or principles rather than practical experience"
+    },
+    {
+      "word": "therapeutic",
+      "index": 0,
+      "definition": "helping to heal or relieve illness or distress"
+    },
+    {
+      "word": "tic",
+      "index": 0,
+      "definition": "a repeated involuntary movement or sound"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

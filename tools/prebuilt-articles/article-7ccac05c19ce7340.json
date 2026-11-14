@@ -1,0 +1,57 @@
+{
+  "id": "article-7ccac05c19ce7340",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "Several records provided a starting point for the discussion. The heat inside the closed room became intolerable. She joined an intramural basketball team. The model's intricacy required patient observation. The sudden intrusion interrupted the private meeting.",
+    "Other records complicated that first impression and encouraged a closer reading. The questions became too intrusive for a casual conversation. One serious error could invalidate the entire calculation. The history described an invasion from the northern border. The workers checked the inventory before placing another order.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "intolerable",
+      "index": 0,
+      "definition": "too unpleasant or harmful to be accepted"
+    },
+    {
+      "word": "intramural",
+      "index": 0,
+      "definition": "taking place within a single school or institution"
+    },
+    {
+      "word": "intricacy",
+      "index": 0,
+      "definition": "the quality of having many complicated details"
+    },
+    {
+      "word": "intrusion",
+      "index": 0,
+      "definition": "an unwelcome entry into a place or situation"
+    },
+    {
+      "word": "intrusive",
+      "index": 0,
+      "definition": "entering or interfering where not wanted"
+    },
+    {
+      "word": "invalidate",
+      "index": 0,
+      "definition": "to make something no longer valid or acceptable"
+    },
+    {
+      "word": "invasion",
+      "index": 0,
+      "definition": "an entry into another place by force or in large numbers"
+    },
+    {
+      "word": "inventory",
+      "index": 0,
+      "definition": "a detailed list of goods or supplies"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

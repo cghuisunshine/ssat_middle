@@ -1,0 +1,57 @@
+{
+  "id": "article-7512c78d717b43e8",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The opening pages introduced several situations worth examining carefully. The writer became an apologist for the unpopular policy. The laboratory apparatus was arranged carefully on the bench. In the story, an apparition appeared at the deserted window. These duties appertain to the office of treasurer.",
+    "The remaining pages widened the discussion with additional observations. The new appointee will begin work as director next month. An approximate count suggested that two hundred people attended. The apterous insect moved through the soil rather than flying. Colorful fish swam among the plants in the aquarium.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "apologist",
+      "index": 0,
+      "definition": "a person who argues in defense of an idea or institution"
+    },
+    {
+      "word": "apparatus",
+      "index": 0,
+      "definition": "a set of equipment used for a particular purpose"
+    },
+    {
+      "word": "apparition",
+      "index": 0,
+      "definition": "a ghostly figure or an unexpected strange appearance"
+    },
+    {
+      "word": "appertain",
+      "index": 0,
+      "definition": "to belong or relate to something"
+    },
+    {
+      "word": "appointee",
+      "index": 0,
+      "definition": "a person chosen to fill a position"
+    },
+    {
+      "word": "approximate",
+      "index": 0,
+      "definition": "close to an amount or description without being exact"
+    },
+    {
+      "word": "apterous",
+      "index": 0,
+      "definition": "having no wings"
+    },
+    {
+      "word": "aquarium",
+      "index": 0,
+      "definition": "a water-filled container or facility for keeping aquatic organisms"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-b775cec7c2b89707",
+  "tier": "Core",
+  "topic": "Learning & public life",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The opening pages introduced several situations worth examining carefully. The young musician won widespread acclaim for her remarkable performance. Our budget limits how much money we can spend on the project. The port encouraged commerce by making it easier to buy and sell goods. The compromise allowed each side to gain something while making a concession.",
+    "The remaining pages widened the discussion with additional observations. By convention, people in this community greet guests with a handshake. The ruler issued a decree ordering every market to close at sunset. In a democracy, citizens can choose their leaders through elections. Tourism is an important part of the island's economy.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "acclaim",
+      "index": 0,
+      "definition": "enthusiastic public praise"
+    },
+    {
+      "word": "budget",
+      "index": 0,
+      "definition": "a plan for spending available money"
+    },
+    {
+      "word": "commerce",
+      "index": 0,
+      "definition": "the activity of buying and selling"
+    },
+    {
+      "word": "compromise",
+      "index": 0,
+      "definition": "an agreement reached through concessions by both sides"
+    },
+    {
+      "word": "convention",
+      "index": 0,
+      "definition": "an established way of doing something"
+    },
+    {
+      "word": "decree",
+      "index": 0,
+      "definition": "an official order by an authority"
+    },
+    {
+      "word": "democracy",
+      "index": 0,
+      "definition": "government in which people choose their leaders"
+    },
+    {
+      "word": "economy",
+      "index": 0,
+      "definition": "the system of producing and using goods and services"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

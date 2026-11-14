@@ -1,0 +1,57 @@
+{
+  "id": "article-36da4e8a194392ad",
+  "tier": "Core",
+  "topic": "Conditions & contrasts",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. The rugged trail crossed rough stones and steep ridges. The severe storm damaged houses across the entire region. The solid block of ice kept its shape rather than flowing like water. The sturdy table easily supported the heavy equipment.",
+    "Other records complicated that first impression and encouraged a closer reading. We had sufficient fuel to complete the entire journey. The vacant apartment had no furniture or residents. His vague directions gave no street names or clear landmarks. The vertical ladder rose straight upward along the wall.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "rugged",
+      "index": 0,
+      "definition": "having a rough uneven surface"
+    },
+    {
+      "word": "severe",
+      "index": 0,
+      "definition": "very serious or harsh"
+    },
+    {
+      "word": "solid",
+      "index": 0,
+      "definition": "firm and holding a fixed shape"
+    },
+    {
+      "word": "sturdy",
+      "index": 0,
+      "definition": "strong and well built"
+    },
+    {
+      "word": "sufficient",
+      "index": 0,
+      "definition": "enough to meet a need"
+    },
+    {
+      "word": "vacant",
+      "index": 0,
+      "definition": "empty and not occupied"
+    },
+    {
+      "word": "vague",
+      "index": 0,
+      "definition": "not clearly expressed or defined"
+    },
+    {
+      "word": "vertical",
+      "index": 0,
+      "definition": "pointing straight up and down"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

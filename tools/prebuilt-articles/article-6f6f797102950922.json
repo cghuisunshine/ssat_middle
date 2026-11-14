@@ -1,0 +1,57 @@
+{
+  "id": "article-6f6f797102950922",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The historian compared monarchal and republican systems. The film opened with a montage of city life. The unclear rules created a morass of conflicting instructions. The actor transformed the mousy character into a confident leader.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The lesson explored a multiplicative relationship between the quantities. He tended to mumble when he felt nervous. A munificent gift allowed the library to expand. The poem reflects on the mutability of human fortunes.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "monarchal",
+      "index": 0,
+      "definition": "related to government by a monarch"
+    },
+    {
+      "word": "montage",
+      "index": 0,
+      "definition": "a composition made by combining separate images or scenes"
+    },
+    {
+      "word": "morass",
+      "index": 0,
+      "definition": "a swamp or a confusing, difficult situation"
+    },
+    {
+      "word": "mousy",
+      "index": 0,
+      "definition": "quiet and timid in manner"
+    },
+    {
+      "word": "multiplicative",
+      "index": 0,
+      "definition": "related to or involving multiplication"
+    },
+    {
+      "word": "mumble",
+      "index": 0,
+      "definition": "to speak quietly and unclearly"
+    },
+    {
+      "word": "munificent",
+      "index": 0,
+      "definition": "extremely generous"
+    },
+    {
+      "word": "mutability",
+      "index": 0,
+      "definition": "the ability or tendency to change"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-ea15c07472cf7d70",
+  "tier": "Stretch",
+  "topic": "Ideas & reasoning nouns",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. From the child's perspective, the short staircase seemed enormous. The glowing sea was a natural phenomenon caused by tiny organisms. The earlier decision set a precedent for handling similar cases in the future. The rule follows the principle that everyone deserves equal treatment.",
+    "A later section added further scenes for comparison. Finding safe drinking water was our first priority after the storm. The prospect of a long holiday filled the students with excitement. One unexpected repercussion of the road closure was increased traffic near the school. Our strategy was to conserve energy early and run faster near the finish.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "perspective",
+      "index": 0,
+      "definition": "a way of viewing something"
+    },
+    {
+      "word": "phenomenon",
+      "index": 0,
+      "definition": "an observable event or occurrence"
+    },
+    {
+      "word": "precedent",
+      "index": 0,
+      "definition": "an earlier example used to guide later decisions"
+    },
+    {
+      "word": "principle",
+      "index": 0,
+      "definition": "a basic rule or belief guiding conduct"
+    },
+    {
+      "word": "priority",
+      "index": 0,
+      "definition": "something treated as more important than others"
+    },
+    {
+      "word": "prospect",
+      "index": 0,
+      "definition": "a possibility of something happening"
+    },
+    {
+      "word": "repercussion",
+      "index": 0,
+      "definition": "an indirect and often harmful consequence"
+    },
+    {
+      "word": "strategy",
+      "index": 0,
+      "definition": "a carefully designed plan to achieve a goal"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

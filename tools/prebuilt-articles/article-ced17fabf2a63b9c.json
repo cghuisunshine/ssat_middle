@@ -1,0 +1,32 @@
+{
+  "id": "article-ced17fabf2a63b9c",
+  "tier": "Stretch",
+  "topic": "Ideas & reasoning nouns",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. His sloth kept him on the sofa while everyone else cleaned the room. The ferocity of the storm forced every boat back to shore.",
+    "It then considered a second group of accounts, looking for both similarities and differences. A narrow bridge crossed the chasm between the two cliffs.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "sloth",
+      "index": 0,
+      "definition": "a reluctance to work or make an effort"
+    },
+    {
+      "word": "ferocity",
+      "index": 0,
+      "definition": "the quality of being fiercely violent or intense"
+    },
+    {
+      "word": "chasm",
+      "index": 0,
+      "definition": "a deep, wide opening in the ground"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-22af2b4363991f66",
+  "tier": "Core",
+  "topic": "Everyday academic nouns",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. Her diligence in checking every calculation prevented several errors. The story praises the companion's faithfulness through many dangers. Repeated tests confirmed the reliability of the new alarm. Her determination kept her practicing after every setback.",
+    "Other records complicated that first impression and encouraged a closer reading. We judged each design by its practicality as well as its appearance. A remnant of the old wall stood beside the new road. The wolf pack defended its territory from other packs. The orchard produced an abundance of apples this year.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "diligence",
+      "index": 0,
+      "definition": "steady care and effort in one's work"
+    },
+    {
+      "word": "faithfulness",
+      "index": 0,
+      "definition": "the quality of remaining loyal or true"
+    },
+    {
+      "word": "reliability",
+      "index": 0,
+      "definition": "the quality of being consistently dependable"
+    },
+    {
+      "word": "determination",
+      "index": 0,
+      "definition": "a firm intention to continue toward a goal"
+    },
+    {
+      "word": "practicality",
+      "index": 0,
+      "definition": "the quality of being workable and suited to real needs"
+    },
+    {
+      "word": "remnant",
+      "index": 0,
+      "definition": "a small part left after most of something is gone"
+    },
+    {
+      "word": "territory",
+      "index": 0,
+      "definition": "an area of land under a particular control or occupation"
+    },
+    {
+      "word": "abundance",
+      "index": 0,
+      "definition": "a very large quantity of something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

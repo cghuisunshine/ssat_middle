@@ -1,0 +1,37 @@
+{
+  "id": "article-1ae531d54fb189e3",
+  "tier": "Core",
+  "topic": "Conflict & cooperation",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. The class chose to embrace the new recycling plan. The project required cooperation between students from several classes.",
+    "Other records complicated that first impression and encouraged a closer reading. The mural was a collaboration between the artist and the schoolchildren. The town planted trees to counter the effects of soil erosion.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "embrace",
+      "index": 0,
+      "definition": "to accept an idea or change willingly"
+    },
+    {
+      "word": "cooperation",
+      "index": 0,
+      "definition": "the act of working together for a shared purpose"
+    },
+    {
+      "word": "collaboration",
+      "index": 0,
+      "definition": "work done jointly by two or more people"
+    },
+    {
+      "word": "counter",
+      "index": 0,
+      "definition": "to act against something in order to reduce its effect"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

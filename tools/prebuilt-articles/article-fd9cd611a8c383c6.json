@@ -1,0 +1,57 @@
+{
+  "id": "article-fd9cd611a8c383c6",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The first section of the collection placed these observations side by side. The inane remarks added nothing to the discussion. The inanity of the argument became clear under examination. Fear made him inarticulate during the interview. The broken compass gave the journey an inauspicious beginning.",
+    "A later section added further scenes for comparison. The thin wire began to incandesce as its temperature rose. She had supported the project since its inception. A small incision allowed the instrument to reach the damaged part. The speech tried to incite the crowd to protest.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "inane",
+      "index": 0,
+      "definition": "silly and lacking meaning or purpose"
+    },
+    {
+      "word": "inanity",
+      "index": 0,
+      "definition": "a lack of sense or meaningful thought"
+    },
+    {
+      "word": "inarticulate",
+      "index": 0,
+      "definition": "unable to express ideas clearly in words"
+    },
+    {
+      "word": "inauspicious",
+      "index": 0,
+      "definition": "suggesting that things may turn out badly"
+    },
+    {
+      "word": "incandesce",
+      "index": 0,
+      "definition": "to glow because of great heat"
+    },
+    {
+      "word": "inception",
+      "index": 0,
+      "definition": "the beginning of an organization or activity"
+    },
+    {
+      "word": "incision",
+      "index": 0,
+      "definition": "a cut made carefully into a surface or tissue"
+    },
+    {
+      "word": "incite",
+      "index": 0,
+      "definition": "to encourage or stir someone toward action"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

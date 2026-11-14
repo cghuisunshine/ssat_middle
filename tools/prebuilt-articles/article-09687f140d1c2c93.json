@@ -1,0 +1,57 @@
+{
+  "id": "article-09687f140d1c2c93",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. The match was postponed because of inclement weather. The famous visitor traveled incognito to avoid attention. The damaged supplies were labeled inconsumable. The legend described an incorporeal spirit moving through the hall.",
+    "Other records complicated that first impression and encouraged a closer reading. The incorrigible prankster ignored every warning. Each increment raised the total by five points. The editor removed a passage criticized for indecency. The guests objected to the speaker's indecent remarks.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "inclement",
+      "index": 0,
+      "definition": "unpleasantly harsh, especially of weather"
+    },
+    {
+      "word": "incognito",
+      "index": 0,
+      "definition": "with one's identity concealed"
+    },
+    {
+      "word": "inconsumable",
+      "index": 0,
+      "definition": "not able or suitable to be consumed"
+    },
+    {
+      "word": "incorporeal",
+      "index": 0,
+      "definition": "having no physical body or substance"
+    },
+    {
+      "word": "incorrigible",
+      "index": 0,
+      "definition": "persisting in bad behavior despite attempts to correct it"
+    },
+    {
+      "word": "increment",
+      "index": 0,
+      "definition": "a small increase or added amount"
+    },
+    {
+      "word": "indecency",
+      "index": 0,
+      "definition": "behavior or language considered improper or offensive"
+    },
+    {
+      "word": "indecent",
+      "index": 0,
+      "definition": "not appropriate according to accepted standards of conduct"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

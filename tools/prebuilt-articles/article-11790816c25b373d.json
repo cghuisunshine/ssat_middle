@@ -1,0 +1,57 @@
+{
+  "id": "article-11790816c25b373d",
+  "tier": "Core",
+  "topic": "Everyday academic nouns",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. The weaver stretched threads across the loom. We kept the flour in a sealed canister. The report included a figure for the number of daily visitors. The final digit of the code is seven.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The clerk checked the address before sorting the mail. The online map was a convenience for visitors planning their route. A multitude of stars appeared above the dark valley. The awards ceremony began with a welcome from the principal.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "loom",
+      "index": 0,
+      "definition": "a machine or frame used for weaving cloth"
+    },
+    {
+      "word": "canister",
+      "index": 0,
+      "definition": "a firm container used for holding or storing something"
+    },
+    {
+      "word": "figure",
+      "index": 0,
+      "definition": "a number representing an amount or measurement"
+    },
+    {
+      "word": "digit",
+      "index": 0,
+      "definition": "any one of the numerals from zero to nine"
+    },
+    {
+      "word": "clerk",
+      "index": 0,
+      "definition": "a worker who keeps records or performs routine office tasks"
+    },
+    {
+      "word": "convenience",
+      "index": 0,
+      "definition": "something that makes a task easier or saves effort"
+    },
+    {
+      "word": "multitude",
+      "index": 0,
+      "definition": "a very large number of people or things"
+    },
+    {
+      "word": "ceremony",
+      "index": 0,
+      "definition": "a formal event performed according to an established pattern"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

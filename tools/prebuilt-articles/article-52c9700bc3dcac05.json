@@ -1,0 +1,33 @@
+{
+  "id": "article-52c9700bc3dcac05",
+  "tier": "Core",
+  "topic": "Powerful verbs",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. Thick fog can shroud the island before sunrise. The brilliant colors of the mural dazzle visitors.",
+    "The remaining pages widened the discussion with additional observations. The tide pools teem with small crabs and snails.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "shroud",
+      "index": 0,
+      "definition": "to cover or hide something from view"
+    },
+    {
+      "word": "dazzle",
+      "index": 0,
+      "definition": "to impress or amaze with brightness or beauty"
+    },
+    {
+      "word": "teem",
+      "index": 0,
+      "definition": "to be full of living things"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-7195f2f4f7c63266",
+  "tier": "Core",
+  "topic": "Conditions & contrasts",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. The distant lighthouse was visible once the fog cleared. The injured bird gave a feeble flutter but could not take flight. The robust seedlings survived the cold nights without damage. Without their protective shells, the young turtles are vulnerable to predators.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The erratic bus service arrived early one day and very late the next. Only sporadic showers interrupted the mostly dry summer. We made a tentative plan for Saturday but still needed to check the weather. A waterproof bag is a practical solution for carrying books in the rain.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "visible",
+      "index": 0,
+      "definition": "able to be seen"
+    },
+    {
+      "word": "feeble",
+      "index": 0,
+      "definition": "lacking strength or force"
+    },
+    {
+      "word": "robust",
+      "index": 0,
+      "definition": "strong and healthy"
+    },
+    {
+      "word": "vulnerable",
+      "index": 0,
+      "definition": "easily hurt or damaged"
+    },
+    {
+      "word": "erratic",
+      "index": 0,
+      "definition": "changing in an unpredictable or irregular way"
+    },
+    {
+      "word": "sporadic",
+      "index": 0,
+      "definition": "happening occasionally at irregular intervals"
+    },
+    {
+      "word": "tentative",
+      "index": 0,
+      "definition": "not yet firm or certain"
+    },
+    {
+      "word": "practical",
+      "index": 0,
+      "definition": "suited to real needs and likely to work"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

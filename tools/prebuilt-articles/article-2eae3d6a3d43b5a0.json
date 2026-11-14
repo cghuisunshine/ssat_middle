@@ -1,0 +1,57 @@
+{
+  "id": "article-2eae3d6a3d43b5a0",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. The inspector closed the kitchen because of its unsanitary conditions. The unscrupulous seller hid the car's serious defects. The untimely frost damaged the young blossoms. The journey ended without any untoward incident.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The reunion filled her with unutterable joy. The board condemned the accusation as an unwarrantable attack. The revolution caused years of political upheaval. The chair's faded upholstery needed replacing.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "unsanitary",
+      "index": 0,
+      "definition": "dirty in a way that may spread disease"
+    },
+    {
+      "word": "unscrupulous",
+      "index": 0,
+      "definition": "willing to act dishonestly for personal gain"
+    },
+    {
+      "word": "untimely",
+      "index": 0,
+      "definition": "happening at an unsuitable time or earlier than expected"
+    },
+    {
+      "word": "untoward",
+      "index": 0,
+      "definition": "unexpected and troublesome or improper"
+    },
+    {
+      "word": "unutterable",
+      "index": 0,
+      "definition": "too extreme to express in words"
+    },
+    {
+      "word": "unwarrantable",
+      "index": 0,
+      "definition": "not able to be justified"
+    },
+    {
+      "word": "upheaval",
+      "index": 0,
+      "definition": "a sudden major disturbance or change"
+    },
+    {
+      "word": "upholstery",
+      "index": 0,
+      "definition": "the padding and fabric covering on furniture"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

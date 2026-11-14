@@ -1,0 +1,57 @@
+{
+  "id": "article-e4cd2b430ca0b94d",
+  "tier": "Core",
+  "topic": "Relationships & structure",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. The two arrows point in opposite directions. We have only a partial account because several pages are missing. Our primary concern is safety; everything else is less important. The remote campsite was far from roads and houses.",
+    "Other records complicated that first impression and encouraged a closer reading. After the meeting, the teachers returned to their respective classrooms. Each snowflake has a unique pattern unlike any other in the collection. The rule has universal application: it applies to everyone in the group. The fence marks the boundary between the two farms.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "opposite",
+      "index": 0,
+      "definition": "completely different or facing the other way"
+    },
+    {
+      "word": "partial",
+      "index": 0,
+      "definition": "incomplete or covering only some of the whole"
+    },
+    {
+      "word": "primary",
+      "index": 0,
+      "definition": "of first importance or occurring first"
+    },
+    {
+      "word": "remote",
+      "index": 0,
+      "definition": "far from populated places or usual routes"
+    },
+    {
+      "word": "respective",
+      "index": 0,
+      "definition": "belonging separately to each of several people"
+    },
+    {
+      "word": "unique",
+      "index": 0,
+      "definition": "the only one of its kind"
+    },
+    {
+      "word": "universal",
+      "index": 0,
+      "definition": "applying to everyone or everything"
+    },
+    {
+      "word": "boundary",
+      "index": 0,
+      "definition": "a line marking a limit or edge"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

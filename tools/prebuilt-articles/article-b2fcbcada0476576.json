@@ -1,0 +1,57 @@
+{
+  "id": "article-b2fcbcada0476576",
+  "tier": "Foundation",
+  "topic": "Feelings & reactions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The first section of the collection placed these observations side by side. The puppy was afraid of the thunder and hid under the bed. The children were amused by the clown's silly hat. He grew angry when he discovered that his bicycle had been stolen. She felt anxious while waiting for news of the missing hikers.",
+    "A later section added further scenes for comparison. He was ashamed of lying and decided to tell the truth. We were astonished to find snow in the desert. His awkward movements knocked over two chairs and a lamp. With food, shelter, and friends, the traveler felt content.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "afraid",
+      "index": 0,
+      "definition": "feeling fear"
+    },
+    {
+      "word": "amused",
+      "index": 0,
+      "definition": "finding something funny or entertaining"
+    },
+    {
+      "word": "angry",
+      "index": 0,
+      "definition": "feeling strong displeasure"
+    },
+    {
+      "word": "anxious",
+      "index": 0,
+      "definition": "worried about what may happen"
+    },
+    {
+      "word": "ashamed",
+      "index": 0,
+      "definition": "feeling bad about one's own wrongdoing"
+    },
+    {
+      "word": "astonished",
+      "index": 0,
+      "definition": "extremely surprised"
+    },
+    {
+      "word": "awkward",
+      "index": 0,
+      "definition": "clumsy or socially uncomfortable"
+    },
+    {
+      "word": "content",
+      "index": 0,
+      "definition": "satisfied with what one has"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

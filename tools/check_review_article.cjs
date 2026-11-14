@@ -6,7 +6,7 @@ const article={title:'A team discovery',paragraphs:[sample]};
 const nodes=new Map();const node=id=>{if(!nodes.has(id))nodes.set(id,{innerHTML:'',textContent:'',open:false,showModal(){this.open=true},close(){this.open=false}});return nodes.get(id)};
 let calls=[],pending=null,reply={response:JSON.stringify(article)},status=200,saved=0;
 const timers=new Map();let next=0;
-const context=vm.createContext({console,AbortController,Date,Map,Set,JSON,Error,TypeError,
+const context=vm.createContext({PREBUILT_ARTICLES:[{...article,id:"test-article",targets,createdAt:""}],console,AbortController,Date,Map,Set,JSON,Error,TypeError,
  state:{reviewLog:[],srsSession:{queue:['able']},cards:{},days:{}},
  currentDescriptor:null,srsCurrent:()=>context.currentDescriptor,
  dayKey:d=>(d||new Date()).toISOString().slice(0,10),srsDescriptor:id=>context.currentDescriptor?.id===id?context.currentDescriptor:id==='able'||id==='able#0'?descriptor:null,srsId:()=> 'able#0',
@@ -22,6 +22,13 @@ assert.equal((marked.match(/<mark /g)||[]).length,5,'All exact occurrences, acce
 assert.ok(marked.includes('>Able</mark>')&&marked.includes('>ad hoc</mark>')&&marked.includes('unable.'));
 const escaped=vm.runInContext(`highlightArticleWords('<img src=x> able & <script>bad</script>',[{word:'able',definition:'<img title="x">'}])`,context);
 assert.ok(!escaped.includes('<img')&&!escaped.includes('<script>')&&escaped.includes('&lt;img'));
+const focused=vm.runInContext(`highlightArticleWords('Able and candid; able, unable.',[{word:'able',definition:'capable'},{word:'candid',definition:'honest'}],{word:'able',definition:'capable'})`,context);
+assert.equal((focused.match(/review-current/g)||[]).length,2,'Every exact current-word occurrence has its own highlight');
+assert.equal((focused.match(/background:#cde9df/g)||[]).length,2);
+assert.equal((focused.match(/background:#ffe6a3/g)||[]).length,1,'Other words retain the original color');
+assert.ok(focused.includes('unable.'));
+const incidental=vm.runInContext(`highlightArticleWords('An ad hoc plan.',[{word:'ad hoc',definition:'specific'}],{word:'ad',definition:'advertisement'})`,context);
+assert.ok(incidental.includes('review-current')&&incidental.includes('>ad</mark> hoc'),'Current word is highlighted even outside the article targets or inside another phrase');
 (async()=>{
  assert.equal(calls.length,0,'No automatic request');
  assert.equal(vm.runInContext('articleTargets().length',context),1);
@@ -44,13 +51,16 @@ assert.ok(!escaped.includes('<img')&&!escaped.includes('<script>')&&escaped.incl
  vm.runInContext('state.reviewLog=[]',context);
  await vm.runInContext('openReviewArticle()',context);
  assert.equal(calls.length,initialCalls,'Covered current word opens existing article without a request');
+ assert.ok(node('reviewArticleDialog').innerHTML.includes('review-current'),'Dialog highlights the active review word');
  vm.runInContext("state.reviewArticle.paragraphs=['The unable team continued.']",context);
  await vm.runInContext('openReviewArticle()',context);
- assert.equal(calls.length,initialCalls+1,'Substring is not coverage; missing current word automatically generates');
+ assert.equal(calls.length,initialCalls,'Missing current word loads a prebuilt article offline');
+ assert.equal(vm.runInContext('state.reviewArticle.title',context),article.title);
  assert.ok(JSON.parse(calls.at(-1).options.body).message.includes('able'));
  context.currentDescriptor=null;
  await vm.runInContext('openReviewArticle()',context);
- assert.equal(calls.length,initialCalls+1,'No active card reuses saved article');
+ assert.equal(calls.length,initialCalls,'No active card reuses saved article');
+ assert.ok(!node('reviewArticleDialog').innerHTML.includes('review-current'),'No stale current-word highlight when the session ends');
  const generatedCount=calls.length;
  status=500;await vm.runInContext('generateReviewArticle()',context);assert.equal(saved,2,'Failure keeps old article');
  status=200;pending={};const job=vm.runInContext('generateReviewArticle()',context);await vm.runInContext('generateReviewArticle()',context);assert.equal(calls.length,generatedCount+2,'Double click creates one request');

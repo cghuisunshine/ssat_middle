@@ -1,4 +1,4 @@
-// Optional online reading practice. Core quizzes and FSRS never call this service.
+// Offline reading library with optional, explicit online article generation.
 const REVIEW_ARTICLE_ENDPOINT='https://lakesideart.gochatus.org/grade-service/general';
 var articleRequest=null;
 function articleTargets() {
@@ -32,31 +32,55 @@ function articleDialog() {
   if(!dialog){dialog=document.createElement('dialog');dialog.id='reviewArticleDialog';dialog.setAttribute('aria-label','Daily vocabulary article');dialog.style.width='min(760px,calc(100vw - 24px))';dialog.style.overflowWrap='anywhere';document.body.append(dialog);}
   return dialog;
 }
-function highlightArticleWords(text,targets) {
-  const matches=targets.flatMap(target=>[...text.matchAll(wordPattern(target.word))].map(match=>({start:match.index,end:match.index+match[0].length,target})));
-  matches.sort((a,b)=>a.start-b.start||b.end-a.end);
+function highlightArticleWords(text,targets,current=null) {
+  const focus=targets.filter(t=>t.word.toLowerCase()!==current?.word.toLowerCase());
+  if(current)focus.push(current);
+  const matches=focus.flatMap(target=>[...text.matchAll(wordPattern(target.word))].map(match=>({start:match.index,end:match.index+match[0].length,target,current:target===current})));
+  const currentMatches=matches.filter(m=>m.current);
+  // Keep the current word visible even when another target is an overlapping phrase.
+  const visible=matches.filter(m=>m.current||!currentMatches.some(c=>m.start<c.end&&m.end>c.start));
+  visible.sort((a,b)=>a.start-b.start||b.end-a.end);
   let cursor=0,result='';
-  for(const match of matches){
+  for(const match of visible){
     if(match.start<cursor)continue;
-    result+=esc(text.slice(cursor,match.start))+'<mark class="review-target" style="background:#ffe6a3;color:inherit;border-radius:3px;padding:0 2px" title="'+esc(match.target.word+': '+match.target.definition)+'">'+esc(text.slice(match.start,match.end))+'</mark>';
+    result+=esc(text.slice(cursor,match.start))+'<mark class="review-target'+(match.current?' review-current':'')+'" style="background:'+(match.current?'#cde9df':'#ffe6a3')+';color:inherit;border-radius:3px;padding:0 2px" title="'+esc((match.current?'Current review word — ':'')+match.target.word+': '+match.target.definition)+'">'+esc(text.slice(match.start,match.end))+'</mark>';
     cursor=match.end;
   }
   return result+esc(text.slice(cursor));
 }
 function renderArticleDialog(message='') {
   const dialog=articleDialog(),article=state.reviewArticle;
+  const card=srsCurrent(),current=card?{word:card.word,definition:article?.targets.find(t=>t.word===card.word)?.definition||card.sense.def}:null;
   const status=message||(articleRequest?'Writing your article…':article?'':'Choose Generate to create a new article.');
   dialog.innerHTML='<div class="row"><h2>Daily vocabulary article</h2><button data-article-action="close" aria-label="Close article">✕</button></div><p role="status" id="articleStatus" '+(status?'':'hidden')+'>'+esc(status)+'</p>'+
-    '<div class="row"><button data-article-action="generate" class="primary" '+(articleRequest?'disabled':'')+'>'+(articleRequest?'Generating…':'Generate article')+'</button>'+(articleRequest?'<button data-article-action="cancel">Cancel</button>':'')+'</div>'+
-    (article?'<article style="margin-top:24px"><h2>'+highlightArticleWords(article.title,article.targets)+'</h2>'+article.paragraphs.map(p=>'<p style="font-size:16px;line-height:1.8">'+highlightArticleWords(p,article.targets)+'</p>').join('')+'<h3>Review words</h3><ul>'+article.targets.map(t=>'<li><strong>'+esc(t.word)+'</strong> — '+esc(t.definition)+'</li>').join('')+'</ul></article>':'');
+    '<div class="row"><button data-article-action="generate" class="primary" '+(articleRequest?'disabled':'')+'>'+(articleRequest?'Generating…':'Generate new article (online)')+'</button>'+(articleRequest?'<button data-article-action="cancel">Cancel</button>':'')+'</div>'+
+    (article?'<article style="margin-top:24px"><h2>'+highlightArticleWords(article.title,article.targets,current)+'</h2>'+article.paragraphs.map(p=>'<p style="font-size:16px;line-height:1.8">'+highlightArticleWords(p,article.targets,current)+'</p>').join('')+'<h3>Review words</h3><ul>'+article.targets.map(t=>'<li><strong>'+highlightArticleWords(t.word,[t],current)+'</strong> — '+esc(t.definition)+'</li>').join('')+'</ul></article>':'');
   if(!dialog.open)dialog.showModal();
 }
 function cancelArticle() {if(articleRequest){articleRequest.controller.abort();articleRequest=null;} }
+function matchingPrebuiltArticle(current) {
+  if(!current)return null;
+  if(!matchingPrebuiltArticle.index){
+    const index=new Map();
+    for(const article of PREBUILT_ARTICLES)for(const target of article.targets){
+      if(!index.has(target.word))index.set(target.word,[]);
+      index.get(target.word).push(article);
+    }
+    matchingPrebuiltArticle.index=index;
+  }
+  const candidates=matchingPrebuiltArticle.index.get(current.word)||[];
+  const wanted=new Set(articleTargets().map(t=>t.word));
+  const score=a=>a.targets.reduce((n,t)=>n+Number(wanted.has(t.word)),0)+Number(a.targets.some(t=>t.word===current.word&&t.index===current.index))*10;
+  return [...candidates].sort((a,b)=>score(b)-score(a)||a.id.localeCompare(b.id))[0]||null;
+}
 function openReviewArticle() {
   if(articleRequest){renderArticleDialog();return;}
   const current=srsCurrent(),article=state.reviewArticle;
   if(article&&(!current||wordPattern(current.word).test(article.paragraphs.join(' ')))){renderArticleDialog();return;}
-  return generateReviewArticle();
+  const first=articleTargets()[0];
+  const prebuilt=matchingPrebuiltArticle(current||(first?srsDescriptor(srsId(first.word,first.index,'recognition')):null));
+  if(prebuilt){state.reviewArticle=normalizeReviewArticle(prebuilt);save();renderArticleDialog();return;}
+  renderArticleDialog(current?'No prebuilt article covers this added word. You can generate one online.':'Start a review session to load a matching article.');
 }
 async function generateReviewArticle() {
   if(articleRequest)return;
@@ -70,7 +94,7 @@ async function generateReviewArticle() {
     if(!response.ok)throw Error('The AI service could not generate the article (HTTP '+response.status+'). Please retry.');
     const article=parseArticleResponse(await response.json(),targets);
     if(articleRequest!==request||state!==owner)return;
-    state.reviewArticle=article;save();articleRequest=null;if($('reviewArticleDialog')?.open)renderArticleDialog();else toast('Your vocabulary article is ready in Daily review.');const button=document.querySelector('[data-action="generate-article"]');if(button)button.textContent='Read / generate article';
+    state.reviewArticle=article;save();articleRequest=null;if($('reviewArticleDialog')?.open)renderArticleDialog();else toast('Your vocabulary article is ready in Daily review.');const button=document.querySelector('[data-action="generate-article"]');if(button)button.textContent='Read article';
   }catch(error){if(articleRequest!==request||state!==owner)return;if($('reviewArticleDialog')?.open)renderArticleDialog(request.timedOut?'Article generation timed out. Please retry.':error.name==='AbortError'?'Generation canceled.':error instanceof TypeError?'Could not reach the AI service. Check your connection and retry.':error.message);}
   finally{clearTimeout(timer);if(articleRequest===request){articleRequest=null;const dialog=$('reviewArticleDialog');if(dialog?.open){const status=$('articleStatus')?.textContent||'';renderArticleDialog(status);}}}
 }

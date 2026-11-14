@@ -1,0 +1,37 @@
+{
+  "id": "article-87fb6ee8ada7cb53",
+  "tier": "Core",
+  "topic": "Emotions & attitudes",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. He sighed with exasperation when the computer failed for the fifth time. The sympathetic teacher listened kindly to the worried child.",
+    "A later section added further scenes for comparison. He reluctantly left the playground when it was time to go. After the long walk, we began to appreciate the comfort of a warm room.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "exasperation",
+      "index": 0,
+      "definition": "a feeling of intense irritation"
+    },
+    {
+      "word": "sympathetic",
+      "index": 0,
+      "definition": "showing concern for someone else's troubles"
+    },
+    {
+      "word": "reluctantly",
+      "index": 0,
+      "definition": "in an unwilling or hesitant manner"
+    },
+    {
+      "word": "appreciate",
+      "index": 0,
+      "definition": "to recognize the value or good qualities of something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

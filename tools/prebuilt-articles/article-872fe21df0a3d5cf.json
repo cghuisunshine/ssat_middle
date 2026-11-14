@@ -1,0 +1,57 @@
+{
+  "id": "article-872fe21df0a3d5cf",
+  "tier": "Stretch",
+  "topic": "Powerful verbs",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The new law will abolish the unfair fee completely. She chose to abstain from voting because she had a personal interest in the result. A shaded shelter helped alleviate the travelers' discomfort in the heat. The microphone will amplify your voice so everyone can hear it.",
+    "The remaining pages widened the discussion with additional observations. Students need time to assimilate new information and connect it with earlier learning. Quick repairs helped avert a serious accident on the bridge. The bully tried to coerce smaller children into giving him their lunch money. The security recording helped corroborate the witness's account.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "abolish",
+      "index": 0,
+      "definition": "to formally end a law or practice"
+    },
+    {
+      "word": "abstain",
+      "index": 0,
+      "definition": "to deliberately choose not to do something"
+    },
+    {
+      "word": "alleviate",
+      "index": 0,
+      "definition": "to make suffering less severe"
+    },
+    {
+      "word": "amplify",
+      "index": 0,
+      "definition": "to increase strength or volume"
+    },
+    {
+      "word": "assimilate",
+      "index": 0,
+      "definition": "to take in and fully understand information"
+    },
+    {
+      "word": "avert",
+      "index": 0,
+      "definition": "to prevent something bad from happening"
+    },
+    {
+      "word": "coerce",
+      "index": 0,
+      "definition": "to force someone through threats or pressure"
+    },
+    {
+      "word": "corroborate",
+      "index": 0,
+      "definition": "to support a claim with additional evidence"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

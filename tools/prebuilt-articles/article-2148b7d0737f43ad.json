@@ -1,0 +1,57 @@
+{
+  "id": "article-2148b7d0737f43ad",
+  "tier": "Core",
+  "topic": "Society & people",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. As a novice, I needed help with the basic sailing knots. Her opponent stood across the tennis net, ready to serve. The young orphan had lost both parents before arriving at the shelter. The aviation pioneer tested ideas that later pilots would follow.",
+    "Other records complicated that first impression and encouraged a closer reading. The restaurant earned a reputation for excellent food and friendly service. Her closest rival finished only a second behind her. Every spectator watched from the stands while the athletes competed. The tenant pays rent to the owner of the apartment.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "novice",
+      "index": 0,
+      "definition": "someone new to an activity"
+    },
+    {
+      "word": "opponent",
+      "index": 0,
+      "definition": "someone competing or arguing against another"
+    },
+    {
+      "word": "orphan",
+      "index": 0,
+      "definition": "a child whose parents have died"
+    },
+    {
+      "word": "pioneer",
+      "index": 0,
+      "definition": "a person among the first to explore or develop something"
+    },
+    {
+      "word": "reputation",
+      "index": 0,
+      "definition": "what people generally believe about someone"
+    },
+    {
+      "word": "rival",
+      "index": 0,
+      "definition": "someone seeking the same goal as another"
+    },
+    {
+      "word": "spectator",
+      "index": 0,
+      "definition": "someone who watches an event"
+    },
+    {
+      "word": "tenant",
+      "index": 0,
+      "definition": "someone who rents property"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

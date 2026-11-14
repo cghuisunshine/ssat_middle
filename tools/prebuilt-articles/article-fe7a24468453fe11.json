@@ -1,0 +1,57 @@
+{
+  "id": "article-fe7a24468453fe11",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. The poem ended with a rhyming couplet. In the fantasy tale, a coven met in the forest. The crafty fox found another way into the orchard. Tiny plants grew in the crannied stone wall.",
+    "Other records complicated that first impression and encouraged a closer reading. His crass joke upset the guests. The expert's clear evidence strengthened her credibility. The fairy tale introduced a mysterious crone beside the road. The crotchety character grumbled about the noisy visitors.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "couplet",
+      "index": 0,
+      "definition": "two successive lines of verse, often forming a unit"
+    },
+    {
+      "word": "coven",
+      "index": 0,
+      "definition": "a group of witches in folklore or fiction"
+    },
+    {
+      "word": "crafty",
+      "index": 0,
+      "definition": "clever at getting what one wants, often by trickery"
+    },
+    {
+      "word": "crannied",
+      "index": 0,
+      "definition": "having small cracks or narrow openings"
+    },
+    {
+      "word": "crass",
+      "index": 0,
+      "definition": "insensitive and lacking good judgment or manners"
+    },
+    {
+      "word": "credibility",
+      "index": 0,
+      "definition": "the quality of being believable or trustworthy"
+    },
+    {
+      "word": "crone",
+      "index": 0,
+      "definition": "an old woman described in an unkind or storybook manner"
+    },
+    {
+      "word": "crotchety",
+      "index": 0,
+      "definition": "easily irritated and inclined to complain"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

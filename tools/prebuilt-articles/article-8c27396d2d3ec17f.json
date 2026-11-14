@@ -1,0 +1,57 @@
+{
+  "id": "article-8c27396d2d3ec17f",
+  "tier": "Foundation",
+  "topic": "Everyday academic nouns",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. This method solves the problem in three clear steps. In my opinion, the second design is easier to use. Researchers traced the river's origin to a spring in the hills. The purpose of the fence is to keep deer out of the garden.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Heavy snow was the reason for the school's closure. The flooded streets were a result of the broken water pipe. Building a ramp offered a solution to the access problem. Her natural talent for music was clear before she began lessons.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "method",
+      "index": 0,
+      "definition": "a planned way of doing something"
+    },
+    {
+      "word": "opinion",
+      "index": 0,
+      "definition": "a personal belief or judgment"
+    },
+    {
+      "word": "origin",
+      "index": 0,
+      "definition": "the point where something begins"
+    },
+    {
+      "word": "purpose",
+      "index": 0,
+      "definition": "the reason for doing something"
+    },
+    {
+      "word": "reason",
+      "index": 0,
+      "definition": "an explanation for an action or belief"
+    },
+    {
+      "word": "result",
+      "index": 0,
+      "definition": "something that follows from an action"
+    },
+    {
+      "word": "solution",
+      "index": 0,
+      "definition": "an answer to a problem"
+    },
+    {
+      "word": "talent",
+      "index": 0,
+      "definition": "a natural ability to do something well"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

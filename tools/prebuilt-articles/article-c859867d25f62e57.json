@@ -1,0 +1,57 @@
+{
+  "id": "article-c859867d25f62e57",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. The officials agreed to annul the result after discovering an error. He joked that the broken typewriter was antediluvian. The crowd stood together while the national anthem played. The comedian's antic gestures made the audience laugh.",
+    "Other records complicated that first impression and encouraged a closer reading. The exhibition displayed tools used in antiquity. His calm reply was the antithesis of her angry outburst. She answered the unexpected question with admirable aplomb. His apologetic note explained why he had missed the appointment.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "annul",
+      "index": 0,
+      "definition": "to officially declare something invalid"
+    },
+    {
+      "word": "antediluvian",
+      "index": 0,
+      "definition": "extremely old-fashioned or belonging to a very distant past"
+    },
+    {
+      "word": "anthem",
+      "index": 0,
+      "definition": "a song expressing loyalty or shared pride"
+    },
+    {
+      "word": "antic",
+      "index": 0,
+      "definition": "strangely playful or amusingly odd"
+    },
+    {
+      "word": "antiquity",
+      "index": 0,
+      "definition": "the distant past, especially the ancient world"
+    },
+    {
+      "word": "antithesis",
+      "index": 0,
+      "definition": "the direct opposite of something"
+    },
+    {
+      "word": "aplomb",
+      "index": 0,
+      "definition": "calm confidence in a difficult situation"
+    },
+    {
+      "word": "apologetic",
+      "index": 0,
+      "definition": "showing regret and a wish to say sorry"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

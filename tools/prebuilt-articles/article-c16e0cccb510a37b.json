@@ -1,0 +1,57 @@
+{
+  "id": "article-c16e0cccb510a37b",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. The announcement was welcomed by much of the populace. The sky had a dark, portentous appearance. Visitors gathered beneath the portico during the rain. The messenger entered through a hidden postern.",
+    "Other records complicated that first impression and encouraged a closer reading. The artist received posthumous recognition for her work. As a pragmatist, she chose the solution that could be built immediately. The closure was a precautionary measure before the storm. Safety takes precedence over speed.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "populace",
+      "index": 0,
+      "definition": "the ordinary people of a place"
+    },
+    {
+      "word": "portentous",
+      "index": 0,
+      "definition": "suggesting something important or threatening is approaching"
+    },
+    {
+      "word": "portico",
+      "index": 0,
+      "definition": "a covered entrance supported by columns"
+    },
+    {
+      "word": "postern",
+      "index": 0,
+      "definition": "a small rear or side entrance"
+    },
+    {
+      "word": "posthumous",
+      "index": 0,
+      "definition": "occurring or published after a person's death"
+    },
+    {
+      "word": "pragmatist",
+      "index": 0,
+      "definition": "a person who focuses on practical results"
+    },
+    {
+      "word": "precautionary",
+      "index": 0,
+      "definition": "intended to prevent a possible danger or problem"
+    },
+    {
+      "word": "precedence",
+      "index": 0,
+      "definition": "priority in rank, order, or importance"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-348c80624e0a520d",
+  "tier": "Stretch",
+  "topic": "Precision in degree & extent",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. Their meager food supply was barely enough for one small meal. The scientist used a microscope to examine the minute crack. Her novel solution used an approach that nobody had tried before. In the busy city, traffic noise seemed omnipresent, reaching every street.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The pervasive smell of smoke reached every room in the house. The experience had a profound effect, changing the way she understood friendship. The prolific author published three novels and many stories in one year. The pristine beach showed no litter, footprints, or other signs of disturbance.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "meager",
+      "index": 0,
+      "definition": "too small in amount to be sufficient"
+    },
+    {
+      "word": "minute",
+      "index": 0,
+      "definition": "extremely small in size"
+    },
+    {
+      "word": "novel",
+      "index": 0,
+      "definition": "new and unusual"
+    },
+    {
+      "word": "omnipresent",
+      "index": 0,
+      "definition": "present everywhere at the same time"
+    },
+    {
+      "word": "pervasive",
+      "index": 0,
+      "definition": "spread throughout every part"
+    },
+    {
+      "word": "profound",
+      "index": 0,
+      "definition": "very deep or intellectually significant"
+    },
+    {
+      "word": "prolific",
+      "index": 0,
+      "definition": "producing many works or results"
+    },
+    {
+      "word": "pristine",
+      "index": 0,
+      "definition": "in an original unspoiled condition"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

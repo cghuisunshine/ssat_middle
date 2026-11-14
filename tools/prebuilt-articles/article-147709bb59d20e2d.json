@@ -1,0 +1,57 @@
+{
+  "id": "article-147709bb59d20e2d",
+  "tier": "Core",
+  "topic": "Quality & judgment",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. A peculiar smell unlike anything familiar drifted from the cupboard. Include only evidence relevant to the question being discussed. The injured runner made a remarkable recovery that surprised everyone. The new bridge made a significant difference to travel times.",
+    "The remaining pages widened the discussion with additional observations. A superficial inspection missed the serious damage beneath the surface. The superior design proved stronger and easier to use than the alternatives. Do not let a trivial disagreement ruin an important friendship. The conclusion is valid because the evidence supports it.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "peculiar",
+      "index": 0,
+      "definition": "strange or unusual"
+    },
+    {
+      "word": "relevant",
+      "index": 0,
+      "definition": "closely connected to the matter at hand"
+    },
+    {
+      "word": "remarkable",
+      "index": 0,
+      "definition": "unusual enough to attract attention"
+    },
+    {
+      "word": "significant",
+      "index": 0,
+      "definition": "important enough to have an effect"
+    },
+    {
+      "word": "superficial",
+      "index": 0,
+      "definition": "concerned only with the surface"
+    },
+    {
+      "word": "superior",
+      "index": 0,
+      "definition": "higher in quality or rank"
+    },
+    {
+      "word": "trivial",
+      "index": 0,
+      "definition": "of very little importance"
+    },
+    {
+      "word": "valid",
+      "index": 0,
+      "definition": "supported by sound reasoning or evidence"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

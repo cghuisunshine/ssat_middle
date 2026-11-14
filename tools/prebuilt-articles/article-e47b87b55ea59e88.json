@@ -1,0 +1,57 @@
+{
+  "id": "article-e47b87b55ea59e88",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The neglectful owner forgot to water the plants. As a neophyte, she welcomed advice from experienced climbers. In the poem, the traveler seeks nepenthe for his sorrow. The lecture introduced basic ideas in neurology.",
+    "A later section added further scenes for comparison. The mediator's neutrality helped both groups trust the process. The calligrapher cleaned the nib carefully. A noisome odor rose from the stagnant pool. The nomadic group followed seasonal grazing routes.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "neglectful",
+      "index": 0,
+      "definition": "failing to give proper attention or care"
+    },
+    {
+      "word": "neophyte",
+      "index": 0,
+      "definition": "a beginner in an activity or field"
+    },
+    {
+      "word": "nepenthe",
+      "index": 0,
+      "definition": "something imagined to remove grief or painful memories"
+    },
+    {
+      "word": "neurology",
+      "index": 0,
+      "definition": "the study and treatment of the nervous system"
+    },
+    {
+      "word": "neutrality",
+      "index": 0,
+      "definition": "the state of not supporting either side"
+    },
+    {
+      "word": "nib",
+      "index": 0,
+      "definition": "the pointed part of a pen that carries ink"
+    },
+    {
+      "word": "noisome",
+      "index": 0,
+      "definition": "offensively unpleasant, especially in smell"
+    },
+    {
+      "word": "nomadic",
+      "index": 0,
+      "definition": "moving from place to place rather than living permanently in one spot"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

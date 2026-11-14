@@ -1,0 +1,57 @@
+{
+  "id": "article-480afd00e80cad8a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The missing documents began to resurface during the investigation. Cold temperatures can retard the growth of the seedlings. Regular review improves retention of new information. The reticent student preferred listening to speaking.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The organization had to retrench after losing funding. The tale explores the desire for retribution after betrayal. The visitors treated the memorial with reverence. Fresh ideas helped revivify the struggling club.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "resurface",
+      "index": 0,
+      "definition": "to appear again or provide a new surface"
+    },
+    {
+      "word": "retard",
+      "index": 0,
+      "definition": "to slow or delay progress"
+    },
+    {
+      "word": "retention",
+      "index": 0,
+      "definition": "the act or ability of keeping something"
+    },
+    {
+      "word": "reticent",
+      "index": 0,
+      "definition": "unwilling to reveal thoughts or feelings"
+    },
+    {
+      "word": "retrench",
+      "index": 0,
+      "definition": "to reduce spending or scale back activity"
+    },
+    {
+      "word": "retribution",
+      "index": 0,
+      "definition": "punishment given in response to wrongdoing"
+    },
+    {
+      "word": "reverence",
+      "index": 0,
+      "definition": "deep respect and admiration"
+    },
+    {
+      "word": "revivify",
+      "index": 0,
+      "definition": "to give new energy or life to something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

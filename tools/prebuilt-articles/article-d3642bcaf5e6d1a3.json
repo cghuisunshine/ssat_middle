@@ -1,0 +1,32 @@
+{
+  "id": "article-d3642bcaf5e6d1a3",
+  "tier": "Core",
+  "topic": "Quality & judgment",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. The valuable manuscript was kept in a locked display case. Her commendable honesty helped the team correct its mistake.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The fireworks created a spectacular display above the lake.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "valuable",
+      "index": 0,
+      "definition": "having great worth or usefulness"
+    },
+    {
+      "word": "commendable",
+      "index": 0,
+      "definition": "deserving praise or approval"
+    },
+    {
+      "word": "spectacular",
+      "index": 0,
+      "definition": "strikingly impressive or dramatic to see"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

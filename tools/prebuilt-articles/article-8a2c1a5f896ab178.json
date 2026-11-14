@@ -1,0 +1,57 @@
+{
+  "id": "article-8a2c1a5f896ab178",
+  "tier": "Stretch",
+  "topic": "Precision in degree & extent",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. The recurrent fault appeared again each time we restarted the machine. The rigorous inspection tested every part against demanding standards. The sparse crowd left most of the seats empty. The stagnant water had not flowed or moved for weeks.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Sorting thousands of identical screws was a tedious task. The transient visitors stayed only one night before continuing their journey. A uniform layer of paint covered the entire surface evenly. The versatile tool can cut, grip, and tighten screws.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "recurrent",
+      "index": 0,
+      "definition": "happening again repeatedly"
+    },
+    {
+      "word": "rigorous",
+      "index": 0,
+      "definition": "extremely thorough and demanding"
+    },
+    {
+      "word": "sparse",
+      "index": 0,
+      "definition": "thinly scattered and not dense"
+    },
+    {
+      "word": "stagnant",
+      "index": 0,
+      "definition": "not moving or developing"
+    },
+    {
+      "word": "tedious",
+      "index": 0,
+      "definition": "boring because of length or repetition"
+    },
+    {
+      "word": "transient",
+      "index": 0,
+      "definition": "lasting only a short time"
+    },
+    {
+      "word": "uniform",
+      "index": 0,
+      "definition": "remaining the same throughout"
+    },
+    {
+      "word": "versatile",
+      "index": 0,
+      "definition": "able to do many different things well"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

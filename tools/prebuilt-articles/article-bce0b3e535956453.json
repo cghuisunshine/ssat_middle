@@ -1,0 +1,57 @@
+{
+  "id": "article-bce0b3e535956453",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. The doctor examined the painful ulcer inside his mouth. The library owns an unabridged edition of the novel. An unaccountable noise came from the empty attic. The city visitors were unaccustomed to the farm's early schedule.",
+    "Other records complicated that first impression and encouraged a closer reading. The bottle contained unadulterated olive oil. The witness told an unblushing lie despite the clear evidence. The guard gave the noisy visitor an unceremonious dismissal. The judge condemned the prison's cruel treatment as uncivilized.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "ulcer",
+      "index": 0,
+      "definition": "an open sore on the skin or an internal surface of the body"
+    },
+    {
+      "word": "unabridged",
+      "index": 0,
+      "definition": "containing the complete original text"
+    },
+    {
+      "word": "unaccountable",
+      "index": 0,
+      "definition": "impossible to explain satisfactorily"
+    },
+    {
+      "word": "unaccustomed",
+      "index": 0,
+      "definition": "not familiar with or used to something"
+    },
+    {
+      "word": "unadulterated",
+      "index": 0,
+      "definition": "pure and not mixed with anything else"
+    },
+    {
+      "word": "unblushing",
+      "index": 0,
+      "definition": "showing no shame or embarrassment"
+    },
+    {
+      "word": "unceremonious",
+      "index": 0,
+      "definition": "abrupt and lacking the usual politeness or formality"
+    },
+    {
+      "word": "uncivilized",
+      "index": 0,
+      "definition": "lacking polite or humane behavior"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

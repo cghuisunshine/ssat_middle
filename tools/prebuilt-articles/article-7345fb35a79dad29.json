@@ -1,0 +1,57 @@
+{
+  "id": "article-7345fb35a79dad29",
+  "tier": "Stretch",
+  "topic": "Adversity & achievement nouns",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The group began by reading the following accounts without adding explanations of its own. The scholarship offered an opportunity to study abroad. The sailors were in peril as their damaged boat drifted toward the rocks. Her perseverance kept her practicing after many unsuccessful attempts. Winning the international prize brought prestige to the small research institute.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Her proficiency in French allowed her to translate the letter easily. His firm resolve helped him continue despite repeated setbacks. The broken engine was a setback that delayed our journey by a day. Completing the difficult climb was a triumph for the whole team.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "opportunity",
+      "index": 0,
+      "definition": "a favorable chance to do something"
+    },
+    {
+      "word": "peril",
+      "index": 0,
+      "definition": "serious and immediate danger"
+    },
+    {
+      "word": "perseverance",
+      "index": 0,
+      "definition": "continued effort despite difficulty"
+    },
+    {
+      "word": "prestige",
+      "index": 0,
+      "definition": "respect gained from achievements or status"
+    },
+    {
+      "word": "proficiency",
+      "index": 0,
+      "definition": "a high level of skill"
+    },
+    {
+      "word": "resolve",
+      "index": 0,
+      "definition": "firm determination to act"
+    },
+    {
+      "word": "setback",
+      "index": 0,
+      "definition": "a problem that delays progress"
+    },
+    {
+      "word": "triumph",
+      "index": 0,
+      "definition": "a great victory or achievement"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

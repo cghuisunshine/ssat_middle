@@ -1,0 +1,57 @@
+{
+  "id": "article-8a1e79d884cd65bc",
+  "tier": "Foundation",
+  "topic": "Thinking & communication",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. Remember to mention the broken lock when you speak to the caretaker. Did you notice the small bird hidden among the branches? She used strong evidence to persuade the council to support the plan. Dark clouds often help sailors predict approaching storms.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Can you recall where you last saw the missing key? Please reply to the invitation before Friday. You may request extra paper if your first sheet is full. The committee will suggest several possible solutions for discussion.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "mention",
+      "index": 0,
+      "definition": "to refer to briefly"
+    },
+    {
+      "word": "notice",
+      "index": 0,
+      "definition": "to become aware of"
+    },
+    {
+      "word": "persuade",
+      "index": 0,
+      "definition": "to lead someone to agree through reasons"
+    },
+    {
+      "word": "predict",
+      "index": 0,
+      "definition": "to say what will happen in advance"
+    },
+    {
+      "word": "recall",
+      "index": 0,
+      "definition": "to bring back to memory"
+    },
+    {
+      "word": "reply",
+      "index": 0,
+      "definition": "to answer in words"
+    },
+    {
+      "word": "request",
+      "index": 0,
+      "definition": "to ask politely for"
+    },
+    {
+      "word": "suggest",
+      "index": 0,
+      "definition": "to put forward an idea for consideration"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

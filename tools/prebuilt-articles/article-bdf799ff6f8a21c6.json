@@ -1,0 +1,57 @@
+{
+  "id": "article-bdf799ff6f8a21c6",
+  "tier": "Stretch",
+  "topic": "Literary & academic distinctions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. Claiming to have waited a million years is an example of hyperbole. The actor delivered a long monologue without another character speaking. The phrase \"the wind whispered\" uses personification to give nature a human action. The prologue introduces events that occurred before the main story begins.",
+    "A later section added further scenes for comparison. In the poem, the broken chain is a symbol of freedom. A clear transition helps readers move from one paragraph's idea to the next. The essay's thesis states the main argument that the writer will defend. An objective report presents facts without letting personal feelings distort them.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "hyperbole",
+      "index": 0,
+      "definition": "deliberate exaggeration for effect"
+    },
+    {
+      "word": "monologue",
+      "index": 0,
+      "definition": "a long speech by one person"
+    },
+    {
+      "word": "personification",
+      "index": 0,
+      "definition": "giving human qualities to nonhuman things"
+    },
+    {
+      "word": "prologue",
+      "index": 0,
+      "definition": "an introductory section before a main work"
+    },
+    {
+      "word": "symbol",
+      "index": 0,
+      "definition": "something that represents a larger idea"
+    },
+    {
+      "word": "transition",
+      "index": 0,
+      "definition": "a change or passage from one state to another"
+    },
+    {
+      "word": "thesis",
+      "index": 0,
+      "definition": "the central claim of an argument"
+    },
+    {
+      "word": "objective",
+      "index": 0,
+      "definition": "based on facts rather than personal feelings"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

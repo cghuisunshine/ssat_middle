@@ -1,0 +1,57 @@
+{
+  "id": "article-d4db4ffae4f1c67e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. Her guileless question revealed genuine curiosity. We scraped the gunk from the clogged drain. The museum diagram identified the parts of an antique gunlock. The attendants moved the patient on a gurney.",
+    "Other records complicated that first impression and encouraged a closer reading. After the race, he wanted to guzzle the entire bottle of water. The dancers began to gyrate to the lively rhythm. The hacker attempted to enter the protected network. The memorial helps hallow the place where the rescuers died.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "guileless",
+      "index": 0,
+      "definition": "honest and without a wish to deceive"
+    },
+    {
+      "word": "gunk",
+      "index": 0,
+      "definition": "an unpleasant sticky or dirty substance"
+    },
+    {
+      "word": "gunlock",
+      "index": 0,
+      "definition": "the firing mechanism of a firearm"
+    },
+    {
+      "word": "gurney",
+      "index": 0,
+      "definition": "a wheeled bed used to move patients"
+    },
+    {
+      "word": "guzzle",
+      "index": 0,
+      "definition": "to drink something quickly and greedily"
+    },
+    {
+      "word": "gyrate",
+      "index": 0,
+      "definition": "to move in a circle or spiral"
+    },
+    {
+      "word": "hacker",
+      "index": 0,
+      "definition": "a person who gains unauthorized access to computer systems"
+    },
+    {
+      "word": "hallow",
+      "index": 0,
+      "definition": "to honor as sacred or deeply worthy of respect"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

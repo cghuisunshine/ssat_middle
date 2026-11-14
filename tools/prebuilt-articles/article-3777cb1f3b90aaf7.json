@@ -1,0 +1,57 @@
+{
+  "id": "article-3777cb1f3b90aaf7",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. Rich soil and regular watering help nourish the young plants. Bird migration brings thousands of geese to the wetland each autumn. Protecting nesting sites can help prevent the extinction of a rare bird. The naturalist recorded the insects living beneath fallen logs.",
+    "Other records complicated that first impression and encouraged a closer reading. The two dog breeds share a common ancestry. The owl is a predator that catches mice at night. The fossil showed the outline of a leaf in the rock. The paleontologist examined a tooth found in the cliff.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "nourish",
+      "index": 0,
+      "definition": "to supply food needed for growth"
+    },
+    {
+      "word": "migration",
+      "index": 0,
+      "definition": "the regular movement of animals from one region to another"
+    },
+    {
+      "word": "extinction",
+      "index": 0,
+      "definition": "the complete disappearance of a species"
+    },
+    {
+      "word": "naturalist",
+      "index": 0,
+      "definition": "a person who studies plants and animals in their surroundings"
+    },
+    {
+      "word": "ancestry",
+      "index": 0,
+      "definition": "the line of earlier generations from which a person or living thing descends"
+    },
+    {
+      "word": "predator",
+      "index": 0,
+      "definition": "an animal that hunts and eats other animals"
+    },
+    {
+      "word": "fossil",
+      "index": 0,
+      "definition": "a preserved remain or trace of an organism from the distant past"
+    },
+    {
+      "word": "paleontologist",
+      "index": 0,
+      "definition": "a scientist who studies ancient life through fossils"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-f33032c51813a897",
+  "tier": "Stretch",
+  "topic": "Adversity & achievement nouns",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. A tight budget was the main constraint on the size of our project. A deficiency of water caused the plants to stop growing. Use discretion when discussing private matters that might embarrass someone. The expedition was a difficult endeavor that required years of preparation.",
+    "Other records complicated that first impression and encouraged a closer reading. She faced the long recovery with patience and fortitude. The promised reward gave the students an incentive to finish early. Without being asked, she took the initiative and organized the cleanup. A fallen tree was the final obstacle blocking our path.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "constraint",
+      "index": 0,
+      "definition": "a restriction limiting action"
+    },
+    {
+      "word": "deficiency",
+      "index": 0,
+      "definition": "a lack of something necessary"
+    },
+    {
+      "word": "discretion",
+      "index": 0,
+      "definition": "good judgment about what to say or do"
+    },
+    {
+      "word": "endeavor",
+      "index": 0,
+      "definition": "a serious effort to do something"
+    },
+    {
+      "word": "fortitude",
+      "index": 0,
+      "definition": "courage during pain or difficulty"
+    },
+    {
+      "word": "incentive",
+      "index": 0,
+      "definition": "something that motivates action"
+    },
+    {
+      "word": "initiative",
+      "index": 0,
+      "definition": "the ability to act without being told"
+    },
+    {
+      "word": "obstacle",
+      "index": 0,
+      "definition": "something standing in the way of progress"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

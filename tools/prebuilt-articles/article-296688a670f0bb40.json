@@ -1,0 +1,57 @@
+{
+  "id": "article-296688a670f0bb40",
+  "tier": "Core",
+  "topic": "Speech & expression",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The first section of the collection placed these observations side by side. The witness continued to assert that she had seen the missing car. A diagram may clarify the instructions and make them easier to follow. The principal will commend the students for their honesty. Passengers began to complain about the long delay.",
+    "A later section added further scenes for comparison. After seeing the evidence, he had to concede that his theory was wrong. She chose to confide her worries to a trusted friend. The new measurements contradict the claim that the room is square. The council will debate the benefits and costs of the new park.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "assert",
+      "index": 0,
+      "definition": "to state confidently as true"
+    },
+    {
+      "word": "clarify",
+      "index": 0,
+      "definition": "to make something easier to understand"
+    },
+    {
+      "word": "commend",
+      "index": 0,
+      "definition": "to praise someone formally"
+    },
+    {
+      "word": "complain",
+      "index": 0,
+      "definition": "to express dissatisfaction"
+    },
+    {
+      "word": "concede",
+      "index": 0,
+      "definition": "to admit something after initially resisting"
+    },
+    {
+      "word": "confide",
+      "index": 0,
+      "definition": "to tell someone a private matter in trust"
+    },
+    {
+      "word": "contradict",
+      "index": 0,
+      "definition": "to say the opposite of a statement"
+    },
+    {
+      "word": "debate",
+      "index": 0,
+      "definition": "to discuss opposing views of an issue"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

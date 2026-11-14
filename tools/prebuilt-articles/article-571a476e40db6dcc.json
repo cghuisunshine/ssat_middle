@@ -1,0 +1,57 @@
+{
+  "id": "article-571a476e40db6dcc",
+  "tier": "Core",
+  "topic": "Emotions & attitudes",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "Several records provided a starting point for the discussion. The team felt elation when the final whistle confirmed its victory. For the exhausted traveler, a warm bed was pure bliss. Years of arguments created animosity between the neighbors. She apologized because her joke had caused pain, though she intended no malice.",
+    "Other records complicated that first impression and encouraged a closer reading. I sympathize with anyone who has lost a beloved pet. The volunteers showed compassion by caring for the injured animals. Her indifference to the outcome showed that she did not care who won. The captain earned the crew's loyalty by treating everyone fairly.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "elation",
+      "index": 0,
+      "definition": "a feeling of great happiness and excitement"
+    },
+    {
+      "word": "bliss",
+      "index": 0,
+      "definition": "a state of complete happiness"
+    },
+    {
+      "word": "animosity",
+      "index": 0,
+      "definition": "strong hostility or ill feeling toward someone"
+    },
+    {
+      "word": "malice",
+      "index": 0,
+      "definition": "the desire to hurt someone or cause trouble"
+    },
+    {
+      "word": "sympathize",
+      "index": 0,
+      "definition": "to feel concern for someone who is suffering"
+    },
+    {
+      "word": "compassion",
+      "index": 0,
+      "definition": "concern for another's suffering and a desire to help"
+    },
+    {
+      "word": "indifference",
+      "index": 0,
+      "definition": "a lack of interest or concern"
+    },
+    {
+      "word": "loyalty",
+      "index": 0,
+      "definition": "continued commitment to a person, group, or belief"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

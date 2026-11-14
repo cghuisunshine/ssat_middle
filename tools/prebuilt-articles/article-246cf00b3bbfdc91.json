@@ -1,0 +1,57 @@
+{
+  "id": "article-246cf00b3bbfdc91",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. A tiny organism in the pond is still a living thing. Snow and rain are both forms of precipitation. The reserve protects a rare species of frog found nowhere else. The rocky terrain made walking difficult even with sturdy boots.",
+    "The remaining pages widened the discussion with additional observations. The puddles will evaporate as the sun warms the pavement. Keep the seeds moist so that they can germinate and begin to grow. Some mammals hibernate during winter instead of searching for food. These birds migrate south when winter approaches.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "organism",
+      "index": 0,
+      "definition": "an individual living thing"
+    },
+    {
+      "word": "precipitation",
+      "index": 0,
+      "definition": "water falling from clouds as rain or snow"
+    },
+    {
+      "word": "species",
+      "index": 0,
+      "definition": "a biological group of closely related organisms"
+    },
+    {
+      "word": "terrain",
+      "index": 0,
+      "definition": "the physical features of an area of land"
+    },
+    {
+      "word": "evaporate",
+      "index": 0,
+      "definition": "to change from liquid into vapor"
+    },
+    {
+      "word": "germinate",
+      "index": 0,
+      "definition": "to begin to grow from a seed"
+    },
+    {
+      "word": "hibernate",
+      "index": 0,
+      "definition": "to spend winter in a resting state"
+    },
+    {
+      "word": "migrate",
+      "index": 0,
+      "definition": "to move seasonally from one region to another"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

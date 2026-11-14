@@ -1,0 +1,57 @@
+{
+  "id": "article-77b013e819e4d316",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "Several records provided a starting point for the discussion. The summer film became a blockbuster around the world. The architect checked the blueprint before construction began. Sending the package to the wrong country was an expensive blunder. The blunt knife could not cut through the thick rope.",
+    "Other records complicated that first impression and encouraged a closer reading. We wore heavy coats on the blustery autumn afternoon. The new boarder joined the family for dinner each evening. His boastful speech annoyed teammates who had also worked hard. The new bus route was a boon to residents without cars.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "blockbuster",
+      "index": 0,
+      "definition": "a work or event that achieves great popular success"
+    },
+    {
+      "word": "blueprint",
+      "index": 0,
+      "definition": "a detailed plan or technical drawing"
+    },
+    {
+      "word": "blunder",
+      "index": 0,
+      "definition": "a serious mistake made through carelessness or poor judgment"
+    },
+    {
+      "word": "blunt",
+      "index": 0,
+      "definition": "having a dull or rounded edge rather than a sharp one"
+    },
+    {
+      "word": "blustery",
+      "index": 0,
+      "definition": "marked by strong, noisy bursts of wind"
+    },
+    {
+      "word": "boarder",
+      "index": 0,
+      "definition": "a person who pays to live and eat in another person's home or at school"
+    },
+    {
+      "word": "boastful",
+      "index": 0,
+      "definition": "too eager to praise one's own achievements"
+    },
+    {
+      "word": "boon",
+      "index": 0,
+      "definition": "something helpful or beneficial"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

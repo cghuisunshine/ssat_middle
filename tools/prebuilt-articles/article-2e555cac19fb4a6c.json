@@ -1,0 +1,57 @@
+{
+  "id": "article-2e555cac19fb4a6c",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The leader's bellicose speech alarmed neighboring countries. The teacher gave a benign smile to the worried student. It was unfair to berate the assistant for someone else's mistake. The passenger climbed into the upper berth on the overnight train.",
+    "Other records complicated that first impression and encouraged a closer reading. A biased judge cannot evaluate both teams fairly. The farmer acted quickly when blight appeared on the potato leaves. The singer's blithesome tune brightened the rainy morning. The naval blockade stopped supply ships from reaching the port.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "bellicose",
+      "index": 0,
+      "definition": "eager to fight or argue"
+    },
+    {
+      "word": "benign",
+      "index": 0,
+      "definition": "gentle and unlikely to cause harm"
+    },
+    {
+      "word": "berate",
+      "index": 0,
+      "definition": "to scold someone angrily and at length"
+    },
+    {
+      "word": "berth",
+      "index": 0,
+      "definition": "a sleeping place or a designated space for a ship"
+    },
+    {
+      "word": "biased",
+      "index": 0,
+      "definition": "unfairly favoring one person or side"
+    },
+    {
+      "word": "blight",
+      "index": 0,
+      "definition": "a disease or damaging influence that spoils growth"
+    },
+    {
+      "word": "blithesome",
+      "index": 0,
+      "definition": "cheerful and carefree"
+    },
+    {
+      "word": "blockade",
+      "index": 0,
+      "definition": "an action that prevents people or supplies from entering or leaving"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

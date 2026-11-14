@@ -1,0 +1,57 @@
+{
+  "id": "article-a3dc36e524c736d7",
+  "tier": "Foundation",
+  "topic": "Feelings & reactions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The group began by reading the following accounts without adding explanations of its own. After several defeats, the team felt gloomy about its chances. Living far from her friends made the newcomer feel lonely. Cold, wet, and hungry, the stranded hikers felt miserable. His nervous hands trembled as he stepped onto the stage.",
+    "It then considered a second group of accounts, looking for both similarities and differences. We were relieved to learn that nobody had been injured. The restless children kept shifting in their seats during the delay. The startled deer leaped away when a branch snapped. The terrified passenger froze when she saw smoke filling the cabin.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "gloomy",
+      "index": 0,
+      "definition": "sad and without hope"
+    },
+    {
+      "word": "lonely",
+      "index": 0,
+      "definition": "sad because one lacks company"
+    },
+    {
+      "word": "miserable",
+      "index": 0,
+      "definition": "extremely unhappy or uncomfortable"
+    },
+    {
+      "word": "nervous",
+      "index": 0,
+      "definition": "worried or easily upset"
+    },
+    {
+      "word": "relieved",
+      "index": 0,
+      "definition": "no longer worried or afraid"
+    },
+    {
+      "word": "restless",
+      "index": 0,
+      "definition": "unable to stay still or relax"
+    },
+    {
+      "word": "startled",
+      "index": 0,
+      "definition": "suddenly surprised or alarmed"
+    },
+    {
+      "word": "terrified",
+      "index": 0,
+      "definition": "extremely afraid"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

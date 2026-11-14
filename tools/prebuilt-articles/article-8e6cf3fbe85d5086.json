@@ -1,0 +1,57 @@
+{
+  "id": "article-8e6cf3fbe85d5086",
+  "tier": "Stretch",
+  "topic": "Subtle descriptions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The first section of the collection placed these observations side by side. Her eloquent speech expressed the community's hopes with unusual power and grace. The explicit instructions stated exactly what each volunteer should do. Although nobody stated the rule, there was an implicit agreement to take turns. The beach umbrella looked incongruous in the middle of the snowy garden.",
+    "A later section added further scenes for comparison. The intricate carving contained many tiny, connected patterns. The lucid explanation made a difficult idea easy to understand. After the adventure, even an ordinary bus ride seemed mundane. The scratch was so small that its effect on the value was negligible.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "eloquent",
+      "index": 0,
+      "definition": "expressing ideas fluently and persuasively"
+    },
+    {
+      "word": "explicit",
+      "index": 0,
+      "definition": "stated clearly and directly"
+    },
+    {
+      "word": "implicit",
+      "index": 0,
+      "definition": "suggested without being directly stated"
+    },
+    {
+      "word": "incongruous",
+      "index": 0,
+      "definition": "out of place or not fitting together"
+    },
+    {
+      "word": "intricate",
+      "index": 0,
+      "definition": "having many detailed interconnecting parts"
+    },
+    {
+      "word": "lucid",
+      "index": 0,
+      "definition": "clearly expressed and easy to understand"
+    },
+    {
+      "word": "mundane",
+      "index": 0,
+      "definition": "ordinary and lacking excitement"
+    },
+    {
+      "word": "negligible",
+      "index": 0,
+      "definition": "too small to be important"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-2d0d2dc4a7aa2c72",
+  "tier": "Core",
+  "topic": "Change & progress",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. Closing the windows helped diminish the noise from the street. We watched a butterfly emerge from its chrysalis. Adding clear diagrams will enhance the usefulness of the guide. Temperatures fluctuate sharply here, rising by day and falling at night.",
+    "Other records complicated that first impression and encouraged a closer reading. The plants flourish in rich soil with plenty of sunlight. The wind turbines generate electricity for nearby homes. Engineers must innovate to solve problems that older designs cannot address. Workers clean and repair the bridge to maintain it in good condition.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "diminish",
+      "index": 0,
+      "definition": "to become or make smaller"
+    },
+    {
+      "word": "emerge",
+      "index": 0,
+      "definition": "to come out or become visible"
+    },
+    {
+      "word": "enhance",
+      "index": 0,
+      "definition": "to improve the quality or value of"
+    },
+    {
+      "word": "fluctuate",
+      "index": 0,
+      "definition": "to rise and fall irregularly"
+    },
+    {
+      "word": "flourish",
+      "index": 0,
+      "definition": "to grow or succeed strongly"
+    },
+    {
+      "word": "generate",
+      "index": 0,
+      "definition": "to produce or bring into existence"
+    },
+    {
+      "word": "innovate",
+      "index": 0,
+      "definition": "to introduce a new method or idea"
+    },
+    {
+      "word": "maintain",
+      "index": 0,
+      "definition": "to keep in an existing condition"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

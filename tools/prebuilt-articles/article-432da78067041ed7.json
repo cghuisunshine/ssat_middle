@@ -1,0 +1,57 @@
+{
+  "id": "article-432da78067041ed7",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The poem used an inversion of normal word order. The cool morning air seemed to invigorate the hikers. The unfair decision aroused the crowd's ire. The damage left the old machine irredeemable.",
+    "The remaining pages widened the discussion with additional observations. The judge noted the irrelevance of the unrelated comment. The designers will iterate the process until the model works. The itinerant musician performed in many small towns. The guide explained the unfamiliar medical jargon.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "inversion",
+      "index": 0,
+      "definition": "a reversal of the usual order or position"
+    },
+    {
+      "word": "invigorate",
+      "index": 0,
+      "definition": "to give strength or fresh energy"
+    },
+    {
+      "word": "ire",
+      "index": 0,
+      "definition": "intense anger"
+    },
+    {
+      "word": "irredeemable",
+      "index": 0,
+      "definition": "unable to be recovered, corrected, or exchanged"
+    },
+    {
+      "word": "irrelevance",
+      "index": 0,
+      "definition": "a lack of connection to the matter being discussed"
+    },
+    {
+      "word": "iterate",
+      "index": 0,
+      "definition": "to repeat a process or statement"
+    },
+    {
+      "word": "itinerant",
+      "index": 0,
+      "definition": "traveling from place to place for work"
+    },
+    {
+      "word": "jargon",
+      "index": 0,
+      "definition": "specialized language used by a particular group"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

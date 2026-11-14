@@ -1,0 +1,57 @@
+{
+  "id": "article-ae22c152e2129cd6",
+  "tier": "Core",
+  "topic": "Character & integrity",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. An impartial judge considers the evidence without favoring either side. His impulsive purchase left him without enough money for lunch. Her lofty ambition was to end hunger throughout the world. The meek employee accepted the unfair criticism without protest.",
+    "The remaining pages widened the discussion with additional observations. The obedient dog sat as soon as its owner gave the command. The patient teacher explained the difficult rule for the fifth time. Saving some money for emergencies is a prudent choice. The reliable alarm wakes me at exactly six every morning.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "impartial",
+      "index": 0,
+      "definition": "not favoring one side over another"
+    },
+    {
+      "word": "impulsive",
+      "index": 0,
+      "definition": "acting suddenly without careful thought"
+    },
+    {
+      "word": "lofty",
+      "index": 0,
+      "definition": "noble or ambitious in purpose"
+    },
+    {
+      "word": "meek",
+      "index": 0,
+      "definition": "quiet and unwilling to resist"
+    },
+    {
+      "word": "obedient",
+      "index": 0,
+      "definition": "willing to follow instructions or rules"
+    },
+    {
+      "word": "patient",
+      "index": 0,
+      "definition": "able to wait calmly through difficulty"
+    },
+    {
+      "word": "prudent",
+      "index": 0,
+      "definition": "careful and sensible about future consequences"
+    },
+    {
+      "word": "reliable",
+      "index": 0,
+      "definition": "consistently able to be trusted"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

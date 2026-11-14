@@ -1,0 +1,57 @@
+{
+  "id": "article-562b2c2b8b04aad7",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. If you transpose the two digits, the answer becomes incorrect. The memoir describes the travail of building a new life abroad. A trial without evidence would be a travesty of justice. The official was accused of a treasonable attempt to aid the enemy.",
+    "Other records complicated that first impression and encouraged a closer reading. She approached the dark cave with trepidation. The tribune opposed a law that would harm the common people. The editor replaced the trite phrase with a fresh description. The undefeated team expected to trounce its inexperienced opponent.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "transpose",
+      "index": 0,
+      "definition": "to exchange the positions or order of things"
+    },
+    {
+      "word": "travail",
+      "index": 0,
+      "definition": "painful or difficult work or experience"
+    },
+    {
+      "word": "travesty",
+      "index": 0,
+      "definition": "a distorted or absurdly poor imitation of something serious"
+    },
+    {
+      "word": "treasonable",
+      "index": 0,
+      "definition": "involving betrayal of one's country"
+    },
+    {
+      "word": "trepidation",
+      "index": 0,
+      "definition": "fear or anxiety about what may happen"
+    },
+    {
+      "word": "tribune",
+      "index": 0,
+      "definition": "an ancient Roman official who protected the interests of ordinary citizens"
+    },
+    {
+      "word": "trite",
+      "index": 0,
+      "definition": "overused and lacking originality"
+    },
+    {
+      "word": "trounce",
+      "index": 0,
+      "definition": "to defeat someone by a large margin"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-fa4497d90a029a40",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. The pond water contained microscopic organisms. The pond ecosystem includes insects, fish, plants, water, and soil. A leaf floated on the surface of the pond. A lemur is a primate with grasping hands and feet.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The whale is a mammal even though it lives in the sea. The fishing boats returned to the harbor before the storm. The greenhouse used artificial light during the short winter days. The reading lamp provided enough illumination for the desk.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "microscopic",
+      "index": 0,
+      "definition": "so small that a microscope is needed to see it clearly"
+    },
+    {
+      "word": "ecosystem",
+      "index": 0,
+      "definition": "a community of organisms and the physical environment with which they interact"
+    },
+    {
+      "word": "surface",
+      "index": 0,
+      "definition": "the outside or uppermost layer of something"
+    },
+    {
+      "word": "primate",
+      "index": 0,
+      "definition": "a mammal belonging to the group that includes humans, apes, monkeys, and lemurs"
+    },
+    {
+      "word": "mammal",
+      "index": 0,
+      "definition": "an animal in the group whose females produce milk to feed their young"
+    },
+    {
+      "word": "harbor",
+      "index": 0,
+      "definition": "a sheltered area of water where ships can stay safely"
+    },
+    {
+      "word": "artificial",
+      "index": 0,
+      "definition": "made or produced by people rather than occurring naturally"
+    },
+    {
+      "word": "illumination",
+      "index": 0,
+      "definition": "light that makes an area or object visible"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-605d6142cc61118f",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The first section of the collection placed these observations side by side. She studied forestry to help restore damaged woodland. The closing line promised that the story would be remembered forevermore. The neighbors would forgather beside the village fountain. The blacksmith will forge the iron into a sturdy hook.",
+    "A later section added further scenes for comparison. They had forgone dessert to save room for the celebration meal. The forked path led toward two different villages. Her early travels were a formative experience. The champions faced a formidable opponent.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "forestry",
+      "index": 0,
+      "definition": "the science and practice of managing forests"
+    },
+    {
+      "word": "forevermore",
+      "index": 0,
+      "definition": "for all future time"
+    },
+    {
+      "word": "forgather",
+      "index": 0,
+      "definition": "to meet or assemble in a group"
+    },
+    {
+      "word": "forge",
+      "index": 0,
+      "definition": "to shape metal by heating and hammering it"
+    },
+    {
+      "word": "forgone",
+      "index": 0,
+      "definition": "given up or gone without"
+    },
+    {
+      "word": "forked",
+      "index": 0,
+      "definition": "divided into two or more branches"
+    },
+    {
+      "word": "formative",
+      "index": 0,
+      "definition": "strongly influencing later growth or development"
+    },
+    {
+      "word": "formidable",
+      "index": 0,
+      "definition": "inspiring respect or fear because of great strength or difficulty"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

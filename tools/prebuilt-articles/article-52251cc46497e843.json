@@ -1,0 +1,57 @@
+{
+  "id": "article-52251cc46497e843",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. A glint of sunlight reflected from the window. It is unkind to gloat when an opponent makes a mistake. The fable portrayed gluttony as a failure of self-control. The old tree had a thick, gnarled trunk.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The rival's taunts could goad him into a rash decision. A sharp stone can gouge the soft wood. The gourmet could identify the unusual herbs in the dish. The dancer made a graceful turn across the stage.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "glint",
+      "index": 0,
+      "definition": "a small, brief flash of light"
+    },
+    {
+      "word": "gloat",
+      "index": 0,
+      "definition": "to show excessive pleasure in one's success or another's failure"
+    },
+    {
+      "word": "gluttony",
+      "index": 0,
+      "definition": "the habit of eating or consuming far more than needed"
+    },
+    {
+      "word": "gnarled",
+      "index": 0,
+      "definition": "twisted, rough, and covered with knots"
+    },
+    {
+      "word": "goad",
+      "index": 0,
+      "definition": "to provoke or urge someone into action"
+    },
+    {
+      "word": "gouge",
+      "index": 0,
+      "definition": "to cut or dig a deep mark into something"
+    },
+    {
+      "word": "gourmet",
+      "index": 0,
+      "definition": "a person who knows and appreciates fine food"
+    },
+    {
+      "word": "graceful",
+      "index": 0,
+      "definition": "moving or arranged in an attractive, smooth way"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

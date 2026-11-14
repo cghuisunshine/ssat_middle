@@ -1,0 +1,57 @@
+{
+  "id": "article-4d1defd556287876",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. The community held the generous doctor in high esteem. The phrase passed away is a euphemism for died. The old photograph could evoke memories of childhood summers. She hopes to excel in both music and mathematics.",
+    "A later section added further scenes for comparison. The town plans to extend the walking path to the river. The building's exterior was painted bright blue. It is wrong to fabricate evidence to win an argument. Her voice began to falter as she approached the difficult passage.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "esteem",
+      "index": 0,
+      "definition": "respect and admiration for someone or something"
+    },
+    {
+      "word": "euphemism",
+      "index": 0,
+      "definition": "a mild expression used instead of one considered harsh"
+    },
+    {
+      "word": "evoke",
+      "index": 0,
+      "definition": "to bring a feeling, memory, or image to mind"
+    },
+    {
+      "word": "excel",
+      "index": 0,
+      "definition": "to perform especially well"
+    },
+    {
+      "word": "extend",
+      "index": 0,
+      "definition": "to make something longer or larger"
+    },
+    {
+      "word": "exterior",
+      "index": 0,
+      "definition": "the outer surface or outside of something"
+    },
+    {
+      "word": "fabricate",
+      "index": 0,
+      "definition": "to invent a false story or claim"
+    },
+    {
+      "word": "falter",
+      "index": 0,
+      "definition": "to hesitate or lose strength or confidence"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

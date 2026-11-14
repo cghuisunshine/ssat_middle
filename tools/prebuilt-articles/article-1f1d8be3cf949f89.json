@@ -1,0 +1,57 @@
+{
+  "id": "article-1f1d8be3cf949f89",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The garrison guarded the bridge through the winter. The garrulous passenger told stories for the entire journey. The teacher used a short quiz to gauge our understanding. The long journey left the traveler looking gaunt.",
+    "The remaining pages widened the discussion with additional observations. A piece of clean gauze covered the small wound. The chairperson tapped the gavel to begin the meeting. The musicians performed beneath the gazebo. The cooled mixture became soft and gelatinous.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "garrison",
+      "index": 0,
+      "definition": "troops stationed in a place to defend it"
+    },
+    {
+      "word": "garrulous",
+      "index": 0,
+      "definition": "excessively talkative"
+    },
+    {
+      "word": "gauge",
+      "index": 0,
+      "definition": "to measure or estimate something"
+    },
+    {
+      "word": "gaunt",
+      "index": 0,
+      "definition": "very thin and drawn in appearance"
+    },
+    {
+      "word": "gauze",
+      "index": 0,
+      "definition": "a thin, loosely woven fabric"
+    },
+    {
+      "word": "gavel",
+      "index": 0,
+      "definition": "a small hammer used to signal order or a decision"
+    },
+    {
+      "word": "gazebo",
+      "index": 0,
+      "definition": "an open-sided garden shelter with a roof"
+    },
+    {
+      "word": "gelatinous",
+      "index": 0,
+      "definition": "thick and jellylike"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-c7bd849aa9a0e6ad",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. The prodigal heir quickly exhausted his inheritance. The apparent simplicity of the poem concealed its profundity. The engineer's prognosis suggested that the repair would hold. The prohibitive cost stopped the project from proceeding.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The historian described changes in the urban proletariat. The committee's pronouncement ended the speculation. Her propensity to ask questions made her a careful researcher. The school welcomed prospective students to an open day.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "prodigal",
+      "index": 0,
+      "definition": "wastefully spending money or resources"
+    },
+    {
+      "word": "profundity",
+      "index": 0,
+      "definition": "great depth of thought or meaning"
+    },
+    {
+      "word": "prognosis",
+      "index": 0,
+      "definition": "a prediction about the likely development of a condition or situation"
+    },
+    {
+      "word": "prohibitive",
+      "index": 0,
+      "definition": "so great or restrictive that it prevents something"
+    },
+    {
+      "word": "proletariat",
+      "index": 0,
+      "definition": "the wage-earning working class"
+    },
+    {
+      "word": "pronouncement",
+      "index": 0,
+      "definition": "a formal or authoritative statement"
+    },
+    {
+      "word": "propensity",
+      "index": 0,
+      "definition": "a tendency or natural inclination"
+    },
+    {
+      "word": "prospective",
+      "index": 0,
+      "definition": "expected or likely to happen in the future"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

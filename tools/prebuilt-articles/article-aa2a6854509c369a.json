@@ -1,0 +1,57 @@
+{
+  "id": "article-aa2a6854509c369a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. The unexpected question seemed to flummox the confident speaker. The building's fluted columns resembled those of an ancient temple. The opening paragraph helps focalize the reader's attention. Her habit of collecting odd buttons was a harmless foible.",
+    "A later section added further scenes for comparison. The false rumors were intended to foment distrust. The satire mocked the character's elaborate foppery. Protecting the passengers was their foremost concern. The foresighted planners reserved space for another classroom.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "flummox",
+      "index": 0,
+      "definition": "to confuse someone completely"
+    },
+    {
+      "word": "fluted",
+      "index": 0,
+      "definition": "decorated with long, narrow grooves"
+    },
+    {
+      "word": "focalize",
+      "index": 0,
+      "definition": "to bring into focus or direct attention toward a point"
+    },
+    {
+      "word": "foible",
+      "index": 0,
+      "definition": "a small weakness or unusual habit"
+    },
+    {
+      "word": "foment",
+      "index": 0,
+      "definition": "to stir up trouble or strong feelings"
+    },
+    {
+      "word": "foppery",
+      "index": 0,
+      "definition": "excessive concern with fashionable appearance"
+    },
+    {
+      "word": "foremost",
+      "index": 0,
+      "definition": "first in position, importance, or rank"
+    },
+    {
+      "word": "foresighted",
+      "index": 0,
+      "definition": "showing sensible consideration of future events"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

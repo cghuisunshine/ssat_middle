@@ -1,0 +1,57 @@
+{
+  "id": "article-541e580899fecff2",
+  "tier": "Core",
+  "topic": "Society & people",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. The museum guide is a descendant of the family who built the house. Even during hardship, she carried herself with quiet dignity. The knight met his old foe on the battlefield. As the legal heir, she inherited her aunt's house.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The immigrant learned the language of his new country. Each individual in the class received a different assignment. A majority of the voters supported the plan, with sixty percent in favor. Only a minority of students chose French; most selected Spanish.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "descendant",
+      "index": 0,
+      "definition": "someone related to a person from an earlier generation"
+    },
+    {
+      "word": "dignity",
+      "index": 0,
+      "definition": "the quality of deserving respect"
+    },
+    {
+      "word": "foe",
+      "index": 0,
+      "definition": "a person who opposes another"
+    },
+    {
+      "word": "heir",
+      "index": 0,
+      "definition": "a person entitled to inherit property"
+    },
+    {
+      "word": "immigrant",
+      "index": 0,
+      "definition": "a person who moves to settle in another country"
+    },
+    {
+      "word": "individual",
+      "index": 0,
+      "definition": "one person considered separately"
+    },
+    {
+      "word": "majority",
+      "index": 0,
+      "definition": "more than half of a group"
+    },
+    {
+      "word": "minority",
+      "index": 0,
+      "definition": "a group smaller than half of the whole"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-a72a8fe1f9cc810f",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. Shouting during the ceremony was indecorous. The indefatigable volunteers worked until the shelter was ready. The deliberate falsification was indefensible. The meeting was delayed for an indeterminate period.",
+    "Other records complicated that first impression and encouraged a closer reading. The indictment listed the charges against the official. The animal avoided the tough, indigestible material. A reliable map was indispensable on the unfamiliar trail. The director was indisposed and could not attend the meeting.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "indecorous",
+      "index": 0,
+      "definition": "unsuitable for polite or formal behavior"
+    },
+    {
+      "word": "indefatigable",
+      "index": 0,
+      "definition": "continuing with energy despite difficult work"
+    },
+    {
+      "word": "indefensible",
+      "index": 0,
+      "definition": "impossible to justify or protect effectively"
+    },
+    {
+      "word": "indeterminate",
+      "index": 0,
+      "definition": "not clearly fixed, known, or decided"
+    },
+    {
+      "word": "indictment",
+      "index": 0,
+      "definition": "a formal accusation of a serious offense"
+    },
+    {
+      "word": "indigestible",
+      "index": 0,
+      "definition": "difficult or impossible to digest"
+    },
+    {
+      "word": "indispensable",
+      "index": 0,
+      "definition": "so necessary that one cannot do without it"
+    },
+    {
+      "word": "indisposed",
+      "index": 0,
+      "definition": "slightly unwell or unwilling to do something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

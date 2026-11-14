@@ -1,0 +1,57 @@
+{
+  "id": "article-6f4cca5f7e03f48c",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. Regular movement supports cardiovascular fitness. The discovery became a catalyst for further research. The cautious driver slowed down on the icy road. The puppies began to cavort across the sunny lawn.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The authorities tried to censor reports about the protest. The official received public censure for misusing the funds. The centralization of decision-making reduced local independence. The machine separated the useful grain from the chaff.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "cardiovascular",
+      "index": 0,
+      "definition": "related to the heart and blood vessels"
+    },
+    {
+      "word": "catalyst",
+      "index": 0,
+      "definition": "something that causes or speeds up a change"
+    },
+    {
+      "word": "cautious",
+      "index": 0,
+      "definition": "careful to avoid danger or mistakes"
+    },
+    {
+      "word": "cavort",
+      "index": 0,
+      "definition": "to jump or move about in a lively, playful way"
+    },
+    {
+      "word": "censor",
+      "index": 0,
+      "definition": "to remove or suppress material considered objectionable"
+    },
+    {
+      "word": "censure",
+      "index": 0,
+      "definition": "strong and formal criticism or disapproval"
+    },
+    {
+      "word": "centralization",
+      "index": 0,
+      "definition": "the concentration of control or activity in one center"
+    },
+    {
+      "word": "chaff",
+      "index": 0,
+      "definition": "the dry outer covering of grain removed during processing"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

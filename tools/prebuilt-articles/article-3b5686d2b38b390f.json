@@ -1,0 +1,57 @@
+{
+  "id": "article-3b5686d2b38b390f",
+  "tier": "Foundation",
+  "topic": "Actions & movement",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The first section of the collection placed these observations side by side. The students will collect empty bottles for recycling. Thick curtains conceal the room from people outside. The fortress walls helped defend the town against attack. Our train will depart from platform four at noon.",
+    "A later section added further scenes for comparison. The experiment may help us discover why the plants are dying. We had to drag the heavy log away from the path. The trapped mouse found a small hole through which to escape. The doctor will examine the injury before recommending treatment.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "collect",
+      "index": 0,
+      "definition": "to bring things together"
+    },
+    {
+      "word": "conceal",
+      "index": 0,
+      "definition": "to keep from being seen"
+    },
+    {
+      "word": "defend",
+      "index": 0,
+      "definition": "to protect from attack"
+    },
+    {
+      "word": "depart",
+      "index": 0,
+      "definition": "to leave a place"
+    },
+    {
+      "word": "discover",
+      "index": 0,
+      "definition": "to find something previously unknown"
+    },
+    {
+      "word": "drag",
+      "index": 0,
+      "definition": "to pull along a surface"
+    },
+    {
+      "word": "escape",
+      "index": 0,
+      "definition": "to get free from confinement or danger"
+    },
+    {
+      "word": "examine",
+      "index": 0,
+      "definition": "to look at carefully"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-8ea15ff27ab47ee6",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The reviewer found the ending formulaic and unsurprising. The forsaken cottage stood empty beside the road. He chose to forswear revenge and seek peace. The forthcoming exhibition will feature local artists.",
+    "It then considered a second group of accounts, looking for both similarities and differences. We appreciated her forthright explanation of the problem. The repairs should be finished within a fortnight. The builders checked the foundation before adding another floor. The old book contained several foxed pages.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "formulaic",
+      "index": 0,
+      "definition": "following a fixed and often predictable pattern"
+    },
+    {
+      "word": "forsaken",
+      "index": 0,
+      "definition": "abandoned or left without support"
+    },
+    {
+      "word": "forswear",
+      "index": 0,
+      "definition": "to promise to give up or avoid something"
+    },
+    {
+      "word": "forthcoming",
+      "index": 0,
+      "definition": "about to happen or appear"
+    },
+    {
+      "word": "forthright",
+      "index": 0,
+      "definition": "honest, direct, and clear in expression"
+    },
+    {
+      "word": "fortnight",
+      "index": 0,
+      "definition": "a period of two weeks"
+    },
+    {
+      "word": "foundation",
+      "index": 0,
+      "definition": "the supporting base or underlying basis of something"
+    },
+    {
+      "word": "foxed",
+      "index": 0,
+      "definition": "marked with brownish spots from age, especially of paper"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

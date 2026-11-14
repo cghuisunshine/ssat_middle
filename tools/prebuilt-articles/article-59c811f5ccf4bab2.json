@@ -1,0 +1,57 @@
+{
+  "id": "article-59c811f5ccf4bab2",
+  "tier": "Stretch",
+  "topic": "Subtle descriptions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. The ambiguous directions allowed two different interpretations. The two situations are analogous because both involve sharing limited resources. The arbitrary rule seemed based on personal whim rather than any clear reason. Her coherent explanation connected the ideas in a clear, orderly way.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The concise summary covered the main points in only three sentences. The bright orange coat was conspicuous in the crowd of dark jackets. The witness gave a credible account supported by reliable evidence. The dubious claim lacked evidence and sounded unlikely.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "ambiguous",
+      "index": 0,
+      "definition": "having more than one possible interpretation"
+    },
+    {
+      "word": "analogous",
+      "index": 0,
+      "definition": "similar in a way that allows comparison"
+    },
+    {
+      "word": "arbitrary",
+      "index": 0,
+      "definition": "based on personal choice rather than a clear reason"
+    },
+    {
+      "word": "coherent",
+      "index": 0,
+      "definition": "forming a clear and logical whole"
+    },
+    {
+      "word": "concise",
+      "index": 0,
+      "definition": "expressing much in few words"
+    },
+    {
+      "word": "conspicuous",
+      "index": 0,
+      "definition": "easy to notice because it stands out"
+    },
+    {
+      "word": "credible",
+      "index": 0,
+      "definition": "able to be believed"
+    },
+    {
+      "word": "dubious",
+      "index": 0,
+      "definition": "uncertain or doubtful"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

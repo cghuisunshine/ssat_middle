@@ -1,0 +1,57 @@
+{
+  "id": "article-5455c108077e3a32",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. The class learned to dissect the argument into separate claims. They found the cruel joke distasteful. She remained doubtful about the unsupported explanation. A drastic reduction in rainfall damaged the crops.",
+    "The remaining pages widened the discussion with additional observations. We arrived home drenched after the sudden downpour. The duration of the concert was two hours. The small dwelling had one room and a stone fireplace. Our food supplies began to dwindle during the long journey.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "dissect",
+      "index": 0,
+      "definition": "to cut apart or examine something closely to understand its parts"
+    },
+    {
+      "word": "distasteful",
+      "index": 0,
+      "definition": "unpleasant or offensive to one's preferences"
+    },
+    {
+      "word": "doubtful",
+      "index": 0,
+      "definition": "uncertain about something or unlikely to be true"
+    },
+    {
+      "word": "drastic",
+      "index": 0,
+      "definition": "extreme and likely to have a strong effect"
+    },
+    {
+      "word": "drenched",
+      "index": 0,
+      "definition": "completely soaked with liquid"
+    },
+    {
+      "word": "duration",
+      "index": 0,
+      "definition": "the length of time something lasts"
+    },
+    {
+      "word": "dwelling",
+      "index": 0,
+      "definition": "a place where someone lives"
+    },
+    {
+      "word": "dwindle",
+      "index": 0,
+      "definition": "to become gradually smaller or less"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

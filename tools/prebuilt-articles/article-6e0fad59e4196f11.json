@@ -1,0 +1,47 @@
+{
+  "id": "article-6e0fad59e4196f11",
+  "tier": "Core",
+  "topic": "Time, order & certainty",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. We were uncertain about the route because the map was incomplete. We held an impromptu picnic after the clouds cleared. The meeting was postponed for an indefinite period.",
+    "The remaining pages widened the discussion with additional observations. The rain stopped, and presently the children returned outside. The town holds its harvest fair annually. The reputed expert could not explain the simplest part of the machine.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "uncertain",
+      "index": 0,
+      "definition": "not clearly known or decided"
+    },
+    {
+      "word": "impromptu",
+      "index": 0,
+      "definition": "made or done without advance planning"
+    },
+    {
+      "word": "indefinite",
+      "index": 0,
+      "definition": "not clearly fixed or specified"
+    },
+    {
+      "word": "presently",
+      "index": 0,
+      "definition": "after a short time; soon"
+    },
+    {
+      "word": "annually",
+      "index": 0,
+      "definition": "once every year"
+    },
+    {
+      "word": "reputed",
+      "index": 0,
+      "definition": "generally believed or said to be something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

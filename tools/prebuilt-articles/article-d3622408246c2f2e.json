@@ -1,0 +1,57 @@
+{
+  "id": "article-d3622408246c2f2e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. They had to scrimp for months to afford the trip. The path crossed a dry, scrubby hillside. Do not scrunch the map into the bottom of the bag. She had a scruple about accepting credit for another person's work.",
+    "Other records complicated that first impression and encouraged a closer reading. The figures did not withstand close scrutiny. A short scuffle broke out near the entrance. The mice began to scurry beneath the cupboard. The old seafarer described voyages to distant ports.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "scrimp",
+      "index": 0,
+      "definition": "to save money by spending very little"
+    },
+    {
+      "word": "scrubby",
+      "index": 0,
+      "definition": "covered with low, stunted vegetation"
+    },
+    {
+      "word": "scrunch",
+      "index": 0,
+      "definition": "to squeeze or crush into a smaller shape"
+    },
+    {
+      "word": "scruple",
+      "index": 0,
+      "definition": "a doubt or hesitation about whether something is right"
+    },
+    {
+      "word": "scrutiny",
+      "index": 0,
+      "definition": "close and careful examination"
+    },
+    {
+      "word": "scuffle",
+      "index": 0,
+      "definition": "a brief, disorderly struggle"
+    },
+    {
+      "word": "scurry",
+      "index": 0,
+      "definition": "to move quickly with short steps"
+    },
+    {
+      "word": "seafarer",
+      "index": 0,
+      "definition": "a person who travels or works at sea"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

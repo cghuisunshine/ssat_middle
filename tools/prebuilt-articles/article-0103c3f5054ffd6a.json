@@ -1,0 +1,57 @@
+{
+  "id": "article-0103c3f5054ffd6a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The first section of the collection placed these observations side by side. The story offered the flawed hero a chance at redemption. The editor removed redundancy from the final paragraph. One final refinement made the instrument more accurate. The refractory machine resisted every attempt at repair.",
+    "A later section added further scenes for comparison. The new regime introduced different trading rules. The setback represented a regression in the team's progress. The improvements helped rejuvenate the old neighborhood. The repairs were followed by a relapse into the same fault.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "redemption",
+      "index": 0,
+      "definition": "recovery from wrongdoing or the act of buying something back"
+    },
+    {
+      "word": "redundancy",
+      "index": 0,
+      "definition": "unnecessary repetition or duplication"
+    },
+    {
+      "word": "refinement",
+      "index": 0,
+      "definition": "an improvement that makes something more precise or polished"
+    },
+    {
+      "word": "refractory",
+      "index": 0,
+      "definition": "stubbornly resisting control or treatment"
+    },
+    {
+      "word": "regime",
+      "index": 0,
+      "definition": "a system of government or an organized way of managing something"
+    },
+    {
+      "word": "regression",
+      "index": 0,
+      "definition": "a return to an earlier or less developed condition"
+    },
+    {
+      "word": "rejuvenate",
+      "index": 0,
+      "definition": "to restore youthful energy or freshness"
+    },
+    {
+      "word": "relapse",
+      "index": 0,
+      "definition": "a return to a former unwanted condition after improvement"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

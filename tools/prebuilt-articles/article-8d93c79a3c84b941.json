@@ -1,0 +1,57 @@
+{
+  "id": "article-8d93c79a3c84b941",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The purist preferred the original version of the recipe. The council acted in pursuance of its conservation policy. The unclear agreement trapped the group in a legal quagmire. The conflicting instructions left her in a quandary.",
+    "The remaining pages widened the discussion with additional observations. The newly arrived animals were kept in quarantine. A cool drink helped quench our thirst. The explorers began a quest for the river's source. The volcano remained quiescent for many years.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "purist",
+      "index": 0,
+      "definition": "a person who insists on following traditional standards strictly"
+    },
+    {
+      "word": "pursuance",
+      "index": 0,
+      "definition": "the act of carrying out a plan or intention"
+    },
+    {
+      "word": "quagmire",
+      "index": 0,
+      "definition": "a bog or a situation from which escape is difficult"
+    },
+    {
+      "word": "quandary",
+      "index": 0,
+      "definition": "a difficult state of uncertainty about what to do"
+    },
+    {
+      "word": "quarantine",
+      "index": 0,
+      "definition": "temporary separation intended to prevent the spread of disease"
+    },
+    {
+      "word": "quench",
+      "index": 0,
+      "definition": "to satisfy thirst or extinguish something burning"
+    },
+    {
+      "word": "quest",
+      "index": 0,
+      "definition": "a long or determined search for something"
+    },
+    {
+      "word": "quiescent",
+      "index": 0,
+      "definition": "quiet and inactive for a time"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

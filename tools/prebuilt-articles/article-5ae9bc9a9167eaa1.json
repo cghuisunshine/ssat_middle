@@ -1,0 +1,57 @@
+{
+  "id": "article-5ae9bc9a9167eaa1",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The group began by reading the following accounts without adding explanations of its own. The dynasty governed the region for several centuries. The council will earmark the donation for library repairs. The cabinet had handles carved from ebony. The winning goal sent the supporters into ecstasy.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The royal edict required the gates to close at sunset. The old novel's reference to effeminacy reflects its dated social attitudes. The egotist redirected every conversation to his own achievements. The report exposed an egregious misuse of public money.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "dynasty",
+      "index": 0,
+      "definition": "a succession of rulers from the same family"
+    },
+    {
+      "word": "earmark",
+      "index": 0,
+      "definition": "to set aside something for a particular purpose"
+    },
+    {
+      "word": "ebony",
+      "index": 0,
+      "definition": "a very dark, dense wood"
+    },
+    {
+      "word": "ecstasy",
+      "index": 0,
+      "definition": "a feeling of overwhelming joy"
+    },
+    {
+      "word": "edict",
+      "index": 0,
+      "definition": "an official order issued by an authority"
+    },
+    {
+      "word": "effeminacy",
+      "index": 0,
+      "definition": "qualities traditionally described as feminine in a man, often used disparagingly"
+    },
+    {
+      "word": "egotist",
+      "index": 0,
+      "definition": "a person who thinks or talks excessively about personal importance"
+    },
+    {
+      "word": "egregious",
+      "index": 0,
+      "definition": "remarkably bad or shocking"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

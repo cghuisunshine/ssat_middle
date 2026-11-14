@@ -1,0 +1,32 @@
+{
+  "id": "article-a68905ab47b0c671",
+  "tier": "Core",
+  "topic": "Reasoning & knowledge",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. Their complementary skills made the project easier to finish. The students investigated the mechanism that makes the toy move.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The school's philosophy emphasizes curiosity and careful reasoning.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "complementary",
+      "index": 0,
+      "definition": "different in ways that combine well or complete one another"
+    },
+    {
+      "word": "mechanism",
+      "index": 0,
+      "definition": "the process or system through which something works"
+    },
+    {
+      "word": "philosophy",
+      "index": 0,
+      "definition": "a system of ideas about life, knowledge, or how things should be understood"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

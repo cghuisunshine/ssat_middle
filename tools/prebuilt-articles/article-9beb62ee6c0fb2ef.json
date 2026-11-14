@@ -1,0 +1,57 @@
+{
+  "id": "article-9beb62ee6c0fb2ef",
+  "tier": "Foundation",
+  "topic": "Thinking & communication",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. He finally agreed to admit that he had made a mistake. The coach will advise us on how to improve our technique. The principal will announce the winners at tomorrow's assembly. In the essay, use evidence to argue that the proposal will save energy.",
+    "The remaining pages widened the discussion with additional observations. It is rude to boast about winning while your opponent is upset. We will compare the two maps to find similarities and differences. The nearly identical labels can confuse even experienced shoppers. She did not deny breaking the window; she accepted responsibility.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "admit",
+      "index": 0,
+      "definition": "to accept that something is true"
+    },
+    {
+      "word": "advise",
+      "index": 0,
+      "definition": "to offer guidance or a recommendation"
+    },
+    {
+      "word": "announce",
+      "index": 0,
+      "definition": "to make information publicly known"
+    },
+    {
+      "word": "argue",
+      "index": 0,
+      "definition": "to give reasons for or against an idea"
+    },
+    {
+      "word": "boast",
+      "index": 0,
+      "definition": "to speak with excessive pride"
+    },
+    {
+      "word": "compare",
+      "index": 0,
+      "definition": "to examine similarities and differences"
+    },
+    {
+      "word": "confuse",
+      "index": 0,
+      "definition": "to make difficult to understand"
+    },
+    {
+      "word": "deny",
+      "index": 0,
+      "definition": "to say that something is not true"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

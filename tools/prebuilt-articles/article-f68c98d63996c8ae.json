@@ -1,0 +1,57 @@
+{
+  "id": "article-f68c98d63996c8ae",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The first section of the collection placed these observations side by side. The feisty kitten refused to surrender its toy. Compost improved the fertility of the garden soil. The bright scarf made a fetching addition to the costume. The museum label described the carved object as a protective fetish.",
+    "A later section added further scenes for comparison. The artist used human figuration in the mural. A delicate filament stretched across the leaf. Our finite supply of water required careful planning. The report reviewed the city's fiscal policy.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "feisty",
+      "index": 0,
+      "definition": "lively, determined, and ready to argue or resist"
+    },
+    {
+      "word": "fertility",
+      "index": 0,
+      "definition": "the capacity to produce offspring or support plant growth"
+    },
+    {
+      "word": "fetching",
+      "index": 0,
+      "definition": "attractive and pleasing in appearance"
+    },
+    {
+      "word": "fetish",
+      "index": 0,
+      "definition": "an object believed to possess magical protective power"
+    },
+    {
+      "word": "figuration",
+      "index": 0,
+      "definition": "the act or result of giving something a visible form"
+    },
+    {
+      "word": "filament",
+      "index": 0,
+      "definition": "a very thin thread or threadlike structure"
+    },
+    {
+      "word": "finite",
+      "index": 0,
+      "definition": "having definite limits"
+    },
+    {
+      "word": "fiscal",
+      "index": 0,
+      "definition": "related to government revenue or financial management"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

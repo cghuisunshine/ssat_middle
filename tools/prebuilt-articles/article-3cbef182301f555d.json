@@ -1,0 +1,57 @@
+{
+  "id": "article-3cbef182301f555d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. She felt an immediate affinity for the quiet seaside village. Please affix a stamp to the corner of the envelope. The large houses suggested the neighborhood's affluence. Ignoring every guest was an affront to the host.",
+    "The remaining pages widened the discussion with additional observations. The ruler sought personal aggrandizement rather than the public good. The children were agog as the magician opened the mysterious box. Reliable rainfall is important to agriculture in this region. The doctor asked what might ail the exhausted traveler.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "affinity",
+      "index": 0,
+      "definition": "a natural liking or feeling of connection"
+    },
+    {
+      "word": "affix",
+      "index": 0,
+      "definition": "to attach something firmly to another thing"
+    },
+    {
+      "word": "affluence",
+      "index": 0,
+      "definition": "the possession of a great deal of wealth"
+    },
+    {
+      "word": "affront",
+      "index": 0,
+      "definition": "an action or remark that causes deliberate offense"
+    },
+    {
+      "word": "aggrandizement",
+      "index": 0,
+      "definition": "an increase in someone's power, wealth, or importance"
+    },
+    {
+      "word": "agog",
+      "index": 0,
+      "definition": "full of excitement and eager curiosity"
+    },
+    {
+      "word": "agriculture",
+      "index": 0,
+      "definition": "the activity of growing crops and raising farm animals"
+    },
+    {
+      "word": "ail",
+      "index": 0,
+      "definition": "to trouble someone or cause illness or discomfort"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

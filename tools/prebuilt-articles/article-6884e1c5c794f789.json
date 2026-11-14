@@ -1,0 +1,57 @@
+{
+  "id": "article-6884e1c5c794f789",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The author revised the manuscript before sending it to the editor. The raiders would maraud through unprotected settlements. The museum displayed objects from maritime history. The designer considered the product's marketability.",
+    "Other records complicated that first impression and encouraged a closer reading. The movie's title appeared on the brightly lit marquee. The memorial honored a martyr who defended the community's freedom. The language lesson discussed masculine grammatical forms. The guests wore elaborate costumes to the masquerade.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "manuscript",
+      "index": 0,
+      "definition": "a handwritten text or an author's unpublished draft"
+    },
+    {
+      "word": "maraud",
+      "index": 0,
+      "definition": "to roam about in search of things to steal"
+    },
+    {
+      "word": "maritime",
+      "index": 0,
+      "definition": "related to the sea or ships"
+    },
+    {
+      "word": "marketability",
+      "index": 0,
+      "definition": "the ease with which something can be sold"
+    },
+    {
+      "word": "marquee",
+      "index": 0,
+      "definition": "a canopy or sign above a theater entrance"
+    },
+    {
+      "word": "martyr",
+      "index": 0,
+      "definition": "a person who suffers or dies for a belief or cause"
+    },
+    {
+      "word": "masculine",
+      "index": 0,
+      "definition": "related to males or qualities traditionally associated with men"
+    },
+    {
+      "word": "masquerade",
+      "index": 0,
+      "definition": "a disguise or a gathering where people wear disguises"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

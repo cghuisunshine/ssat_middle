@@ -1,0 +1,57 @@
+{
+  "id": "article-61c27c82322be022",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The first section of the collection placed these observations side by side. The monkey used its prehensile tail to hold a branch. The story challenges prejudice against unfamiliar people. The document listed property acquired during the premarital period. She had a premonition that the journey would be difficult.",
+    "A later section added further scenes for comparison. Choosing the opening speaker was the chairperson's prerogative. The aircraft had a pressurized cabin. She received a scholarship to a prestigious music school. The conclusion rested on an unsupported presumption.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "prehensile",
+      "index": 0,
+      "definition": "adapted for grasping or holding"
+    },
+    {
+      "word": "prejudice",
+      "index": 0,
+      "definition": "an unfair judgment made without sufficient knowledge"
+    },
+    {
+      "word": "premarital",
+      "index": 0,
+      "definition": "occurring before marriage"
+    },
+    {
+      "word": "premonition",
+      "index": 0,
+      "definition": "a feeling that something may happen, especially something bad"
+    },
+    {
+      "word": "prerogative",
+      "index": 0,
+      "definition": "a special right belonging to a particular person or position"
+    },
+    {
+      "word": "pressurized",
+      "index": 0,
+      "definition": "kept at a pressure higher than the surrounding air"
+    },
+    {
+      "word": "prestigious",
+      "index": 0,
+      "definition": "widely respected and admired"
+    },
+    {
+      "word": "presumption",
+      "index": 0,
+      "definition": "a belief accepted before it is fully proved"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

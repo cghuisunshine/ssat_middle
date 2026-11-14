@@ -1,0 +1,57 @@
+{
+  "id": "article-a23fcadee949013c",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "Several records provided a starting point for the discussion. His graceless attempt to apologize made the situation worse. The painting showed a subtle gradation from blue to green. The grandeur of the mountain scenery amazed us. The grandiose plan demanded far more money than the town possessed.",
+    "Other records complicated that first impression and encouraged a closer reading. The granular material poured easily through the funnel. The engineers continued to grapple with the drainage problem. The reviewer objected to the story's gratuitous cruelty. The worker explained her grievance to the supervisor.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "graceless",
+      "index": 0,
+      "definition": "awkward in movement or lacking good manners"
+    },
+    {
+      "word": "gradation",
+      "index": 0,
+      "definition": "a series of small stages or differences"
+    },
+    {
+      "word": "grandeur",
+      "index": 0,
+      "definition": "impressive greatness, beauty, or dignity"
+    },
+    {
+      "word": "grandiose",
+      "index": 0,
+      "definition": "excessively impressive or ambitious in a way that seems unrealistic"
+    },
+    {
+      "word": "granular",
+      "index": 0,
+      "definition": "made of small grains or particles"
+    },
+    {
+      "word": "grapple",
+      "index": 0,
+      "definition": "to struggle with a difficult problem or opponent"
+    },
+    {
+      "word": "gratuitous",
+      "index": 0,
+      "definition": "done without a good reason or need"
+    },
+    {
+      "word": "grievance",
+      "index": 0,
+      "definition": "a complaint about unfair treatment"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

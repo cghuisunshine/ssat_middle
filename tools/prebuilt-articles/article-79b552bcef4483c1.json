@@ -1,0 +1,57 @@
+{
+  "id": "article-79b552bcef4483c1",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The first section of the collection placed these observations side by side. The rules stipulate that every player must wear a helmet. I had to stoop to pass through the low doorway. A power failure caused a stoppage at the factory. Careful stowage kept the cargo from shifting at sea.",
+    "A later section added further scenes for comparison. Her straight-laced uncle disapproved of the noisy party. The cliff reveals the stratification of sediment deposited over centuries. Constant loud noise can be a stressor for students trying to concentrate. The peace agreement ended years of strife between the neighbors.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "stipulate",
+      "index": 0,
+      "definition": "to state a condition that must be met"
+    },
+    {
+      "word": "stoop",
+      "index": 0,
+      "definition": "to bend the upper body forward and down"
+    },
+    {
+      "word": "stoppage",
+      "index": 0,
+      "definition": "a temporary halt in activity"
+    },
+    {
+      "word": "stowage",
+      "index": 0,
+      "definition": "the act or arrangement of packing goods for storage or transport"
+    },
+    {
+      "word": "straight-laced",
+      "index": 0,
+      "definition": "very strict about accepted rules of behavior"
+    },
+    {
+      "word": "stratification",
+      "index": 0,
+      "definition": "division into separate layers or social levels"
+    },
+    {
+      "word": "stressor",
+      "index": 0,
+      "definition": "something that causes mental or physical stress"
+    },
+    {
+      "word": "strife",
+      "index": 0,
+      "definition": "serious conflict or bitter disagreement"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

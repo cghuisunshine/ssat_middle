@@ -1,0 +1,57 @@
+{
+  "id": "article-d836d4fb2f05ceec",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The first section of the collection placed these observations side by side. The deep tire grooves improved traction on wet roads. We had to traipse through several stores before finding the right shoes. The veterinarian needed to tranquilize the frightened animal before treatment. The assistant will transcribe the interview for the report.",
+    "A later section added further scenes for comparison. The researcher checked the transcription against the audio recording. The astonishing sight seemed to transfix every spectator. Those who transgress the park's rules may be asked to leave. Publishing the budget increased transparency in local government.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "traction",
+      "index": 0,
+      "definition": "the grip that prevents a wheel or foot from slipping"
+    },
+    {
+      "word": "traipse",
+      "index": 0,
+      "definition": "to walk about wearily or without much purpose"
+    },
+    {
+      "word": "tranquilize",
+      "index": 0,
+      "definition": "to make calm or sleepy, especially with a drug"
+    },
+    {
+      "word": "transcribe",
+      "index": 0,
+      "definition": "to put spoken or recorded material into written form"
+    },
+    {
+      "word": "transcription",
+      "index": 0,
+      "definition": "a written record made from speech or another source"
+    },
+    {
+      "word": "transfix",
+      "index": 0,
+      "definition": "to hold someone's attention so completely that movement seems impossible"
+    },
+    {
+      "word": "transgress",
+      "index": 0,
+      "definition": "to break a law or accepted rule"
+    },
+    {
+      "word": "transparency",
+      "index": 0,
+      "definition": "the quality of being open and easy to examine"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

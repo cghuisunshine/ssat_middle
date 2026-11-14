@@ -1,0 +1,57 @@
+{
+  "id": "article-161b8482dd7b2f3f",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The first section of the collection placed these observations side by side. The town held a decennial celebration of its founding. The reform aimed to decentralize decisions among local offices. The researcher deciphered the message after weeks of work. The agency agreed to declassify the old records.",
+    "A later section added further scenes for comparison. The city plans to decommission the aging power station. The label identified the medicine as a decongestant. The crew worked to decontaminate the affected equipment. The ceremony required quiet and decorum.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "decennial",
+      "index": 0,
+      "definition": "occurring every ten years or lasting ten years"
+    },
+    {
+      "word": "decentralize",
+      "index": 0,
+      "definition": "to distribute control away from a single center"
+    },
+    {
+      "word": "deciphered",
+      "index": 0,
+      "definition": "succeeded in finding the meaning of a difficult code or text"
+    },
+    {
+      "word": "declassify",
+      "index": 0,
+      "definition": "to remove official secrecy restrictions from information"
+    },
+    {
+      "word": "decommission",
+      "index": 0,
+      "definition": "to take equipment or a facility out of active service"
+    },
+    {
+      "word": "decongestant",
+      "index": 0,
+      "definition": "a substance used to relieve a blocked nose"
+    },
+    {
+      "word": "decontaminate",
+      "index": 0,
+      "definition": "to remove harmful or polluting substances"
+    },
+    {
+      "word": "decorum",
+      "index": 0,
+      "definition": "behavior appropriate to a formal occasion"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

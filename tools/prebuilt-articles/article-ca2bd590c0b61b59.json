@@ -1,0 +1,57 @@
+{
+  "id": "article-ca2bd590c0b61b59",
+  "tier": "Core",
+  "topic": "Decisions & purposeful actions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The storm should abate overnight, with the wind becoming much weaker. The law ordered the abolition of the unfair tax. The ruler threatened to banish the traitor from the kingdom forever. Sharing the private letter would betray her friend's trust.",
+    "The remaining pages widened the discussion with additional observations. We cherish the memories of the summers we spent together. The clear evidence helped convince the committee that the plan would work. Farmers cultivate the soil carefully before planting seeds. The false label was designed to deceive buyers about the product's origin.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "abate",
+      "index": 0,
+      "definition": "to become less intense or widespread"
+    },
+    {
+      "word": "abolition",
+      "index": 0,
+      "definition": "the formal ending of a practice or institution"
+    },
+    {
+      "word": "banish",
+      "index": 0,
+      "definition": "to order someone to leave a place"
+    },
+    {
+      "word": "betray",
+      "index": 0,
+      "definition": "to break someone's trust"
+    },
+    {
+      "word": "cherish",
+      "index": 0,
+      "definition": "to care for something deeply"
+    },
+    {
+      "word": "convince",
+      "index": 0,
+      "definition": "to cause someone to believe something"
+    },
+    {
+      "word": "cultivate",
+      "index": 0,
+      "definition": "to prepare and work land for growing crops"
+    },
+    {
+      "word": "deceive",
+      "index": 0,
+      "definition": "to deliberately make someone believe a falsehood"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

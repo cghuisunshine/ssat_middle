@@ -1,0 +1,57 @@
+{
+  "id": "article-1a66928c00be32a5",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. His inept attempt to fix the tap made the leak worse. The team's repeated errors revealed its ineptitude. The measurements' inexactitude affected the final calculation. The two events were connected in an inextricable way.",
+    "The remaining pages widened the discussion with additional observations. The island was once home to an infamous pirate. The question required inferential thinking rather than copying a sentence. The repairs prevented further infiltration of rainwater. The demonstration compared inhalation with breathing out.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "inept",
+      "index": 0,
+      "definition": "lacking skill or ability in a task"
+    },
+    {
+      "word": "ineptitude",
+      "index": 0,
+      "definition": "a lack of competence or skill"
+    },
+    {
+      "word": "inexactitude",
+      "index": 0,
+      "definition": "a lack of precision or accuracy"
+    },
+    {
+      "word": "inextricable",
+      "index": 0,
+      "definition": "impossible to separate or escape from easily"
+    },
+    {
+      "word": "infamous",
+      "index": 0,
+      "definition": "well known for something bad"
+    },
+    {
+      "word": "inferential",
+      "index": 0,
+      "definition": "based on conclusions drawn from evidence"
+    },
+    {
+      "word": "infiltration",
+      "index": 0,
+      "definition": "the gradual or secret entry of something into a place"
+    },
+    {
+      "word": "inhalation",
+      "index": 0,
+      "definition": "the act of breathing in"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

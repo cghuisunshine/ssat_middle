@@ -1,0 +1,57 @@
+{
+  "id": "article-6a5880241ee2f831",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. The old radio remained operable after a minor repair. The reviewer chose to opine on the play's ending. We decided to opt for the shorter route. The engineers tried to optimize the design.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The plants needed an optimum balance of sunlight and moisture. The ancient ruler consulted an oracle before the journey. The orator held the crowd's attention with a clear argument. The new ordinance limited noise after midnight.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "operable",
+      "index": 0,
+      "definition": "able to be used or put into operation"
+    },
+    {
+      "word": "opine",
+      "index": 0,
+      "definition": "to express an opinion"
+    },
+    {
+      "word": "opt",
+      "index": 0,
+      "definition": "to choose one possibility"
+    },
+    {
+      "word": "optimize",
+      "index": 0,
+      "definition": "to make something work as well as possible"
+    },
+    {
+      "word": "optimum",
+      "index": 0,
+      "definition": "most favorable for a purpose"
+    },
+    {
+      "word": "oracle",
+      "index": 0,
+      "definition": "a source believed to offer wise or prophetic guidance"
+    },
+    {
+      "word": "orator",
+      "index": 0,
+      "definition": "a person skilled at public speaking"
+    },
+    {
+      "word": "ordinance",
+      "index": 0,
+      "definition": "a law or rule issued by a local authority"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-27c4fbb3bc94cbea",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. All players must abide by the referee's decision. The abrasive paper removed old paint from the chair. The path was wide enough for two walkers abreast. Her abstracted expression showed that she was thinking about something else.",
+    "The remaining pages widened the discussion with additional observations. The driver pressed the accelerator to climb the hill. The travelers found comfortable accommodation near the station. The hall's acoustic design lets listeners hear quiet instruments clearly. His acrophobia made the open observation deck uncomfortable.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "abide",
+      "index": 0,
+      "definition": "to accept and follow a rule or decision"
+    },
+    {
+      "word": "abrasive",
+      "index": 0,
+      "definition": "rough enough to wear away a surface"
+    },
+    {
+      "word": "abreast",
+      "index": 0,
+      "definition": "side by side and facing the same direction"
+    },
+    {
+      "word": "abstracted",
+      "index": 0,
+      "definition": "so absorbed in thought that one notices little else"
+    },
+    {
+      "word": "accelerator",
+      "index": 0,
+      "definition": "a control that makes a vehicle gain speed"
+    },
+    {
+      "word": "accommodation",
+      "index": 0,
+      "definition": "a place where someone can stay or live temporarily"
+    },
+    {
+      "word": "acoustic",
+      "index": 0,
+      "definition": "related to sound or how sound travels"
+    },
+    {
+      "word": "acrophobia",
+      "index": 0,
+      "definition": "an intense fear of high places"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

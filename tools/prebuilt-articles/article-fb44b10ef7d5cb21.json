@@ -1,0 +1,57 @@
+{
+  "id": "article-fb44b10ef7d5cb21",
+  "tier": "Core",
+  "topic": "Learning & public life",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The referee imposed a penalty for the deliberate foul. Access to the private archive is a privilege granted to approved researchers. The prohibition on open fires helps protect the dry forest. The proposed reform would improve the old system of distributing aid.",
+    "Other records complicated that first impression and encouraged a closer reading. Repairing the leak was the simplest remedy for the damp wall. The scarcity of clean water forced residents to limit their use. The farm sold its surplus grain after setting aside enough for winter. The jury announced its verdict after considering all the evidence.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "penalty",
+      "index": 0,
+      "definition": "a punishment for breaking a rule"
+    },
+    {
+      "word": "privilege",
+      "index": 0,
+      "definition": "a special right granted to some people"
+    },
+    {
+      "word": "prohibition",
+      "index": 0,
+      "definition": "a rule that forbids something"
+    },
+    {
+      "word": "reform",
+      "index": 0,
+      "definition": "a change intended to improve a system"
+    },
+    {
+      "word": "remedy",
+      "index": 0,
+      "definition": "a way to correct a problem or treat an illness"
+    },
+    {
+      "word": "scarcity",
+      "index": 0,
+      "definition": "a shortage of available resources"
+    },
+    {
+      "word": "surplus",
+      "index": 0,
+      "definition": "an amount left over beyond what is needed"
+    },
+    {
+      "word": "verdict",
+      "index": 0,
+      "definition": "a formal decision made by a jury"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

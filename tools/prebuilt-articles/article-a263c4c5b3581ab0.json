@@ -1,0 +1,57 @@
+{
+  "id": "article-a263c4c5b3581ab0",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The first section of the collection placed these observations side by side. Many businesses struggled during the recession. The diagram showed how a recessive trait can reappear. The recluse rarely left the remote cottage. Can you recollect where you last saw the notebook?",
+    "A later section added further scenes for comparison. The two accounts proved reconcilable after closer study. The meeting opened a path toward reconciliation. Without a working telephone, our only recourse was to walk for help. The quiet visit had a recuperative effect.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "recession",
+      "index": 0,
+      "definition": "a period of reduced economic activity"
+    },
+    {
+      "word": "recessive",
+      "index": 0,
+      "definition": "masked by a dominant genetic variant when both are present"
+    },
+    {
+      "word": "recluse",
+      "index": 0,
+      "definition": "a person who lives apart from others"
+    },
+    {
+      "word": "recollect",
+      "index": 0,
+      "definition": "to bring a memory back to mind"
+    },
+    {
+      "word": "reconcilable",
+      "index": 0,
+      "definition": "able to be made consistent or brought into agreement"
+    },
+    {
+      "word": "reconciliation",
+      "index": 0,
+      "definition": "the restoration of a friendly relationship or agreement"
+    },
+    {
+      "word": "recourse",
+      "index": 0,
+      "definition": "a source of help when dealing with difficulty"
+    },
+    {
+      "word": "recuperative",
+      "index": 0,
+      "definition": "helping restore health or strength"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-67556a0123a67c0b",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. The detective searched for the malefactor responsible for the theft. The potter set aside the malformed bowl. The inquiry investigated allegations of malpractice. The new role required managerial skills.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The machinery could mangle loose material caught in its gears. The critic found the performance overly mannered. Tapping his pencil was a familiar mannerism. The factory will manufacture parts for bicycles.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "malefactor",
+      "index": 0,
+      "definition": "a person who commits a crime or harmful act"
+    },
+    {
+      "word": "malformed",
+      "index": 0,
+      "definition": "having an abnormal or poorly developed shape"
+    },
+    {
+      "word": "malpractice",
+      "index": 0,
+      "definition": "improper or negligent professional conduct"
+    },
+    {
+      "word": "managerial",
+      "index": 0,
+      "definition": "related to directing or organizing work"
+    },
+    {
+      "word": "mangle",
+      "index": 0,
+      "definition": "to damage something by crushing or tearing it"
+    },
+    {
+      "word": "mannered",
+      "index": 0,
+      "definition": "artificial or affected in style or behavior"
+    },
+    {
+      "word": "mannerism",
+      "index": 0,
+      "definition": "a distinctive and repeated habit of speech or movement"
+    },
+    {
+      "word": "manufacture",
+      "index": 0,
+      "definition": "to make goods, often on a large scale"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

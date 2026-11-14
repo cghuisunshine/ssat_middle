@@ -1,0 +1,57 @@
+{
+  "id": "article-2437316681fe0c98",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The first section of the collection placed these observations side by side. Too little sleep can be detrimental to concentration. The researcher examined the deviant pattern in the measurements. The room was devoid of furniture. The reform brought a devolution of authority to regional councils.",
+    "A later section added further scenes for comparison. Her devotion to the rescue animals never weakened. Repairing the tiny watch required great dexterity. The chemistry diagram identified the substance as dextrorotatory. They began to dicker over the cost of the old desk.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "detrimental",
+      "index": 0,
+      "definition": "causing harm or damage"
+    },
+    {
+      "word": "deviant",
+      "index": 0,
+      "definition": "departing from an accepted or usual pattern"
+    },
+    {
+      "word": "devoid",
+      "index": 0,
+      "definition": "completely lacking something"
+    },
+    {
+      "word": "devolution",
+      "index": 0,
+      "definition": "the transfer of power from a central authority to local bodies"
+    },
+    {
+      "word": "devotion",
+      "index": 0,
+      "definition": "strong love, loyalty, or dedication"
+    },
+    {
+      "word": "dexterity",
+      "index": 0,
+      "definition": "skill in using the hands or handling a task"
+    },
+    {
+      "word": "dextrorotatory",
+      "index": 0,
+      "definition": "rotating polarized light toward the right"
+    },
+    {
+      "word": "dicker",
+      "index": 0,
+      "definition": "to negotiate or argue over a price"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

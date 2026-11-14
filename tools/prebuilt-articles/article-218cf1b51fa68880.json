@@ -1,0 +1,57 @@
+{
+  "id": "article-218cf1b51fa68880",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. We could barely hear each other above the din. The museum's diorama showed animals in a woodland habitat. The new directive required every team to submit a report. Unfair treatment increased disaffection among the workers.",
+    "The remaining pages widened the discussion with additional observations. The treaty called for gradual disarmament. A disclaimer explained that the opinions were the author's own. The disclosure of the missing records changed the investigation. The specimen had a smooth, discoidal shell.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "din",
+      "index": 0,
+      "definition": "a loud, unpleasant, continuous noise"
+    },
+    {
+      "word": "diorama",
+      "index": 0,
+      "definition": "a three-dimensional model showing a scene"
+    },
+    {
+      "word": "directive",
+      "index": 0,
+      "definition": "an official instruction or order"
+    },
+    {
+      "word": "disaffection",
+      "index": 0,
+      "definition": "dissatisfaction and loss of loyalty toward an authority"
+    },
+    {
+      "word": "disarmament",
+      "index": 0,
+      "definition": "the reduction or removal of military weapons"
+    },
+    {
+      "word": "disclaimer",
+      "index": 0,
+      "definition": "a statement denying responsibility or limiting a claim"
+    },
+    {
+      "word": "disclosure",
+      "index": 0,
+      "definition": "the act of making information known"
+    },
+    {
+      "word": "discoidal",
+      "index": 0,
+      "definition": "shaped like a flat, round disk"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

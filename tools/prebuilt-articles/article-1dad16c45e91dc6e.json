@@ -1,0 +1,57 @@
+{
+  "id": "article-1dad16c45e91dc6e",
+  "tier": "Stretch",
+  "topic": "Ideas & reasoning nouns",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The theory explains how several observations fit into a larger pattern. Without measurements, her explanation remained a conjecture rather than a fact. The meaning of the ancient symbol remains an enigma to historians. One idiosyncrasy of the teacher was her habit of singing the date aloud.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The photograph of a dragon proved to be a clever hoax. The museum records the fishing lore passed down through coastal families. The orchestra played a medley of tunes from several musicals. The old insult grew into a bitter vendetta between the two families.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "theory",
+      "index": 0,
+      "definition": "a system of ideas explaining facts"
+    },
+    {
+      "word": "conjecture",
+      "index": 0,
+      "definition": "an explanation or judgment formed without enough evidence"
+    },
+    {
+      "word": "enigma",
+      "index": 0,
+      "definition": "something mysterious or difficult to understand"
+    },
+    {
+      "word": "idiosyncrasy",
+      "index": 0,
+      "definition": "an unusual habit or characteristic peculiar to one person or thing"
+    },
+    {
+      "word": "hoax",
+      "index": 0,
+      "definition": "a trick intended to make people believe something false"
+    },
+    {
+      "word": "lore",
+      "index": 0,
+      "definition": "traditional knowledge and stories passed within a group"
+    },
+    {
+      "word": "medley",
+      "index": 0,
+      "definition": "a varied mixture, especially of musical pieces"
+    },
+    {
+      "word": "vendetta",
+      "index": 0,
+      "definition": "a prolonged campaign of revenge against someone"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

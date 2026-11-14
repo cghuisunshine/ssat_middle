@@ -1,0 +1,57 @@
+{
+  "id": "article-db245d9c1efd17e9",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The first section of the collection placed these observations side by side. We must economize on water during the drought. She was ecstatic when the acceptance letter arrived. The agile animal managed to elude its pursuers. The elusive bird disappeared among the branches.",
+    "A later section added further scenes for comparison. The artist chose to embellish the border with painted flowers. The energetic children organized another game after lunch. The museum will engage a specialist to restore the painting. They will entrust the documents to a reliable messenger.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "economize",
+      "index": 0,
+      "definition": "to reduce spending or avoid wasting resources"
+    },
+    {
+      "word": "ecstatic",
+      "index": 0,
+      "definition": "extremely happy and excited"
+    },
+    {
+      "word": "elude",
+      "index": 0,
+      "definition": "to escape from or avoid being caught or understood"
+    },
+    {
+      "word": "elusive",
+      "index": 0,
+      "definition": "difficult to find, catch, or clearly understand"
+    },
+    {
+      "word": "embellish",
+      "index": 0,
+      "definition": "to make something more decorative or add details to a story"
+    },
+    {
+      "word": "energetic",
+      "index": 0,
+      "definition": "full of activity and enthusiasm"
+    },
+    {
+      "word": "engage",
+      "index": 0,
+      "definition": "to employ someone or obtain a service"
+    },
+    {
+      "word": "entrust",
+      "index": 0,
+      "definition": "to place something valuable in another person's care"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

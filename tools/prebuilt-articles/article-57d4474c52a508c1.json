@@ -1,0 +1,57 @@
+{
+  "id": "article-57d4474c52a508c1",
+  "tier": "Stretch",
+  "topic": "Literary & academic distinctions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. Her judgment of the painting was subjective, based on personal taste. The imaginative child invented a whole world for her stories. The satirical cartoon mocked the mayor's wasteful spending. The audience remained solemn during the memorial ceremony.",
+    "The remaining pages widened the discussion with additional observations. The indignant students protested after being blamed for something they had not done. She felt ambivalent about moving, excited by new opportunities but sad to leave friends. The introspective narrator carefully examines his own thoughts and motives. The ominous rumble suggested that a powerful storm was approaching.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "subjective",
+      "index": 0,
+      "definition": "based on personal feelings or opinions"
+    },
+    {
+      "word": "imaginative",
+      "index": 0,
+      "definition": "showing creative powers of invention"
+    },
+    {
+      "word": "satirical",
+      "index": 0,
+      "definition": "using humor to criticize faults"
+    },
+    {
+      "word": "solemn",
+      "index": 0,
+      "definition": "serious and dignified"
+    },
+    {
+      "word": "indignant",
+      "index": 0,
+      "definition": "angry about unfair treatment"
+    },
+    {
+      "word": "ambivalent",
+      "index": 0,
+      "definition": "having mixed or conflicting feelings"
+    },
+    {
+      "word": "introspective",
+      "index": 0,
+      "definition": "examining one's own thoughts and feelings"
+    },
+    {
+      "word": "ominous",
+      "index": 0,
+      "definition": "suggesting that something bad will happen"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

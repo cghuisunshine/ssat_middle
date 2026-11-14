@@ -1,0 +1,57 @@
+{
+  "id": "article-546a0c69bb328720",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The first section of the collection placed these observations side by side. The novel's scapegrace repeatedly escaped the consequences of his tricks. The travelers emerged scatheless from the rough crossing. The monarch held a golden scepter. The article offered a scholarly analysis of the old text.",
+    "A later section added further scenes for comparison. A brass sconce lit the narrow hallway. A scraggly bush grew beside the fence. The scrappy notes needed careful organization. He began to scribble directions on a scrap of paper.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "scapegrace",
+      "index": 0,
+      "definition": "a reckless or mischievous person"
+    },
+    {
+      "word": "scatheless",
+      "index": 0,
+      "definition": "without injury or damage"
+    },
+    {
+      "word": "scepter",
+      "index": 0,
+      "definition": "an ornamental staff symbolizing a ruler's authority"
+    },
+    {
+      "word": "scholarly",
+      "index": 0,
+      "definition": "showing serious study and careful learning"
+    },
+    {
+      "word": "sconce",
+      "index": 0,
+      "definition": "a light fixture or candle holder attached to a wall"
+    },
+    {
+      "word": "scraggly",
+      "index": 0,
+      "definition": "thin, uneven, and untidy"
+    },
+    {
+      "word": "scrappy",
+      "index": 0,
+      "definition": "small and untidily assembled, or determined to struggle"
+    },
+    {
+      "word": "scribble",
+      "index": 0,
+      "definition": "to write quickly and untidily"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

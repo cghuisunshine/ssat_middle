@@ -1,0 +1,57 @@
+{
+  "id": "article-d79054a470b46c58",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. The playful story followed a young rapscallion through the town. The treaty required ratification by the council. She explained the rationale behind the revised schedule. The reactionary policy sought to restore the former restrictions.",
+    "The remaining pages widened the discussion with additional observations. Shorter paragraphs improved the report's readability. The captain had to rebuke the crew for ignoring instructions. The recalcitrant horse refused to enter the trailer. The receptionist directed us to the meeting room.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "rapscallion",
+      "index": 0,
+      "definition": "a mischievous or dishonest person"
+    },
+    {
+      "word": "ratification",
+      "index": 0,
+      "definition": "formal approval that makes an agreement effective"
+    },
+    {
+      "word": "rationale",
+      "index": 0,
+      "definition": "the reasons underlying a decision or belief"
+    },
+    {
+      "word": "reactionary",
+      "index": 0,
+      "definition": "opposing change and favoring a return to an earlier system"
+    },
+    {
+      "word": "readability",
+      "index": 0,
+      "definition": "the ease with which a text can be read and understood"
+    },
+    {
+      "word": "rebuke",
+      "index": 0,
+      "definition": "to express sharp criticism of someone's behavior"
+    },
+    {
+      "word": "recalcitrant",
+      "index": 0,
+      "definition": "stubbornly resisting rules or authority"
+    },
+    {
+      "word": "receptionist",
+      "index": 0,
+      "definition": "a person who welcomes visitors and handles inquiries"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

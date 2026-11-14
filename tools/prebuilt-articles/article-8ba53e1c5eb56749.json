@@ -1,0 +1,57 @@
+{
+  "id": "article-8ba53e1c5eb56749",
+  "tier": "Core",
+  "topic": "Manner, sound & sensation",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. The sly fox waited out of sight before approaching the henhouse. The story's wicked ruler ordered the destruction of an innocent village. The distant thunder did not disturb the baby's slumber. The scrawny seedling needed better light and soil.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The old letter was covered in spidery handwriting. Sunlight can cause the ink to fade over time. The searing afternoon heat drove the hikers into the shade. The path was strewn with fallen leaves.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "sly",
+      "index": 0,
+      "definition": "clever at hiding one's intentions, often to deceive"
+    },
+    {
+      "word": "wicked",
+      "index": 0,
+      "definition": "morally very bad or deliberately harmful"
+    },
+    {
+      "word": "slumber",
+      "index": 0,
+      "definition": "sleep, especially peaceful sleep"
+    },
+    {
+      "word": "scrawny",
+      "index": 0,
+      "definition": "unusually thin and weak-looking"
+    },
+    {
+      "word": "spidery",
+      "index": 0,
+      "definition": "having thin, irregular lines like a spider's legs"
+    },
+    {
+      "word": "fade",
+      "index": 0,
+      "definition": "to gradually lose color, strength, or clarity"
+    },
+    {
+      "word": "searing",
+      "index": 0,
+      "definition": "extremely hot or burning"
+    },
+    {
+      "word": "strewn",
+      "index": 0,
+      "definition": "scattered loosely over an area"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

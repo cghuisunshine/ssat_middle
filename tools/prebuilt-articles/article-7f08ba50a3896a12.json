@@ -1,0 +1,57 @@
+{
+  "id": "article-7f08ba50a3896a12",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The first section of the collection placed these observations side by side. The irate customer demanded an explanation. A judicious choice saved both time and money. Her keen eyesight detected the movement in the bushes. The sculpture used kinetic parts that turned in the wind.",
+    "A later section added further scenes for comparison. She raised a legitimate concern about the cost. The hot afternoon made everyone feel lethargic. The gymnast remained limber through regular stretching. We chose to linger in the garden after the tour.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "irate",
+      "index": 0,
+      "definition": "extremely angry"
+    },
+    {
+      "word": "judicious",
+      "index": 0,
+      "definition": "showing wise and careful judgment"
+    },
+    {
+      "word": "keen",
+      "index": 0,
+      "definition": "having a sharp or highly perceptive ability"
+    },
+    {
+      "word": "kinetic",
+      "index": 0,
+      "definition": "related to motion"
+    },
+    {
+      "word": "legitimate",
+      "index": 0,
+      "definition": "lawful, reasonable, or properly justified"
+    },
+    {
+      "word": "lethargic",
+      "index": 0,
+      "definition": "lacking energy and moving slowly"
+    },
+    {
+      "word": "limber",
+      "index": 0,
+      "definition": "flexible and able to bend easily"
+    },
+    {
+      "word": "linger",
+      "index": 0,
+      "definition": "to remain longer than expected or necessary"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

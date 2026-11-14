@@ -1,0 +1,47 @@
+{
+  "id": "article-3bda9738dda53f91",
+  "tier": "Core",
+  "topic": "Speech & expression",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The first section of the collection placed these observations side by side. The librarian answered my query about the missing reference book. After another delay, his sarcastic comment was, \"What wonderfully prompt service!\" Some people scoff at the idea until they see the evidence.",
+    "A later section added further scenes for comparison. The judges will laud the volunteers for their generous service. Please notify the librarian if you find the missing book. Her brief utterance ended the long silence.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "query",
+      "index": 0,
+      "definition": "a question or request for information"
+    },
+    {
+      "word": "sarcastic",
+      "index": 0,
+      "definition": "using cutting remarks that often mean the opposite of their literal words"
+    },
+    {
+      "word": "scoff",
+      "index": 0,
+      "definition": "to express disbelief or contempt in a mocking way"
+    },
+    {
+      "word": "laud",
+      "index": 0,
+      "definition": "to praise someone or something highly"
+    },
+    {
+      "word": "notify",
+      "index": 0,
+      "definition": "to formally tell someone about something"
+    },
+    {
+      "word": "utterance",
+      "index": 0,
+      "definition": "something spoken aloud"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

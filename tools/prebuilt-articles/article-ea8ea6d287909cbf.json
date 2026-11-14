@@ -1,0 +1,57 @@
+{
+  "id": "article-ea8ea6d287909cbf",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. The old watch was a treasured heirloom. The medical illustration showed the location of the hemorrhage. The villain sent a henchman to guard the hidden entrance. The opening bells will herald the festival's beginning.",
+    "Other records complicated that first impression and encouraged a closer reading. At the time, the new interpretation was considered heretical. She did not hesitate to help the lost visitor. The lesson used lead and lead as examples of heteronyms. The survey included heterosexual and other participants.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "heirloom",
+      "index": 0,
+      "definition": "a valuable object passed down within a family"
+    },
+    {
+      "word": "hemorrhage",
+      "index": 0,
+      "definition": "a serious escape of blood from damaged vessels"
+    },
+    {
+      "word": "henchman",
+      "index": 0,
+      "definition": "a loyal helper who carries out a leader's harmful orders"
+    },
+    {
+      "word": "herald",
+      "index": 0,
+      "definition": "to announce or signal the arrival of something"
+    },
+    {
+      "word": "heretical",
+      "index": 0,
+      "definition": "opposing an established religious doctrine or accepted belief"
+    },
+    {
+      "word": "hesitate",
+      "index": 0,
+      "definition": "to pause because of uncertainty or unwillingness"
+    },
+    {
+      "word": "heteronyms",
+      "index": 0,
+      "definition": "words spelled alike but pronounced differently with different meanings"
+    },
+    {
+      "word": "heterosexual",
+      "index": 0,
+      "definition": "romantically or sexually attracted to people of the other sex"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

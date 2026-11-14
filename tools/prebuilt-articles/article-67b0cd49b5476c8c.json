@@ -1,0 +1,57 @@
+{
+  "id": "article-67b0cd49b5476c8c",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. The novel's misanthrope avoided company whenever possible. The misbegotten scheme failed almost immediately. The drawer held miscellaneous tools and spare parts. Do not misconstrue a request for clarification as criticism.",
+    "The remaining pages widened the discussion with additional observations. The report distinguished a misdemeanor from a more serious crime. The rhyme served as a mnemonic for the sequence. Her sincere attempt deserved encouragement rather than mockery. The modular shelves could be rearranged easily.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "misanthrope",
+      "index": 0,
+      "definition": "a person who dislikes or distrusts humanity"
+    },
+    {
+      "word": "misbegotten",
+      "index": 0,
+      "definition": "badly planned, unfortunate, or ill-conceived"
+    },
+    {
+      "word": "miscellaneous",
+      "index": 0,
+      "definition": "consisting of several different kinds"
+    },
+    {
+      "word": "misconstrue",
+      "index": 0,
+      "definition": "to interpret something incorrectly"
+    },
+    {
+      "word": "misdemeanor",
+      "index": 0,
+      "definition": "an offense generally considered less serious than a felony"
+    },
+    {
+      "word": "mnemonic",
+      "index": 0,
+      "definition": "a device or pattern used to help memory"
+    },
+    {
+      "word": "mockery",
+      "index": 0,
+      "definition": "ridicule or an insulting imitation"
+    },
+    {
+      "word": "modular",
+      "index": 0,
+      "definition": "made from separate units that can be combined"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

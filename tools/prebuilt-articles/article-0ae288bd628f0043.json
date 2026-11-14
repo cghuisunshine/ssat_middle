@@ -1,0 +1,57 @@
+{
+  "id": "article-0ae288bd628f0043",
+  "tier": "Core",
+  "topic": "Conflict & cooperation",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The first section of the collection placed these observations side by side. The shared goal helped unite several previously separate groups. Their compatible schedules allowed them to rehearse together each afternoon. The bridge was built to withstand powerful winds. The artist and engineer will collaborate on the new playground design.",
+    "A later section added further scenes for comparison. Six teams will contend for the championship trophy. The countries signed a pact promising to protect the shared river. The club encourages tolerance by welcoming people with different beliefs. The children continued to pester their father for another story.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "unite",
+      "index": 0,
+      "definition": "to join together as one"
+    },
+    {
+      "word": "compatible",
+      "index": 0,
+      "definition": "able to exist or work together without conflict"
+    },
+    {
+      "word": "withstand",
+      "index": 0,
+      "definition": "to resist or survive pressure or force"
+    },
+    {
+      "word": "collaborate",
+      "index": 0,
+      "definition": "to work together toward a shared result"
+    },
+    {
+      "word": "contend",
+      "index": 0,
+      "definition": "to compete or struggle for something"
+    },
+    {
+      "word": "pact",
+      "index": 0,
+      "definition": "a formal agreement between people or groups"
+    },
+    {
+      "word": "tolerance",
+      "index": 0,
+      "definition": "a willingness to accept differences without hostility"
+    },
+    {
+      "word": "pester",
+      "index": 0,
+      "definition": "to annoy someone with repeated requests"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

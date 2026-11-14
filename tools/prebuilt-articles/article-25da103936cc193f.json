@@ -1,0 +1,57 @@
+{
+  "id": "article-25da103936cc193f",
+  "tier": "Core",
+  "topic": "Conditions & contrasts",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. Walking onto the cracked ice would be hazardous. The truck remained immobile after its wheels became trapped in mud. Although the box was crushed, the glass inside remained intact. The isolated village was many miles from the nearest town.",
+    "Other records complicated that first impression and encouraged a closer reading. The obscure author was known to only a handful of readers. The opaque curtain blocked the view completely. The two parallel rails stayed the same distance apart along the track. The rigid metal rod would not bend under pressure.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "hazardous",
+      "index": 0,
+      "definition": "involving danger or risk"
+    },
+    {
+      "word": "immobile",
+      "index": 0,
+      "definition": "unable to move"
+    },
+    {
+      "word": "intact",
+      "index": 0,
+      "definition": "complete and undamaged"
+    },
+    {
+      "word": "isolated",
+      "index": 0,
+      "definition": "separated from others"
+    },
+    {
+      "word": "obscure",
+      "index": 0,
+      "definition": "not widely known"
+    },
+    {
+      "word": "opaque",
+      "index": 0,
+      "definition": "not allowing light to pass through"
+    },
+    {
+      "word": "parallel",
+      "index": 0,
+      "definition": "lying in the same direction without meeting"
+    },
+    {
+      "word": "rigid",
+      "index": 0,
+      "definition": "stiff and unable to bend easily"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

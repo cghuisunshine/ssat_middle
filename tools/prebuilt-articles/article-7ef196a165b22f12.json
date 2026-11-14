@@ -1,0 +1,57 @@
+{
+  "id": "article-7ef196a165b22f12",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. A few volunteers formed the nucleus of the new organization. The error could nullify the result of the experiment. A sharp odor came from the opened container. The onerous task took far longer than expected.",
+    "It then considered a second group of accounts, looking for both similarities and differences. She remained optimistic despite the early difficulties. An ornate frame surrounded the small painting. The overbearing manager refused to hear suggestions. A gentle explanation helped pacify the frightened child.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "nucleus",
+      "index": 0,
+      "definition": "the central or most important part of something"
+    },
+    {
+      "word": "nullify",
+      "index": 0,
+      "definition": "to make something invalid or ineffective"
+    },
+    {
+      "word": "odor",
+      "index": 0,
+      "definition": "a noticeable smell"
+    },
+    {
+      "word": "onerous",
+      "index": 0,
+      "definition": "requiring burdensome effort or responsibility"
+    },
+    {
+      "word": "optimistic",
+      "index": 0,
+      "definition": "expecting a favorable outcome"
+    },
+    {
+      "word": "ornate",
+      "index": 0,
+      "definition": "elaborately decorated"
+    },
+    {
+      "word": "overbearing",
+      "index": 0,
+      "definition": "trying to dominate others in an unpleasant way"
+    },
+    {
+      "word": "pacify",
+      "index": 0,
+      "definition": "to calm someone who is upset or angry"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

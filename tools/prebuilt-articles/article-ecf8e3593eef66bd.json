@@ -1,0 +1,57 @@
+{
+  "id": "article-ecf8e3593eef66bd",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The group began by reading the following accounts without adding explanations of its own. To her chagrin, she realized she had thanked the wrong person. The silver chalice stood at the center of the ceremonial table. How would you characterize the hero's attitude toward danger? The speaker's charisma held the audience's attention.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The supposed expert was exposed as a charlatan. The mechanic inspected the damaged chassis beneath the truck. The coach chose to chastise the players for their careless behavior. The chauffeur opened the car door for the arriving guests.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "chagrin",
+      "index": 0,
+      "definition": "embarrassment or annoyance caused by failure or disappointment"
+    },
+    {
+      "word": "chalice",
+      "index": 0,
+      "definition": "a large cup or goblet, especially one used ceremonially"
+    },
+    {
+      "word": "characterize",
+      "index": 0,
+      "definition": "to describe the distinctive qualities of something"
+    },
+    {
+      "word": "charisma",
+      "index": 0,
+      "definition": "personal charm that attracts and influences others"
+    },
+    {
+      "word": "charlatan",
+      "index": 0,
+      "definition": "a person who falsely claims special knowledge or skill"
+    },
+    {
+      "word": "chassis",
+      "index": 0,
+      "definition": "the supporting frame of a vehicle or machine"
+    },
+    {
+      "word": "chastise",
+      "index": 0,
+      "definition": "to criticize or punish someone for wrongdoing"
+    },
+    {
+      "word": "chauffeur",
+      "index": 0,
+      "definition": "a person employed to drive a passenger vehicle"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

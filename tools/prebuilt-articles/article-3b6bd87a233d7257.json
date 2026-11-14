@@ -1,0 +1,57 @@
+{
+  "id": "article-3b6bd87a233d7257",
+  "tier": "Core",
+  "topic": "Decisions & purposeful actions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The workers will demolish the unsafe building before it collapses. The committee will designate one person to speak for the group. We need to devise a plan for transporting the heavy statue. Workers will divert traffic away from the damaged bridge.",
+    "The remaining pages widened the discussion with additional observations. Park officers enforce the rules by stopping visitors who enter closed areas. The volunteers hope to establish a permanent animal shelter in the town. Do not exceed the weight limit marked on the elevator. The closed gate will exclude vehicles from the pedestrian path.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "demolish",
+      "index": 0,
+      "definition": "to tear down a structure completely"
+    },
+    {
+      "word": "designate",
+      "index": 0,
+      "definition": "to officially name or assign"
+    },
+    {
+      "word": "devise",
+      "index": 0,
+      "definition": "to invent a plan or method"
+    },
+    {
+      "word": "divert",
+      "index": 0,
+      "definition": "to turn aside from a course"
+    },
+    {
+      "word": "enforce",
+      "index": 0,
+      "definition": "to make people follow a rule"
+    },
+    {
+      "word": "establish",
+      "index": 0,
+      "definition": "to set up something intended to last"
+    },
+    {
+      "word": "exceed",
+      "index": 0,
+      "definition": "to go beyond a limit"
+    },
+    {
+      "word": "exclude",
+      "index": 0,
+      "definition": "to keep from entering or participating"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

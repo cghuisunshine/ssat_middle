@@ -1,0 +1,57 @@
+{
+  "id": "article-991da8a5964a83e0",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "Several records provided a starting point for the discussion. The abbreviation Dr. appears before the physician's name. Most people abhor cruelty toward helpless animals. The explorers could not see the bottom of the abyss. The two villages reached an accord about sharing water.",
+    "Other records complicated that first impression and encouraged a closer reading. She was adamant that every contestant receive the same time. The adept carpenter repaired the damaged chair with ease. The chess champion studied her adversary before planning a move. His affiliation with the museum helped him meet other historians.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "abbreviation",
+      "index": 0,
+      "definition": "a shortened form of a word or phrase"
+    },
+    {
+      "word": "abhor",
+      "index": 0,
+      "definition": "to feel intense dislike or disgust for something"
+    },
+    {
+      "word": "abyss",
+      "index": 0,
+      "definition": "an extremely deep opening or seemingly endless gulf"
+    },
+    {
+      "word": "accord",
+      "index": 0,
+      "definition": "agreement between people or groups"
+    },
+    {
+      "word": "adamant",
+      "index": 0,
+      "definition": "firmly refusing to change an opinion or decision"
+    },
+    {
+      "word": "adept",
+      "index": 0,
+      "definition": "highly skilled at doing something"
+    },
+    {
+      "word": "adversary",
+      "index": 0,
+      "definition": "a person or group opposing another in a contest or conflict"
+    },
+    {
+      "word": "affiliation",
+      "index": 0,
+      "definition": "a connection with an organization or group"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

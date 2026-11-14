@@ -1,0 +1,57 @@
+{
+  "id": "article-9eda408d19686d57",
+  "tier": "Core",
+  "topic": "Time, order & certainty",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. Calling the project a success before testing it would be premature. The prompt response brought help within minutes of our call. The recent snowfall still covered the road this morning. The simultaneous alarms sounded at exactly the same moment.",
+    "Other records complicated that first impression and encouraged a closer reading. Their spontaneous celebration began without any planning. The first attempt failed, but subsequent attempts were more successful. The temporary bridge will be replaced by a permanent one next year. Her timely warning reached us just before the storm struck.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "premature",
+      "index": 0,
+      "definition": "happening before the proper time"
+    },
+    {
+      "word": "prompt",
+      "index": 0,
+      "definition": "done without delay"
+    },
+    {
+      "word": "recent",
+      "index": 0,
+      "definition": "happening a short time ago"
+    },
+    {
+      "word": "simultaneous",
+      "index": 0,
+      "definition": "happening at the same time"
+    },
+    {
+      "word": "spontaneous",
+      "index": 0,
+      "definition": "happening naturally without planning"
+    },
+    {
+      "word": "subsequent",
+      "index": 0,
+      "definition": "coming later in time"
+    },
+    {
+      "word": "temporary",
+      "index": 0,
+      "definition": "lasting for only a limited time"
+    },
+    {
+      "word": "timely",
+      "index": 0,
+      "definition": "happening at a useful or suitable time"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

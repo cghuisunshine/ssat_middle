@@ -1,0 +1,57 @@
+{
+  "id": "article-d92aff6f7998a6e7",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The first section of the collection placed these observations side by side. The invention became a lucrative business. The bright flowers lure insects into the garden. The tale featured a malevolent ruler who enjoyed cruelty. The report described a malignant influence spreading through the organization.",
+    "A later section added further scenes for comparison. The stream continued to meander through the meadow. Please do not meddle in their private disagreement. The loose wire was a menace to passing pedestrians. The parrot learned to mimic the doorbell.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "lucrative",
+      "index": 0,
+      "definition": "producing a large financial gain"
+    },
+    {
+      "word": "lure",
+      "index": 0,
+      "definition": "to attract someone or something toward a place or action"
+    },
+    {
+      "word": "malevolent",
+      "index": 0,
+      "definition": "wishing harm to others"
+    },
+    {
+      "word": "malignant",
+      "index": 0,
+      "definition": "harmful and likely to become worse"
+    },
+    {
+      "word": "meander",
+      "index": 0,
+      "definition": "to follow a winding course"
+    },
+    {
+      "word": "meddle",
+      "index": 0,
+      "definition": "to interfere in matters that are not one's concern"
+    },
+    {
+      "word": "menace",
+      "index": 0,
+      "definition": "a person or thing likely to cause harm"
+    },
+    {
+      "word": "mimic",
+      "index": 0,
+      "definition": "to copy another person's actions or sounds"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

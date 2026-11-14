@@ -1,0 +1,57 @@
+{
+  "id": "article-526e0f85611af018",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. The potter placed the clay bowls inside the kiln. We gathered dry twigs for kindling. The course in kinesiology examined how muscles move joints. We bought a map at the station kiosk.",
+    "The remaining pages widened the discussion with additional observations. Their unexpected reunion seemed like kismet. He has a knack for repairing old radios. The old illustration showed a golfer wearing knickers. The tool's knurled handle was easy to hold.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "kiln",
+      "index": 0,
+      "definition": "a very hot oven used to fire pottery or other materials"
+    },
+    {
+      "word": "kindling",
+      "index": 0,
+      "definition": "small dry material used to start a fire"
+    },
+    {
+      "word": "kinesiology",
+      "index": 0,
+      "definition": "the scientific study of body movement"
+    },
+    {
+      "word": "kiosk",
+      "index": 0,
+      "definition": "a small booth used to sell goods or provide information"
+    },
+    {
+      "word": "kismet",
+      "index": 0,
+      "definition": "fate or destiny"
+    },
+    {
+      "word": "knack",
+      "index": 0,
+      "definition": "a particular skill or natural ability"
+    },
+    {
+      "word": "knickers",
+      "index": 0,
+      "definition": "loose trousers gathered below the knee, or underwear in British usage"
+    },
+    {
+      "word": "knurled",
+      "index": 0,
+      "definition": "covered with small ridges that improve grip"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

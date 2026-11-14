@@ -1,0 +1,57 @@
+{
+  "id": "article-25b8afddf9e57c28",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "Several records provided a starting point for the discussion. The dictionary lists a regional variant of the spelling. The graph shows the seasonal variation in rainfall. The bank stored the gold in an underground vault. The vegetarian ordered a lentil stew instead of the beef dish.",
+    "Other records complicated that first impression and encouraged a closer reading. The venerable scholar received a standing ovation. The guide warned us to keep away from the venomous snake. The venturesome explorer set out along the unknown river. The historian sought a veracious account of the battle.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "variant",
+      "index": 0,
+      "definition": "a form that differs from another version of the same thing"
+    },
+    {
+      "word": "variation",
+      "index": 0,
+      "definition": "a change or difference within a group or pattern"
+    },
+    {
+      "word": "vault",
+      "index": 0,
+      "definition": "a strongly secured room used to protect valuables"
+    },
+    {
+      "word": "vegetarian",
+      "index": 0,
+      "definition": "a person who does not eat meat"
+    },
+    {
+      "word": "venerable",
+      "index": 0,
+      "definition": "deserving respect because of age, character, or tradition"
+    },
+    {
+      "word": "venomous",
+      "index": 0,
+      "definition": "producing poison delivered by a bite or sting"
+    },
+    {
+      "word": "venturesome",
+      "index": 0,
+      "definition": "willing to take risks or try new things"
+    },
+    {
+      "word": "veracious",
+      "index": 0,
+      "definition": "truthful and accurate"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

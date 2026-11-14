@@ -1,0 +1,57 @@
+{
+  "id": "article-6062c3951884cd89",
+  "tier": "Foundation",
+  "topic": "Character & behavior",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. It was cruel to leave the injured animal without help. The eager volunteers arrived early, ready to begin the cleanup. The judge made a fair decision after hearing both sides. The faithful friend stayed beside her throughout the difficult year.",
+    "The remaining pages widened the discussion with additional observations. Ignoring the storm warning would be a foolish decision. The generous neighbor donated blankets to every family in need. Use a gentle touch when handling the fragile butterfly. An honest witness tells the truth even when it is uncomfortable.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "cruel",
+      "index": 0,
+      "definition": "intentionally causing pain or suffering"
+    },
+    {
+      "word": "eager",
+      "index": 0,
+      "definition": "strongly wanting to do something"
+    },
+    {
+      "word": "fair",
+      "index": 0,
+      "definition": "treating people equally and reasonably"
+    },
+    {
+      "word": "faithful",
+      "index": 0,
+      "definition": "remaining loyal and dependable"
+    },
+    {
+      "word": "foolish",
+      "index": 0,
+      "definition": "showing poor sense or judgment"
+    },
+    {
+      "word": "generous",
+      "index": 0,
+      "definition": "willing to give more than is expected"
+    },
+    {
+      "word": "gentle",
+      "index": 0,
+      "definition": "kind and mild in action or manner"
+    },
+    {
+      "word": "honest",
+      "index": 0,
+      "definition": "telling the truth and avoiding deception"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

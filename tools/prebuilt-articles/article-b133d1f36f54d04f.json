@@ -1,0 +1,57 @@
+{
+  "id": "article-b133d1f36f54d04f",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. We deplore the needless destruction of the old theater. The prolonged drought threatened to depopulate the village. The court considered whether officials could deport the visitor. The accounts included depreciation of the delivery vehicles.",
+    "Other records complicated that first impression and encouraged a closer reading. The lesson explained why alcohol is classified as a depressant. A derelict warehouse stood beside the unused tracks. The community condemned attempts to desecrate the memorial. The recipe called for desiccated coconut.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "deplore",
+      "index": 0,
+      "definition": "to express strong disapproval or sorrow about something"
+    },
+    {
+      "word": "depopulate",
+      "index": 0,
+      "definition": "to greatly reduce the population of a place"
+    },
+    {
+      "word": "deport",
+      "index": 0,
+      "definition": "to officially send someone out of a country"
+    },
+    {
+      "word": "depreciation",
+      "index": 0,
+      "definition": "a reduction in value over time"
+    },
+    {
+      "word": "depressant",
+      "index": 0,
+      "definition": "a substance that reduces nervous-system activity"
+    },
+    {
+      "word": "derelict",
+      "index": 0,
+      "definition": "abandoned and in poor condition"
+    },
+    {
+      "word": "desecrate",
+      "index": 0,
+      "definition": "to damage or disrespect something considered sacred"
+    },
+    {
+      "word": "desiccated",
+      "index": 0,
+      "definition": "dried out by removal of moisture"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

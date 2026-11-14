@@ -1,0 +1,57 @@
+{
+  "id": "article-d436678747dc084e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The course introduced basic principles of pharmacology. Her philanthropic work supported schools and shelters. They liked to philosophize about freedom and responsibility. The material's phosphorescence was visible in the dark room.",
+    "It then considered a second group of accounts, looking for both similarities and differences. A pied bird landed on the fence. The account emphasized her quiet piety. The editor dismissed the empty argument as piffle. Someone had tried to pilfer supplies from the cupboard.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "pharmacology",
+      "index": 0,
+      "definition": "the study of medicines and their effects"
+    },
+    {
+      "word": "philanthropic",
+      "index": 0,
+      "definition": "seeking to help others through generosity"
+    },
+    {
+      "word": "philosophize",
+      "index": 0,
+      "definition": "to consider or discuss broad questions about life and knowledge"
+    },
+    {
+      "word": "phosphorescence",
+      "index": 0,
+      "definition": "a continued glow after exposure to light or other energy"
+    },
+    {
+      "word": "pied",
+      "index": 0,
+      "definition": "having patches of two or more colors"
+    },
+    {
+      "word": "piety",
+      "index": 0,
+      "definition": "devotion to religion or a sense of dutiful reverence"
+    },
+    {
+      "word": "piffle",
+      "index": 0,
+      "definition": "trivial or foolish talk"
+    },
+    {
+      "word": "pilfer",
+      "index": 0,
+      "definition": "to steal small amounts or items"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

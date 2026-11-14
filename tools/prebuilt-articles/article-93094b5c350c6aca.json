@@ -1,0 +1,32 @@
+{
+  "id": "article-93094b5c350c6aca",
+  "tier": "Core",
+  "topic": "Ideas, art & literature",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "Several records provided a starting point for the discussion. The semiabstract painting suggested a flower through a few curved shapes. The final panel shows the cyclist arriving home.",
+    "Other records complicated that first impression and encouraged a closer reading. The gutter separates the two drawings without showing every moment between them.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "semiabstract",
+      "index": 0,
+      "definition": "showing recognizable subjects through simplified or partly abstract forms"
+    },
+    {
+      "word": "panel",
+      "index": 0,
+      "definition": "one framed picture in a sequence in a comic"
+    },
+    {
+      "word": "gutter",
+      "index": 0,
+      "definition": "the blank space separating panels in a comic"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

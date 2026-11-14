@@ -1,0 +1,57 @@
+{
+  "id": "article-8353bfc4b53cd21e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The builder will subcontract the electrical work to a specialist. She obtained permission to sublease her apartment for the summer. The conquered ruler's submission ended the fighting. The advisor refused to remain subservient when the ruler acted unjustly.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The bridge's substructure rests on solid rock. The subtenant paid rent to the original renter each month. The translation missed the subtlety of the speaker's joke. The authorities banned the pamphlet because they considered it subversive.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "subcontract",
+      "index": 0,
+      "definition": "to hire another person or company to perform part of an agreed job"
+    },
+    {
+      "word": "sublease",
+      "index": 0,
+      "definition": "to rent a property to another person while renting it yourself"
+    },
+    {
+      "word": "submission",
+      "index": 0,
+      "definition": "the act of giving in to another's authority"
+    },
+    {
+      "word": "subservient",
+      "index": 0,
+      "definition": "too willing to obey or serve someone else"
+    },
+    {
+      "word": "substructure",
+      "index": 0,
+      "definition": "the supporting part beneath the main structure"
+    },
+    {
+      "word": "subtenant",
+      "index": 0,
+      "definition": "a person who rents property from someone who is already a tenant"
+    },
+    {
+      "word": "subtlety",
+      "index": 0,
+      "definition": "a delicate distinction or quality that is not obvious"
+    },
+    {
+      "word": "subversive",
+      "index": 0,
+      "definition": "seeking to weaken or overthrow an established system"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-693624c0e4b15e09",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. The coach was cagey about the team's new strategy. The historian studied a cahier listing the village's complaints. They tried to cajole the shy singer into joining the performance. The high caliber of the entries impressed the judges.",
+    "It then considered a second group of accounts, looking for both similarities and differences. She used bright calico to make the kitchen curtains. The invitation featured elegant calligraphy in black ink. Shared challenges created strong camaraderie among the teammates. The medical exhibit compared healthy tissue with cancerous tissue.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "cagey",
+      "index": 0,
+      "definition": "careful and unwilling to reveal information"
+    },
+    {
+      "word": "cahier",
+      "index": 0,
+      "definition": "a notebook or written collection of reports or grievances"
+    },
+    {
+      "word": "cajole",
+      "index": 0,
+      "definition": "to persuade through gentle urging or flattering words"
+    },
+    {
+      "word": "caliber",
+      "index": 0,
+      "definition": "the quality or level of ability of someone or something"
+    },
+    {
+      "word": "calico",
+      "index": 0,
+      "definition": "a plain woven cotton cloth, often printed with a pattern"
+    },
+    {
+      "word": "calligraphy",
+      "index": 0,
+      "definition": "the art of beautiful, carefully formed handwriting"
+    },
+    {
+      "word": "camaraderie",
+      "index": 0,
+      "definition": "warm friendship and trust among members of a group"
+    },
+    {
+      "word": "cancerous",
+      "index": 0,
+      "definition": "affected by or related to cancer"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-6767521e17d4488b",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The opening pages introduced several situations worth examining carefully. A misleading headline can distort the meaning of a report. We cannot dither while the storm approaches. The two paths diverge beside the old oak tree. The garden's diversity attracts many kinds of insects.",
+    "The remaining pages widened the discussion with additional observations. The story described a ruler who relied on divination. The reporter refused to divulge the source's identity. His dogmatic manner left little room for discussion. Domestic chores included cooking and washing the dishes.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "distort",
+      "index": 0,
+      "definition": "to twist something out of its true shape or meaning"
+    },
+    {
+      "word": "dither",
+      "index": 0,
+      "definition": "to hesitate nervously instead of making a decision"
+    },
+    {
+      "word": "diverge",
+      "index": 0,
+      "definition": "to separate or move in different directions"
+    },
+    {
+      "word": "diversity",
+      "index": 0,
+      "definition": "the presence of many different kinds of things or people"
+    },
+    {
+      "word": "divination",
+      "index": 0,
+      "definition": "an attempt to discover hidden knowledge or the future by supernatural means"
+    },
+    {
+      "word": "divulge",
+      "index": 0,
+      "definition": "to reveal information previously kept secret"
+    },
+    {
+      "word": "dogmatic",
+      "index": 0,
+      "definition": "insisting that one's beliefs are unquestionably correct"
+    },
+    {
+      "word": "domestic",
+      "index": 0,
+      "definition": "related to the home or one's own country"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

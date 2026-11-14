@@ -1,0 +1,57 @@
+{
+  "id": "article-10a1adeb4ba9e8c1",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The investigation found the careless supervisor culpable. The cultured host enjoyed discussing music and literature. The cunning villain hid his plans behind a friendly smile. His cupidity led him to demand more than his fair share.",
+    "The remaining pages widened the discussion with additional observations. The story's curmudgeon objected to every cheerful suggestion. Her dalliance with painting soon developed into a serious interest. The travelers entered a darksome passage beneath the castle. The rules debar former winners from entering again.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "culpable",
+      "index": 0,
+      "definition": "deserving blame for a wrong or harmful action"
+    },
+    {
+      "word": "cultured",
+      "index": 0,
+      "definition": "showing knowledge and appreciation of art and learning"
+    },
+    {
+      "word": "cunning",
+      "index": 0,
+      "definition": "clever at achieving goals through deception"
+    },
+    {
+      "word": "cupidity",
+      "index": 0,
+      "definition": "an excessive desire for money or possessions"
+    },
+    {
+      "word": "curmudgeon",
+      "index": 0,
+      "definition": "a person who is habitually bad-tempered and complaining"
+    },
+    {
+      "word": "dalliance",
+      "index": 0,
+      "definition": "a brief or casual involvement in an activity"
+    },
+    {
+      "word": "darksome",
+      "index": 0,
+      "definition": "dark, gloomy, or poorly lit"
+    },
+    {
+      "word": "debar",
+      "index": 0,
+      "definition": "to officially prevent someone from doing something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

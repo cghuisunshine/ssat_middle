@@ -1,0 +1,33 @@
+{
+  "id": "article-fb61194ccae70a1d",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. The team's woeful performance disappointed its supporters. The broken promise aroused the ruler's wrath.",
+    "The remaining pages widened the discussion with additional observations. The zealous volunteers worked all day to restore the trail.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "woeful",
+      "index": 0,
+      "definition": "very sad or distressingly poor"
+    },
+    {
+      "word": "wrath",
+      "index": 0,
+      "definition": "intense anger"
+    },
+    {
+      "word": "zealous",
+      "index": 0,
+      "definition": "showing strong enthusiasm and dedication"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

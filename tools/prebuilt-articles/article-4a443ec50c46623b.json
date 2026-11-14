@@ -1,0 +1,57 @@
+{
+  "id": "article-4a443ec50c46623b",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. Fresh fruit was plentiful after the good harvest. The swimmer prepared to plunge into the pool. Each camper received an equal portion of the supplies. The experiment required precise measurements.",
+    "Other records complicated that first impression and encouraged a closer reading. We should not presume that silence means agreement. The old engine was prone to overheating. The legend says the sage could prophesy coming disasters. I propose that we test both designs before choosing.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "plentiful",
+      "index": 0,
+      "definition": "available in large amounts"
+    },
+    {
+      "word": "plunge",
+      "index": 0,
+      "definition": "to move or fall suddenly downward or into something"
+    },
+    {
+      "word": "portion",
+      "index": 0,
+      "definition": "a part or share of a whole"
+    },
+    {
+      "word": "precise",
+      "index": 0,
+      "definition": "exact and careful in detail"
+    },
+    {
+      "word": "presume",
+      "index": 0,
+      "definition": "to accept something as likely without complete proof"
+    },
+    {
+      "word": "prone",
+      "index": 0,
+      "definition": "likely to experience or behave in a particular way"
+    },
+    {
+      "word": "prophesy",
+      "index": 0,
+      "definition": "to predict what will happen in the future"
+    },
+    {
+      "word": "propose",
+      "index": 0,
+      "definition": "to put forward an idea for consideration"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

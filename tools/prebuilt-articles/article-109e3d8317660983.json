@@ -1,0 +1,57 @@
+{
+  "id": "article-109e3d8317660983",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "Several records provided a starting point for the discussion. Engineers checked the bridge for structural damage. The peacock began to strut across the lawn. The studious pupil reviewed her notes every evening. The magician's final trick seemed to stupefy the audience.",
+    "Other records complicated that first impression and encouraged a closer reading. The canyon's stupendous scale left the hikers speechless. Short sentences are a stylistic feature of this novel. A missing permit could stymie the construction project. A subconscious fear of failure made him hesitate.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "structural",
+      "index": 0,
+      "definition": "relating to the supporting framework or arrangement of something"
+    },
+    {
+      "word": "strut",
+      "index": 0,
+      "definition": "to walk proudly as if showing off"
+    },
+    {
+      "word": "studious",
+      "index": 0,
+      "definition": "spending much time and attention on learning"
+    },
+    {
+      "word": "stupefy",
+      "index": 0,
+      "definition": "to astonish someone so much that clear thought becomes difficult"
+    },
+    {
+      "word": "stupendous",
+      "index": 0,
+      "definition": "extremely impressive in size or degree"
+    },
+    {
+      "word": "stylistic",
+      "index": 0,
+      "definition": "relating to a particular manner of writing or creating art"
+    },
+    {
+      "word": "stymie",
+      "index": 0,
+      "definition": "to prevent progress or block an effort"
+    },
+    {
+      "word": "subconscious",
+      "index": 0,
+      "definition": "affecting thoughts or behavior without full awareness"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

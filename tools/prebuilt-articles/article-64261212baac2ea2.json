@@ -1,0 +1,37 @@
+{
+  "id": "article-64261212baac2ea2",
+  "tier": "Core",
+  "topic": "Decisions & purposeful actions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. Few hikers would venture into the unfamiliar forest after dark. The blocked road may oblige us to take a longer route.",
+    "The remaining pages widened the discussion with additional observations. The students will monitor the pond's water level each week. A shade can shield the window from the afternoon sun.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "venture",
+      "index": 0,
+      "definition": "to dare to go somewhere or do something risky"
+    },
+    {
+      "word": "oblige",
+      "index": 0,
+      "definition": "to require someone to do something because of a duty or circumstance"
+    },
+    {
+      "word": "monitor",
+      "index": 0,
+      "definition": "to watch or check something over time"
+    },
+    {
+      "word": "shield",
+      "index": 0,
+      "definition": "to protect or screen something from exposure or harm"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

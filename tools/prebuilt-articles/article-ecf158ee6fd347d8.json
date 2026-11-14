@@ -1,0 +1,57 @@
+{
+  "id": "article-ecf158ee6fd347d8",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The judges investigated possible collusion between the bidders. The colophon identified the printer and the typeface. The cliff displayed remarkable columnar rock formations. His combative tone made a calm discussion difficult.",
+    "A later section added further scenes for comparison. The label warned of the material's combustibility. The poet praised the garden's simple comeliness. The reward should be commensurate with the effort required. She gave him a commiserative smile after the disappointing result.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "collusion",
+      "index": 0,
+      "definition": "a secret agreement to deceive or gain an unfair advantage"
+    },
+    {
+      "word": "colophon",
+      "index": 0,
+      "definition": "a note giving details about a book's production"
+    },
+    {
+      "word": "columnar",
+      "index": 0,
+      "definition": "shaped like or arranged in columns"
+    },
+    {
+      "word": "combative",
+      "index": 0,
+      "definition": "ready or eager to fight or argue"
+    },
+    {
+      "word": "combustibility",
+      "index": 0,
+      "definition": "the ability of a substance to catch fire and burn"
+    },
+    {
+      "word": "comeliness",
+      "index": 0,
+      "definition": "pleasant attractiveness in appearance"
+    },
+    {
+      "word": "commensurate",
+      "index": 0,
+      "definition": "matching something in amount, degree, or importance"
+    },
+    {
+      "word": "commiserative",
+      "index": 0,
+      "definition": "showing sympathy for another person's troubles"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

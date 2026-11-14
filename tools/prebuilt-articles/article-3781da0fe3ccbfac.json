@@ -1,0 +1,57 @@
+{
+  "id": "article-3781da0fe3ccbfac",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "Several records provided a starting point for the discussion. She pursued the difficult project with remarkable ardor. An armada of ships gathered beyond the harbor. The agreement limited the amount of armament each nation could maintain. The gallery displayed an arresting photograph of the storm.",
+    "Other records complicated that first impression and encouraged a closer reading. The history exhibit explained how artillery changed battlefield tactics. Smoke can asphyxiate people who cannot escape a burning room. Many young musicians aspire to perform in that concert hall. The workers will assemble the shelter before sunset.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "ardor",
+      "index": 0,
+      "definition": "strong enthusiasm or passionate interest"
+    },
+    {
+      "word": "armada",
+      "index": 0,
+      "definition": "a large fleet of ships"
+    },
+    {
+      "word": "armament",
+      "index": 0,
+      "definition": "weapons and military equipment"
+    },
+    {
+      "word": "arresting",
+      "index": 0,
+      "definition": "so striking that it captures attention"
+    },
+    {
+      "word": "artillery",
+      "index": 0,
+      "definition": "large weapons designed to fire heavy projectiles"
+    },
+    {
+      "word": "asphyxiate",
+      "index": 0,
+      "definition": "to prevent breathing by cutting off a supply of air"
+    },
+    {
+      "word": "aspire",
+      "index": 0,
+      "definition": "to hope or aim strongly to achieve something"
+    },
+    {
+      "word": "assemble",
+      "index": 0,
+      "definition": "to bring separate people or parts together"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

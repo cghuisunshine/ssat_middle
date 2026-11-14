@@ -1,0 +1,57 @@
+{
+  "id": "article-a89ea6a7d222759d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "Several records provided a starting point for the discussion. People learned to domesticate several kinds of grain and livestock. The form asked for the applicant's permanent domicile. The crew used buckets to douse the small fire. The costume designer replaced the character's dowdy coat.",
+    "Other records complicated that first impression and encouraged a closer reading. He felt dread as the ominous footsteps approached. The dreary weather kept the hikers indoors. Clouds began to drift across the moon. The reviewer dismissed the unsupported claims as drivel.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "domesticate",
+      "index": 0,
+      "definition": "to adapt a wild animal or plant for human use"
+    },
+    {
+      "word": "domicile",
+      "index": 0,
+      "definition": "a person's home or legal place of residence"
+    },
+    {
+      "word": "douse",
+      "index": 0,
+      "definition": "to soak with liquid or extinguish with water"
+    },
+    {
+      "word": "dowdy",
+      "index": 0,
+      "definition": "untidy or unfashionable in appearance"
+    },
+    {
+      "word": "dread",
+      "index": 0,
+      "definition": "great fear about something that may happen"
+    },
+    {
+      "word": "dreary",
+      "index": 0,
+      "definition": "dull, gloomy, and depressing"
+    },
+    {
+      "word": "drift",
+      "index": 0,
+      "definition": "to move slowly without a clear direction or control"
+    },
+    {
+      "word": "drivel",
+      "index": 0,
+      "definition": "silly or meaningless talk or writing"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

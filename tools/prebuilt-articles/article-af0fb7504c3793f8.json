@@ -1,0 +1,57 @@
+{
+  "id": "article-af0fb7504c3793f8",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The first section of the collection placed these observations side by side. We bought tickets for the Saturday matinee. The speech became maudlin when he repeated every sad memory. The meddlesome neighbor kept offering unwanted advice. The garden included several medicinal plants.",
+    "A later section added further scenes for comparison. She took a meditative walk beside the lake. The song had a gentle, melancholic mood. A mellow light filled the room at sunset. The bird had a clear, melodious call.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "matinee",
+      "index": 0,
+      "definition": "a performance held in the afternoon"
+    },
+    {
+      "word": "maudlin",
+      "index": 0,
+      "definition": "excessively emotional or sentimental"
+    },
+    {
+      "word": "meddlesome",
+      "index": 0,
+      "definition": "inclined to interfere in other people's affairs"
+    },
+    {
+      "word": "medicinal",
+      "index": 0,
+      "definition": "having qualities used to treat illness"
+    },
+    {
+      "word": "meditative",
+      "index": 0,
+      "definition": "quietly thoughtful or engaged in reflection"
+    },
+    {
+      "word": "melancholic",
+      "index": 0,
+      "definition": "deeply sad or inclined to sadness"
+    },
+    {
+      "word": "mellow",
+      "index": 0,
+      "definition": "pleasantly soft, relaxed, or mild"
+    },
+    {
+      "word": "melodious",
+      "index": 0,
+      "definition": "pleasant and musical to hear"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

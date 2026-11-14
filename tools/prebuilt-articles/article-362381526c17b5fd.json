@@ -1,0 +1,57 @@
+{
+  "id": "article-362381526c17b5fd",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. An ad hoc committee was formed to organize the unexpected visit. The adhesive strip held the poster against the wall. The actor had to adlib when the other performer forgot a line. I admire the patience she shows when teaching beginners.",
+    "The remaining pages widened the discussion with additional observations. The puppy gazed at its owner with obvious adoration. Her adroit handling of the disagreement kept the meeting friendly. The class combines aerobics with stretching and balance exercises. The affable librarian made new visitors feel welcome.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "ad hoc",
+      "index": 0,
+      "definition": "created for a particular immediate purpose"
+    },
+    {
+      "word": "adhesive",
+      "index": 0,
+      "definition": "able to stick firmly to a surface"
+    },
+    {
+      "word": "adlib",
+      "index": 0,
+      "definition": "to speak or perform without preparing the exact words"
+    },
+    {
+      "word": "admire",
+      "index": 0,
+      "definition": "to regard someone or something with respect or approval"
+    },
+    {
+      "word": "adoration",
+      "index": 0,
+      "definition": "a feeling of deep love and admiration"
+    },
+    {
+      "word": "adroit",
+      "index": 0,
+      "definition": "skillful and quick in movement or handling a situation"
+    },
+    {
+      "word": "aerobics",
+      "index": 0,
+      "definition": "rhythmic exercise intended to strengthen the heart and lungs"
+    },
+    {
+      "word": "affable",
+      "index": 0,
+      "definition": "friendly and easy to talk to"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

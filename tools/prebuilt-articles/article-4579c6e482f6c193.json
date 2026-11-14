@@ -1,0 +1,57 @@
+{
+  "id": "article-4579c6e482f6c193",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. The display contained sports memorabilia from past championships. The principal sent a memorandum about the new schedule. The historical account described a mendicant seeking food. The swirling patterns seemed to mesmerize the audience.",
+    "Other records complicated that first impression and encouraged a closer reading. The butterfly's metamorphosis began inside the chrysalis. Please mince the herbs before adding them to the soup. The minstrel sang stories in the castle hall. The editor checked the minutiae of the complicated agreement.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "memorabilia",
+      "index": 0,
+      "definition": "objects kept because they recall a person or event"
+    },
+    {
+      "word": "memorandum",
+      "index": 0,
+      "definition": "a written message or record for future reference"
+    },
+    {
+      "word": "mendicant",
+      "index": 0,
+      "definition": "a person who lives by asking for charitable support"
+    },
+    {
+      "word": "mesmerize",
+      "index": 0,
+      "definition": "to capture someone's complete attention"
+    },
+    {
+      "word": "metamorphosis",
+      "index": 0,
+      "definition": "a major change in form or structure"
+    },
+    {
+      "word": "mince",
+      "index": 0,
+      "definition": "to cut food into very small pieces"
+    },
+    {
+      "word": "minstrel",
+      "index": 0,
+      "definition": "a historical traveling singer or musician"
+    },
+    {
+      "word": "minutiae",
+      "index": 0,
+      "definition": "small and precise details"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

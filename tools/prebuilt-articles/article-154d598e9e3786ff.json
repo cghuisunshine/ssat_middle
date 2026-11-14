@@ -1,0 +1,57 @@
+{
+  "id": "article-154d598e9e3786ff",
+  "tier": "Stretch",
+  "topic": "Ideas & reasoning nouns",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. One unusually warm day was an anomaly during the otherwise freezing month. The plan rests on the assumption that the weather will remain dry. A judge must avoid bias toward a contestant who happens to be a friend. Meeting my neighbor in a distant city was an unexpected coincidence.",
+    "A later section added further scenes for comparison. After discussing the options, the group reached a consensus on one plan. His claim to have stayed home was a contradiction of the witness's account. Safety is the most important criterion for choosing the new equipment. Choosing between two equally important commitments left her in a dilemma.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "anomaly",
+      "index": 0,
+      "definition": "something that differs from what is expected"
+    },
+    {
+      "word": "assumption",
+      "index": 0,
+      "definition": "something accepted as true without proof"
+    },
+    {
+      "word": "bias",
+      "index": 0,
+      "definition": "an unfair preference for one side"
+    },
+    {
+      "word": "coincidence",
+      "index": 0,
+      "definition": "events occurring together apparently by chance"
+    },
+    {
+      "word": "consensus",
+      "index": 0,
+      "definition": "general agreement within a group"
+    },
+    {
+      "word": "contradiction",
+      "index": 0,
+      "definition": "a statement incompatible with another"
+    },
+    {
+      "word": "criterion",
+      "index": 0,
+      "definition": "a standard used to make a judgment"
+    },
+    {
+      "word": "dilemma",
+      "index": 0,
+      "definition": "a situation requiring a difficult choice"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

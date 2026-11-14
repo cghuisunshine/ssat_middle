@@ -1,0 +1,57 @@
+{
+  "id": "article-749365e97e43577c",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The group began by reading the following accounts without adding explanations of its own. The ranger sent an urgent warning about the approaching fire. The tool's utility became clear when it solved three different problems. The clinic kept a record of each child's vaccination. The hotel valet brought our car to the entrance.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The medal honored the soldier's valor during the rescue. The broken windows were the result of vandalism. His vanity made it difficult for him to accept criticism. A vaporous cloud drifted above the warm lake.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "urgent",
+      "index": 0,
+      "definition": "requiring immediate attention or action"
+    },
+    {
+      "word": "utility",
+      "index": 0,
+      "definition": "the usefulness or practical value of something"
+    },
+    {
+      "word": "vaccination",
+      "index": 0,
+      "definition": "the administration of a vaccine to help protect against disease"
+    },
+    {
+      "word": "valet",
+      "index": 0,
+      "definition": "a person employed to park and retrieve guests' cars"
+    },
+    {
+      "word": "valor",
+      "index": 0,
+      "definition": "great courage in the face of danger"
+    },
+    {
+      "word": "vandalism",
+      "index": 0,
+      "definition": "deliberate damage to someone else's property"
+    },
+    {
+      "word": "vanity",
+      "index": 0,
+      "definition": "excessive pride in one's appearance or achievements"
+    },
+    {
+      "word": "vaporous",
+      "index": 0,
+      "definition": "resembling or consisting of mist or vapor"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

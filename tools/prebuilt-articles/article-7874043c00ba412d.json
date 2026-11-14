@@ -1,0 +1,57 @@
+{
+  "id": "article-7874043c00ba412d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The group began by reading the following accounts without adding explanations of its own. The building received a designation as a historic landmark. The western novel followed a desperado fleeing the law. Blaming an innocent person was a despicable act. A despiteful remark spoiled the friendly gathering.",
+    "It then considered a second group of accounts, looking for both similarities and differences. She felt despondent after another unsuccessful attempt. The high fine served as a deterrent to illegal dumping. Her detestation of dishonesty was clear. The delay was a detriment to the whole project.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "designation",
+      "index": 0,
+      "definition": "a name, title, or official assignment"
+    },
+    {
+      "word": "desperado",
+      "index": 0,
+      "definition": "a bold and dangerous outlaw"
+    },
+    {
+      "word": "despicable",
+      "index": 0,
+      "definition": "deserving strong dislike because of bad behavior"
+    },
+    {
+      "word": "despiteful",
+      "index": 0,
+      "definition": "full of spite and a wish to hurt or annoy"
+    },
+    {
+      "word": "despondent",
+      "index": 0,
+      "definition": "very discouraged and without hope"
+    },
+    {
+      "word": "deterrent",
+      "index": 0,
+      "definition": "something that discourages an action"
+    },
+    {
+      "word": "detestation",
+      "index": 0,
+      "definition": "a feeling of intense dislike"
+    },
+    {
+      "word": "detriment",
+      "index": 0,
+      "definition": "harm or damage to something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

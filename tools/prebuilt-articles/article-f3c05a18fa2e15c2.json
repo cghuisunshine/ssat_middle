@@ -1,0 +1,57 @@
+{
+  "id": "article-f3c05a18fa2e15c2",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. A corridor of protected woodland links the two forests. We watched a paper seed spiral toward the ground. The bees returned to the hive carrying pollen. The chrysalis hung beneath the branch until the butterfly emerged.",
+    "The remaining pages widened the discussion with additional observations. The insect moved one antenna toward the drop of nectar. The air became cooler as the climbers gained altitude. Quartz is a mineral found in many kinds of rock. The clam is a bivalve that can close its shell tightly.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "corridor",
+      "index": 0,
+      "definition": "a narrow connecting passage or route"
+    },
+    {
+      "word": "spiral",
+      "index": 0,
+      "definition": "to move in a curve that winds around a center"
+    },
+    {
+      "word": "hive",
+      "index": 0,
+      "definition": "a nest or structure in which a colony of bees lives"
+    },
+    {
+      "word": "chrysalis",
+      "index": 0,
+      "definition": "the pupa stage or outer case of a butterfly during its transformation"
+    },
+    {
+      "word": "antenna",
+      "index": 0,
+      "definition": "one of the sensory feelers on an insect's head"
+    },
+    {
+      "word": "altitude",
+      "index": 0,
+      "definition": "height above sea level or another stated reference point"
+    },
+    {
+      "word": "mineral",
+      "index": 0,
+      "definition": "a naturally occurring inorganic solid with a characteristic structure and composition"
+    },
+    {
+      "word": "bivalve",
+      "index": 0,
+      "definition": "a mollusk with a shell made of two hinged parts"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

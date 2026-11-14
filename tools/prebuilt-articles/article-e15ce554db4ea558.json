@@ -1,0 +1,47 @@
+{
+  "id": "article-e15ce554db4ea558",
+  "tier": "Core",
+  "topic": "Society & people",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The rebellion began when the ruler refused to hear the people's demands. Many of the artists reside near the old harbor. The map marked the boundary of the reservation.",
+    "Other records complicated that first impression and encouraged a closer reading. The harbor serves both fishing boats and commercial ships. A distant relation sent us a photograph from the family archive. The coach encouraged participation from every student.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "rebellion",
+      "index": 0,
+      "definition": "organized resistance against a government or other authority"
+    },
+    {
+      "word": "reside",
+      "index": 0,
+      "definition": "to have one's home in a place"
+    },
+    {
+      "word": "reservation",
+      "index": 0,
+      "definition": "an area of land set aside for a particular purpose or community"
+    },
+    {
+      "word": "commercial",
+      "index": 0,
+      "definition": "relating to business or the sale of goods and services"
+    },
+    {
+      "word": "relation",
+      "index": 0,
+      "definition": "a member of one's family"
+    },
+    {
+      "word": "participation",
+      "index": 0,
+      "definition": "the act of taking part in an activity"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

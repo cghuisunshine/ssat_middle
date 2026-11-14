@@ -1,0 +1,57 @@
+{
+  "id": "article-ea51a4cc00aab3c1",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. The soprano sang the opening melody. The crew took a sounding before anchoring. She bought a small souvenir of the journey. The sovereign addressed the assembled council.",
+    "The remaining pages widened the discussion with additional observations. The treaty recognized the country's sovereignty. The spacious hall easily held the visitors. The medical text described a spastic movement of the muscle. The laboratory will specialize in water-quality research.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "soprano",
+      "index": 0,
+      "definition": "the highest usual female singing voice"
+    },
+    {
+      "word": "sounding",
+      "index": 0,
+      "definition": "a measurement of the depth of water"
+    },
+    {
+      "word": "souvenir",
+      "index": 0,
+      "definition": "an object kept as a reminder of a place or event"
+    },
+    {
+      "word": "sovereign",
+      "index": 0,
+      "definition": "a supreme ruler, especially a monarch"
+    },
+    {
+      "word": "sovereignty",
+      "index": 0,
+      "definition": "supreme authority or independent self-government"
+    },
+    {
+      "word": "spacious",
+      "index": 0,
+      "definition": "having plenty of room"
+    },
+    {
+      "word": "spastic",
+      "index": 0,
+      "definition": "involving involuntary muscle tightening or spasms"
+    },
+    {
+      "word": "specialize",
+      "index": 0,
+      "definition": "to concentrate on one particular subject or activity"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

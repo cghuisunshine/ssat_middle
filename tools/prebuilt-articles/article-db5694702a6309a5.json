@@ -1,0 +1,57 @@
+{
+  "id": "article-db5694702a6309a5",
+  "tier": "Core",
+  "topic": "Adversity & achievement nouns",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. The volunteers brought food to families in a desperate plight after the flood. Losing both the map and the phone left the hikers in a predicament. The scientist checked every measurement with great rigor. A dearth of rainfall left the reservoirs nearly empty.",
+    "The remaining pages widened the discussion with additional observations. Missing costumes and forgotten lines turned the opening night into a debacle. The picnic became a fiasco when the food spoiled and the tent collapsed. A brief computer glitch prevented us from saving the file. Calling the guest by the wrong name was an unfortunate gaffe.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "plight",
+      "index": 0,
+      "definition": "a difficult or distressing situation"
+    },
+    {
+      "word": "predicament",
+      "index": 0,
+      "definition": "an awkward situation that is hard to escape"
+    },
+    {
+      "word": "rigor",
+      "index": 0,
+      "definition": "careful thoroughness and strict standards"
+    },
+    {
+      "word": "dearth",
+      "index": 0,
+      "definition": "a serious lack of something needed"
+    },
+    {
+      "word": "debacle",
+      "index": 0,
+      "definition": "a complete and often embarrassing failure"
+    },
+    {
+      "word": "fiasco",
+      "index": 0,
+      "definition": "an event that ends in a ridiculous or humiliating failure"
+    },
+    {
+      "word": "glitch",
+      "index": 0,
+      "definition": "a small technical problem or temporary fault"
+    },
+    {
+      "word": "gaffe",
+      "index": 0,
+      "definition": "an embarrassing social mistake"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

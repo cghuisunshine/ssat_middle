@@ -1,0 +1,57 @@
+{
+  "id": "article-125f3a789b499594",
+  "tier": "Core",
+  "topic": "Useful academic adverbs & verbs",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. We occasionally see deer here, but most days the field is empty. The library is used primarily for reading, though meetings are also held there. The smaller box was relatively light compared with the heavy crate. The two musicians began simultaneously, playing their first notes together.",
+    "The remaining pages widened the discussion with additional observations. After considering every route, we ultimately chose the safest one. Her record-breaking performance was undoubtedly the best of the day. The theater was virtually empty, with only two people in the audience. The larger classroom can accommodate thirty students comfortably.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "occasionally",
+      "index": 0,
+      "definition": "from time to time but not often"
+    },
+    {
+      "word": "primarily",
+      "index": 0,
+      "definition": "mainly or most importantly"
+    },
+    {
+      "word": "relatively",
+      "index": 0,
+      "definition": "in comparison with something else"
+    },
+    {
+      "word": "simultaneously",
+      "index": 0,
+      "definition": "at exactly the same time"
+    },
+    {
+      "word": "ultimately",
+      "index": 0,
+      "definition": "at the final stage or result"
+    },
+    {
+      "word": "undoubtedly",
+      "index": 0,
+      "definition": "with no uncertainty"
+    },
+    {
+      "word": "virtually",
+      "index": 0,
+      "definition": "almost but not completely"
+    },
+    {
+      "word": "accommodate",
+      "index": 0,
+      "definition": "to provide enough room or adapt for a need"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

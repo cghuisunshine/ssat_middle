@@ -1,0 +1,57 @@
+{
+  "id": "article-3bae53c873ae9364",
+  "tier": "Core",
+  "topic": "Emotions & attitudes",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The unfair punishment filled the students with indignation. Her optimism helped the team believe that improvement was possible. His pessimism led him to expect failure before the work had begun. The thief felt remorse and returned the stolen necklace.",
+    "A later section added further scenes for comparison. Being blamed unfairly left him with lasting resentment. The quiet garden offered serenity after the noise of the city. The class showed sympathy by sending cards to the injured student. The agitated horse paced nervously inside its stall.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "indignation",
+      "index": 0,
+      "definition": "anger caused by something unfair"
+    },
+    {
+      "word": "optimism",
+      "index": 0,
+      "definition": "hope that things will turn out well"
+    },
+    {
+      "word": "pessimism",
+      "index": 0,
+      "definition": "a tendency to expect bad outcomes"
+    },
+    {
+      "word": "remorse",
+      "index": 0,
+      "definition": "deep regret about one's wrongdoing"
+    },
+    {
+      "word": "resentment",
+      "index": 0,
+      "definition": "bitterness about unfair treatment"
+    },
+    {
+      "word": "serenity",
+      "index": 0,
+      "definition": "a state of calm and peace"
+    },
+    {
+      "word": "sympathy",
+      "index": 0,
+      "definition": "concern for another person's suffering"
+    },
+    {
+      "word": "agitated",
+      "index": 0,
+      "definition": "disturbed and unable to remain calm"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

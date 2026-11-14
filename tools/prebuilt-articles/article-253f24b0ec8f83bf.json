@@ -1,0 +1,57 @@
+{
+  "id": "article-253f24b0ec8f83bf",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The opening pages introduced several situations worth examining carefully. The bailiff asked everyone to stand as the judge entered. The fisherman placed bait on the hook. A balmy breeze made the evening walk especially pleasant. The bankrupt company could no longer pay its suppliers.",
+    "The remaining pages widened the discussion with additional observations. Their cheerful banter made the long journey pass quickly. The baritone sang a solo with a rich, warm tone. Small misunderstandings can beget much larger arguments. She felt beholden to the neighbors who had helped her family.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "bailiff",
+      "index": 0,
+      "definition": "a court officer who helps maintain order and carry out instructions"
+    },
+    {
+      "word": "bait",
+      "index": 0,
+      "definition": "something used to attract an animal or tempt a person"
+    },
+    {
+      "word": "balmy",
+      "index": 0,
+      "definition": "pleasantly mild and warm"
+    },
+    {
+      "word": "bankrupt",
+      "index": 0,
+      "definition": "unable to pay debts"
+    },
+    {
+      "word": "banter",
+      "index": 0,
+      "definition": "playful and friendly teasing"
+    },
+    {
+      "word": "baritone",
+      "index": 0,
+      "definition": "a male singing voice between bass and tenor"
+    },
+    {
+      "word": "beget",
+      "index": 0,
+      "definition": "to produce or bring about something"
+    },
+    {
+      "word": "beholden",
+      "index": 0,
+      "definition": "owing someone gratitude or a favor"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

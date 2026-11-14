@@ -1,0 +1,57 @@
+{
+  "id": "article-1faf63560517d356",
+  "tier": "Stretch",
+  "topic": "Ideas & reasoning nouns",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. The discrepancy between the two totals showed that someone had miscounted. The argument relies on the fallacy that popularity always proves quality. The scientist tested the hypothesis that seedlings grow faster in warmer soil. Her inference that someone had recently cooked was based on the warm stove.",
+    "The remaining pages widened the discussion with additional observations. The new water filter was an innovation that improved on earlier designs. The interview gave us insight into how the artist develops her ideas. Her integrity prevented her from accepting credit for someone else's work. The statement \"less can be more\" expresses a paradox that invites closer thought.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "discrepancy",
+      "index": 0,
+      "definition": "a difference between things that should agree"
+    },
+    {
+      "word": "fallacy",
+      "index": 0,
+      "definition": "an error in reasoning"
+    },
+    {
+      "word": "hypothesis",
+      "index": 0,
+      "definition": "a proposed explanation that can be tested"
+    },
+    {
+      "word": "inference",
+      "index": 0,
+      "definition": "a conclusion drawn from evidence"
+    },
+    {
+      "word": "innovation",
+      "index": 0,
+      "definition": "a newly introduced method or idea"
+    },
+    {
+      "word": "insight",
+      "index": 0,
+      "definition": "a deep understanding of something"
+    },
+    {
+      "word": "integrity",
+      "index": 0,
+      "definition": "the quality of being honest and principled"
+    },
+    {
+      "word": "paradox",
+      "index": 0,
+      "definition": "a seeming contradiction that may reveal a truth"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

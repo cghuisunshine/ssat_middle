@@ -1,0 +1,57 @@
+{
+  "id": "article-662e1921bdbd2a27",
+  "tier": "Core",
+  "topic": "Learning & public life",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. An expert examined the painting because specialized knowledge was needed. The failed harvest led to a famine in which many people lacked food. The old songs form part of the community's cultural heritage. The court sought justice by treating both sides fairly under the law.",
+    "Other records complicated that first impression and encouraged a closer reading. The new legislation sets rules for protecting the river from pollution. The prisoners dreamed of liberty and the chance to choose their own lives. The judges awarded the prize on merit rather than personal connections. In a monarchy, a king or queen serves as the head of state.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "expert",
+      "index": 0,
+      "definition": "someone with extensive knowledge or skill"
+    },
+    {
+      "word": "famine",
+      "index": 0,
+      "definition": "an extreme shortage of food"
+    },
+    {
+      "word": "heritage",
+      "index": 0,
+      "definition": "traditions and things passed down from the past"
+    },
+    {
+      "word": "justice",
+      "index": 0,
+      "definition": "fair treatment according to law or moral principles"
+    },
+    {
+      "word": "legislation",
+      "index": 0,
+      "definition": "laws made by a governing body"
+    },
+    {
+      "word": "liberty",
+      "index": 0,
+      "definition": "freedom from unjust control"
+    },
+    {
+      "word": "merit",
+      "index": 0,
+      "definition": "a quality that deserves praise"
+    },
+    {
+      "word": "monarchy",
+      "index": 0,
+      "definition": "a system ruled by a king or queen"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

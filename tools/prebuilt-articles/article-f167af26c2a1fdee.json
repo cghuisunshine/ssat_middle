@@ -1,0 +1,57 @@
+{
+  "id": "article-f167af26c2a1fdee",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. An undercurrent of anxiety ran through the cheerful conversation. Reliable observations underpin the scientific argument. Do not underrate the smaller team's determination. The firefighter showed unflinching courage during the rescue.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The sailors began to unfurl the large sail. His unkempt hair suggested that he had just awakened. Though unlettered, the craftsman possessed remarkable practical knowledge. Unnumbered stars filled the clear night sky.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "undercurrent",
+      "index": 0,
+      "definition": "a hidden feeling or influence beneath what is openly expressed"
+    },
+    {
+      "word": "underpin",
+      "index": 0,
+      "definition": "to support or form the basis of something"
+    },
+    {
+      "word": "underrate",
+      "index": 0,
+      "definition": "to judge someone or something as less capable or valuable than deserved"
+    },
+    {
+      "word": "unflinching",
+      "index": 0,
+      "definition": "remaining firm and brave despite difficulty or danger"
+    },
+    {
+      "word": "unfurl",
+      "index": 0,
+      "definition": "to open or spread out something rolled or folded"
+    },
+    {
+      "word": "unkempt",
+      "index": 0,
+      "definition": "untidy and poorly cared for"
+    },
+    {
+      "word": "unlettered",
+      "index": 0,
+      "definition": "having little formal education or ability to read"
+    },
+    {
+      "word": "unnumbered",
+      "index": 0,
+      "definition": "too many to count"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

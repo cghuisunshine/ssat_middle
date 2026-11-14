@@ -1,0 +1,57 @@
+{
+  "id": "article-980e2a50c4cfacee",
+  "tier": "Core",
+  "topic": "Power, resources & achievement",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The group began by reading the following accounts without adding explanations of its own. The school will utilize the empty room as a temporary library. The industrial district contains factories rather than houses. The strenuous climb left us breathing hard at the summit. Farmers toil in the fields from dawn until evening during harvest.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Copying the entire manuscript by hand was a laborious task. The painstaking repair restored every tiny piece of the mosaic. Clean drinking water is vital to a community's health. The team tested a cardboard prototype before making the final product.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "utilize",
+      "index": 0,
+      "definition": "to make practical use of"
+    },
+    {
+      "word": "industrial",
+      "index": 0,
+      "definition": "relating to factories or the production of goods"
+    },
+    {
+      "word": "strenuous",
+      "index": 0,
+      "definition": "requiring great physical effort"
+    },
+    {
+      "word": "toil",
+      "index": 0,
+      "definition": "to work very hard for a long time"
+    },
+    {
+      "word": "laborious",
+      "index": 0,
+      "definition": "requiring much time and effort"
+    },
+    {
+      "word": "painstaking",
+      "index": 0,
+      "definition": "done with great care and attention to detail"
+    },
+    {
+      "word": "vital",
+      "index": 0,
+      "definition": "extremely important or necessary"
+    },
+    {
+      "word": "prototype",
+      "index": 0,
+      "definition": "an early model used to test a design"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

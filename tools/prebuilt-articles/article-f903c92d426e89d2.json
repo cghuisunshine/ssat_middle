@@ -1,0 +1,57 @@
+{
+  "id": "article-f903c92d426e89d2",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. It is imperative to check the equipment before departure. Her imperious tone made the request sound like an order. An impish grin revealed who had hidden the toy. The extra work felt like an unfair imposition.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Without tools, the crew felt impotent against the spreading leak. The charity supported families in the impoverished district. Spending the entire budget immediately would be imprudent. The declaration described certain rights as inalienable.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "imperative",
+      "index": 0,
+      "definition": "extremely important or urgently necessary"
+    },
+    {
+      "word": "imperious",
+      "index": 0,
+      "definition": "expecting obedience in an arrogantly commanding way"
+    },
+    {
+      "word": "impish",
+      "index": 0,
+      "definition": "playfully mischievous"
+    },
+    {
+      "word": "imposition",
+      "index": 0,
+      "definition": "an unreasonable demand or burden placed on someone"
+    },
+    {
+      "word": "impotent",
+      "index": 0,
+      "definition": "unable to act effectively or achieve a result"
+    },
+    {
+      "word": "impoverished",
+      "index": 0,
+      "definition": "extremely poor or lacking needed resources"
+    },
+    {
+      "word": "imprudent",
+      "index": 0,
+      "definition": "acting without sensible care for consequences"
+    },
+    {
+      "word": "inalienable",
+      "index": 0,
+      "definition": "not able to be taken away or transferred"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

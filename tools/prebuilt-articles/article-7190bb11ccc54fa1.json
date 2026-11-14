@@ -1,0 +1,57 @@
+{
+  "id": "article-7190bb11ccc54fa1",
+  "tier": "Core",
+  "topic": "Useful academic adverbs & verbs",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "Several records provided a starting point for the discussion. A short introduction will precede the main lecture. The school will furnish all the equipment for the experiment. Engineers will survey the valley before designing the bridge. Rushing may cause you to botch an otherwise simple repair.",
+    "Other records complicated that first impression and encouraged a closer reading. We can calculate the area by multiplying length by width. The classes collectively collected enough books to fill the library shelf. A short report may underemphasize the difficulties faced by volunteers. The falling water level began to reveal the stones beneath.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "precede",
+      "index": 0,
+      "definition": "to come before in time or order"
+    },
+    {
+      "word": "furnish",
+      "index": 0,
+      "definition": "to provide or supply something needed"
+    },
+    {
+      "word": "survey",
+      "index": 0,
+      "definition": "to measure and examine land in order to map or plan it"
+    },
+    {
+      "word": "botch",
+      "index": 0,
+      "definition": "to do something badly through mistakes or poor skill"
+    },
+    {
+      "word": "calculate",
+      "index": 0,
+      "definition": "to determine a quantity or result by mathematical reasoning"
+    },
+    {
+      "word": "collectively",
+      "index": 0,
+      "definition": "with people or things considered or acting together"
+    },
+    {
+      "word": "underemphasize",
+      "index": 0,
+      "definition": "to give less attention or importance to something than it deserves"
+    },
+    {
+      "word": "reveal",
+      "index": 0,
+      "definition": "to make something previously hidden or unclear known or visible"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

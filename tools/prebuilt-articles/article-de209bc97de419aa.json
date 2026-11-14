@@ -1,0 +1,57 @@
+{
+  "id": "article-de209bc97de419aa",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The opening pages introduced several situations worth examining carefully. Pictures of distant mountains awakened her wanderlust. The court condemned the wanton destruction of the public garden. The evidence did not warrant such a serious accusation. The desk disappeared beneath a welter of papers and cables.",
+    "The remaining pages widened the discussion with additional observations. Workers carried the cargo from the ship onto the wharf. He tried to wheedle another cookie from his grandmother. The club lacked the wherewithal to repair its damaged roof. The judge described the damage as a willful act rather than an accident.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "wanderlust",
+      "index": 0,
+      "definition": "a strong desire to travel"
+    },
+    {
+      "word": "wanton",
+      "index": 0,
+      "definition": "deliberate and careless about harm or consequences"
+    },
+    {
+      "word": "warrant",
+      "index": 0,
+      "definition": "to provide sufficient reason for something"
+    },
+    {
+      "word": "welter",
+      "index": 0,
+      "definition": "a confused and disordered mass"
+    },
+    {
+      "word": "wharf",
+      "index": 0,
+      "definition": "a platform beside water where ships load and unload"
+    },
+    {
+      "word": "wheedle",
+      "index": 0,
+      "definition": "to persuade with flattery or persistent coaxing"
+    },
+    {
+      "word": "wherewithal",
+      "index": 0,
+      "definition": "the money or other resources needed to do something"
+    },
+    {
+      "word": "willful",
+      "index": 0,
+      "definition": "deliberate or stubbornly determined to have one's own way"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

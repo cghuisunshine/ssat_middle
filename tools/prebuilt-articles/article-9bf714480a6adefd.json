@@ -1,0 +1,57 @@
+{
+  "id": "article-9bf714480a6adefd",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. The old play used shrewish as an unflattering description. A shrill whistle stopped the game. The young shutterbug carried a camera on every trip. The castle endured a long siege.",
+    "Other records complicated that first impression and encouraged a closer reading. The ruler pressed a signet into the warm wax. The story warns against treating an inexperienced person as a simpleton. The sincerity of his thanks was clear. The diagram showed a sinew near the joint.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "shrewish",
+      "index": 0,
+      "definition": "bad-tempered and scolding, traditionally used disparagingly of a woman"
+    },
+    {
+      "word": "shrill",
+      "index": 0,
+      "definition": "high-pitched and piercing in sound"
+    },
+    {
+      "word": "shutterbug",
+      "index": 0,
+      "definition": "a person who enthusiastically takes photographs"
+    },
+    {
+      "word": "siege",
+      "index": 0,
+      "definition": "the surrounding of a place to force its surrender"
+    },
+    {
+      "word": "signet",
+      "index": 0,
+      "definition": "a small seal used to mark or authenticate documents"
+    },
+    {
+      "word": "simpleton",
+      "index": 0,
+      "definition": "a person described insultingly as foolish or easily deceived"
+    },
+    {
+      "word": "sincerity",
+      "index": 0,
+      "definition": "honesty and genuineness of feeling"
+    },
+    {
+      "word": "sinew",
+      "index": 0,
+      "definition": "a strong band of tissue connecting muscle and bone"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

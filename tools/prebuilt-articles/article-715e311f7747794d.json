@@ -1,0 +1,57 @@
+{
+  "id": "article-715e311f7747794d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The debate concerned possible secession from the federation. The seclusive writer rarely attended public gatherings. His secretive manner made the others curious. The mineral was sectile and could be shaved with a blade.",
+    "Other records complicated that first impression and encouraged a closer reading. The gathering had a sedate atmosphere. The task was sedentary, so she took regular walking breaks. The history lesson examined laws enforcing segregation. The speaker used a brief story to segue into the next subject.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "secession",
+      "index": 0,
+      "definition": "formal withdrawal from a larger political or organizational union"
+    },
+    {
+      "word": "seclusive",
+      "index": 0,
+      "definition": "inclined to seek privacy or isolation"
+    },
+    {
+      "word": "secretive",
+      "index": 0,
+      "definition": "inclined to conceal thoughts or information"
+    },
+    {
+      "word": "sectile",
+      "index": 0,
+      "definition": "able to be cut smoothly into thin slices"
+    },
+    {
+      "word": "sedate",
+      "index": 0,
+      "definition": "calm and dignified rather than lively"
+    },
+    {
+      "word": "sedentary",
+      "index": 0,
+      "definition": "involving much sitting and little movement"
+    },
+    {
+      "word": "segregation",
+      "index": 0,
+      "definition": "the separation of groups, often through discriminatory rules"
+    },
+    {
+      "word": "segue",
+      "index": 0,
+      "definition": "to move smoothly from one topic or section to another"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

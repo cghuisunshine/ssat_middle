@@ -1,0 +1,57 @@
+{
+  "id": "article-9de115142bd53128",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. The container used an expansible lining to hold more material. They chose an expedient solution while planning a lasting repair. Clear instructions will expedite the registration process. The planners considered the expendability of the temporary equipment.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The critic sought to explicate the poem's difficult imagery. The incorrect entry was expunged from the official record. The jeweler displayed an exquisite silver bracelet. The committee considered the student's extenuating circumstances.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "expansible",
+      "index": 0,
+      "definition": "capable of expanding or being enlarged"
+    },
+    {
+      "word": "expedient",
+      "index": 0,
+      "definition": "convenient for an immediate purpose, though not always principled"
+    },
+    {
+      "word": "expedite",
+      "index": 0,
+      "definition": "to make a process happen more quickly"
+    },
+    {
+      "word": "expendability",
+      "index": 0,
+      "definition": "the quality of being replaceable or able to be used up"
+    },
+    {
+      "word": "explicate",
+      "index": 0,
+      "definition": "to explain meaning in careful detail"
+    },
+    {
+      "word": "expunged",
+      "index": 0,
+      "definition": "removed completely from a record or account"
+    },
+    {
+      "word": "exquisite",
+      "index": 0,
+      "definition": "extremely beautiful or finely made"
+    },
+    {
+      "word": "extenuating",
+      "index": 0,
+      "definition": "making a wrong action seem less serious by explaining circumstances"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

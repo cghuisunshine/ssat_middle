@@ -1,0 +1,57 @@
+{
+  "id": "article-e31bcf59ecd70b45",
+  "tier": "Foundation",
+  "topic": "Size, quantity & appearance",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. Rainfall was abundant, so the farmers had plenty of water. The brief shower ended after only three minutes. A brilliant flash of lightning lit up the dark sky. The broad river was too wide to cross on foot.",
+    "The remaining pages widened the discussion with additional observations. The colossal statue towered above the surrounding buildings. The compact tent folded into a surprisingly small bag. Replacing the damaged engine would be a costly repair. The delicate petals tore when we handled them roughly.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "abundant",
+      "index": 0,
+      "definition": "existing in large amounts"
+    },
+    {
+      "word": "brief",
+      "index": 0,
+      "definition": "lasting only a short time"
+    },
+    {
+      "word": "brilliant",
+      "index": 0,
+      "definition": "giving off very bright light"
+    },
+    {
+      "word": "broad",
+      "index": 0,
+      "definition": "wide from side to side"
+    },
+    {
+      "word": "colossal",
+      "index": 0,
+      "definition": "extremely large"
+    },
+    {
+      "word": "compact",
+      "index": 0,
+      "definition": "closely packed into little space"
+    },
+    {
+      "word": "costly",
+      "index": 0,
+      "definition": "requiring a large amount of money"
+    },
+    {
+      "word": "delicate",
+      "index": 0,
+      "definition": "easily damaged because of fineness"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-16a17338f90fa0ae",
+  "tier": "Stretch",
+  "topic": "Precise character words",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. He remained aloof while the other guests chatted together. Her altruistic decision put the needs of strangers before her own comfort. The astute detective noticed a clue that everyone else overlooked. The audacious rescue plan required great courage and a willingness to take risks.",
+    "The remaining pages widened the discussion with additional observations. The belligerent customer shouted threats instead of discussing the problem calmly. The team became complacent after winning and stopped practicing seriously. Despite their disagreement, the neighbors exchanged a cordial greeting. The credulous child believed every unlikely tale without asking for proof.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "aloof",
+      "index": 0,
+      "definition": "emotionally distant and unfriendly"
+    },
+    {
+      "word": "altruistic",
+      "index": 0,
+      "definition": "concerned with others' welfare rather than one's own"
+    },
+    {
+      "word": "astute",
+      "index": 0,
+      "definition": "quick to understand situations and judge well"
+    },
+    {
+      "word": "audacious",
+      "index": 0,
+      "definition": "boldly willing to take surprising risks"
+    },
+    {
+      "word": "belligerent",
+      "index": 0,
+      "definition": "hostile and eager to fight"
+    },
+    {
+      "word": "complacent",
+      "index": 0,
+      "definition": "too satisfied to notice possible problems"
+    },
+    {
+      "word": "cordial",
+      "index": 0,
+      "definition": "warm and friendly"
+    },
+    {
+      "word": "credulous",
+      "index": 0,
+      "definition": "too ready to believe without evidence"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-30cc84f902441733",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. She chose to renounce her claim to the disputed prize. The narrator urged the travelers not to repine over the delay. The book combines personal memories with careful reportage. The shaded garden offered a place of repose.",
+    "The remaining pages widened the discussion with additional observations. The archive became a repository of local history. The leaders warned against acts of reprisal. She did not reproach him for the honest mistake. The group moved to repudiate the misleading statement.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "renounce",
+      "index": 0,
+      "definition": "to formally give up a claim, belief, or possession"
+    },
+    {
+      "word": "repine",
+      "index": 0,
+      "definition": "to complain or feel dissatisfied about something"
+    },
+    {
+      "word": "reportage",
+      "index": 0,
+      "definition": "the reporting of news or events"
+    },
+    {
+      "word": "repose",
+      "index": 0,
+      "definition": "rest or a calm state"
+    },
+    {
+      "word": "repository",
+      "index": 0,
+      "definition": "a place where things are stored or preserved"
+    },
+    {
+      "word": "reprisal",
+      "index": 0,
+      "definition": "a harmful action taken in response to an earlier injury"
+    },
+    {
+      "word": "reproach",
+      "index": 0,
+      "definition": "to express disappointment or blame"
+    },
+    {
+      "word": "repudiate",
+      "index": 0,
+      "definition": "to firmly reject or deny association with something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-bc39e4c23f3317bc",
+  "tier": "Stretch",
+  "topic": "Precision in degree & extent",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The group began by reading the following accounts without adding explanations of its own. The researcher took copious notes, filling several notebooks in one afternoon. The weak structure was deficient in the support needed to hold the roof. The dormant volcano had shown no activity for centuries. The fleeting rainbow disappeared after only a few seconds.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The dark clouds warned that a storm was imminent. The incessant barking continued all night without a break. The climbers understood the inherent risks of scaling a steep, icy mountain. The lavish banquet offered far more food and decoration than necessary.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "copious",
+      "index": 0,
+      "definition": "existing in large quantities"
+    },
+    {
+      "word": "deficient",
+      "index": 0,
+      "definition": "lacking something necessary"
+    },
+    {
+      "word": "dormant",
+      "index": 0,
+      "definition": "temporarily inactive but able to become active"
+    },
+    {
+      "word": "fleeting",
+      "index": 0,
+      "definition": "lasting for a very short time"
+    },
+    {
+      "word": "imminent",
+      "index": 0,
+      "definition": "about to happen very soon"
+    },
+    {
+      "word": "incessant",
+      "index": 0,
+      "definition": "continuing without stopping"
+    },
+    {
+      "word": "inherent",
+      "index": 0,
+      "definition": "existing as a natural essential part"
+    },
+    {
+      "word": "lavish",
+      "index": 0,
+      "definition": "very generous or extravagant in amount"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

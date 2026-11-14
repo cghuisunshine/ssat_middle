@@ -1,0 +1,57 @@
+{
+  "id": "article-c0db7c1dd20ef28d",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. She sought her mentor's counsel before making the decision. The dry biscuit began to crumble in her hand. A cursory inspection failed to reveal the hidden damage. Do not dawdle if you want to catch the early bus.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The team adopted a defensive strategy in the final minutes. The defiant child refused to follow the instruction. His dejection faded when his friends offered encouragement. The travelers crossed a desolate plain.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "counsel",
+      "index": 0,
+      "definition": "advice offered after careful consideration"
+    },
+    {
+      "word": "crumble",
+      "index": 0,
+      "definition": "to break or fall into small pieces"
+    },
+    {
+      "word": "cursory",
+      "index": 0,
+      "definition": "done quickly without careful attention to details"
+    },
+    {
+      "word": "dawdle",
+      "index": 0,
+      "definition": "to waste time or move unnecessarily slowly"
+    },
+    {
+      "word": "defensive",
+      "index": 0,
+      "definition": "intended to protect against attack or criticism"
+    },
+    {
+      "word": "defiant",
+      "index": 0,
+      "definition": "openly refusing to obey or accept control"
+    },
+    {
+      "word": "dejection",
+      "index": 0,
+      "definition": "a state of low spirits after disappointment"
+    },
+    {
+      "word": "desolate",
+      "index": 0,
+      "definition": "empty, lonely, and without signs of comfort or life"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-96d1b6d3983b2ed5",
+  "tier": "Core",
+  "topic": "Speech & expression",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. The residents still lament the loss of their beautiful old theater. We could hear the patient murmur a few quiet words. The guide will narrate the history of the castle during the tour. The two sides will negotiate until they reach an agreement.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The pilot spoke calmly to reassure the worried passengers. Each student will recite a short poem from memory. The scientist used repeated experiments to refute the false claim. She was tempted to retort with an equally sharp remark.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "lament",
+      "index": 0,
+      "definition": "to express sorrow or regret"
+    },
+    {
+      "word": "murmur",
+      "index": 0,
+      "definition": "to speak softly and indistinctly"
+    },
+    {
+      "word": "narrate",
+      "index": 0,
+      "definition": "to tell the events of a story"
+    },
+    {
+      "word": "negotiate",
+      "index": 0,
+      "definition": "to discuss in order to reach an agreement"
+    },
+    {
+      "word": "reassure",
+      "index": 0,
+      "definition": "to restore someone's confidence"
+    },
+    {
+      "word": "recite",
+      "index": 0,
+      "definition": "to say aloud from memory"
+    },
+    {
+      "word": "refute",
+      "index": 0,
+      "definition": "to show a claim to be false with evidence"
+    },
+    {
+      "word": "retort",
+      "index": 0,
+      "definition": "to answer in a quick sharp way"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

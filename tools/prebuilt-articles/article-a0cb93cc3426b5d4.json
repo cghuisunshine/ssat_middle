@@ -1,0 +1,57 @@
+{
+  "id": "article-a0cb93cc3426b5d4",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The first section of the collection placed these observations side by side. The porous stone allowed water to pass through its tiny holes. The nurse used a sterile bandage to keep germs away from the wound. Unlike fish, terrestrial animals live primarily on land. The toxic chemical must be handled carefully because it can cause harm.",
+    "A later section added further scenes for comparison. Thick vegetation covered the valley with trees, bushes, and grasses. The region's dry climate makes rain uncommon throughout the year. Years of erosion carried soil away from the riverbank. The marsh provides a habitat where many waterbirds live and breed.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "porous",
+      "index": 0,
+      "definition": "having small holes that let air or liquid through"
+    },
+    {
+      "word": "sterile",
+      "index": 0,
+      "definition": "free from living germs"
+    },
+    {
+      "word": "terrestrial",
+      "index": 0,
+      "definition": "relating to land or the earth"
+    },
+    {
+      "word": "toxic",
+      "index": 0,
+      "definition": "poisonous to living things"
+    },
+    {
+      "word": "vegetation",
+      "index": 0,
+      "definition": "the plants growing in an area"
+    },
+    {
+      "word": "climate",
+      "index": 0,
+      "definition": "the usual weather patterns of a region"
+    },
+    {
+      "word": "erosion",
+      "index": 0,
+      "definition": "the gradual wearing away of land or material"
+    },
+    {
+      "word": "habitat",
+      "index": 0,
+      "definition": "the natural home of an organism"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

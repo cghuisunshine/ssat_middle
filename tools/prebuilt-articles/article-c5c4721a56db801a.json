@@ -1,0 +1,57 @@
+{
+  "id": "article-c5c4721a56db801a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. The serf worked the fields surrounding the manor. The sermon emphasized generosity toward strangers. The serpentine road climbed the hillside. The serrated blade cut the tough crust easily.",
+    "Other records complicated that first impression and encouraged a closer reading. The article introduced each sextuplet in the family. The anthropologist described the shaman's role in the community. The neighbors organized a cheerful shindig after the harvest. Her shrewd estimate proved very accurate.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "serf",
+      "index": 0,
+      "definition": "a historical agricultural worker bound to land owned by a lord"
+    },
+    {
+      "word": "sermon",
+      "index": 0,
+      "definition": "a speech giving religious or moral instruction"
+    },
+    {
+      "word": "serpentine",
+      "index": 0,
+      "definition": "winding and twisting like a snake"
+    },
+    {
+      "word": "serrated",
+      "index": 0,
+      "definition": "having a toothed or notched edge"
+    },
+    {
+      "word": "sextuplet",
+      "index": 0,
+      "definition": "one of six offspring born from the same pregnancy"
+    },
+    {
+      "word": "shaman",
+      "index": 0,
+      "definition": "a spiritual practitioner believed to communicate with spirits"
+    },
+    {
+      "word": "shindig",
+      "index": 0,
+      "definition": "a lively party or celebration"
+    },
+    {
+      "word": "shrewd",
+      "index": 0,
+      "definition": "showing clever and practical judgment"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

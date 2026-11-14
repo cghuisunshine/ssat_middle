@@ -1,0 +1,57 @@
+{
+  "id": "article-e468febc11225e06",
+  "tier": "Core",
+  "topic": "Ideas, art & literature",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. At the story's climax, the trapped hero finally confronts the villain. The dialogue reveals what the characters say to each other. Saying that this bag weighs a ton is an exaggeration. The fable uses talking animals to teach a lesson about honesty.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Mystery is the genre she enjoys most among different kinds of fiction. The poem's vivid imagery helps readers picture the moonlit harbor. The irony was that the expert on punctuality arrived an hour late. Calling the city a jungle is a metaphor that compares unlike things directly.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "climax",
+      "index": 0,
+      "definition": "the point of greatest intensity in a story"
+    },
+    {
+      "word": "dialogue",
+      "index": 0,
+      "definition": "a conversation between people"
+    },
+    {
+      "word": "exaggeration",
+      "index": 0,
+      "definition": "a statement making something seem greater than it is"
+    },
+    {
+      "word": "fable",
+      "index": 0,
+      "definition": "a short story that teaches a moral"
+    },
+    {
+      "word": "genre",
+      "index": 0,
+      "definition": "a category of artistic work"
+    },
+    {
+      "word": "imagery",
+      "index": 0,
+      "definition": "language that creates vivid sensory pictures"
+    },
+    {
+      "word": "irony",
+      "index": 0,
+      "definition": "a contrast between expectation and actual outcome"
+    },
+    {
+      "word": "metaphor",
+      "index": 0,
+      "definition": "a direct comparison without using like or as"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

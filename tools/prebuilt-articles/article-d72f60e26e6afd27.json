@@ -1,0 +1,57 @@
+{
+  "id": "article-d72f60e26e6afd27",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The instrument was designed for ocular examination. An oddment of ribbon lay beside the sewing box. The odometer showed how far the car had traveled. The officious visitor kept correcting everyone's work.",
+    "The remaining pages widened the discussion with additional observations. The editor marked the repetitive paragraph as omissible. The story uses an omniscient narrator who knows every character's thoughts. Words such as buzz and hiss illustrate onomatopoeia. The glass's opacity prevented anyone from seeing inside.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "ocular",
+      "index": 0,
+      "definition": "related to the eyes or vision"
+    },
+    {
+      "word": "oddment",
+      "index": 0,
+      "definition": "a small leftover piece or miscellaneous item"
+    },
+    {
+      "word": "odometer",
+      "index": 0,
+      "definition": "an instrument measuring the distance a vehicle has traveled"
+    },
+    {
+      "word": "officious",
+      "index": 0,
+      "definition": "too eager to give unwanted help or exercise authority"
+    },
+    {
+      "word": "omissible",
+      "index": 0,
+      "definition": "able to be left out"
+    },
+    {
+      "word": "omniscient",
+      "index": 0,
+      "definition": "knowing everything"
+    },
+    {
+      "word": "onomatopoeia",
+      "index": 0,
+      "definition": "the use of words that imitate sounds"
+    },
+    {
+      "word": "opacity",
+      "index": 0,
+      "definition": "the quality of not allowing light to pass through"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

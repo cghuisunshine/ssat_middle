@@ -1,0 +1,57 @@
+{
+  "id": "article-06a64168fb88c6f6",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. A decorated flagon stood on the banquet table. The referee penalized the flagrant violation of the rules. The hikers approached the mountain's western flank. The flighty character abandoned one plan after another.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The novel describes their flirtatious conversation at the dance. The greenhouse specializes in floriculture. The speech's florid language obscured its simple message. The florist arranged lilies in a tall vase.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "flagon",
+      "index": 0,
+      "definition": "a large container with a handle for holding and pouring drink"
+    },
+    {
+      "word": "flagrant",
+      "index": 0,
+      "definition": "obviously and seriously wrong"
+    },
+    {
+      "word": "flank",
+      "index": 0,
+      "definition": "the side of a body, formation, or object"
+    },
+    {
+      "word": "flighty",
+      "index": 0,
+      "definition": "easily distracted and not steady in purpose"
+    },
+    {
+      "word": "flirtatious",
+      "index": 0,
+      "definition": "playfully showing romantic interest"
+    },
+    {
+      "word": "floriculture",
+      "index": 0,
+      "definition": "the cultivation of flowers and ornamental plants"
+    },
+    {
+      "word": "florid",
+      "index": 0,
+      "definition": "excessively elaborate or reddish in appearance"
+    },
+    {
+      "word": "florist",
+      "index": 0,
+      "definition": "a person who grows or sells flowers"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

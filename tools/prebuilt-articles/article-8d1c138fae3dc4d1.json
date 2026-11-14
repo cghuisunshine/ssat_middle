@@ -1,0 +1,57 @@
+{
+  "id": "article-8d1c138fae3dc4d1",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The first section of the collection placed these observations side by side. He studied horticulture before managing the botanical garden. The volunteers supported families at the local hospice. The hospitable neighbors invited the stranded travelers inside. The mediator tried to reduce hostility between the groups.",
+    "A later section added further scenes for comparison. She accepted the award with gratitude and humility. The rich humus helped the forest plants grow. The gardener began to hydrate the dry growing mixture. The psychology lesson explained how hypnosis is studied.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "horticulture",
+      "index": 0,
+      "definition": "the cultivation of gardens, fruits, vegetables, and ornamental plants"
+    },
+    {
+      "word": "hospice",
+      "index": 0,
+      "definition": "care or a facility providing comfort for people nearing the end of life"
+    },
+    {
+      "word": "hospitable",
+      "index": 0,
+      "definition": "welcoming and generous toward guests"
+    },
+    {
+      "word": "hostility",
+      "index": 0,
+      "definition": "strong unfriendliness or opposition"
+    },
+    {
+      "word": "humility",
+      "index": 0,
+      "definition": "the quality of not exaggerating one's own importance"
+    },
+    {
+      "word": "humus",
+      "index": 0,
+      "definition": "dark organic material formed as plant and animal remains decay in soil"
+    },
+    {
+      "word": "hydrate",
+      "index": 0,
+      "definition": "to supply or combine with water"
+    },
+    {
+      "word": "hypnosis",
+      "index": 0,
+      "definition": "a state of focused attention and increased responsiveness to suggestion"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

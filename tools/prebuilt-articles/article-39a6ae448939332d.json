@@ -1,0 +1,57 @@
+{
+  "id": "article-39a6ae448939332d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. The cinematographer chose a wide lens for the landscape. The museum displayed an ancient cinerary urn. Road repairs forced us to take a circuitous route home. A golden glow seemed to circumfuse the distant mountain.",
+    "The remaining pages widened the discussion with additional observations. Rainwater from the roof flowed into a cistern. The old citadel stood above the town. Each quotation in the essay needed a citation. The opponents remained civil despite their strong disagreement.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "cinematographer",
+      "index": 0,
+      "definition": "the person responsible for filming a motion picture"
+    },
+    {
+      "word": "cinerary",
+      "index": 0,
+      "definition": "related to ashes or the remains from cremation"
+    },
+    {
+      "word": "circuitous",
+      "index": 0,
+      "definition": "following a roundabout route rather than a direct one"
+    },
+    {
+      "word": "circumfuse",
+      "index": 0,
+      "definition": "to pour, spread, or surround on all sides"
+    },
+    {
+      "word": "cistern",
+      "index": 0,
+      "definition": "a tank used to collect and store water"
+    },
+    {
+      "word": "citadel",
+      "index": 0,
+      "definition": "a fortress protecting a city or important position"
+    },
+    {
+      "word": "citation",
+      "index": 0,
+      "definition": "a reference identifying the source of information"
+    },
+    {
+      "word": "civil",
+      "index": 0,
+      "definition": "polite and respectful in behavior"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

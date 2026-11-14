@@ -1,0 +1,57 @@
+{
+  "id": "article-ffbbd5ac2b2fbaf1",
+  "tier": "Foundation",
+  "topic": "Everyday academic nouns",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. Knowing the route gave our team an advantage over the other runners. Her first attempt failed, but she succeeded on the second try. A fallen tree formed a barrier across the road. Carrying the heavy pack became a burden on the long climb.",
+    "The remaining pages widened the discussion with additional observations. Put each animal into the correct category according to its features. Crossing the river without a bridge was a serious challenge. We had a choice between traveling by train and taking the bus. Removing shoes at the door is a custom in many households.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "advantage",
+      "index": 0,
+      "definition": "a condition that improves one's chances"
+    },
+    {
+      "word": "attempt",
+      "index": 0,
+      "definition": "an effort to achieve something"
+    },
+    {
+      "word": "barrier",
+      "index": 0,
+      "definition": "something that blocks movement or progress"
+    },
+    {
+      "word": "burden",
+      "index": 0,
+      "definition": "a heavy load or difficult responsibility"
+    },
+    {
+      "word": "category",
+      "index": 0,
+      "definition": "a group of things sharing a feature"
+    },
+    {
+      "word": "challenge",
+      "index": 0,
+      "definition": "a task that tests one's abilities"
+    },
+    {
+      "word": "choice",
+      "index": 0,
+      "definition": "an act of selecting between possibilities"
+    },
+    {
+      "word": "custom",
+      "index": 0,
+      "definition": "a practice followed by a group over time"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-1cc00b5217536101",
+  "tier": "Stretch",
+  "topic": "Adversity & achievement nouns",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. The family showed courage in the face of poverty and other adversity. Her ambition was to become an engineer and design safer bridges. His aptitude for languages helped him learn new words quickly. The thief had the audacity to ask the owner to help carry the stolen bag.",
+    "The remaining pages widened the discussion with additional observations. The drought was a calamity that destroyed crops across the region. The earthquake caused a catastrophe, leaving thousands of homes in ruins. Her competence as a pilot was clear from the smooth emergency landing. One consequence of missing the bus was arriving late for class.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "adversity",
+      "index": 0,
+      "definition": "serious difficulty or misfortune"
+    },
+    {
+      "word": "ambition",
+      "index": 0,
+      "definition": "a strong desire to achieve something"
+    },
+    {
+      "word": "aptitude",
+      "index": 0,
+      "definition": "a natural ability to learn a skill"
+    },
+    {
+      "word": "audacity",
+      "index": 0,
+      "definition": "a willingness to take bold risks"
+    },
+    {
+      "word": "calamity",
+      "index": 0,
+      "definition": "an event causing great harm or distress"
+    },
+    {
+      "word": "catastrophe",
+      "index": 0,
+      "definition": "a sudden event causing widespread destruction"
+    },
+    {
+      "word": "competence",
+      "index": 0,
+      "definition": "the ability to do something successfully"
+    },
+    {
+      "word": "consequence",
+      "index": 0,
+      "definition": "a result of an action or event"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

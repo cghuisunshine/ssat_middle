@@ -1,0 +1,57 @@
+{
+  "id": "article-b693029c7c9a11d2",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The first section of the collection placed these observations side by side. Reading widely can enrich your understanding of other cultures. The charter will enshrine the principle of equal treatment. Loose fishing line can ensnare birds near the shore. The storyteller could enthrall an audience for hours.",
+    "A later section added further scenes for comparison. The smell of baking bread may entice customers inside. The visiting performer arrived with a small entourage. Each entrant received the same set of instructions. She could envision a garden where the empty lot stood.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "enrich",
+      "index": 0,
+      "definition": "to improve the quality, value, or variety of something"
+    },
+    {
+      "word": "enshrine",
+      "index": 0,
+      "definition": "to preserve or honor something as especially important"
+    },
+    {
+      "word": "ensnare",
+      "index": 0,
+      "definition": "to catch in a trap or difficult situation"
+    },
+    {
+      "word": "enthrall",
+      "index": 0,
+      "definition": "to capture someone's complete interest"
+    },
+    {
+      "word": "entice",
+      "index": 0,
+      "definition": "to attract someone by offering something appealing"
+    },
+    {
+      "word": "entourage",
+      "index": 0,
+      "definition": "a group accompanying an important person"
+    },
+    {
+      "word": "entrant",
+      "index": 0,
+      "definition": "a person who enters a competition or organization"
+    },
+    {
+      "word": "envision",
+      "index": 0,
+      "definition": "to imagine something as a future possibility"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

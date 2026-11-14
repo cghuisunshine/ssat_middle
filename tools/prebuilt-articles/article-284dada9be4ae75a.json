@@ -1,0 +1,57 @@
+{
+  "id": "article-284dada9be4ae75a",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The opening pages introduced several situations worth examining carefully. The meeting took place in a nondescript building. The arrogant ruler treated every critic as a nonentity. The nonsensical explanation contradicted every known fact. She carried a nosegay of wildflowers.",
+    "The remaining pages widened the discussion with additional observations. The discovery's notability drew researchers from abroad. They needed to notarize the signed agreement. The report included one noteworthy improvement. The experiment challenged a widely accepted notion.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "nondescript",
+      "index": 0,
+      "definition": "lacking distinctive or memorable features"
+    },
+    {
+      "word": "nonentity",
+      "index": 0,
+      "definition": "a person or thing considered unimportant"
+    },
+    {
+      "word": "nonsensical",
+      "index": 0,
+      "definition": "having no sensible meaning"
+    },
+    {
+      "word": "nosegay",
+      "index": 0,
+      "definition": "a small bunch of flowers"
+    },
+    {
+      "word": "notability",
+      "index": 0,
+      "definition": "the quality of being worthy of attention"
+    },
+    {
+      "word": "notarize",
+      "index": 0,
+      "definition": "to have a document officially certified by a notary"
+    },
+    {
+      "word": "noteworthy",
+      "index": 0,
+      "definition": "deserving attention or notice"
+    },
+    {
+      "word": "notion",
+      "index": 0,
+      "definition": "an idea or belief about something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-648e31881f959028",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The group began by reading the following accounts without adding explanations of its own. With careful planning, these obstacles are superable. Digital maps began to supplant printed road atlases. The prisoner's supplication for mercy moved the judge. Her uncle agreed to act as surety for the loan.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The surly clerk answered each question with a scowl. From the muddy boots, I could surmise that they had crossed the field. The empty streets beneath a purple sky felt surreal. The older cousin became a surrogate parent while their mother was away.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "superable",
+      "index": 0,
+      "definition": "capable of being overcome"
+    },
+    {
+      "word": "supplant",
+      "index": 0,
+      "definition": "to take the place of someone or something"
+    },
+    {
+      "word": "supplication",
+      "index": 0,
+      "definition": "a humble and earnest request"
+    },
+    {
+      "word": "surety",
+      "index": 0,
+      "definition": "a person who takes responsibility for another's debt or obligation"
+    },
+    {
+      "word": "surly",
+      "index": 0,
+      "definition": "unfriendly and bad-tempered"
+    },
+    {
+      "word": "surmise",
+      "index": 0,
+      "definition": "to guess from incomplete evidence"
+    },
+    {
+      "word": "surreal",
+      "index": 0,
+      "definition": "strange and dreamlike"
+    },
+    {
+      "word": "surrogate",
+      "index": 0,
+      "definition": "a person or thing that takes another's place"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

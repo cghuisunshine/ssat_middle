@@ -1,0 +1,57 @@
+{
+  "id": "article-c0a7d1ce2523e92c",
+  "tier": "Stretch",
+  "topic": "Movement & physical processes",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. The defender leaped forward to intercept the pass before it reached the receiver. The pendulum will oscillate from side to side until friction slows it. Only a little sunlight could penetrate the thick canopy of leaves. The strong current helped propel the boat downstream.",
+    "The remaining pages widened the discussion with additional observations. After the storm, the floodwaters began to recede from the streets. Turn the handle to rotate the wheel through a full circle. The heavy rain will saturate the soil until it cannot absorb more water. Crowds began to surge toward the gates when they opened.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "intercept",
+      "index": 0,
+      "definition": "to stop something before it reaches its destination"
+    },
+    {
+      "word": "oscillate",
+      "index": 0,
+      "definition": "to move back and forth regularly"
+    },
+    {
+      "word": "penetrate",
+      "index": 0,
+      "definition": "to enter or pass into"
+    },
+    {
+      "word": "propel",
+      "index": 0,
+      "definition": "to push or drive forward"
+    },
+    {
+      "word": "recede",
+      "index": 0,
+      "definition": "to move back or become more distant"
+    },
+    {
+      "word": "rotate",
+      "index": 0,
+      "definition": "to turn around a central point"
+    },
+    {
+      "word": "saturate",
+      "index": 0,
+      "definition": "to soak completely with liquid"
+    },
+    {
+      "word": "surge",
+      "index": 0,
+      "definition": "to move forward or increase suddenly"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

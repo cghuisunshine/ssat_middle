@@ -1,0 +1,57 @@
+{
+  "id": "article-4232ef13b7ec2033",
+  "tier": "Foundation",
+  "topic": "Size, quantity & appearance",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The museum displayed a miniature village inside a glass case. Only one person could pass through the narrow doorway at a time. Numerous stars filled the sky on the clear night. There was nothing unusual about that ordinary school day.",
+    "The remaining pages widened the discussion with additional observations. Snow is rare in this region, falling only once every few years. Fresh vegetables became scarce after the drought destroyed the crops. The shallow pond barely reached our ankles. A slight change in temperature was barely noticeable.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "miniature",
+      "index": 0,
+      "definition": "made on a very small scale"
+    },
+    {
+      "word": "narrow",
+      "index": 0,
+      "definition": "having little width"
+    },
+    {
+      "word": "numerous",
+      "index": 0,
+      "definition": "existing in large numbers"
+    },
+    {
+      "word": "ordinary",
+      "index": 0,
+      "definition": "usual and not special"
+    },
+    {
+      "word": "rare",
+      "index": 0,
+      "definition": "not often found or seen"
+    },
+    {
+      "word": "scarce",
+      "index": 0,
+      "definition": "available in very small amounts"
+    },
+    {
+      "word": "shallow",
+      "index": 0,
+      "definition": "having little depth"
+    },
+    {
+      "word": "slight",
+      "index": 0,
+      "definition": "small in amount or importance"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-d58d5ea7a6166f11",
+  "tier": "Core",
+  "topic": "Speech & expression",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. The witness agreed to disclose the information she had kept secret. Do not exaggerate a small scratch by calling it a terrible injury. A thank-you letter can express your appreciation for someone's help. The merchant tried to flatter the king to win a valuable contract.",
+    "The remaining pages widened the discussion with additional observations. Her raised eyebrow seemed to imply doubt without stating it aloud. Call the museum to inquire about its opening hours. The doctor will insist that the patient rest until the injury heals. Please wait for the speaker to finish rather than interrupt her.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "disclose",
+      "index": 0,
+      "definition": "to make previously hidden information known"
+    },
+    {
+      "word": "exaggerate",
+      "index": 0,
+      "definition": "to describe as greater than it really is"
+    },
+    {
+      "word": "express",
+      "index": 0,
+      "definition": "to communicate a thought or feeling"
+    },
+    {
+      "word": "flatter",
+      "index": 0,
+      "definition": "to praise excessively to gain favor"
+    },
+    {
+      "word": "imply",
+      "index": 0,
+      "definition": "to suggest without saying directly"
+    },
+    {
+      "word": "inquire",
+      "index": 0,
+      "definition": "to ask for information"
+    },
+    {
+      "word": "insist",
+      "index": 0,
+      "definition": "to demand firmly"
+    },
+    {
+      "word": "interrupt",
+      "index": 0,
+      "definition": "to stop someone while they are speaking"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

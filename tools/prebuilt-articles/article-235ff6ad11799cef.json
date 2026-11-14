@@ -1,0 +1,57 @@
+{
+  "id": "article-235ff6ad11799cef",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. The novelist researched the setting for several months. The label listed the snack's nutritional information. The obdurate official rejected every compromise. The training emphasized obedience to safety commands.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The obituary recalled her contributions to the town. The editor removed the objectionable remark. Absorbed in reading, she was oblivious to the noise. A fallen tree created an obstruction across the path.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "novelist",
+      "index": 0,
+      "definition": "a person who writes novels"
+    },
+    {
+      "word": "nutritional",
+      "index": 0,
+      "definition": "related to food and the nourishment it provides"
+    },
+    {
+      "word": "obdurate",
+      "index": 0,
+      "definition": "stubbornly refusing to change one's mind"
+    },
+    {
+      "word": "obedience",
+      "index": 0,
+      "definition": "the act of following instructions or authority"
+    },
+    {
+      "word": "obituary",
+      "index": 0,
+      "definition": "a published account of someone's life after death"
+    },
+    {
+      "word": "objectionable",
+      "index": 0,
+      "definition": "causing offense or deserving disapproval"
+    },
+    {
+      "word": "oblivious",
+      "index": 0,
+      "definition": "not aware of what is happening"
+    },
+    {
+      "word": "obstruction",
+      "index": 0,
+      "definition": "something that blocks movement or progress"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

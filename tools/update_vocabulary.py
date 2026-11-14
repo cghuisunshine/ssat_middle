@@ -125,6 +125,24 @@ for word, pos, definition, zh, synonym, tier, topic in additions:
         seen.add(word)
 constant('RAW_WORDS', '\n'.join(lines))
 
+# The checked-in article library is self-contained and requires no generation at runtime.
+prebuilt_articles = []
+article_coverage = set()
+word_definitions = {line.split('|')[0]: line.split('|')[2] for line in lines if line and not line.startswith('@')}
+for article_file in sorted((TOOLS / 'prebuilt-articles').glob('*.json')):
+    article = json.loads(article_file.read_text())
+    targets = article['targets']
+    assert 1 <= len(targets) <= 8 and len({t['word'] for t in targets}) == len(targets), article_file
+    text = ' '.join(article['paragraphs'])
+    assert 150 <= len(text.split()) <= 650 and article['title'] and len(article['title']) <= 160, article_file
+    for target in targets:
+        assert target['index'] == 0 and target['definition'] == word_definitions[target['word']], article_file
+        assert re.search(r'(?<!\w)' + re.escape(target['word']) + r'(?!\w)', text, re.I), (article_file, target['word'])
+        article_coverage.add(target['word'])
+    prebuilt_articles.append({k: article[k] for k in ['id','title','paragraphs','targets','createdAt']})
+assert article_coverage == seen - set(online_warnings), ('Incomplete prebuilt article coverage', len(article_coverage), len(seen - set(online_warnings)))
+constant('PREBUILT_ARTICLES', prebuilt_articles)
+
 for line in (TOOLS / 'context-examples.txt').read_text().splitlines():
     if line:
         word, example = line.split('|', 1)

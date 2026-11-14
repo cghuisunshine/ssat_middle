@@ -1,0 +1,57 @@
+{
+  "id": "article-662e9dffcf1f4541",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "Several records provided a starting point for the discussion. The actor's precise diction made every line easy to understand. The guide helped us differentiate the two similar birds. His diffidence kept him from volunteering an answer. The experiment demonstrated the diffusion of dye through water.",
+    "Other records complicated that first impression and encouraged a closer reading. The ceremony helped dignify the volunteers' quiet service. The pupils of the eyes dilate in dim light. The new barrier caused a diminution of traffic noise. A diminutive bird perched on the thin branch.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "diction",
+      "index": 0,
+      "definition": "a person's choice or clear pronunciation of words"
+    },
+    {
+      "word": "differentiate",
+      "index": 0,
+      "definition": "to recognize or show a difference between things"
+    },
+    {
+      "word": "diffidence",
+      "index": 0,
+      "definition": "shyness caused by a lack of confidence"
+    },
+    {
+      "word": "diffusion",
+      "index": 0,
+      "definition": "the spreading of something over a wider area"
+    },
+    {
+      "word": "dignify",
+      "index": 0,
+      "definition": "to give someone or something honor or worth"
+    },
+    {
+      "word": "dilate",
+      "index": 0,
+      "definition": "to make or become wider"
+    },
+    {
+      "word": "diminution",
+      "index": 0,
+      "definition": "a reduction in size, strength, or importance"
+    },
+    {
+      "word": "diminutive",
+      "index": 0,
+      "definition": "extremely small in size"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

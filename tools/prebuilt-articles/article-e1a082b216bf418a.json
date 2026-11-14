@@ -1,0 +1,57 @@
+{
+  "id": "article-e1a082b216bf418a",
+  "tier": "Stretch",
+  "topic": "Movement & physical processes",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. You can detach the small lamp from its base and carry it. The scent will diffuse through the room as the oil warms. A gust of wind helped disperse the smoke across the field. Stir the sugar until it begins to dissolve in the warm water.",
+    "The remaining pages widened the discussion with additional observations. Press the button to eject the disc from the player. Thick fog began to envelop the village, hiding every roof. The dentist had to extract the badly damaged tooth. Do not immerse the electrical handle in water.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "detach",
+      "index": 0,
+      "definition": "to separate from something attached"
+    },
+    {
+      "word": "diffuse",
+      "index": 0,
+      "definition": "to spread over a wide area"
+    },
+    {
+      "word": "disperse",
+      "index": 0,
+      "definition": "to spread apart in different directions"
+    },
+    {
+      "word": "dissolve",
+      "index": 0,
+      "definition": "to become mixed into a liquid"
+    },
+    {
+      "word": "eject",
+      "index": 0,
+      "definition": "to force out"
+    },
+    {
+      "word": "envelop",
+      "index": 0,
+      "definition": "to surround or cover completely"
+    },
+    {
+      "word": "extract",
+      "index": 0,
+      "definition": "to remove by pulling or taking out"
+    },
+    {
+      "word": "immerse",
+      "index": 0,
+      "definition": "to put completely under a liquid"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-2611b2efb0c04dbe",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The group began by reading the following accounts without adding explanations of its own. Music relieved the tedium of the long bus journey. The telethon raised funds for the children's hospital. Her calm temperament helped her handle unexpected problems. The temperamental artist was cheerful one moment and furious the next.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The diagram shows the temporal order of the historical events. A tendril curled around the garden fence. Several immigrant families lived in the old tenement. The tensity of the rope increased as the load grew heavier.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "tedium",
+      "index": 0,
+      "definition": "the weary boredom caused by something repetitive"
+    },
+    {
+      "word": "telethon",
+      "index": 0,
+      "definition": "a long televised event held to raise money"
+    },
+    {
+      "word": "temperament",
+      "index": 0,
+      "definition": "a person's usual emotional nature"
+    },
+    {
+      "word": "temperamental",
+      "index": 0,
+      "definition": "prone to sudden changes of mood"
+    },
+    {
+      "word": "temporal",
+      "index": 0,
+      "definition": "relating to time"
+    },
+    {
+      "word": "tendril",
+      "index": 0,
+      "definition": "a thin curling part of a plant that clings to a support"
+    },
+    {
+      "word": "tenement",
+      "index": 0,
+      "definition": "a building divided into rented apartments, often crowded and poorly maintained"
+    },
+    {
+      "word": "tensity",
+      "index": 0,
+      "definition": "the degree or state of being tense"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

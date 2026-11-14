@@ -1,0 +1,57 @@
+{
+  "id": "article-429cd47542fb265d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The first section of the collection placed these observations side by side. The inharmonious colors made the design feel unsettled. Fear of mistakes can inhibit a beginner's confidence. Her inhibition faded as she became comfortable with the group. The dry, rocky land was inhospitable to most crops.",
+    "A later section added further scenes for comparison. The apparently innocuous comment started an unexpected debate. The program helped inoculate the livestock against disease. The telephone rang at an inopportune moment. The inquest examined the circumstances of the accident.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "inharmonious",
+      "index": 0,
+      "definition": "not fitting together pleasantly or consistently"
+    },
+    {
+      "word": "inhibit",
+      "index": 0,
+      "definition": "to hold back or prevent an activity or feeling"
+    },
+    {
+      "word": "inhibition",
+      "index": 0,
+      "definition": "a restraint that holds back behavior or action"
+    },
+    {
+      "word": "inhospitable",
+      "index": 0,
+      "definition": "unfriendly or difficult to live in"
+    },
+    {
+      "word": "innocuous",
+      "index": 0,
+      "definition": "not harmful or likely to offend"
+    },
+    {
+      "word": "inoculate",
+      "index": 0,
+      "definition": "to introduce a vaccine or other material to provide protection or begin growth"
+    },
+    {
+      "word": "inopportune",
+      "index": 0,
+      "definition": "occurring at an inconvenient or unsuitable time"
+    },
+    {
+      "word": "inquest",
+      "index": 0,
+      "definition": "an official investigation into the cause of a death"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

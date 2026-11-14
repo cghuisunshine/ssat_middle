@@ -1,0 +1,57 @@
+{
+  "id": "article-c1e7d5e576dbba6d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. The stranded travelers searched for water and aliment. The tale is an allegory about the struggle between honesty and greed. The phrase silver sails shows alliteration through its repeated sound. The teacher will allot ten minutes to each presentation.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The alluring smell of fresh bread drew us into the shop. The farmer consulted an almanac for sunrise times. One small alteration made the costume fit properly. The museum hopes to amass a collection of local photographs.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "aliment",
+      "index": 0,
+      "definition": "food or nourishment needed to support life"
+    },
+    {
+      "word": "allegory",
+      "index": 0,
+      "definition": "a story whose characters and events represent broader ideas"
+    },
+    {
+      "word": "alliteration",
+      "index": 0,
+      "definition": "the repetition of initial consonant sounds in nearby words"
+    },
+    {
+      "word": "allot",
+      "index": 0,
+      "definition": "to assign a share or amount to someone"
+    },
+    {
+      "word": "alluring",
+      "index": 0,
+      "definition": "strongly attractive or tempting"
+    },
+    {
+      "word": "almanac",
+      "index": 0,
+      "definition": "a yearly reference book containing dates and useful information"
+    },
+    {
+      "word": "alteration",
+      "index": 0,
+      "definition": "a change made to something"
+    },
+    {
+      "word": "amass",
+      "index": 0,
+      "definition": "to collect a large amount of something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

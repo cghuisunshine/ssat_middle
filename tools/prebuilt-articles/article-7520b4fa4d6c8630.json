@@ -1,0 +1,57 @@
+{
+  "id": "article-7520b4fa4d6c8630",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The director has executive responsibility for the program. The volunteer received an award for exemplary service. The exhibition featured photographs of local wildlife. The fast ride was enough to exhilarate every passenger.",
+    "Other records complicated that first impression and encouraged a closer reading. We felt exhilarated after reaching the mountain's summit. Archaeologists worked carefully to exhume the ancient remains. The writer continued her work during years of exile. The vendor demanded an exorbitant price for the simple tool.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "executive",
+      "index": 0,
+      "definition": "concerned with managing or putting decisions into effect"
+    },
+    {
+      "word": "exemplary",
+      "index": 0,
+      "definition": "so good that it serves as a model"
+    },
+    {
+      "word": "exhibition",
+      "index": 0,
+      "definition": "a public display of objects, art, or skill"
+    },
+    {
+      "word": "exhilarate",
+      "index": 0,
+      "definition": "to make someone feel lively and excited"
+    },
+    {
+      "word": "exhilarated",
+      "index": 0,
+      "definition": "feeling very happy, energetic, and excited"
+    },
+    {
+      "word": "exhume",
+      "index": 0,
+      "definition": "to dig something out after it has been buried"
+    },
+    {
+      "word": "exile",
+      "index": 0,
+      "definition": "forced or prolonged absence from one's homeland"
+    },
+    {
+      "word": "exorbitant",
+      "index": 0,
+      "definition": "far beyond what is reasonable in amount or price"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

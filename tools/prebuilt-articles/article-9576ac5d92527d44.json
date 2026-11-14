@@ -1,0 +1,57 @@
+{
+  "id": "article-9576ac5d92527d44",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The opening pages introduced several situations worth examining carefully. Sealed containers helped keep vermin away from the stored grain. She is well versed in the history of the region. The stone arch is the last vestige of the ancient wall. The repeated interruptions began to vex the patient reader.",
+    "The remaining pages widened the discussion with additional observations. She sighed in vexation when the printer jammed again. The committee needed a viable plan that fit the budget. The scheme was designed to victimize people unfamiliar with online banking. Several cities will vie for the chance to host the festival.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "vermin",
+      "index": 0,
+      "definition": "animals regarded as harmful pests"
+    },
+    {
+      "word": "versed",
+      "index": 0,
+      "definition": "knowledgeable or experienced in a subject"
+    },
+    {
+      "word": "vestige",
+      "index": 0,
+      "definition": "a small remaining trace of something that once existed"
+    },
+    {
+      "word": "vex",
+      "index": 0,
+      "definition": "to annoy or trouble someone"
+    },
+    {
+      "word": "vexation",
+      "index": 0,
+      "definition": "a feeling or cause of annoyance"
+    },
+    {
+      "word": "viable",
+      "index": 0,
+      "definition": "capable of working successfully or surviving"
+    },
+    {
+      "word": "victimize",
+      "index": 0,
+      "definition": "to treat someone unfairly or make them suffer"
+    },
+    {
+      "word": "vie",
+      "index": 0,
+      "definition": "to compete eagerly for something"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

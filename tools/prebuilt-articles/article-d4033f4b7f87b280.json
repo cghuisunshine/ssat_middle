@@ -1,0 +1,57 @@
+{
+  "id": "article-d4033f4b7f87b280",
+  "tier": "Core",
+  "topic": "Character & integrity",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. The diligent researcher checked the records carefully every day. The discreet assistant kept the private conversation confidential. Her earnest request showed how seriously she wanted to help. Returning the money was the ethical choice, even though nobody was watching.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The fickle crowd praised the singer one week and rejected him the next. The frugal family repaired old furniture instead of buying new pieces. The greedy guest took nearly all the cake before others were served. The hostile crowd shouted angrily at the visiting team.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "diligent",
+      "index": 0,
+      "definition": "working with steady care and effort"
+    },
+    {
+      "word": "discreet",
+      "index": 0,
+      "definition": "careful to avoid revealing private information"
+    },
+    {
+      "word": "earnest",
+      "index": 0,
+      "definition": "serious and sincere about something"
+    },
+    {
+      "word": "ethical",
+      "index": 0,
+      "definition": "following accepted moral principles"
+    },
+    {
+      "word": "fickle",
+      "index": 0,
+      "definition": "changing one's loyalties or preferences often"
+    },
+    {
+      "word": "frugal",
+      "index": 0,
+      "definition": "careful not to waste money or resources"
+    },
+    {
+      "word": "greedy",
+      "index": 0,
+      "definition": "wanting more than one's fair share"
+    },
+    {
+      "word": "hostile",
+      "index": 0,
+      "definition": "unfriendly and ready to oppose"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-a82fe709be3f6fe9",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The first section of the collection placed these observations side by side. Please give a specific example to support the claim. The balcony offered a splendid view of the harbor. A government subsidy helped farmers recover after the flood. I suppose the meeting will end before lunch.",
+    "A later section added further scenes for comparison. The constitution is the nation's supreme law. Please sweep the crumbs from the kitchen floor. The path began to taper as it approached the cliff. He wore a tattered coat with holes in both sleeves.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "specific",
+      "index": 0,
+      "definition": "clearly identified and particular"
+    },
+    {
+      "word": "splendid",
+      "index": 0,
+      "definition": "excellent or impressive"
+    },
+    {
+      "word": "subsidy",
+      "index": 0,
+      "definition": "money given to help support an activity or business"
+    },
+    {
+      "word": "suppose",
+      "index": 0,
+      "definition": "to think something is likely or true without certainty"
+    },
+    {
+      "word": "supreme",
+      "index": 0,
+      "definition": "highest in rank, authority, or degree"
+    },
+    {
+      "word": "sweep",
+      "index": 0,
+      "definition": "to clean or clear a surface with a brush or similar motion"
+    },
+    {
+      "word": "taper",
+      "index": 0,
+      "definition": "to become gradually narrower or smaller"
+    },
+    {
+      "word": "tattered",
+      "index": 0,
+      "definition": "torn and worn into ragged pieces"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

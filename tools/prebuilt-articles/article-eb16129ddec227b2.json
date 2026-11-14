@@ -1,0 +1,57 @@
+{
+  "id": "article-eb16129ddec227b2",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The first section of the collection placed these observations side by side. The unusual fossil continued to fascinate the young visitors. The fastidious editor checked every punctuation mark. We could not fathom why the machine stopped each afternoon. The village prepared a feast to celebrate the harvest.",
+    "A later section added further scenes for comparison. Crossing the channel alone was a remarkable feat. The clubs formed a federation to coordinate their activities. He tried to feign surprise even though he knew the plan. A quick feint drew the defender in the wrong direction.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "fascinate",
+      "index": 0,
+      "definition": "to attract and hold someone's interest strongly"
+    },
+    {
+      "word": "fastidious",
+      "index": 0,
+      "definition": "very attentive to details and difficult to satisfy"
+    },
+    {
+      "word": "fathom",
+      "index": 0,
+      "definition": "to understand something difficult or puzzling"
+    },
+    {
+      "word": "feast",
+      "index": 0,
+      "definition": "a large and special meal"
+    },
+    {
+      "word": "feat",
+      "index": 0,
+      "definition": "an impressive act requiring skill or courage"
+    },
+    {
+      "word": "federation",
+      "index": 0,
+      "definition": "a union of groups or states under a shared system"
+    },
+    {
+      "word": "feign",
+      "index": 0,
+      "definition": "to pretend to have a feeling or condition"
+    },
+    {
+      "word": "feint",
+      "index": 0,
+      "definition": "a deceptive movement intended to distract an opponent"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

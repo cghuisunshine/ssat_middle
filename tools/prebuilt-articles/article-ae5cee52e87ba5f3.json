@@ -1,0 +1,57 @@
+{
+  "id": "article-ae5cee52e87ba5f3",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. The performance will resume after the intermission. The villagers revere the teacher who founded their school. The rickety chair creaked under even a light weight. Checking the equipment was part of the daily routine.",
+    "It then considered a second group of accounts, looking for both similarities and differences. He would later rue the careless decision. The inn had rustic furniture made from rough wood. The ruthless character would sacrifice anyone to gain power. She paused to savor the flavor of the fresh peach.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "resume",
+      "index": 0,
+      "definition": "to begin again after an interruption"
+    },
+    {
+      "word": "revere",
+      "index": 0,
+      "definition": "to regard with deep respect"
+    },
+    {
+      "word": "rickety",
+      "index": 0,
+      "definition": "weak and likely to collapse or break"
+    },
+    {
+      "word": "routine",
+      "index": 0,
+      "definition": "a usual and repeated way of doing things"
+    },
+    {
+      "word": "rue",
+      "index": 0,
+      "definition": "to feel regret or sorrow about something"
+    },
+    {
+      "word": "rustic",
+      "index": 0,
+      "definition": "simple and characteristic of the countryside"
+    },
+    {
+      "word": "ruthless",
+      "index": 0,
+      "definition": "showing no mercy or concern for others"
+    },
+    {
+      "word": "savor",
+      "index": 0,
+      "definition": "to enjoy something slowly and appreciatively"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

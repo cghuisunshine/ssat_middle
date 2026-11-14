@@ -1,0 +1,57 @@
+{
+  "id": "article-add7e52fb3393c5e",
+  "tier": "Core",
+  "topic": "Conditions & contrasts",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The opening pages introduced several situations worth examining carefully. The affluent neighborhood contained large houses and expensive cars. Adverse weather conditions forced the expedition to turn back. The bleak landscape offered little shelter or hope of finding food. The cumbersome crate was difficult to carry through the narrow doorway.",
+    "The remaining pages widened the discussion with additional observations. The durable fabric resisted tearing even after years of use. The guide showed us which berries were edible and which were poisonous. The elastic band stretched and then returned to its original shape. The fragile glass vase could break if handled carelessly.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "affluent",
+      "index": 0,
+      "definition": "having a great deal of money"
+    },
+    {
+      "word": "adverse",
+      "index": 0,
+      "definition": "unfavorable or harmful"
+    },
+    {
+      "word": "bleak",
+      "index": 0,
+      "definition": "cold and without comfort or hope"
+    },
+    {
+      "word": "cumbersome",
+      "index": 0,
+      "definition": "large or awkward and difficult to handle"
+    },
+    {
+      "word": "durable",
+      "index": 0,
+      "definition": "able to withstand wear or damage"
+    },
+    {
+      "word": "edible",
+      "index": 0,
+      "definition": "safe or suitable to eat"
+    },
+    {
+      "word": "elastic",
+      "index": 0,
+      "definition": "able to stretch and return to shape"
+    },
+    {
+      "word": "fragile",
+      "index": 0,
+      "definition": "easily broken or damaged"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

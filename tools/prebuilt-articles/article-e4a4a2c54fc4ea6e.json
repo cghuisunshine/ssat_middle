@@ -1,0 +1,57 @@
+{
+  "id": "article-e4a4a2c54fc4ea6e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. The publisher had to truncate the chapter to fit the page limit. We watched the heavy cart trundle down the path. The long delay made it a trying day for the travelers. The novel describes a secret tryst beside the river.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The unexpected announcement threw the hall into tumult. The reviewer found the novel's turgid prose difficult to follow. The sudden resignation left the organization in turmoil. The director refused to typecast her as another quiet schoolteacher.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "truncate",
+      "index": 0,
+      "definition": "to shorten something by cutting off a part"
+    },
+    {
+      "word": "trundle",
+      "index": 0,
+      "definition": "to move slowly with a rolling motion"
+    },
+    {
+      "word": "trying",
+      "index": 0,
+      "definition": "difficult to deal with and demanding patience"
+    },
+    {
+      "word": "tryst",
+      "index": 0,
+      "definition": "a private meeting between lovers"
+    },
+    {
+      "word": "tumult",
+      "index": 0,
+      "definition": "a state of noisy confusion or disorder"
+    },
+    {
+      "word": "turgid",
+      "index": 0,
+      "definition": "swollen or overly elaborate and difficult in style"
+    },
+    {
+      "word": "turmoil",
+      "index": 0,
+      "definition": "a state of great disturbance or confusion"
+    },
+    {
+      "word": "typecast",
+      "index": 0,
+      "definition": "to repeatedly assign an actor the same kind of role"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

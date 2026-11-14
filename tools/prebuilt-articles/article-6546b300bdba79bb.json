@@ -1,0 +1,57 @@
+{
+  "id": "article-6546b300bdba79bb",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. The organizer helped us compartmentalize the different tasks. The compiler gathered historical records from several archives. The complexity of the puzzle surprised the experienced players. She regained her composure before addressing the crowd.",
+    "A later section added further scenes for comparison. Ignoring the leak will compound the damage to the roof. A concerted effort cleared the path before nightfall. The mediator tried to conciliate both sides of the dispute. His unusual concoction contained fruit, herbs, and sparkling water.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "compartmentalize",
+      "index": 0,
+      "definition": "to separate something into distinct sections or categories"
+    },
+    {
+      "word": "compiler",
+      "index": 0,
+      "definition": "a person or program that collects or translates material into an organized form"
+    },
+    {
+      "word": "complexity",
+      "index": 0,
+      "definition": "the state of having many connected parts or difficulties"
+    },
+    {
+      "word": "composure",
+      "index": 0,
+      "definition": "calm control of one's feelings and behavior"
+    },
+    {
+      "word": "compound",
+      "index": 0,
+      "definition": "to make an existing problem or difficulty worse"
+    },
+    {
+      "word": "concerted",
+      "index": 0,
+      "definition": "planned and carried out together for a shared purpose"
+    },
+    {
+      "word": "conciliate",
+      "index": 0,
+      "definition": "to gain goodwill or reduce hostility"
+    },
+    {
+      "word": "concoction",
+      "index": 0,
+      "definition": "a mixture made by combining different ingredients"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

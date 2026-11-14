@@ -1,0 +1,57 @@
+{
+  "id": "article-9047be0a43f829f2",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. A grimace crossed his face as he tasted the bitter drink. The grizzled sailor watched the approaching storm. His gruff reply sounded harsher than he intended. The store offered a guarantee against defects.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The history described a guerrilla hiding in the mountain forests. Without measurements, the cost was only a guesstimate. We needed evidence rather than guesswork to solve the problem. The beginners completed the task with careful guidance.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "grimace",
+      "index": 0,
+      "definition": "a facial expression showing pain, disgust, or discomfort"
+    },
+    {
+      "word": "grizzled",
+      "index": 0,
+      "definition": "having gray or partly gray hair"
+    },
+    {
+      "word": "gruff",
+      "index": 0,
+      "definition": "rough and abrupt in voice or manner"
+    },
+    {
+      "word": "guarantee",
+      "index": 0,
+      "definition": "a firm promise that something will happen or be provided"
+    },
+    {
+      "word": "guerrilla",
+      "index": 0,
+      "definition": "a member of a small irregular force using surprise attacks"
+    },
+    {
+      "word": "guesstimate",
+      "index": 0,
+      "definition": "an estimate made with limited information"
+    },
+    {
+      "word": "guesswork",
+      "index": 0,
+      "definition": "judgment based on guesses rather than firm knowledge"
+    },
+    {
+      "word": "guidance",
+      "index": 0,
+      "definition": "help or advice about what to do"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

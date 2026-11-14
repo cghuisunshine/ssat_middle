@@ -1,0 +1,57 @@
+{
+  "id": "article-843198d0a293412c",
+  "tier": "Core",
+  "topic": "Society & people",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. The witness described the accident to the police. An extrovert, Maya often starts conversations with new classmates. As an introvert, Ben often enjoys reading alone after a busy school day. Although she was an amateur, her photographs won praise from experts.",
+    "A later section added further scenes for comparison. The village sage offered thoughtful advice during the dispute. The skeptic asked to see evidence before believing the surprising claim. The defending champion was her nemesis, defeating her in three finals. Holding the door for the next person is a simple courtesy.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "witness",
+      "index": 0,
+      "definition": "someone who sees an event happen"
+    },
+    {
+      "word": "extrovert",
+      "index": 0,
+      "definition": "a person who enjoys social activity and being with others"
+    },
+    {
+      "word": "introvert",
+      "index": 0,
+      "definition": "a person who generally prefers quiet or less social stimulation"
+    },
+    {
+      "word": "amateur",
+      "index": 0,
+      "definition": "a person who pursues an activity without being a professional"
+    },
+    {
+      "word": "sage",
+      "index": 0,
+      "definition": "a person respected for wisdom and sound judgment"
+    },
+    {
+      "word": "skeptic",
+      "index": 0,
+      "definition": "a person who questions claims rather than accepting them readily"
+    },
+    {
+      "word": "nemesis",
+      "index": 0,
+      "definition": "a powerful opponent who repeatedly causes defeat or difficulty"
+    },
+    {
+      "word": "courtesy",
+      "index": 0,
+      "definition": "polite and considerate behavior"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

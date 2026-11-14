@@ -1,0 +1,57 @@
+{
+  "id": "article-e3e6517dce45ebf6",
+  "tier": "Foundation",
+  "topic": "Thinking & communication",
+  "title": "Notes for a Community Exhibition",
+  "paragraphs": [
+    "The community center was planning an exhibition about everyday experiences. Students volunteered to select the written material. Their challenge was to find a balance between vivid individual moments and a larger theme that visitors could follow without already knowing the people involved.",
+    "The first section of the collection placed these observations side by side. Please describe the lost dog so we know what to look for. I doubt that the bridge is safe after such severe damage. The guide will explain how the ancient water system worked. The rules forbid visitors from touching the paintings.",
+    "A later section added further scenes for comparison. She decided to forgive her friend after receiving a sincere apology. Try to imagine how this valley looked before the city was built. Please inform the office if your address changes. We intend to finish the repairs before winter arrives.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "describe",
+      "index": 0,
+      "definition": "to tell what something is like"
+    },
+    {
+      "word": "doubt",
+      "index": 0,
+      "definition": "to be uncertain about"
+    },
+    {
+      "word": "explain",
+      "index": 0,
+      "definition": "to make an idea clear"
+    },
+    {
+      "word": "forbid",
+      "index": 0,
+      "definition": "to order that something must not be done"
+    },
+    {
+      "word": "forgive",
+      "index": 0,
+      "definition": "to stop blaming someone for a wrong"
+    },
+    {
+      "word": "imagine",
+      "index": 0,
+      "definition": "to form a mental picture"
+    },
+    {
+      "word": "inform",
+      "index": 0,
+      "definition": "to give facts or knowledge to"
+    },
+    {
+      "word": "intend",
+      "index": 0,
+      "definition": "to have as a plan or purpose"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

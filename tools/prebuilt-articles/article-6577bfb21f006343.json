@@ -1,0 +1,57 @@
+{
+  "id": "article-6577bfb21f006343",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The cobbler replaced the worn soles of my boots. The pilot checked the instruments in the cockpit. They tend to coddle the puppy instead of teaching it patience. The committee will codify the club's unwritten traditions.",
+    "The remaining pages widened the discussion with additional observations. The reserve and the protected forest are coextensive. The mural was a collaborative project involving three classes. The business offered its equipment as collateral for the loan. The competition featured teams from several collegiate programs.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "cobbler",
+      "index": 0,
+      "definition": "a person who makes or repairs shoes"
+    },
+    {
+      "word": "cockpit",
+      "index": 0,
+      "definition": "the area where a pilot or driver controls a vehicle"
+    },
+    {
+      "word": "coddle",
+      "index": 0,
+      "definition": "to protect or treat someone with excessive care"
+    },
+    {
+      "word": "codify",
+      "index": 0,
+      "definition": "to organize rules or laws into a systematic collection"
+    },
+    {
+      "word": "coextensive",
+      "index": 0,
+      "definition": "having the same extent, boundaries, or duration"
+    },
+    {
+      "word": "collaborative",
+      "index": 0,
+      "definition": "involving people working together"
+    },
+    {
+      "word": "collateral",
+      "index": 0,
+      "definition": "property offered as security for repayment of a loan"
+    },
+    {
+      "word": "collegiate",
+      "index": 0,
+      "definition": "related to a college or its students"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

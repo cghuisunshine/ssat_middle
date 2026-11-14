@@ -1,0 +1,57 @@
+{
+  "id": "article-cd0eaa41d0d80298",
+  "tier": "Stretch",
+  "topic": "Powerful verbs",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. Budget cuts forced the club to curtail its travel plans. The judges will deliberate before choosing the winning design. Do not deviate from the marked route in the protected area. The interviewer asked a thoughtful question to elicit a detailed response.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The cleanup aims to eradicate the invasive weeds from the reserve. The thief tried to evade capture by slipping through a narrow alley. More heavy rain could exacerbate the existing flood damage. Her generous actions exemplify the values that the school teaches.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "curtail",
+      "index": 0,
+      "definition": "to reduce the length or amount of"
+    },
+    {
+      "word": "deliberate",
+      "index": 0,
+      "definition": "to consider carefully before deciding"
+    },
+    {
+      "word": "deviate",
+      "index": 0,
+      "definition": "to move away from an expected course"
+    },
+    {
+      "word": "elicit",
+      "index": 0,
+      "definition": "to draw out a response"
+    },
+    {
+      "word": "eradicate",
+      "index": 0,
+      "definition": "to remove or destroy completely"
+    },
+    {
+      "word": "evade",
+      "index": 0,
+      "definition": "to avoid by skill or trickery"
+    },
+    {
+      "word": "exacerbate",
+      "index": 0,
+      "definition": "to make a problem worse"
+    },
+    {
+      "word": "exemplify",
+      "index": 0,
+      "definition": "to serve as a clear example of"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

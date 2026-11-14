@@ -1,0 +1,57 @@
+{
+  "id": "article-c9c6b279715622ee",
+  "tier": "Core",
+  "topic": "Reasoning & knowledge",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The group began by reading the following accounts without adding explanations of its own. Check the original document to verify that the copied date is correct. The proposed road caused controversy among local residents. The moth's folded wings resemble a dry leaf. Her observation of the nest helped explain the birds' behavior.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Every shelf was empty, with the exception of the top one. The model helped explain the concept of balance. The witness admitted that the dramatic story was a fabrication. The insertion of a new paragraph made the explanation clearer.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "verify",
+      "index": 0,
+      "definition": "to check that something is true"
+    },
+    {
+      "word": "controversy",
+      "index": 0,
+      "definition": "a disagreement about a matter that people debate strongly"
+    },
+    {
+      "word": "resemble",
+      "index": 0,
+      "definition": "to look or be like someone or something"
+    },
+    {
+      "word": "observation",
+      "index": 0,
+      "definition": "information gained by carefully watching or measuring"
+    },
+    {
+      "word": "exception",
+      "index": 0,
+      "definition": "a case that does not follow a general rule or pattern"
+    },
+    {
+      "word": "concept",
+      "index": 0,
+      "definition": "a general idea or principle"
+    },
+    {
+      "word": "fabrication",
+      "index": 0,
+      "definition": "an invented story presented as though it were true"
+    },
+    {
+      "word": "insertion",
+      "index": 0,
+      "definition": "the act of putting something into something else"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

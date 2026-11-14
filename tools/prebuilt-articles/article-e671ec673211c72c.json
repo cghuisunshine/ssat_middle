@@ -1,0 +1,57 @@
+{
+  "id": "article-e671ec673211c72c",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. He tried to overcompensate for his mistake by taking on every task. Preparations went into overdrive before the opening. The artist will overlay the surface with thin gold leaf. A simple oversight caused the invitation to be sent late.",
+    "A later section added further scenes for comparison. The pacifist urged the leaders to negotiate. The editor checked the pagination before printing. Her interest in paleontology began with a dinosaur fossil. A wooden palisade surrounded the early settlement.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "overcompensate",
+      "index": 0,
+      "definition": "to react excessively in an effort to correct a weakness"
+    },
+    {
+      "word": "overdrive",
+      "index": 0,
+      "definition": "a state of unusually intense activity"
+    },
+    {
+      "word": "overlay",
+      "index": 0,
+      "definition": "to cover something with a layer"
+    },
+    {
+      "word": "oversight",
+      "index": 0,
+      "definition": "an unintentional failure to notice something"
+    },
+    {
+      "word": "pacifist",
+      "index": 0,
+      "definition": "a person opposed to war and violence"
+    },
+    {
+      "word": "pagination",
+      "index": 0,
+      "definition": "the numbering and arrangement of pages"
+    },
+    {
+      "word": "paleontology",
+      "index": 0,
+      "definition": "the study of ancient life through fossils"
+    },
+    {
+      "word": "palisade",
+      "index": 0,
+      "definition": "a fence made of tall, strong stakes"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

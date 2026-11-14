@@ -1,0 +1,57 @@
+{
+  "id": "article-4443cbcd0a7adfb0",
+  "tier": "Core",
+  "topic": "Society & people",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. She used tact when explaining the mistake without embarrassing her friend. Honesty and service were central to the organization's creed. A federal agency manages the program across several states. A gardening enthusiast offered to help with the school greenhouse.",
+    "The remaining pages widened the discussion with additional observations. Each participant received a map before the walking tour. A longtime resident explained how the neighborhood had changed. Their suburb has a train connection to the city center. She added a warm coat to her winter wardrobe.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "tact",
+      "index": 0,
+      "definition": "skill in dealing with others without causing offense"
+    },
+    {
+      "word": "creed",
+      "index": 0,
+      "definition": "a set of beliefs that guides a person or group"
+    },
+    {
+      "word": "federal",
+      "index": 0,
+      "definition": "relating to the national government in a system of shared national and regional powers"
+    },
+    {
+      "word": "enthusiast",
+      "index": 0,
+      "definition": "a person who is very interested in an activity or subject"
+    },
+    {
+      "word": "participant",
+      "index": 0,
+      "definition": "a person who takes part in an activity"
+    },
+    {
+      "word": "resident",
+      "index": 0,
+      "definition": "a person who lives in a particular place"
+    },
+    {
+      "word": "suburb",
+      "index": 0,
+      "definition": "a residential community on the edge of or near a city"
+    },
+    {
+      "word": "wardrobe",
+      "index": 0,
+      "definition": "the collection of clothes a person owns"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

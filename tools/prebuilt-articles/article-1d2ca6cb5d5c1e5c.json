@@ -1,0 +1,52 @@
+{
+  "id": "article-1d2ca6cb5d5c1e5c",
+  "tier": "Stretch",
+  "topic": "Subtle descriptions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The opening pages introduced several situations worth examining carefully. The verbose speaker used twenty words where five would have been enough. The curved roof was chosen for its aesthetic appeal as well as its strength. Soft lighting and quiet music created a peaceful ambiance in the cafe. The extravagant banquet cost more than the school could afford.",
+    "The remaining pages widened the discussion with additional observations. The dancer's flamboyant costume glittered with bright feathers and sequins. The frightened child became hysterical and could not stop sobbing. Very little sunlight reaches the abyssal regions of the sea.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "verbose",
+      "index": 0,
+      "definition": "using more words than necessary"
+    },
+    {
+      "word": "aesthetic",
+      "index": 0,
+      "definition": "relating to beauty or artistic appearance"
+    },
+    {
+      "word": "ambiance",
+      "index": 0,
+      "definition": "the mood or atmosphere of a place"
+    },
+    {
+      "word": "extravagant",
+      "index": 0,
+      "definition": "using or spending far more than is necessary"
+    },
+    {
+      "word": "flamboyant",
+      "index": 0,
+      "definition": "strikingly bright or showy in appearance or behavior"
+    },
+    {
+      "word": "hysterical",
+      "index": 0,
+      "definition": "overcome by extreme, uncontrolled emotion"
+    },
+    {
+      "word": "abyssal",
+      "index": 0,
+      "definition": "relating to the very deep regions of the ocean"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

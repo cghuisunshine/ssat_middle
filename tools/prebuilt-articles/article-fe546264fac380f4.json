@@ -1,0 +1,28 @@
+{
+  "id": "article-fe546264fac380f4",
+  "tier": "Stretch",
+  "topic": "Adversity & achievement nouns",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The group began by reading the following accounts without adding explanations of its own. The broken lock exposed the building's vulnerability to theft.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The town showed resilience by rebuilding after the flood.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison.",
+    "A reader can continue the investigation by choosing one detail and explaining why it matters. The strongest answer will distinguish observation from assumption, consider the circumstances, and identify a question that would require more evidence before it could be answered confidently."
+  ],
+  "targets": [
+    {
+      "word": "vulnerability",
+      "index": 0,
+      "definition": "the state of being open to harm"
+    },
+    {
+      "word": "resilience",
+      "index": 0,
+      "definition": "the ability to recover after difficulty or harm"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

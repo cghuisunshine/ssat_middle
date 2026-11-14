@@ -1,0 +1,57 @@
+{
+  "id": "article-6681a20ceba30836",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "The group began by reading the following accounts without adding explanations of its own. Please do not construe my silence as agreement. Waste from the factory could contaminate the river. After much contemplation, she chose the more difficult path. The controversial proposal divided the council.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Choosing between the two equally good plans was a conundrum. The study found a correlation between practice time and accuracy. The photograph provided corroboration of the witness's account. The telescope detected a distant cosmic event.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "construe",
+      "index": 0,
+      "definition": "to interpret the meaning of something"
+    },
+    {
+      "word": "contaminate",
+      "index": 0,
+      "definition": "to make something impure or unsafe by introducing harmful material"
+    },
+    {
+      "word": "contemplation",
+      "index": 0,
+      "definition": "deep and careful thought"
+    },
+    {
+      "word": "controversial",
+      "index": 0,
+      "definition": "causing strong disagreement or public debate"
+    },
+    {
+      "word": "conundrum",
+      "index": 0,
+      "definition": "a difficult or confusing problem"
+    },
+    {
+      "word": "correlation",
+      "index": 0,
+      "definition": "a relationship in which two things vary together"
+    },
+    {
+      "word": "corroboration",
+      "index": 0,
+      "definition": "additional evidence that supports a claim"
+    },
+    {
+      "word": "cosmic",
+      "index": 0,
+      "definition": "related to the universe or outer space"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-20821df4de60be5f",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The first section of the collection placed these observations side by side. The storyteller seemed to have an inexhaustible supply of ideas. The cleanup reduced pollution in the stream. The workers stacked the timber beside the unfinished shed. The satellite follows an orbit around Earth.",
+    "A later section added further scenes for comparison. Earth's gravity pulls the dropped ball toward the ground. The astronomer used a telescope to examine the distant star. The small seeds provide sustenance for birds in winter. The crab used a jointed appendage to move food toward its mouth.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "inexhaustible",
+      "index": 0,
+      "definition": "impossible to use up completely"
+    },
+    {
+      "word": "pollution",
+      "index": 0,
+      "definition": "the presence of harmful substances or waste in the environment"
+    },
+    {
+      "word": "timber",
+      "index": 0,
+      "definition": "wood used or prepared for building"
+    },
+    {
+      "word": "orbit",
+      "index": 0,
+      "definition": "the curved path of an object moving around another object in space"
+    },
+    {
+      "word": "gravity",
+      "index": 0,
+      "definition": "the attraction between objects that have mass"
+    },
+    {
+      "word": "astronomer",
+      "index": 0,
+      "definition": "a scientist who studies objects and phenomena in space"
+    },
+    {
+      "word": "sustenance",
+      "index": 0,
+      "definition": "food or nourishment needed to support life"
+    },
+    {
+      "word": "appendage",
+      "index": 0,
+      "definition": "a part attached to the main body of an animal or object"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

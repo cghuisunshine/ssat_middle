@@ -1,0 +1,57 @@
+{
+  "id": "article-915be1389b39cc8c",
+  "tier": "Core",
+  "topic": "Relationships & structure",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The group began by reading the following accounts without adding explanations of its own. The battery is an essential component of the portable radio. The contrast between the dark wall and the pale door was striking. The mayor met her counterpart from a neighboring city to discuss shared problems. Measure each dimension of the box: its length, width, and height.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Only a small fragment of the broken plate remained. There was a five-minute interval between the two performances. A large proportion of the class walks to school rather than taking the bus. The numbers in this sequence increase by three each time.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "component",
+      "index": 0,
+      "definition": "one part of a larger whole"
+    },
+    {
+      "word": "contrast",
+      "index": 0,
+      "definition": "a noticeable difference between things"
+    },
+    {
+      "word": "counterpart",
+      "index": 0,
+      "definition": "a person or thing with a matching role elsewhere"
+    },
+    {
+      "word": "dimension",
+      "index": 0,
+      "definition": "a measurable extent such as length or width"
+    },
+    {
+      "word": "fragment",
+      "index": 0,
+      "definition": "a small broken piece of a whole"
+    },
+    {
+      "word": "interval",
+      "index": 0,
+      "definition": "a gap of space or time between things"
+    },
+    {
+      "word": "proportion",
+      "index": 0,
+      "definition": "the size of a part compared with the whole"
+    },
+    {
+      "word": "sequence",
+      "index": 0,
+      "definition": "a particular order of related things"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

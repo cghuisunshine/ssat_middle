@@ -1,0 +1,57 @@
+{
+  "id": "article-9fb9203578cf0791",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The first section of the collection placed these observations side by side. The defeat put a quietus on their hopes of winning. Her quick quip made the audience laugh. The class quipster always had a clever reply. He gave the strange device a quizzical look.",
+    "A later section added further scenes for comparison. The report described a racketeer demanding payments from shopkeepers. The botanist examined the plant's ramose stem. The thieves began to ransack the abandoned office. The teacher quickly established rapport with the new class.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "quietus",
+      "index": 0,
+      "definition": "a final ending or something that puts a stop to an activity"
+    },
+    {
+      "word": "quip",
+      "index": 0,
+      "definition": "a short, clever, or amusing remark"
+    },
+    {
+      "word": "quipster",
+      "index": 0,
+      "definition": "a person who frequently makes witty remarks"
+    },
+    {
+      "word": "quizzical",
+      "index": 0,
+      "definition": "showing puzzled curiosity or mild amusement"
+    },
+    {
+      "word": "racketeer",
+      "index": 0,
+      "definition": "a person involved in an organized illegal business"
+    },
+    {
+      "word": "ramose",
+      "index": 0,
+      "definition": "having many branches"
+    },
+    {
+      "word": "ransack",
+      "index": 0,
+      "definition": "to search a place roughly and thoroughly"
+    },
+    {
+      "word": "rapport",
+      "index": 0,
+      "definition": "a friendly relationship based on mutual understanding"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-b7b278439a87e52d",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "Several records provided a starting point for the discussion. His clammy hands showed how nervous he felt. The clamor outside made conversation difficult. The files contained classified information about the operation. The second clause explains why the journey was delayed.",
+    "Other records complicated that first impression and encouraged a closer reading. A clerical error placed the date in the wrong column. The young plant was a clone of the original rose. Several clubs formed a coalition to protect the park. We managed to cobble a shelter together from fallen branches.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "clammy",
+      "index": 0,
+      "definition": "unpleasantly damp and cold"
+    },
+    {
+      "word": "clamor",
+      "index": 0,
+      "definition": "a loud and persistent noise or demand"
+    },
+    {
+      "word": "classified",
+      "index": 0,
+      "definition": "officially restricted from public access"
+    },
+    {
+      "word": "clause",
+      "index": 0,
+      "definition": "a group of words containing a subject and a verb"
+    },
+    {
+      "word": "clerical",
+      "index": 0,
+      "definition": "related to routine office work or record keeping"
+    },
+    {
+      "word": "clone",
+      "index": 0,
+      "definition": "an organism or copy genetically identical to its source"
+    },
+    {
+      "word": "coalition",
+      "index": 0,
+      "definition": "a temporary alliance of groups working toward a shared goal"
+    },
+    {
+      "word": "cobble",
+      "index": 0,
+      "definition": "to assemble something roughly from available materials"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

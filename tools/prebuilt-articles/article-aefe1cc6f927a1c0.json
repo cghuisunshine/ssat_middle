@@ -1,0 +1,57 @@
+{
+  "id": "article-aefe1cc6f927a1c0",
+  "tier": "Stretch",
+  "topic": "Powerful verbs",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The first section of the collection placed these observations side by side. A shared calendar will facilitate planning between the two teams. The researchers will formulate a hypothesis before designing the experiment. A thick layer of ice can hamper efforts to open the gate. The ringleader tried to instigate a quarrel between the two groups.",
+    "A later section added further scenes for comparison. Planting trees can mitigate the impact of strong winds around the houses. The retiring captain agreed to relinquish command to her successor. The coach will reprimand players who deliberately break the rules. We waited for the floodwaters to subside before returning home.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "facilitate",
+      "index": 0,
+      "definition": "to make a process easier"
+    },
+    {
+      "word": "formulate",
+      "index": 0,
+      "definition": "to develop and express a plan carefully"
+    },
+    {
+      "word": "hamper",
+      "index": 0,
+      "definition": "to prevent free movement or progress"
+    },
+    {
+      "word": "instigate",
+      "index": 0,
+      "definition": "to cause an event or action to begin"
+    },
+    {
+      "word": "mitigate",
+      "index": 0,
+      "definition": "to make a problem less severe"
+    },
+    {
+      "word": "relinquish",
+      "index": 0,
+      "definition": "to give up possession or control"
+    },
+    {
+      "word": "reprimand",
+      "index": 0,
+      "definition": "to express strong official disapproval"
+    },
+    {
+      "word": "subside",
+      "index": 0,
+      "definition": "to become less intense"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

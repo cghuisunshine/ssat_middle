@@ -1,0 +1,57 @@
+{
+  "id": "article-93bacd53dafb6d4f",
+  "tier": "Core",
+  "topic": "Emotions & attitudes",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The group began by reading the following accounts without adding explanations of its own. The timid kitten hid whenever a stranger entered the room. The apathetic audience barely reacted to the speaker's urgent appeal. She kept the worn toy for sentimental reasons, remembering her childhood. The animated storyteller waved his arms as he described the adventure.",
+    "It then considered a second group of accounts, looking for both similarities and differences. After the long hike, fatigue made even a short walk difficult. Try not to fret over a mistake that you have already corrected. Her disdain for cheating was clear when she refused the stolen answers. The unexpected visit filled the grandparents with delight.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "timid",
+      "index": 0,
+      "definition": "lacking courage or confidence"
+    },
+    {
+      "word": "apathetic",
+      "index": 0,
+      "definition": "showing little interest or concern"
+    },
+    {
+      "word": "sentimental",
+      "index": 0,
+      "definition": "strongly influenced by tender feelings or memories"
+    },
+    {
+      "word": "animated",
+      "index": 0,
+      "definition": "full of energy and lively expression"
+    },
+    {
+      "word": "fatigue",
+      "index": 0,
+      "definition": "extreme tiredness after effort or strain"
+    },
+    {
+      "word": "fret",
+      "index": 0,
+      "definition": "to worry repeatedly about something"
+    },
+    {
+      "word": "disdain",
+      "index": 0,
+      "definition": "a feeling that someone or something is beneath one's respect"
+    },
+    {
+      "word": "delight",
+      "index": 0,
+      "definition": "a strong feeling of pleasure"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,57 @@
+{
+  "id": "article-a07567b4574ac8f8",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Reporter’s Folder",
+  "paragraphs": [
+    "A young reporter sorted a folder of notes before writing a feature for the school newspaper. The notes came from several accounts rather than one continuous event. To make the feature useful, the reporter needed to distinguish what each record actually showed from what a reader might assume.",
+    "The group began by reading the following accounts without adding explanations of its own. The report condemned the brutality shown toward the prisoners. Thick padding acted as a buffer between the glass and the crate. Strong winds began to buffet the small boat. Their bungalow had a small garden behind its porch.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The jacket's buoyancy kept the swimmer near the surface. The new road lets drivers bypass the crowded town center. The hotel hosted a lively cabaret after dinner. A cacophony of horns rose from the crowded intersection.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "brutality",
+      "index": 0,
+      "definition": "extreme cruelty or harshness"
+    },
+    {
+      "word": "buffer",
+      "index": 0,
+      "definition": "something that reduces the force or effect of a conflict or impact"
+    },
+    {
+      "word": "buffet",
+      "index": 0,
+      "definition": "to strike or push repeatedly and forcefully"
+    },
+    {
+      "word": "bungalow",
+      "index": 0,
+      "definition": "a house built mainly on one level"
+    },
+    {
+      "word": "buoyancy",
+      "index": 0,
+      "definition": "the ability or tendency to float"
+    },
+    {
+      "word": "bypass",
+      "index": 0,
+      "definition": "to go around or avoid something"
+    },
+    {
+      "word": "cabaret",
+      "index": 0,
+      "definition": "entertainment combining songs and short performances, often in a restaurant"
+    },
+    {
+      "word": "cacophony",
+      "index": 0,
+      "definition": "a harsh mixture of loud, unpleasant sounds"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

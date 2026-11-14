@@ -1,0 +1,57 @@
+{
+  "id": "article-7d966dff818a6f93",
+  "tier": "Stretch",
+  "topic": "Precise character words",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The group began by reading the following accounts without adding explanations of its own. His vindictive response aimed to punish anyone who had criticized him. The charismatic speaker inspired strangers to join the relief effort. The quiet reading room was a congenial place for her to work. He tried to sound nonchalant, though he was nervous about the results.",
+    "It then considered a second group of accounts, looking for both similarities and differences. Her pragmatic approach favored a simple repair over an expensive replacement. The vivacious host kept the guests laughing throughout dinner. The precocious child read complex novels at the age of six. His impertinent reply to a polite request shocked the adults.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "vindictive",
+      "index": 0,
+      "definition": "wanting to take revenge"
+    },
+    {
+      "word": "charismatic",
+      "index": 0,
+      "definition": "able to attract and inspire people through personal charm"
+    },
+    {
+      "word": "congenial",
+      "index": 0,
+      "definition": "pleasant and suited to one's tastes or nature"
+    },
+    {
+      "word": "nonchalant",
+      "index": 0,
+      "definition": "appearing casually calm and unconcerned"
+    },
+    {
+      "word": "pragmatic",
+      "index": 0,
+      "definition": "judging choices by what works in real situations"
+    },
+    {
+      "word": "vivacious",
+      "index": 0,
+      "definition": "lively and spirited in manner"
+    },
+    {
+      "word": "precocious",
+      "index": 0,
+      "definition": "showing abilities or maturity unusually early"
+    },
+    {
+      "word": "impertinent",
+      "index": 0,
+      "definition": "rudely disrespectful toward someone"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

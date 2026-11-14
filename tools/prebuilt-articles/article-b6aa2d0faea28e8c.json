@@ -1,0 +1,57 @@
+{
+  "id": "article-b6aa2d0faea28e8c",
+  "tier": "Core",
+  "topic": "Time, order & certainty",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "Several records provided a starting point for the discussion. The abrupt stop threw the passengers forward without warning. The ancient temple was built thousands of years ago. Our annual festival takes place once every summer. Arrange the events in chronological order, from earliest to latest.",
+    "Other records complicated that first impression and encouraged a closer reading. Rain fell for five consecutive days without a dry day between them. The constant dripping continued all night without stopping. The museum displays contemporary art made by artists working today. Years of practice contributed to her eventual success.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "abrupt",
+      "index": 0,
+      "definition": "sudden and unexpected"
+    },
+    {
+      "word": "ancient",
+      "index": 0,
+      "definition": "belonging to the very distant past"
+    },
+    {
+      "word": "annual",
+      "index": 0,
+      "definition": "happening once every year"
+    },
+    {
+      "word": "chronological",
+      "index": 0,
+      "definition": "arranged in the order events happened"
+    },
+    {
+      "word": "consecutive",
+      "index": 0,
+      "definition": "following one after another without a break"
+    },
+    {
+      "word": "constant",
+      "index": 0,
+      "definition": "continuing without interruption or change"
+    },
+    {
+      "word": "contemporary",
+      "index": 0,
+      "definition": "existing at the same time or in the present"
+    },
+    {
+      "word": "eventual",
+      "index": 0,
+      "definition": "happening in the end after some time"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

@@ -1,0 +1,47 @@
+{
+  "id": "article-5840810e4e8a8661",
+  "tier": "Core",
+  "topic": "Conditions & contrasts",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The first section of the collection placed these observations side by side. The two witnesses gave contrary accounts of the same event. The rescued turtle lived in captivity while its injury healed. The temporary fence will confine the animals to one field.",
+    "A later section added further scenes for comparison. The survey recorded a broad spectrum of opinions. The report's questionable figures needed checking before publication. The unusual silence suggested that something was amiss.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "contrary",
+      "index": 0,
+      "definition": "opposite in meaning, direction, or effect"
+    },
+    {
+      "word": "captivity",
+      "index": 0,
+      "definition": "the state of being kept confined rather than living freely"
+    },
+    {
+      "word": "confine",
+      "index": 0,
+      "definition": "to keep within particular limits or boundaries"
+    },
+    {
+      "word": "spectrum",
+      "index": 0,
+      "definition": "a range containing different degrees or kinds of something"
+    },
+    {
+      "word": "questionable",
+      "index": 0,
+      "definition": "open to doubt about truth, reliability, or acceptability"
+    },
+    {
+      "word": "amiss",
+      "index": 0,
+      "definition": "wrong or out of its proper place"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

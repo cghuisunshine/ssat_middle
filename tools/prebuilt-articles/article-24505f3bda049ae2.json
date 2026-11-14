@@ -1,0 +1,57 @@
+{
+  "id": "article-24505f3bda049ae2",
+  "tier": "Core",
+  "topic": "Nature & science",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. Few plants can survive in the arid desert without special adaptations. The barren hillside had no trees or grass. The fertile soil produced a rich crop of vegetables. The frigid air made our fingers numb within minutes.",
+    "Other records complicated that first impression and encouraged a closer reading. The humid air felt damp and made it difficult for clothes to dry. The luminous markings on the watch glowed in the dark. The nocturnal owl hunts at night and rests during daylight. The perennial plant returns each spring without being replanted.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "arid",
+      "index": 0,
+      "definition": "very dry with little rainfall"
+    },
+    {
+      "word": "barren",
+      "index": 0,
+      "definition": "unable to produce much plant life"
+    },
+    {
+      "word": "fertile",
+      "index": 0,
+      "definition": "able to support abundant plant growth"
+    },
+    {
+      "word": "frigid",
+      "index": 0,
+      "definition": "extremely cold"
+    },
+    {
+      "word": "humid",
+      "index": 0,
+      "definition": "containing much moisture in the air"
+    },
+    {
+      "word": "luminous",
+      "index": 0,
+      "definition": "giving off or reflecting light"
+    },
+    {
+      "word": "nocturnal",
+      "index": 0,
+      "definition": "active at night"
+    },
+    {
+      "word": "perennial",
+      "index": 0,
+      "definition": "lasting or returning for many years"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

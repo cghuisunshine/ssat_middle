@@ -1,0 +1,57 @@
+{
+  "id": "article-660ccb937812518a",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. The teacher calmed the unruly class before beginning the lesson. A vast desert stretched beyond the mountains. Local farmers vend fresh fruit at the weekend market. The market was a vibrant place filled with music and color.",
+    "Other records complicated that first impression and encouraged a closer reading. The final goal secured victory for the home team. Patience is a virtue that helps during difficult work. The critic launched a virulent attack on the author's character. The deer remained wary of the unfamiliar sound.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "unruly",
+      "index": 0,
+      "definition": "difficult to control or discipline"
+    },
+    {
+      "word": "vast",
+      "index": 0,
+      "definition": "extremely large in size or extent"
+    },
+    {
+      "word": "vend",
+      "index": 0,
+      "definition": "to offer goods for sale"
+    },
+    {
+      "word": "vibrant",
+      "index": 0,
+      "definition": "full of energy, life, or strong color"
+    },
+    {
+      "word": "victory",
+      "index": 0,
+      "definition": "success in a contest or struggle"
+    },
+    {
+      "word": "virtue",
+      "index": 0,
+      "definition": "a morally good quality or habit"
+    },
+    {
+      "word": "virulent",
+      "index": 0,
+      "definition": "extremely harmful or violently hostile"
+    },
+    {
+      "word": "wary",
+      "index": 0,
+      "definition": "careful because of possible danger or trouble"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

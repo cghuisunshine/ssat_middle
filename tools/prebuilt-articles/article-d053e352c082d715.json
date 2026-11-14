@@ -1,0 +1,57 @@
+{
+  "id": "article-d053e352c082d715",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The passengers will debark when the vessel reaches the pier. Whether the change improved the design remains debatable. The long illness left him with considerable debility. The leaders will debrief the team after the exercise.",
+    "Other records complicated that first impression and encouraged a closer reading. She made a plan to repay the debt gradually. The experiment helped debunk the popular myth. The historian described the court's decadent feasts. The trick depended on deceit rather than skill.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "debark",
+      "index": 0,
+      "definition": "to leave a ship or aircraft"
+    },
+    {
+      "word": "debatable",
+      "index": 0,
+      "definition": "open to reasonable disagreement"
+    },
+    {
+      "word": "debility",
+      "index": 0,
+      "definition": "physical weakness or lack of strength"
+    },
+    {
+      "word": "debrief",
+      "index": 0,
+      "definition": "to question or discuss an experience after an event"
+    },
+    {
+      "word": "debt",
+      "index": 0,
+      "definition": "money or an obligation owed to someone"
+    },
+    {
+      "word": "debunk",
+      "index": 0,
+      "definition": "to show that a claim or belief is false"
+    },
+    {
+      "word": "decadent",
+      "index": 0,
+      "definition": "marked by excessive luxury or declining moral standards"
+    },
+    {
+      "word": "deceit",
+      "index": 0,
+      "definition": "deliberately misleading someone"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

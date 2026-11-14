@@ -1,0 +1,57 @@
+{
+  "id": "article-ea392d5fee194d55",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "Several records provided a starting point for the discussion. The map showed the contour of the steep hillside. Cooling caused a slight contraction of the metal. The committee will convene on Monday morning. The story's convoluted plot confused many readers.",
+    "Other records complicated that first impression and encouraged a closer reading. The novel described a corpulent merchant in an oversized coat. Their correspondence continued for several years. The investigators searched for corroborative evidence. The cosmopolitan city offered food from around the world.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "contour",
+      "index": 0,
+      "definition": "the outline or shape of a surface"
+    },
+    {
+      "word": "contraction",
+      "index": 0,
+      "definition": "a shortening or reduction in size"
+    },
+    {
+      "word": "convene",
+      "index": 0,
+      "definition": "to gather people for a meeting"
+    },
+    {
+      "word": "convoluted",
+      "index": 0,
+      "definition": "extremely complicated and difficult to follow"
+    },
+    {
+      "word": "corpulent",
+      "index": 0,
+      "definition": "having a large, heavy body"
+    },
+    {
+      "word": "correspondence",
+      "index": 0,
+      "definition": "communication through letters or written messages"
+    },
+    {
+      "word": "corroborative",
+      "index": 0,
+      "definition": "providing additional support for an account or claim"
+    },
+    {
+      "word": "cosmopolitan",
+      "index": 0,
+      "definition": "familiar with and influenced by many cultures"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

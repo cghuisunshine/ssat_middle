@@ -1,0 +1,57 @@
+{
+  "id": "article-d455186c3ed897eb",
+  "tier": "Core",
+  "topic": "Decisions & purposeful actions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The first section of the collection placed these observations side by side. The museum will exhibit the newly discovered fossils next spring. The dishonest employer tried to exploit workers by withholding their wages. Cooperative games can foster trust among new teammates. The soldiers hoped to liberate the prisoners from the fortress.",
+    "A later section added further scenes for comparison. Please omit the repeated paragraph from the final version. Heavy snow forced us to postpone the trip until next week. The club hopes to recruit five new members this month. The editor may reject a report that contains unsupported claims.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "exhibit",
+      "index": 0,
+      "definition": "to show for others to see"
+    },
+    {
+      "word": "exploit",
+      "index": 0,
+      "definition": "to use someone unfairly for one's own benefit"
+    },
+    {
+      "word": "foster",
+      "index": 0,
+      "definition": "to encourage the growth of"
+    },
+    {
+      "word": "liberate",
+      "index": 0,
+      "definition": "to set free from control or confinement"
+    },
+    {
+      "word": "omit",
+      "index": 0,
+      "definition": "to leave something out"
+    },
+    {
+      "word": "postpone",
+      "index": 0,
+      "definition": "to put off until a later time"
+    },
+    {
+      "word": "recruit",
+      "index": 0,
+      "definition": "to find and enlist new members"
+    },
+    {
+      "word": "reject",
+      "index": 0,
+      "definition": "to refuse to accept"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

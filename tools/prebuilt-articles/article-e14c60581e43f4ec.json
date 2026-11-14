@@ -1,0 +1,57 @@
+{
+  "id": "article-e14c60581e43f4ec",
+  "tier": "Foundation",
+  "topic": "Actions & movement",
+  "title": "The Library Display",
+  "paragraphs": [
+    "A student reading club was preparing a display for the town library. Its members collected accounts from notebooks, interviews, and short stories. They wanted visitors to notice how a small detail could change the way an event was understood.",
+    "The opening pages introduced several situations worth examining carefully. Warm air can expand and fill more space than cold air. The ducklings will follow their mother down to the pond. Reach for the railing and grasp it firmly. We must hasten if we want to catch the last bus.",
+    "The remaining pages widened the discussion with additional observations. The young bird learned to imitate its parent's song. Let us pause for a moment before continuing the discussion. The lifeguard swam out to rescue the struggling child. A sudden noise made the pigeons scatter in every direction.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "expand",
+      "index": 0,
+      "definition": "to become larger"
+    },
+    {
+      "word": "follow",
+      "index": 0,
+      "definition": "to come or go after"
+    },
+    {
+      "word": "grasp",
+      "index": 0,
+      "definition": "to take hold of firmly"
+    },
+    {
+      "word": "hasten",
+      "index": 0,
+      "definition": "to move or act quickly"
+    },
+    {
+      "word": "imitate",
+      "index": 0,
+      "definition": "to copy another's behavior"
+    },
+    {
+      "word": "pause",
+      "index": 0,
+      "definition": "to stop briefly"
+    },
+    {
+      "word": "rescue",
+      "index": 0,
+      "definition": "to save from danger"
+    },
+    {
+      "word": "scatter",
+      "index": 0,
+      "definition": "to spread in different directions"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

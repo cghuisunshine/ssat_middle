@@ -1,0 +1,57 @@
+{
+  "id": "article-149d9490ef709209",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "Several records provided a starting point for the discussion. The villainous ruler imprisoned anyone who questioned him. The champion proved vincible when a newcomer won the final match. She restored a vintage bicycle from the 1950s. A worried expression darkened the king's visage.",
+    "Other records complicated that first impression and encouraged a closer reading. The lively music filled the dancers with vitality. She joined the expedition of her own volition. The host's volubility left little time for guests to speak. The voluble traveler entertained us with stories throughout the journey.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "villainous",
+      "index": 0,
+      "definition": "wicked or deliberately harmful"
+    },
+    {
+      "word": "vincible",
+      "index": 0,
+      "definition": "capable of being defeated"
+    },
+    {
+      "word": "vintage",
+      "index": 0,
+      "definition": "belonging to an earlier period and valued for its style or quality"
+    },
+    {
+      "word": "visage",
+      "index": 0,
+      "definition": "a person's face or facial expression"
+    },
+    {
+      "word": "vitality",
+      "index": 0,
+      "definition": "energy and liveliness"
+    },
+    {
+      "word": "volition",
+      "index": 0,
+      "definition": "the power or act of making one's own choice"
+    },
+    {
+      "word": "volubility",
+      "index": 0,
+      "definition": "the quality of speaking easily and at great length"
+    },
+    {
+      "word": "voluble",
+      "index": 0,
+      "definition": "speaking readily and at great length"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

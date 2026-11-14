@@ -1,0 +1,57 @@
+{
+  "id": "article-1e58243dfc3666cd",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The opening pages introduced several situations worth examining carefully. Each parishioner was invited to the community meal. The ancient tragedy centers on the crime of parricide. The parsimonious owner refused even necessary repairs. A wooden partition separated the two work areas.",
+    "The remaining pages widened the discussion with additional observations. The laboratory tested the water for a pathogen. The historian described the daily life of the peasantry. The merchant would peddle small tools in nearby villages. Her pedometer recorded the distance of the afternoon walk.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "parishioner",
+      "index": 0,
+      "definition": "a member of a local church community"
+    },
+    {
+      "word": "parricide",
+      "index": 0,
+      "definition": "the killing of a parent or close relative"
+    },
+    {
+      "word": "parsimonious",
+      "index": 0,
+      "definition": "extremely unwilling to spend money or resources"
+    },
+    {
+      "word": "partition",
+      "index": 0,
+      "definition": "a division or a barrier separating spaces"
+    },
+    {
+      "word": "pathogen",
+      "index": 0,
+      "definition": "an organism or agent capable of causing disease"
+    },
+    {
+      "word": "peasantry",
+      "index": 0,
+      "definition": "the class of rural agricultural workers in a historical society"
+    },
+    {
+      "word": "peddle",
+      "index": 0,
+      "definition": "to sell goods, often by traveling from place to place"
+    },
+    {
+      "word": "pedometer",
+      "index": 0,
+      "definition": "a device that counts steps taken while walking"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

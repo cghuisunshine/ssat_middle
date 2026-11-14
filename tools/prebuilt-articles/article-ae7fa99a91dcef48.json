@@ -1,0 +1,57 @@
+{
+  "id": "article-ae7fa99a91dcef48",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The group began by reading the following accounts without adding explanations of its own. The arriving supply ship seemed like salvation to the stranded crew. The historical account described a quiet mountain sanatorium. The ceremony was intended to sanctify the new place of worship. The substantial meal was enough to satiate the hungry hikers.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The ceremonial sword rested in a decorated scabbard. Workers climbed the scaffolding beside the building. The playful tale followed a cheerful scalawag through the market. The scandalmonger repeated every unverified rumor.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "salvation",
+      "index": 0,
+      "definition": "rescue from danger, loss, or ruin"
+    },
+    {
+      "word": "sanatorium",
+      "index": 0,
+      "definition": "a facility for prolonged care and recovery from illness"
+    },
+    {
+      "word": "sanctify",
+      "index": 0,
+      "definition": "to make or regard something as sacred"
+    },
+    {
+      "word": "satiate",
+      "index": 0,
+      "definition": "to satisfy a desire or appetite fully"
+    },
+    {
+      "word": "scabbard",
+      "index": 0,
+      "definition": "a sheath used to hold a sword or other blade"
+    },
+    {
+      "word": "scaffolding",
+      "index": 0,
+      "definition": "a temporary framework used during construction"
+    },
+    {
+      "word": "scalawag",
+      "index": 0,
+      "definition": "a mischievous or dishonest person"
+    },
+    {
+      "word": "scandalmonger",
+      "index": 0,
+      "definition": "a person who spreads damaging gossip"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

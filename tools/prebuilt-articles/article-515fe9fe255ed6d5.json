@@ -1,0 +1,57 @@
+{
+  "id": "article-515fe9fe255ed6d5",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The first section of the collection placed these observations side by side. The diagram showed a linear arrangement of the stations. The guide explained the sailors' unfamiliar lingo. Each litigant presented evidence to support the claim. His loquacity made a quiet journey impossible.",
+    "A later section added further scenes for comparison. The ludicrous excuse convinced no one. A lugubrious melody filled the empty hall. The fencer prepared to lunge toward the target. The creature's lupine features included pointed ears.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "linear",
+      "index": 0,
+      "definition": "arranged in a line or following a straight sequence"
+    },
+    {
+      "word": "lingo",
+      "index": 0,
+      "definition": "the special language used by a particular group"
+    },
+    {
+      "word": "litigant",
+      "index": 0,
+      "definition": "a person involved in a lawsuit"
+    },
+    {
+      "word": "loquacity",
+      "index": 0,
+      "definition": "the tendency to talk a great deal"
+    },
+    {
+      "word": "ludicrous",
+      "index": 0,
+      "definition": "so absurd as to be laughable"
+    },
+    {
+      "word": "lugubrious",
+      "index": 0,
+      "definition": "excessively gloomy or mournful"
+    },
+    {
+      "word": "lunge",
+      "index": 0,
+      "definition": "to make a sudden forward movement"
+    },
+    {
+      "word": "lupine",
+      "index": 0,
+      "definition": "related to or resembling a wolf"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

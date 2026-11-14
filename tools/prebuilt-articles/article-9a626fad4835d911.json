@@ -1,0 +1,57 @@
+{
+  "id": "article-9a626fad4835d911",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. The guest's boorish interruptions spoiled the conversation. The pirates divided their booty after reaching the island. The botanist identified several rare flowers beside the stream. A bothersome rattle came from the loose window frame.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The single entrance became a bottleneck as the crowd arrived. The residents decided to boycott the company over its unfair practices. The braggart claimed to have won every game he had ever played. A bramble caught the sleeve of the hiker's jacket.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "boorish",
+      "index": 0,
+      "definition": "rude and lacking consideration for others"
+    },
+    {
+      "word": "booty",
+      "index": 0,
+      "definition": "valuable goods taken by force or theft"
+    },
+    {
+      "word": "botanist",
+      "index": 0,
+      "definition": "a scientist who studies plants"
+    },
+    {
+      "word": "bothersome",
+      "index": 0,
+      "definition": "causing annoyance or inconvenience"
+    },
+    {
+      "word": "bottleneck",
+      "index": 0,
+      "definition": "a narrow point or obstacle that slows progress"
+    },
+    {
+      "word": "boycott",
+      "index": 0,
+      "definition": "to refuse to buy or use something as a protest"
+    },
+    {
+      "word": "braggart",
+      "index": 0,
+      "definition": "a person who talks too proudly about personal achievements"
+    },
+    {
+      "word": "bramble",
+      "index": 0,
+      "definition": "a rough, prickly bush such as a blackberry plant"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

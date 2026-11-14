@@ -1,0 +1,57 @@
+{
+  "id": "article-8e2c75c51e227741",
+  "tier": "Stretch",
+  "topic": "Literary & academic distinctions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. The author's reference to Achilles is an allusion to a Greek legend. The teacher used an analogy between an electrical circuit and flowing water. The antagonist opposes the hero and creates the story's central conflict. In her autobiography, the astronaut describes her own childhood and career.",
+    "The remaining pages widened the discussion with additional observations. The chronicle records the town's important events in the order they happened. The surrounding context helps us understand which meaning of the word is intended. The epilogue explains what happened to the characters after the main story ended. The early mention of a cracked rope provides foreshadowing of the later accident.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "allusion",
+      "index": 0,
+      "definition": "an indirect reference to something"
+    },
+    {
+      "word": "analogy",
+      "index": 0,
+      "definition": "a comparison that explains a relationship"
+    },
+    {
+      "word": "antagonist",
+      "index": 0,
+      "definition": "a character or person opposing the main character"
+    },
+    {
+      "word": "autobiography",
+      "index": 0,
+      "definition": "a person's account of their own life"
+    },
+    {
+      "word": "chronicle",
+      "index": 0,
+      "definition": "a detailed record in time order"
+    },
+    {
+      "word": "context",
+      "index": 0,
+      "definition": "surrounding information that clarifies meaning"
+    },
+    {
+      "word": "epilogue",
+      "index": 0,
+      "definition": "a final section after a story's main action"
+    },
+    {
+      "word": "foreshadowing",
+      "index": 0,
+      "definition": "hints about what will happen later in a story"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

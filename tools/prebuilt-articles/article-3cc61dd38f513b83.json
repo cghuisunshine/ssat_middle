@@ -1,0 +1,57 @@
+{
+  "id": "article-3cc61dd38f513b83",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "The opening pages introduced several situations worth examining carefully. The serious violation led to revocation of the permit. The description of the cruelty caused widespread revulsion. Rumors were rife after the unexplained closure. The editor removed a risqué joke from the family program.",
+    "The remaining pages widened the discussion with additional observations. The council was riven by conflicting proposals. The coach posted the team roster beside the gym. The loud bell helped rouse the sleeping campers. The royalist argued in favor of preserving the throne.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "revocation",
+      "index": 0,
+      "definition": "the official cancellation of a right or decision"
+    },
+    {
+      "word": "revulsion",
+      "index": 0,
+      "definition": "a strong feeling of disgust"
+    },
+    {
+      "word": "rife",
+      "index": 0,
+      "definition": "widespread or common, usually of something undesirable"
+    },
+    {
+      "word": "risqué",
+      "index": 0,
+      "definition": "suggestive in a way that may be considered slightly improper"
+    },
+    {
+      "word": "riven",
+      "index": 0,
+      "definition": "torn or deeply divided"
+    },
+    {
+      "word": "roster",
+      "index": 0,
+      "definition": "a list of people and their duties or membership"
+    },
+    {
+      "word": "rouse",
+      "index": 0,
+      "definition": "to awaken or stir someone into activity"
+    },
+    {
+      "word": "royalist",
+      "index": 0,
+      "definition": "a supporter of a monarch or monarchy"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

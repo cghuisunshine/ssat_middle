@@ -1,0 +1,57 @@
+{
+  "id": "article-5bcdeb3c58e8cd28",
+  "tier": "Foundation",
+  "topic": "Character & behavior",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. After several lessons, she was able to swim across the pool. The bold explorer entered the cave despite the warning signs. The brave firefighter climbed into the smoke to rescue the child. Her calm voice helped the frightened children feel safe.",
+    "The remaining pages widened the discussion with additional observations. Please give me a candid opinion, even if it is unflattering. A careful driver checks both directions before crossing the intersection. His cheerful greeting brightened an otherwise gloomy morning. The clever student found a shorter way to solve the puzzle.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "able",
+      "index": 0,
+      "definition": "having the skill needed to do something"
+    },
+    {
+      "word": "bold",
+      "index": 0,
+      "definition": "willing to take risks or face danger"
+    },
+    {
+      "word": "brave",
+      "index": 0,
+      "definition": "ready to face fear or danger"
+    },
+    {
+      "word": "calm",
+      "index": 0,
+      "definition": "free from excitement or worry"
+    },
+    {
+      "word": "candid",
+      "index": 0,
+      "definition": "honest and direct in speech"
+    },
+    {
+      "word": "careful",
+      "index": 0,
+      "definition": "taking steps to avoid mistakes or harm"
+    },
+    {
+      "word": "cheerful",
+      "index": 0,
+      "definition": "showing happiness and good spirits"
+    },
+    {
+      "word": "clever",
+      "index": 0,
+      "definition": "quick to learn or solve problems"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

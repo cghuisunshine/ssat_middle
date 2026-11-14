@@ -1,0 +1,57 @@
+{
+  "id": "article-227d6578ff279101",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The opening pages introduced several situations worth examining carefully. His loud bravado faded when the difficult task began. The brevity of the announcement left several questions unanswered. The investigation uncovered bribery in the awarding of contracts. The brigade crossed the river at dawn.",
+    "The remaining pages widened the discussion with additional observations. The brindled dog had brown and black markings. A single bristle had come loose from the cleaning brush. The brittle branch snapped under the heavy snow. She waited for a quiet moment to broach the difficult subject.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "bravado",
+      "index": 0,
+      "definition": "a show of boldness intended to impress others"
+    },
+    {
+      "word": "brevity",
+      "index": 0,
+      "definition": "shortness in time or expression"
+    },
+    {
+      "word": "bribery",
+      "index": 0,
+      "definition": "offering something valuable to influence a person dishonestly"
+    },
+    {
+      "word": "brigade",
+      "index": 0,
+      "definition": "a large organized group, especially a military unit"
+    },
+    {
+      "word": "brindled",
+      "index": 0,
+      "definition": "marked with streaks or patches of different colors"
+    },
+    {
+      "word": "bristle",
+      "index": 0,
+      "definition": "a short, stiff hair or fiber"
+    },
+    {
+      "word": "brittle",
+      "index": 0,
+      "definition": "hard but easily broken or cracked"
+    },
+    {
+      "word": "broach",
+      "index": 0,
+      "definition": "to introduce a topic for discussion"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

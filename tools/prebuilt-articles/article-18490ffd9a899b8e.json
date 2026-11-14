@@ -1,0 +1,57 @@
+{
+  "id": "article-18490ffd9a899b8e",
+  "tier": "Stretch",
+  "topic": "Subtle descriptions",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "Several records provided a starting point for the discussion. Her plausible explanation fitted the known facts, although it was not proven. The second sentence was redundant because it repeated the first without adding information. The skeptical reader wanted evidence before accepting the surprising claim. The subtle difference between the paintings was difficult to notice.",
+    "Other records complicated that first impression and encouraged a closer reading. The final paragraph was superfluous because all its information had already been given. The builders showed tangible progress by completing the first wall. The connection between the two events was tenuous and supported by little evidence. We could see the fish clearly through the transparent glass.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "plausible",
+      "index": 0,
+      "definition": "seeming reasonable or likely to be true"
+    },
+    {
+      "word": "redundant",
+      "index": 0,
+      "definition": "unnecessary because something is repeated"
+    },
+    {
+      "word": "skeptical",
+      "index": 0,
+      "definition": "not easily convinced without evidence"
+    },
+    {
+      "word": "subtle",
+      "index": 0,
+      "definition": "delicate and not immediately obvious"
+    },
+    {
+      "word": "superfluous",
+      "index": 0,
+      "definition": "more than is needed"
+    },
+    {
+      "word": "tangible",
+      "index": 0,
+      "definition": "able to be touched or physically measured"
+    },
+    {
+      "word": "tenuous",
+      "index": 0,
+      "definition": "weak and poorly supported"
+    },
+    {
+      "word": "transparent",
+      "index": 0,
+      "definition": "allowing light to pass so objects can be seen clearly"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

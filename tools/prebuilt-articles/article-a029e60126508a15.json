@@ -1,0 +1,57 @@
+{
+  "id": "article-a029e60126508a15",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "Pages from the School Magazine",
+  "paragraphs": [
+    "The school magazine had room for one more feature. Instead of choosing a single dramatic adventure, its editors gathered several brief accounts around a shared theme. They hoped readers would compare the situations and think about the reasons behind each action.",
+    "The group began by reading the following accounts without adding explanations of its own. The eulogy recalled his years of service to the town. The victory produced a wave of euphoria among the fans. Officials asked residents to evacuate before the river flooded. Each evacuee received food and a place to sleep.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The witness gave an evasive reply to the question. The simple design continued to evolve through repeated improvements. The team will excavate the buried foundation carefully. The lawyer presented exculpatory evidence from a new witness.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "eulogy",
+      "index": 0,
+      "definition": "a speech or piece of writing praising someone, often after death"
+    },
+    {
+      "word": "euphoria",
+      "index": 0,
+      "definition": "an intense feeling of happiness and well-being"
+    },
+    {
+      "word": "evacuate",
+      "index": 0,
+      "definition": "to move people away from a dangerous place"
+    },
+    {
+      "word": "evacuee",
+      "index": 0,
+      "definition": "a person moved away from danger"
+    },
+    {
+      "word": "evasive",
+      "index": 0,
+      "definition": "avoiding a clear answer or direct action"
+    },
+    {
+      "word": "evolve",
+      "index": 0,
+      "definition": "to develop gradually over time"
+    },
+    {
+      "word": "excavate",
+      "index": 0,
+      "definition": "to dig out material or uncover something by digging"
+    },
+    {
+      "word": "exculpatory",
+      "index": 0,
+      "definition": "helping to show that someone is not guilty"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

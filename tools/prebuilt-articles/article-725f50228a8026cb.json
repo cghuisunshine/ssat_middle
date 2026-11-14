@@ -1,0 +1,57 @@
+{
+  "id": "article-725f50228a8026cb",
+  "tier": "Core",
+  "topic": "Conflict & cooperation",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. Residents who oppose the plan will explain their objections at the meeting. Insulting remarks can provoke an angry response. The friends met to reconcile after their bitter argument. The outer coating helps repel water and keep the fabric dry.",
+    "Other records complicated that first impression and encouraged a closer reading. A sturdy fence will restrain the cattle within the pasture. The defeated ruler agreed to submit to the conqueror's authority. Surrounded and out of supplies, the soldiers chose to surrender. These plants can tolerate cold weather without being damaged.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "oppose",
+      "index": 0,
+      "definition": "to act against or disagree with"
+    },
+    {
+      "word": "provoke",
+      "index": 0,
+      "definition": "to cause a strong reaction especially anger"
+    },
+    {
+      "word": "reconcile",
+      "index": 0,
+      "definition": "to restore friendly relations"
+    },
+    {
+      "word": "repel",
+      "index": 0,
+      "definition": "to drive or push back"
+    },
+    {
+      "word": "restrain",
+      "index": 0,
+      "definition": "to hold back or keep under control"
+    },
+    {
+      "word": "submit",
+      "index": 0,
+      "definition": "to accept another's authority"
+    },
+    {
+      "word": "surrender",
+      "index": 0,
+      "definition": "to stop resisting and give up"
+    },
+    {
+      "word": "tolerate",
+      "index": 0,
+      "definition": "to allow or endure something unpleasant"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

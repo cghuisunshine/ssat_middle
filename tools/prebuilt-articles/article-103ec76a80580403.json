@@ -1,0 +1,57 @@
+{
+  "id": "article-103ec76a80580403",
+  "tier": "Core",
+  "topic": "Power, resources & achievement",
+  "title": "The Museum Notebook",
+  "paragraphs": [
+    "A museum volunteer invited a group of students to help prepare a notebook for visitors. The notebook would place brief observations beside the exhibits. Its purpose was to encourage careful attention: a reader should examine what happened before deciding what a scene might suggest.",
+    "Several records provided a starting point for the discussion. Working together, we can accomplish the task before sunset. The museum hopes to acquire the painting for its permanent collection. The council will allocate more money to repairing the roads. With regular practice, she hopes to attain a higher level of skill.",
+    "Other records complicated that first impression and encouraged a closer reading. Turning off unused lights helps conserve electricity. Large vehicles often consume more fuel than smaller ones. Each class will contribute supplies to the community food drive. The blackout could deprive the village of electricity for several days.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "accomplish",
+      "index": 0,
+      "definition": "to complete successfully"
+    },
+    {
+      "word": "acquire",
+      "index": 0,
+      "definition": "to gain possession of"
+    },
+    {
+      "word": "allocate",
+      "index": 0,
+      "definition": "to set aside resources for a purpose"
+    },
+    {
+      "word": "attain",
+      "index": 0,
+      "definition": "to succeed in reaching a goal"
+    },
+    {
+      "word": "conserve",
+      "index": 0,
+      "definition": "to protect resources from waste or loss"
+    },
+    {
+      "word": "consume",
+      "index": 0,
+      "definition": "to use up a resource"
+    },
+    {
+      "word": "contribute",
+      "index": 0,
+      "definition": "to give toward a shared goal"
+    },
+    {
+      "word": "deprive",
+      "index": 0,
+      "definition": "to take something necessary away from"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

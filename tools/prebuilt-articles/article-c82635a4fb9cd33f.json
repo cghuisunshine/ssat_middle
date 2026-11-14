@@ -1,0 +1,57 @@
+{
+  "id": "article-c82635a4fb9cd33f",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The group began by reading the following accounts without adding explanations of its own. The campers had scant supplies left by morning. The team will scour the hillside for the missing equipment. He refused to shirk his share of the difficult work. She offered a sincere apology for the mistake.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The empty house had a sinister atmosphere. A solitary tree stood on the open plain. The news gave the gathering a somber mood. The quiet music helped soothe the anxious child.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "scant",
+      "index": 0,
+      "definition": "barely enough in amount"
+    },
+    {
+      "word": "scour",
+      "index": 0,
+      "definition": "to search a place thoroughly"
+    },
+    {
+      "word": "shirk",
+      "index": 0,
+      "definition": "to avoid a duty or responsibility"
+    },
+    {
+      "word": "sincere",
+      "index": 0,
+      "definition": "honest and genuine in feelings or intentions"
+    },
+    {
+      "word": "sinister",
+      "index": 0,
+      "definition": "suggesting evil or approaching harm"
+    },
+    {
+      "word": "solitary",
+      "index": 0,
+      "definition": "alone or existing without others nearby"
+    },
+    {
+      "word": "somber",
+      "index": 0,
+      "definition": "dark, serious, or gloomy in mood"
+    },
+    {
+      "word": "soothe",
+      "index": 0,
+      "definition": "to calm or relieve discomfort"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

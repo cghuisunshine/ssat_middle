@@ -1,0 +1,57 @@
+{
+  "id": "article-0f79e54e8a1883b7",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The opening pages introduced several situations worth examining carefully. The search produced a plethora of possible answers. The basket was woven from pliant branches. The bird's bright plumage attracted many observers. The health lesson explained how pneumonia affects the lungs.",
+    "The remaining pages widened the discussion with additional observations. She answered the difficult question with poise. The experiment demonstrated the polarity of the magnet. A politic reply avoided unnecessary offense. His pompous introduction lasted longer than the speech.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "plethora",
+      "index": 0,
+      "definition": "an excessive or very large amount"
+    },
+    {
+      "word": "pliant",
+      "index": 0,
+      "definition": "easily bent or influenced"
+    },
+    {
+      "word": "plumage",
+      "index": 0,
+      "definition": "the feathers covering a bird"
+    },
+    {
+      "word": "pneumonia",
+      "index": 0,
+      "definition": "an illness involving inflammation of the lungs"
+    },
+    {
+      "word": "poise",
+      "index": 0,
+      "definition": "calm confidence and balanced control"
+    },
+    {
+      "word": "polarity",
+      "index": 0,
+      "definition": "the condition of having two opposed poles or extremes"
+    },
+    {
+      "word": "politic",
+      "index": 0,
+      "definition": "showing practical judgment and tact"
+    },
+    {
+      "word": "pompous",
+      "index": 0,
+      "definition": "showing an exaggerated sense of importance"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

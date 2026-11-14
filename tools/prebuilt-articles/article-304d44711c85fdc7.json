@@ -1,0 +1,57 @@
+{
+  "id": "article-304d44711c85fdc7",
+  "tier": "Core",
+  "topic": "Quality & judgment",
+  "title": "The Reading Circle",
+  "paragraphs": [
+    "At the weekly reading circle, each member brought a passage that had caught their attention. The group did not need to agree immediately about its importance. Instead, they listened to the details, compared the situations, and asked what additional information would make an interpretation stronger.",
+    "The group began by reading the following accounts without adding explanations of its own. The efficient engine uses less fuel to do the same work. An accurate map is essential for crossing the unfamiliar mountains safely. Her exceptional performance earned the highest praise from every judge. The plan is feasible because we have enough money, time, and workers.",
+    "It then considered a second group of accounts, looking for both similarities and differences. The flawless glass had no scratches, cracks, or bubbles. The inferior fabric tore much sooner than the stronger material. Her logical explanation connected every conclusion to clear supporting evidence. The report highlighted several notable achievements that deserved special attention.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "efficient",
+      "index": 0,
+      "definition": "working well without wasting resources"
+    },
+    {
+      "word": "essential",
+      "index": 0,
+      "definition": "absolutely necessary"
+    },
+    {
+      "word": "exceptional",
+      "index": 0,
+      "definition": "unusually good"
+    },
+    {
+      "word": "feasible",
+      "index": 0,
+      "definition": "possible and practical to carry out"
+    },
+    {
+      "word": "flawless",
+      "index": 0,
+      "definition": "without any mistakes or defects"
+    },
+    {
+      "word": "inferior",
+      "index": 0,
+      "definition": "lower in quality or rank"
+    },
+    {
+      "word": "logical",
+      "index": 0,
+      "definition": "following sound reasoning"
+    },
+    {
+      "word": "notable",
+      "index": 0,
+      "definition": "worthy of attention"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

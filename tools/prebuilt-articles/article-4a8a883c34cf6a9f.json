@@ -1,0 +1,57 @@
+{
+  "id": "article-4a8a883c34cf6a9f",
+  "tier": "Core",
+  "topic": "Quality & judgment",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "The opening pages introduced several situations worth examining carefully. The accurate clock showed the correct time every day. The shelter was small but adequate for our basic needs. The broken lock made the reason for the open door apparent. The expert confirmed that the painting was authentic rather than a copy.",
+    "The remaining pages widened the discussion with additional observations. Regular exercise can have a beneficial effect on general fitness. The complex machine contained hundreds of interconnected parts. The missing measurement was crucial to solving the problem correctly. The defective light failed to work even with a new battery.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "accurate",
+      "index": 0,
+      "definition": "correct and free from mistakes"
+    },
+    {
+      "word": "adequate",
+      "index": 0,
+      "definition": "good enough for a particular purpose"
+    },
+    {
+      "word": "apparent",
+      "index": 0,
+      "definition": "easy to see or understand"
+    },
+    {
+      "word": "authentic",
+      "index": 0,
+      "definition": "real and not a copy or fake"
+    },
+    {
+      "word": "beneficial",
+      "index": 0,
+      "definition": "producing a helpful or positive effect"
+    },
+    {
+      "word": "complex",
+      "index": 0,
+      "definition": "made of many connected parts"
+    },
+    {
+      "word": "crucial",
+      "index": 0,
+      "definition": "extremely important to the outcome"
+    },
+    {
+      "word": "defective",
+      "index": 0,
+      "definition": "having a fault that prevents proper use"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

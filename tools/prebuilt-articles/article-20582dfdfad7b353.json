@@ -1,0 +1,57 @@
+{
+  "id": "article-20582dfdfad7b353",
+  "tier": "Stretch",
+  "topic": "Precise character words",
+  "title": "A Journal of Discoveries",
+  "paragraphs": [
+    "A reading group was assembling a journal of discoveries from its recent work. The discoveries were not all inventions or journeys to distant places. Sometimes they involved noticing a choice, recognizing a pattern, or understanding why a seemingly minor event deserved closer attention.",
+    "Several records provided a starting point for the discussion. His cynical remark suggested that all politicians cared only about themselves. The assistant's deferential manner showed great respect for the senior scientist. The docile pony accepted the rider's instructions without resistance. The eccentric inventor wore mismatched shoes and kept unusual hours.",
+    "Other records complicated that first impression and encouraged a closer reading. The gregarious host enjoyed meeting people and organizing large gatherings. Her ingenious device used sunlight to heat water without electricity. The insolent reply showed open disrespect toward the visitor. The meticulous artist painted every tiny detail with care.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "cynical",
+      "index": 0,
+      "definition": "believing people are mainly selfish"
+    },
+    {
+      "word": "deferential",
+      "index": 0,
+      "definition": "showing respectful submission to another"
+    },
+    {
+      "word": "docile",
+      "index": 0,
+      "definition": "easily taught or controlled"
+    },
+    {
+      "word": "eccentric",
+      "index": 0,
+      "definition": "unconventional and slightly strange"
+    },
+    {
+      "word": "gregarious",
+      "index": 0,
+      "definition": "enjoying the company of others"
+    },
+    {
+      "word": "ingenious",
+      "index": 0,
+      "definition": "clever at inventing or solving problems"
+    },
+    {
+      "word": "insolent",
+      "index": 0,
+      "definition": "rudely disrespectful"
+    },
+    {
+      "word": "meticulous",
+      "index": 0,
+      "definition": "paying great attention to every detail"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

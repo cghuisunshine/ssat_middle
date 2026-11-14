@@ -1,0 +1,57 @@
+{
+  "id": "article-15133f16cbd876d2",
+  "tier": "Core",
+  "topic": "Society & people",
+  "title": "An Afternoon in the Archive",
+  "paragraphs": [
+    "During an afternoon at a community archive, a class examined records of ordinary experiences. Some came from personal journals, while others resembled reports or scenes from fiction. The students agreed that useful evidence could come from a quiet incident as well as a surprising one.",
+    "The opening pages introduced several situations worth examining carefully. Lighting the lanterns became a yearly ritual in the village. The ruler agreed to pardon the prisoner after reviewing the case. The principal will preside over the graduation ceremony. The new rules limit loud construction in residential streets.",
+    "The remaining pages widened the discussion with additional observations. The class began a campaign to reduce paper waste. The operator checked the controls before starting the machine. The hikers obtained a permit before camping in the reserve. Each inhabitant of the island depended on the ferry service.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "ritual",
+      "index": 0,
+      "definition": "an established set of actions performed for a ceremony or tradition"
+    },
+    {
+      "word": "pardon",
+      "index": 0,
+      "definition": "to officially forgive someone or release them from a punishment"
+    },
+    {
+      "word": "preside",
+      "index": 0,
+      "definition": "to lead or be in charge of a meeting or ceremony"
+    },
+    {
+      "word": "residential",
+      "index": 0,
+      "definition": "relating to places where people live"
+    },
+    {
+      "word": "campaign",
+      "index": 0,
+      "definition": "an organized series of actions intended to reach a goal"
+    },
+    {
+      "word": "operator",
+      "index": 0,
+      "definition": "a person who controls or runs a machine or system"
+    },
+    {
+      "word": "permit",
+      "index": 0,
+      "definition": "an official document giving permission to do something"
+    },
+    {
+      "word": "inhabitant",
+      "index": 0,
+      "definition": "a person or animal that lives in a particular place"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

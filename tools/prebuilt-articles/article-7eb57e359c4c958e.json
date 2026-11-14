@@ -1,0 +1,57 @@
+{
+  "id": "article-7eb57e359c4c958e",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Exhibition Guide",
+  "paragraphs": [
+    "The students preparing an exhibition guide wanted it to invite questions rather than simply announce answers. They gathered short accounts and arranged them for discussion. A visitor could begin with one scene, then return to it after considering the other examples in the collection.",
+    "Several records provided a starting point for the discussion. The child's cherubic smile delighted the visitors. She chose a chic jacket for the celebration. The teacher had to chide us for whispering during the performance. A scarf of pale chiffon floated in the breeze.",
+    "Other records complicated that first impression and encouraged a closer reading. She will choreograph the dance for the school show. The choreographer demonstrated the opening steps. A chronic shortage of supplies slowed the work. After weeks of practice, the short routine was a cinch.",
+    "By the end of the discussion, the students had learned why careful reading requires more than a quick judgment. A useful interpretation must fit the details of the situation. They chose a conclusion that acknowledged differences among the accounts, and they left readers with a question: which observation most strongly supports your view, and what might change your mind?"
+  ],
+  "targets": [
+    {
+      "word": "cherubic",
+      "index": 0,
+      "definition": "having an innocent, round-faced appearance"
+    },
+    {
+      "word": "chic",
+      "index": 0,
+      "definition": "fashionably elegant and stylish"
+    },
+    {
+      "word": "chide",
+      "index": 0,
+      "definition": "to scold someone mildly"
+    },
+    {
+      "word": "chiffon",
+      "index": 0,
+      "definition": "a very light, thin fabric"
+    },
+    {
+      "word": "choreograph",
+      "index": 0,
+      "definition": "to plan the movements of a dance or performance"
+    },
+    {
+      "word": "choreographer",
+      "index": 0,
+      "definition": "a person who designs dance movements"
+    },
+    {
+      "word": "chronic",
+      "index": 0,
+      "definition": "continuing for a long time or happening repeatedly"
+    },
+    {
+      "word": "cinch",
+      "index": 0,
+      "definition": "something extremely easy to do"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

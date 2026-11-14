@@ -1,0 +1,57 @@
+{
+  "id": "article-37a03109c3cc3130",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The first section of the collection placed these observations side by side. The journey involved a few incidental expenses. Her incisive question revealed the weakness in the argument. The climber described an incredible escape from the storm. The indolent character preferred sleeping to doing his chores.",
+    "A later section added further scenes for comparison. Water began to infiltrate the cracked wall. Their ingenuity turned discarded materials into useful tools. The audience left their seats during the intermission. The announcement may inundate the office with requests.",
+    "When the group returned to its original question, the discussion had become more precise. The members could point to particular actions and details instead of relying on a vague impression. They did not force every account to teach the same lesson. Their final display invited readers to compare the evidence, explain a connection, and consider where that connection ended."
+  ],
+  "targets": [
+    {
+      "word": "incidental",
+      "index": 0,
+      "definition": "occurring as a minor part or by chance"
+    },
+    {
+      "word": "incisive",
+      "index": 0,
+      "definition": "clear, sharp, and insightful"
+    },
+    {
+      "word": "incredible",
+      "index": 0,
+      "definition": "so extraordinary that it is difficult to believe"
+    },
+    {
+      "word": "indolent",
+      "index": 0,
+      "definition": "avoiding effort because of laziness"
+    },
+    {
+      "word": "infiltrate",
+      "index": 0,
+      "definition": "to enter gradually or secretly"
+    },
+    {
+      "word": "ingenuity",
+      "index": 0,
+      "definition": "cleverness in solving problems or inventing things"
+    },
+    {
+      "word": "intermission",
+      "index": 0,
+      "definition": "a pause between parts of a performance"
+    },
+    {
+      "word": "inundate",
+      "index": 0,
+      "definition": "to flood or overwhelm with a large amount"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

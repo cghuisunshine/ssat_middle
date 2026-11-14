@@ -1,0 +1,57 @@
+{
+  "id": "article-d02cb8c352f8d78d",
+  "tier": "Core",
+  "topic": "Manner, sound & sensation",
+  "title": "A Workshop on Observation",
+  "paragraphs": [
+    "The writing workshop began with an unusual assignment: compare several brief records before composing a conclusion. Each record offered a glimpse of a different situation. The participants had to respect those differences while discovering a theme that could give their discussion a clear direction.",
+    "The first section of the collection placed these observations side by side. The agile gymnast moved quickly and easily across the narrow beam. The group held a clandestine meeting to keep its plans secret. With a deft movement, the chef caught the falling bowl without spilling it. Her methodical search covered each room in a planned order.",
+    "A later section added further scenes for comparison. The team's fervent supporters cheered with passionate enthusiasm. The fluent speaker could converse smoothly without long pauses. The fragrant flowers filled the room with a pleasant scent. His hoarse voice sounded rough after hours of shouting.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "agile",
+      "index": 0,
+      "definition": "able to move quickly and easily"
+    },
+    {
+      "word": "clandestine",
+      "index": 0,
+      "definition": "done secretly to avoid being noticed"
+    },
+    {
+      "word": "deft",
+      "index": 0,
+      "definition": "quick and skillful in movement"
+    },
+    {
+      "word": "methodical",
+      "index": 0,
+      "definition": "working carefully in a planned order"
+    },
+    {
+      "word": "fervent",
+      "index": 0,
+      "definition": "showing strong and sincere feeling"
+    },
+    {
+      "word": "fluent",
+      "index": 0,
+      "definition": "able to speak or write smoothly"
+    },
+    {
+      "word": "fragrant",
+      "index": 0,
+      "definition": "having a pleasant smell"
+    },
+    {
+      "word": "hoarse",
+      "index": 0,
+      "definition": "having a rough harsh voice"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

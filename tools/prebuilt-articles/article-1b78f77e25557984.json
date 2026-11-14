@@ -1,0 +1,57 @@
+{
+  "id": "article-1b78f77e25557984",
+  "tier": "Stretch",
+  "topic": "Online Middle Level additions",
+  "title": "The Editors’ Table",
+  "paragraphs": [
+    "At a table covered with draft pages, a group of young editors discussed their next publication. Each person had brought a different account. Rather than rank the experiences from best to worst, they decided to explore the connections among them and preserve the details that mattered.",
+    "The opening pages introduced several situations worth examining carefully. The slipshod repair failed within a week. In the legend, the hero would smite the stone gate. The rabbit escaped from the hunter's snare. The break gave visitors a chance to socialize.",
+    "The remaining pages widened the discussion with additional observations. Her sojourn in the village inspired several paintings. She found solace in the quiet garden. The music matched the solemnity of the ceremony. The committee will solicit suggestions from residents.",
+    "The class finished by comparing its first impressions with its later interpretations. Some ideas had survived closer examination; others needed to be revised. The students kept the original details visible so that future readers could judge for themselves. They understood that a convincing explanation should connect the evidence clearly while leaving room for questions the records could not answer."
+  ],
+  "targets": [
+    {
+      "word": "slipshod",
+      "index": 0,
+      "definition": "careless and poorly done"
+    },
+    {
+      "word": "smite",
+      "index": 0,
+      "definition": "to strike forcefully"
+    },
+    {
+      "word": "snare",
+      "index": 0,
+      "definition": "a trap or something that catches and entangles"
+    },
+    {
+      "word": "socialize",
+      "index": 0,
+      "definition": "to spend time interacting with others"
+    },
+    {
+      "word": "sojourn",
+      "index": 0,
+      "definition": "a temporary stay in a place"
+    },
+    {
+      "word": "solace",
+      "index": 0,
+      "definition": "comfort during sadness or difficulty"
+    },
+    {
+      "word": "solemnity",
+      "index": 0,
+      "definition": "seriousness and formal dignity"
+    },
+    {
+      "word": "solicit",
+      "index": 0,
+      "definition": "to ask for something, often formally or repeatedly"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}

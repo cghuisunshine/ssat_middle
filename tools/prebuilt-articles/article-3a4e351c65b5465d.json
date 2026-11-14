@@ -1,0 +1,57 @@
+{
+  "id": "article-3a4e351c65b5465d",
+  "tier": "Core",
+  "topic": "Published Middle Level additions",
+  "title": "A Classroom Investigation",
+  "paragraphs": [
+    "A class was investigating how writers turn observations into evidence. The teacher supplied a folder of short accounts and asked the students to look beyond their first impressions. Each account described a particular situation, but the collection raised questions that could apply more widely.",
+    "The opening pages introduced several situations worth examining carefully. The editorial sought to castigate officials who ignored the warnings. The ships carried commodities such as grain and cotton. A competent guide led the group safely through the caves. The report offered a comprehensive review of the evidence.",
+    "The remaining pages widened the discussion with additional observations. The school does not condone cheating on assignments. The judges will confer before announcing the winner. Every entry must conform to the contest rules. The conniving character tricked both of his rivals.",
+    "The editors resisted the temptation to turn the collection into a single simple rule. Each account had its own circumstances, and those circumstances mattered. Their finished feature encouraged readers to describe what they noticed, support an interpretation with evidence, and compare it with another possible explanation. The value of the collection lay in that patient work of comparison."
+  ],
+  "targets": [
+    {
+      "word": "castigate",
+      "index": 0,
+      "definition": "to criticize or scold severely"
+    },
+    {
+      "word": "commodities",
+      "index": 0,
+      "definition": "goods or raw materials bought and sold"
+    },
+    {
+      "word": "competent",
+      "index": 0,
+      "definition": "having enough skill or ability to perform a task well"
+    },
+    {
+      "word": "comprehensive",
+      "index": 0,
+      "definition": "covering all or nearly all relevant parts"
+    },
+    {
+      "word": "condone",
+      "index": 0,
+      "definition": "to accept or overlook behavior considered wrong"
+    },
+    {
+      "word": "confer",
+      "index": 0,
+      "definition": "to discuss something with others before deciding"
+    },
+    {
+      "word": "conform",
+      "index": 0,
+      "definition": "to follow a rule, standard, or usual pattern"
+    },
+    {
+      "word": "conniving",
+      "index": 0,
+      "definition": "secretly planning to gain an unfair advantage"
+    }
+  ],
+  "createdAt": "",
+  "source": "local-context-composition",
+  "recipeVersion": 1
+}
