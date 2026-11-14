@@ -45,6 +45,7 @@ vm.runInContext(`
         const answer = mode==='spelling'?'wrong-spelling':q.options.find(x=>x!==q.correct);
         const panel = prebuiltExplanationPanel(q,answer);
         assert.ok(panel.includes('Why this answer fits') && panel.includes('Remember it'));
+        assert.ok(panel.includes('data-action="read-example"') && panel.includes('example-text'),word.id+' example reading control');
         assert.ok(!panel.includes('undefined'));
         assert.ok(panel.includes('lang="zh"'));
         variants++;

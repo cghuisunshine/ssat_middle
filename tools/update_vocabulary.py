@@ -156,6 +156,14 @@ for entry in reading_entries:
     senses.setdefault(word, []).append({'pos': entry['pos'], 'def': entry['definition'], 'zh': entry['zh'], 'syn': entry['synonym'], 'example': entry['example']})
     reading_notes[f'{word}#{index}'] = (entry['note'], entry['memory'])
 constant('SECONDARY_MEANINGS', senses)
+example_manifest = json.loads((ROOT / 'audio' / 'example-manifest.json').read_text())
+expected_examples = {word+'#0': text for word, text in examples.items() if word not in online_warnings}
+expected_examples.update({word+'#'+str(index): sense['example'] for word, items in senses.items() if word not in online_warnings for index, sense in enumerate(items, 1)})
+assert set(example_manifest['examples']) == set(expected_examples), 'Regenerate example audio after changing the vocabulary bank.'
+for identifier, recording in example_manifest['examples'].items():
+    assert recording['text'] == expected_examples[identifier] and (ROOT / recording['file']).is_file(), identifier
+constant('EXAMPLE_AUDIO', {**{k: example_manifest[k] for k in ['provider', 'voice', 'rate']},
+    'examples': {identifier: {k: value for k, value in recording.items() if k != 'sha256'} for identifier, recording in example_manifest['examples'].items()}})
 families = json.loads((TOOLS / 'word-families.json').read_text())
 assert all(len(f) >= 2 and set(f) <= seen for f in families)
 constant('WORD_FAMILIES', families)
@@ -299,7 +307,10 @@ else:
     html = re.sub(r'^function speak\([^\n]*$', lambda _: audio_block, html, count=1, flags=re.M)
 
 replace("+'</div><div class=\"card-foot\">'+(revealed?", "+(revealed?extraWordDetails(w):'')+'</div><div class=\"card-foot\">'+(revealed?")
-replace("+(EXAMPLES[id]?'<p class=\"example\">'+esc(EXAMPLES[id])+'</p>':'')+'<p class=\"small muted\">'", "+(EXAMPLES[id]?'<p class=\"example\">'+esc(EXAMPLES[id])+'</p>':'')+extraWordDetails(w)+'<p class=\"small muted\">'")
+html = html.replace("'<p class=\"example\">“'+esc(EXAMPLES[w.id])+'”</p>'", 'exampleMarkup(EXAMPLES[w.id])')
+html = html.replace("'<p class=\"example\">'+esc(EXAMPLES[id])+'</p>'", 'exampleMarkup(EXAMPLES[id])')
+html = html.replace("'<p class=\"example sense-cue\">'+esc(q.cue)+'</p>'", "exampleMarkup(q.cue,'sense-cue')")
+replace("+(EXAMPLES[id]?exampleMarkup(EXAMPLES[id]):'')+'<p class=\"small muted\">'", "+(EXAMPLES[id]?exampleMarkup(EXAMPLES[id]):'')+extraWordDetails(w)+'<p class=\"small muted\">'")
 replace("[w.word,w.def,w.zh,w.syn].some(s=>s.toLowerCase().includes(q))", "[w.word,w.def,w.zh,w.syn,...(SECONDARY_MEANINGS[w.id]||[]).flatMap(s=>[s.def,s.zh,s.syn]),...relatedWords(w).map(v=>v.word)].some(s=>s.toLowerCase().includes(q))")
 replace("esc(w.syn)+'</div></td><td>'+tierChip(w)", "esc(w.syn)+'</div>'+((SECONDARY_MEANINGS[w.id]||[]).length?'<div class=\"sub\">+ '+SECONDARY_MEANINGS[w.id].length+' additional meaning(s) · open word details</div>':'')+'</td><td>'+tierChip(w)")
 replace("'Start small, get instant feedback, and revisit what needs another look.')+filterBar()", "'Start small, get instant feedback, and revisit what needs another look.')+coverage()+filterBar()")
@@ -313,7 +324,8 @@ replace("'Search '+allWords().length+' words by spelling", "'Search '+allWords()
 replace("'<tr><td><button class=\"text-btn table-word\" data-action=\"detail\" data-id=\"'+esc(w.id)+'\">'+esc(w.word)+'</button><div class=\"sub\">'", "'<tr><td><div class=\"library-word\"><button class=\"text-btn table-word\" data-action=\"detail\" data-id=\"'+esc(w.id)+'\">'+esc(w.word)+'</button><button class=\"icon library-pronounce\" data-action=\"speak\" data-id=\"'+esc(w.id)+'\" aria-label=\"Hear '+esc(w.word)+'\" aria-pressed=\"false\" title=\"'+(WORD_AUDIO.words[w.id]?'Hear word':studyEligible(w)?'No recording available':'Awaiting spelling review')+'\" '+(WORD_AUDIO.words[w.id]?'':'disabled')+'>'+icon('sound')+'</button></div><div class=\"sub\">'")
 replace("esc({adj:'adjective',n:'noun',v:'verb',adv:'adverb'}[w.pos])", "esc({adj:'adjective',n:'noun',v:'verb',adv:'adverb',conj:'conjunction',interj:'interjection'}[w.pos])")
 replace("q.mode==='synonyms'?'Choose the closest meaning.'", "q.mode==='synonyms'?(q.cue?'Choose the closest meaning as used in the sentence.':'Choose the closest meaning.')")
-replace("+'</div>'+(q.mode==='spelling'?", "+'</div>'+(q.cue?'<p class=\"example sense-cue\">'+esc(q.cue)+'</p>':'')+(q.mode==='spelling'?")
+replace("+'</div>'+(q.mode==='spelling'?", "+'</div>'+(q.cue?exampleMarkup(q.cue,'sense-cue'):'')+(q.mode==='spelling'?")
+replace("if(a==='speak'){speak(id);return}", "if(a==='speak'){speak(id);return}if(a==='read-example'){readExample(b.dataset.exampleId);return}")
 replace('Each word focuses on one selected sense. Continue reading widely and use official practice alongside this page.', 'Every built-in word includes an original context sentence. Common alternate meanings and related word forms are included for selected entries. Continue reading widely and use official practice alongside this page.')
 html = html.replace('aiExplanationPanel(s,s.index)', 'prebuiltExplanationPanel(q,answer)')
 html = html.replace("if(a==='ai-explain'){void requestAIExplanation();return}", '')
@@ -340,6 +352,9 @@ if audio_css not in html:
 library_audio_css = '.library-word{display:flex;align-items:center;gap:6px;min-width:max-content}.library-word .table-word{white-space:nowrap;text-align:left}.library-pronounce{flex-shrink:0;min-width:36px;min-height:36px}'
 if library_audio_css not in html:
     html = html.replace('</style>', library_audio_css + '\n</style>', 1)
+example_audio_css = '.example-read{display:inline-flex;align-items:center;gap:5px;padding:4px 8px;margin-left:5px;vertical-align:middle;font:12px var(--sans);white-space:nowrap}.example-read svg{width:16px;height:16px}.example-read[aria-pressed="true"]{background:var(--lime)}.example-text{overflow-wrap:anywhere}'
+if example_audio_css not in html:
+    html = html.replace('</style>', example_audio_css + '\n</style>', 1)
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ (?:curated words|vocabulary entries)', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' vocabulary entries', html)
 from student_profiles import embed_profiles
 PAGE.write_text(embed_profiles(html))

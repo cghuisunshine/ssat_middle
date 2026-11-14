@@ -20,7 +20,7 @@ function extraWordDetails(w) {
     '<details class="extra-meanings"><summary>More meanings, related words &amp; sources</summary>' +
     senses.map(s => '<div class="sense"><strong>' + esc(s.pos) + '.</strong> ' + esc(s.def) +
       (state.settings.chinese ? '<div class="zh" lang="zh">' + esc(s.zh) + '</div>' : '') +
-      '<div class="sub">Closest synonym: ' + esc(s.syn) + '</div><p class="example">' + esc(s.example) + '</p></div>').join('') +
+      '<div class="sub">Closest synonym: ' + esc(s.syn) + '</div>' + exampleMarkup(s.example) + '</div>').join('') +
     (family.length ? '<div class="sense"><strong>Related words</strong><p class="sub">Compare their meanings and parts of speech.</p><div class="family-links">' +
       family.map(v => '<button class="text-btn" data-action="detail" data-id="' + esc(v.id) + '">' + esc(v.word) + ' <span class="sub">' + esc(v.pos) + '.</span></button>').join('') + '</div></div>' : '') +
     (sources.length ? '<div class="sense"><strong>From your reading materials</strong>' + sources.map(s =>
@@ -154,7 +154,7 @@ function wordQuestion(original, mode, chosenSense = null) {
     options: mode === 'spelling' ? [] : shuffle([correct, ...wrong]),
     // Synonym stems need a sense cue when the same spelling has distinct meanings.
     cue: mode === 'synonyms' && multipleSenses ? w.example : '',
-    explanation: w.word + ' (' + w.pos + '.) means ' + w.def + '. Closest synonym: ' + w.syn + '. Example: ' + (w.example || 'Use this meaning in your own sentence.'),
+    explanation: w.word + ' (' + w.pos + '.) means ' + w.def + '. Closest synonym: ' + w.syn + '.',
     zh: w.zh};
 }
 

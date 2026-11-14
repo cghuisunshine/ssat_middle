@@ -35,7 +35,7 @@ function prebuiltExplanationPanel(q, answer) {
   return '<aside class="answer-explanation" aria-label="Detailed explanation"><h3>Why this answer fits</h3><p>'+esc(why)+'</p>'+reflection+
     '<p>'+esc(analogy ? lesson.guide : lesson.grammar)+'</p>'+
     (choiceList ? '<h4>Compare the choices</h4><ul class="explanation-choices">'+choiceList+'</ul>' : '')+
-    (!analogy && lesson.example ? '<h4>Meaning in context</h4><p class="example">'+esc(lesson.example)+'</p>' : '')+
+    (!analogy && lesson.example ? '<h4>Meaning in context</h4>'+exampleMarkup(lesson.example) : '')+
     '<h4>Remember it</h4><p>'+esc(lesson.memory)+'</p>'+
     (state.settings.chinese && lesson.chinese ? '<p lang="zh">'+esc(lesson.chinese)+'</p>' : '')+'</aside>';
 }
