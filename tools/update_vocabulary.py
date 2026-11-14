@@ -310,6 +310,7 @@ replace("if(a==='study-word'){$('detailDialog').close();", "if(a==='study-word')
 replace("class=\"primary\">Study this word</button>", "class=\"primary\" '+(!studyEligible(w)?'disabled':'')+'>'+(!studyEligible(w)?'Awaiting review':'Study this word')+'</button>")
 replace("const tierChip=w=>'<span", "const tierChip=w=>(studyEligible(w)?'':'<span class=\"chip review-chip\">Needs review</span> ')+'<span")
 replace("'Search '+allWords().length+' words by spelling", "'Search '+allWords().length+' entries by spelling")
+replace("'<tr><td><button class=\"text-btn table-word\" data-action=\"detail\" data-id=\"'+esc(w.id)+'\">'+esc(w.word)+'</button><div class=\"sub\">'", "'<tr><td><div class=\"library-word\"><button class=\"text-btn table-word\" data-action=\"detail\" data-id=\"'+esc(w.id)+'\">'+esc(w.word)+'</button><button class=\"icon library-pronounce\" data-action=\"speak\" data-id=\"'+esc(w.id)+'\" aria-label=\"Hear '+esc(w.word)+'\" aria-pressed=\"false\" title=\"'+(WORD_AUDIO.words[w.id]?'Hear word':studyEligible(w)?'No recording available':'Awaiting spelling review')+'\" '+(WORD_AUDIO.words[w.id]?'':'disabled')+'>'+icon('sound')+'</button></div><div class=\"sub\">'")
 replace("esc({adj:'adjective',n:'noun',v:'verb',adv:'adverb'}[w.pos])", "esc({adj:'adjective',n:'noun',v:'verb',adv:'adverb',conj:'conjunction',interj:'interjection'}[w.pos])")
 replace("q.mode==='synonyms'?'Choose the closest meaning.'", "q.mode==='synonyms'?(q.cue?'Choose the closest meaning as used in the sentence.':'Choose the closest meaning.')")
 replace("+'</div>'+(q.mode==='spelling'?", "+'</div>'+(q.cue?'<p class=\"example sense-cue\">'+esc(q.cue)+'</p>':'')+(q.mode==='spelling'?")
@@ -336,6 +337,9 @@ if online_layout_css not in html:
 audio_css = '.tts-word{border-radius:3px}.tts-word.is-speaking{background:#ffe08a;color:#243a32}[data-action="speak"][aria-pressed="true"]{background:var(--lime)}'
 if audio_css not in html:
     html = html.replace('</style>', audio_css + '\n</style>', 1)
+library_audio_css = '.library-word{display:flex;align-items:center;gap:6px;min-width:max-content}.library-word .table-word{white-space:nowrap;text-align:left}.library-pronounce{flex-shrink:0;min-width:36px;min-height:36px}'
+if library_audio_css not in html:
+    html = html.replace('</style>', library_audio_css + '\n</style>', 1)
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ (?:curated words|vocabulary entries)', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' vocabulary entries', html)
 from student_profiles import embed_profiles
 PAGE.write_text(embed_profiles(html))

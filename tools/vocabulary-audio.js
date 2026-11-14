@@ -17,7 +17,7 @@ function stopWordAudio() {
 
 function prepareWordHighlight(word, timings) {
   const spans = [];
-  for (const node of document.querySelectorAll('.word')) {
+  for (const node of document.querySelectorAll('.word, .table-word')) {
     if (node.textContent !== word) continue;
     const fragment = document.createDocumentFragment();
     let cursor = 0;

@@ -68,7 +68,7 @@ class FakeAudio{
 const context=vm.createContext({WORD_AUDIO:manifest,Audio:FakeAudio,
   wordById:id=>id==='customword'?{id,word:id}:manifest.words[id]?{id,word:id}:id==='obstrusion'?{id,word:id}:null,
   studyEligible:w=>w.id!=='obstrusion',toast:m=>toasts.push(m),$:()=>dialog,
-  window:{addEventListener(){}},document:{querySelectorAll:q=>q==='.word'?[wordNode]:[button],
+  window:{addEventListener(){}},document:{querySelectorAll:q=>q==='.word, .table-word'?[wordNode]:[button],
     createDocumentFragment:()=>element(),createTextNode:text=>element(text),createElement:()=>element()},
   requestAnimationFrame:callback=>{frames.set(++frameId,callback);return frameId},cancelAnimationFrame:id=>frames.delete(id),
 });
