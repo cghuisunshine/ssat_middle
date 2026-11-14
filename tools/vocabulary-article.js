@@ -45,7 +45,8 @@ function highlightArticleWords(text,targets) {
 }
 function renderArticleDialog(message='') {
   const dialog=articleDialog(),article=state.reviewArticle;
-  dialog.innerHTML='<div class="row"><h2>Daily vocabulary article</h2><button data-article-action="close" aria-label="Close article">✕</button></div><p class="small muted">AI-generated reading practice · Uses up to eight words from today’s reviews, or your current session. Generating requires internet and sends only the selected words and meanings.</p><p role="status" id="articleStatus">'+esc(message|| (articleRequest?'Writing your article…':'Choose Generate to create a new article.'))+'</p>'+
+  const status=message||(articleRequest?'Writing your article…':article?'':'Choose Generate to create a new article.');
+  dialog.innerHTML='<div class="row"><h2>Daily vocabulary article</h2><button data-article-action="close" aria-label="Close article">✕</button></div><p role="status" id="articleStatus" '+(status?'':'hidden')+'>'+esc(status)+'</p>'+
     '<div class="row"><button data-article-action="generate" class="primary" '+(articleRequest?'disabled':'')+'>'+(articleRequest?'Generating…':'Generate article')+'</button>'+(articleRequest?'<button data-article-action="cancel">Cancel</button>':'')+'</div>'+
     (article?'<article style="margin-top:24px"><h2>'+highlightArticleWords(article.title,article.targets)+'</h2>'+article.paragraphs.map(p=>'<p style="font-size:16px;line-height:1.8">'+highlightArticleWords(p,article.targets)+'</p>').join('')+'<h3>Review words</h3><ul>'+article.targets.map(t=>'<li><strong>'+esc(t.word)+'</strong> — '+esc(t.definition)+'</li>').join('')+'</ul></article>':'');
   if(!dialog.open)dialog.showModal();
@@ -69,7 +70,7 @@ async function generateReviewArticle() {
     if(!response.ok)throw Error('The AI service could not generate the article (HTTP '+response.status+'). Please retry.');
     const article=parseArticleResponse(await response.json(),targets);
     if(articleRequest!==request||state!==owner)return;
-    state.reviewArticle=article;save();if($('reviewArticleDialog')?.open)renderArticleDialog('Article saved for this student. Reading it does not change review schedules.');else toast('Your vocabulary article is ready in Daily review.');const button=document.querySelector('[data-action="generate-article"]');if(button)button.textContent='Read / generate article';
+    state.reviewArticle=article;save();articleRequest=null;if($('reviewArticleDialog')?.open)renderArticleDialog();else toast('Your vocabulary article is ready in Daily review.');const button=document.querySelector('[data-action="generate-article"]');if(button)button.textContent='Read / generate article';
   }catch(error){if(articleRequest!==request||state!==owner)return;if($('reviewArticleDialog')?.open)renderArticleDialog(request.timedOut?'Article generation timed out. Please retry.':error.name==='AbortError'?'Generation canceled.':error instanceof TypeError?'Could not reach the AI service. Check your connection and retry.':error.message);}
   finally{clearTimeout(timer);if(articleRequest===request){articleRequest=null;const dialog=$('reviewArticleDialog');if(dialog?.open){const status=$('articleStatus')?.textContent||'';renderArticleDialog(status);}}}
 }
