@@ -31,11 +31,22 @@ function articleDialog() {
   if(!dialog){dialog=document.createElement('dialog');dialog.id='reviewArticleDialog';dialog.setAttribute('aria-label','Daily vocabulary article');dialog.style.width='min(760px,calc(100vw - 24px))';dialog.style.overflowWrap='anywhere';document.body.append(dialog);}
   return dialog;
 }
+function highlightArticleWords(text,targets) {
+  const matches=targets.flatMap(target=>[...text.matchAll(wordPattern(target.word))].map(match=>({start:match.index,end:match.index+match[0].length,target})));
+  matches.sort((a,b)=>a.start-b.start||b.end-a.end);
+  let cursor=0,result='';
+  for(const match of matches){
+    if(match.start<cursor)continue;
+    result+=esc(text.slice(cursor,match.start))+'<mark class="review-target" style="background:#ffe6a3;color:inherit;border-radius:3px;padding:0 2px" title="'+esc(match.target.word+': '+match.target.definition)+'">'+esc(text.slice(match.start,match.end))+'</mark>';
+    cursor=match.end;
+  }
+  return result+esc(text.slice(cursor));
+}
 function renderArticleDialog(message='') {
   const dialog=articleDialog(),article=state.reviewArticle;
   dialog.innerHTML='<div class="row"><h2>Daily vocabulary article</h2><button data-article-action="close" aria-label="Close article">✕</button></div><p class="small muted">AI-generated reading practice · Uses up to eight words from today’s reviews, or your current session. Generating requires internet and sends only the selected words and meanings.</p><p role="status" id="articleStatus">'+esc(message|| (articleRequest?'Writing your article…':'Choose Generate to create a new article.'))+'</p>'+
     '<div class="row"><button data-article-action="generate" class="primary" '+(articleRequest?'disabled':'')+'>'+(articleRequest?'Generating…':'Generate article')+'</button>'+(articleRequest?'<button data-article-action="cancel">Cancel</button>':'')+'</div>'+
-    (article?'<article style="margin-top:24px"><h2>'+esc(article.title)+'</h2>'+article.paragraphs.map(p=>'<p style="font-size:16px;line-height:1.8">'+esc(p)+'</p>').join('')+'<h3>Review words</h3><ul>'+article.targets.map(t=>'<li><strong>'+esc(t.word)+'</strong> — '+esc(t.definition)+'</li>').join('')+'</ul></article>':'');
+    (article?'<article style="margin-top:24px"><h2>'+highlightArticleWords(article.title,article.targets)+'</h2>'+article.paragraphs.map(p=>'<p style="font-size:16px;line-height:1.8">'+highlightArticleWords(p,article.targets)+'</p>').join('')+'<h3>Review words</h3><ul>'+article.targets.map(t=>'<li><strong>'+esc(t.word)+'</strong> — '+esc(t.definition)+'</li>').join('')+'</ul></article>':'');
   if(!dialog.open)dialog.showModal();
 }
 function cancelArticle() {if(articleRequest){articleRequest.controller.abort();articleRequest=null;} }

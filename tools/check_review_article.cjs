@@ -15,6 +15,12 @@ const context=vm.createContext({console,AbortController,Date,Map,Set,JSON,Error,
  fetch:async(url,options)=>{calls.push({url,options});if(pending)return new Promise((resolve,reject)=>{pending.resolve=resolve;options.signal.addEventListener('abort',()=>reject(Object.assign(Error('aborted'),{name:'AbortError'})));});return {ok:status===200,status,json:async()=>reply};},
 });
 vm.runInContext(fs.readFileSync('tools/vocabulary-article.js','utf8'),context);
+vm.runInContext(fs.readFileSync('tools/vocabulary-ui.js','utf8').split('// @function wordPattern\n')[1].split('// @function ')[0],context);
+const marked=vm.runInContext(`highlightArticleWords('Able, able; unable. A protégé said touché. An ad hoc plan.',[{word:'able',definition:'capable'},{word:'protégé',definition:'mentee'},{word:'touché',definition:'good point'},{word:'ad hoc',definition:'specific'},{word:'ad',definition:'advertisement'}])`,context);
+assert.equal((marked.match(/<mark /g)||[]).length,5,'All exact occurrences, accents, and multiword terms; no substring or overlapping matches');
+assert.ok(marked.includes('>Able</mark>')&&marked.includes('>ad hoc</mark>')&&marked.includes('unable.'));
+const escaped=vm.runInContext(`highlightArticleWords('<img src=x> able & <script>bad</script>',[{word:'able',definition:'<img title="x">'}])`,context);
+assert.ok(!escaped.includes('<img')&&!escaped.includes('<script>')&&escaped.includes('&lt;img'));
 (async()=>{
  assert.equal(calls.length,0,'No automatic request');
  assert.equal(vm.runInContext('articleTargets().length',context),1);
