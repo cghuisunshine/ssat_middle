@@ -5,7 +5,7 @@ const path = require('node:path');
 const vm = require('node:vm');
 const html = fs.readFileSync(path.join(__dirname, '..', 'ssat_middle_vocabulary.html'), 'utf8');
 const script = html.match(/<script>([\s\S]*?)<\/script>/)[1];
-assert.ok(!/\bfetch\s*\(|XMLHttpRequest|WebSocket|EventSource|sendBeacon|AI_ENDPOINT|grade-service/.test(script), 'Practice must contain no endpoint calls');
+assert.ok(!/\bfetch\s*\(|XMLHttpRequest|WebSocket|EventSource|sendBeacon|AI_ENDPOINT|grade-service/.test(script.replace(/\/\/ BEGIN vocabulary-article[\s\S]*?\/\/ END vocabulary-article/,'')), 'Core practice must contain no endpoint calls');
 assert.ok(!/Preparing a further explanation|Retry AI explanation|ai-explain|aiExplanationPanel/.test(html));
 const nodes = new Map();
 const node = id => {

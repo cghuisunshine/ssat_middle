@@ -358,7 +358,7 @@ if example_audio_css not in html:
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ (?:curated words|vocabulary entries)', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' vocabulary entries', html)
 # Bundle the pinned scheduler and review UI before progress is loaded.
 html = html.replace("const statusOf=w=>{const r=rec(w.id);return !r.seen?'New':r.level>=3?'Secure':'Learning'};", "const statusOf=w=>srsWordStatus(w);")
-srs_block = '// BEGIN vocabulary-srs\n' + (TOOLS / 'vendor/ts-fsrs-6.0.0.js').read_text() + '\n' + (TOOLS / 'vocabulary-srs.js').read_text() + '\n// END vocabulary-srs\n'
+srs_block = '// BEGIN vocabulary-srs\n' + (TOOLS / 'vendor/ts-fsrs-6.0.0.js').read_text() + '\n' + (TOOLS / 'vocabulary-srs.js').read_text() + '\n// BEGIN vocabulary-article\n' + (TOOLS / 'vocabulary-article.js').read_text() + '\n// END vocabulary-article\n// END vocabulary-srs\n'
 html = re.sub(r'^// BEGIN vocabulary-srs\n.*?^// END vocabulary-srs\n?', '', html, flags=re.M | re.S)
 html = html.replace('const progressStorage=', srs_block + 'const progressStorage=', 1)
 html = re.sub(r'^(?:state=sanitizeState\(state\);)?nav\(\);render\(\);', 'state=sanitizeState(state);nav();render();', html, flags=re.M)
