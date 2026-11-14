@@ -356,6 +356,16 @@ example_audio_css = '.example-read{display:inline-flex;align-items:center;gap:5p
 if example_audio_css not in html:
     html = html.replace('</style>', example_audio_css + '\n</style>', 1)
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ (?:curated words|vocabulary entries)', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' vocabulary entries', html)
+# Bundle the pinned scheduler and review UI before progress is loaded.
+html = html.replace("const statusOf=w=>{const r=rec(w.id);return !r.seen?'New':r.level>=3?'Secure':'Learning'};", "const statusOf=w=>srsWordStatus(w);")
+srs_block = '// BEGIN vocabulary-srs\n' + (TOOLS / 'vendor/ts-fsrs-6.0.0.js').read_text() + '\n' + (TOOLS / 'vocabulary-srs.js').read_text() + '\n// END vocabulary-srs\n'
+html = re.sub(r'^// BEGIN vocabulary-srs\n.*?^// END vocabulary-srs\n?', '', html, flags=re.M | re.S)
+html = html.replace('const progressStorage=', srs_block + 'const progressStorage=', 1)
+html = re.sub(r'^(?:state=sanitizeState\(state\);)?nav\(\);render\(\);', 'state=sanitizeState(state);nav();render();', html, flags=re.M)
+html = html.replace("['All','New','Learning','Secure','Review due','Starred']", "['All','New','Learning','Review','Review due','Starred']")
+html = html.replace("if(saved&&saved.version===1){if(!saved.schedulingVersion&&!progressStorage.getItem(KEY+'-pre-fsrs'))progressStorage.setItem(KEY+'-pre-fsrs',JSON.stringify(saved));state=sanitizeState(saved);}", "if(saved&&saved.version===1){state=sanitizeState(saved);if(!saved.schedulingVersion&&!progressStorage.getItem(KEY+'-pre-fsrs')){try{progressStorage.setItem(KEY+'-pre-fsrs',JSON.stringify(saved));}catch(error){srsRecoveryBlocked=true;throw error;}}}")
+replace("if(saved&&saved.version===1)state=sanitizeState(saved);", "if(saved&&saved.version===1){state=sanitizeState(saved);if(!saved.schedulingVersion&&!progressStorage.getItem(KEY+'-pre-fsrs')){try{progressStorage.setItem(KEY+'-pre-fsrs',JSON.stringify(saved));}catch(error){srsRecoveryBlocked=true;throw error;}}}")
+replace("newDeck();save();nav();render();toast('Progress restored.')", "if(!state.srsSession)newDeck();save();nav();render();toast('Progress restored.')")
 from student_profiles import embed_profiles
 PAGE.write_text(embed_profiles(html))
 contents = (ROOT / 'content.html').read_text()

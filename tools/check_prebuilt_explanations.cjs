@@ -76,10 +76,10 @@ vm.runInContext(`
   session={mode:'synonyms',qs:[first,second],index:0,answers:[first.options.find(x=>x!==first.correct),null],checked:[false,false],flags:[false,false],finished:false,deadline:0};
   assert.ok(!questionView().includes('Why this answer fits'), 'Do not reveal the lesson before checking');
   checkAnswer();
-  assert.equal(rec('impeccable').seen,1);
+  assert.equal(rec('impeccable').seen,0);
   assert.ok($('app').innerHTML.includes('Why this answer fits'), 'Feedback is available synchronously while offline');
   checkAnswer();
-  assert.equal(rec('impeccable').seen,1, 'Viewing a lesson must not record another review');
+  assert.equal(rec('impeccable').seen,0, 'Quizzes and lessons must not record FSRS reviews');
   session.index=1;checkAnswer(true);
   assert.ok($('app').innerHTML.includes('You skipped this question'));
   state.settings.chinese=false;

@@ -49,6 +49,10 @@ node tools/check_prebuilt_explanations.cjs
 node tools/check_vocabulary_audio.cjs
 ```
 
+Daily flashcards use locally bundled ts-fsrs 6.0.0 with FSRS-7, 90% target retention, standard weights, learning steps of 1 and 10 minutes, and a 10-minute relearning step. Four ratings show predicted intervals. Recognition is the default; Spelling and Mixed have separate cards for every meaning. Sessions introduce at most one new card per word, contain up to 20 distinct cards, and retain waiting learning cards until their deadlines. Reloads resume the queue. Quiz answers and audio playback never change FSRS schedules. Recognition uses an example as a meaning cue; spelling hides the word and its audio until checking.
+
+Legacy word records, stars, totals, custom words, and quiz results are preserved. Primary recognition cards retain old due dates and initialize FSRS memory only on their first real rating. Other meanings and spelling start new. A profile-local pre-FSRS recovery copy is saved before migration; migration is idempotent. The version-1 backup envelope and student sync remain compatible, with new scheduling fields retained. Model-weight optimization and Anki import/export are not included. Run `node tools/check_srs.cjs` for scheduler parity, migration, independent cards, queue recovery, spelling safety, and storage-failure checks. The pinned scheduler and MIT license are in `tools/vendor/`.
+
 The builder preserves existing word IDs, the browser storage key, and the first 60 analogy IDs. It updates the contents-page counts and requires a context sentence for every built-in word. No build tools are needed to use the finished HTML page.
 
 Pronunciation assets and their Edge word-boundary timings are documented in [`audio/README.md`](audio/README.md). Regenerate words with `tools/generate_vocabulary_audio.py` and sentences with `tools/generate_example_audio.py` after changing the word bank, then rebuild the page. The audio check verifies all 2,697 word and 2,744 sentence recordings, checksums, MP3 frames, exact timing/text coverage, highlighting, playback interruption, and error handling.
