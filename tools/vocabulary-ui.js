@@ -171,6 +171,7 @@ function checkAnswer(skip = false) {
 
 // @function render
 function render() {
+  stopWordAudio();
   ({learn, library, practice, roots, progress}[view])();
 }
 

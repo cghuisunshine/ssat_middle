@@ -2,7 +2,7 @@
 
 The [online vocabulary research](vocabulary_research/README.md) collects source-linked word candidates from public lists and flashcard previews, separates Middle Level labels from mixed-level material, and records entries missing from the earlier 1,100-word practice bank. CSV, JSON, and plain-text word lists preserve that research snapshot. All 1,598 Middle Level–labeled missing candidates are now represented in the page, with one unverified spelling flagged for review.
 
-Open [the contents page](content.html) or [vocabulary practice](ssat_middle_vocabulary.html) directly in a browser. The practice page is self-contained and works offline; reviews, stars, and custom words stay in browser storage.
+Open [the contents page](content.html) or [vocabulary practice](ssat_middle_vocabulary.html) directly in a browser. Quizzes and explanations are self-contained and work offline; reviews, stars, and custom words stay in browser storage. **Hear word** plays pre-generated Edge TTS recordings using Aria's English voice, with synchronized word highlighting. Copy the `audio/` folder beside the HTML for offline pronunciation playback. Clicking again stops playback; another word replaces the current recording. Learner-added words without recordings show an availability message. Browser speech synthesis is not used.
 
 Choose a student name when opening any studio. The same student profile is used across vocabulary, reading, writing, math, and the contents page on the same browser origin. Names match without regard to capitalization or extra spaces. The student bar switches profiles; **Student settings** provides sign out, a backup/restore for all four subjects, and optional cloud sync. Each student's answers, reviews, custom words, preferences, notes, drafts, and timed deadlines are stored separately. Signing out or removing a recent-student shortcut keeps their saved work. These are password-free shared profiles, like the AMC 8 practice page, rather than private authenticated accounts.
 
@@ -46,9 +46,12 @@ After changing the expansion sources, rebuild the embedded data and UI, then run
 python3 tools/update_vocabulary.py
 node tools/check_vocabulary.cjs
 node tools/check_prebuilt_explanations.cjs
+node tools/check_vocabulary_audio.cjs
 ```
 
 The builder preserves existing word IDs, the browser storage key, and the first 60 analogy IDs. It updates the contents-page counts and requires a context sentence for every built-in word. No build tools are needed to use the finished HTML page.
+
+Pronunciation assets and their Edge word-boundary timings are documented in [`audio/README.md`](audio/README.md). Regenerate them with `tools/generate_vocabulary_audio.py` after changing the word bank, then rebuild the page. The audio check verifies all 2,697 recordings, checksums, MP3 frames, exact timing/text coverage, highlighting, playback interruption, and error handling.
 
 The explanation checks run with offline browser stubs and a network-request trap. They verify all 10,976 eligible word-question variants, every analogy and its choices, exact word senses, immediate feedback, timed-review explanations, safe text rendering, Chinese toggling, and grade preservation. The vocabulary checks also verify every reading-derived entry and source connection and preserve progress for formerly custom words that are now built in.
 

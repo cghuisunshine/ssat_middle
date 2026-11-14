@@ -86,6 +86,13 @@ constant('ONLINE_WORD_SOURCES', online_refs)
 constant('ONLINE_PRIORITY', online_priority)
 constant('ONLINE_USAGE_NOTES', {word: note[0] for word, note in online_notes.items()})
 constant('ONLINE_WORD_WARNINGS', online_warnings)
+audio_manifest = json.loads((ROOT / 'audio' / 'vocabulary-manifest.json').read_text())
+expected_audio = ({line.split('|')[0] for line in raw.splitlines() if line and not line.startswith('@')} | {row[0] for row in additions}) - set(online_warnings)
+assert set(audio_manifest['words']) == expected_audio, 'Regenerate the word audio after changing the vocabulary bank.'
+for word, recording in audio_manifest['words'].items():
+    assert recording['text'] == word and (ROOT / recording['file']).is_file(), word
+constant('WORD_AUDIO', {**{k: audio_manifest[k] for k in ['provider', 'voice', 'rate']},
+    'words': {word: {k: value for k, value in recording.items() if k != 'sha256'} for word, recording in audio_manifest['words'].items()}})
 assert len({w[0] for w in additions}) == len(additions)
 updates = {w[0]: w for w in additions}
 primary_updates = {
@@ -285,6 +292,12 @@ for name, body in zip(parts[1::2], parts[2::2]):
     else:
         html = html.replace('const WORDS=[];', block + '\nconst WORDS=[];', 1)
 
+audio_block = '// BEGIN vocabulary-audio\n' + (TOOLS / 'vocabulary-audio.js').read_text().strip() + '\n// END vocabulary-audio'
+if '// BEGIN vocabulary-audio\n' in html:
+    html = re.sub(r'^// BEGIN vocabulary-audio\n.*?^// END vocabulary-audio', lambda _: audio_block, html, count=1, flags=re.M | re.S)
+else:
+    html = re.sub(r'^function speak\([^\n]*$', lambda _: audio_block, html, count=1, flags=re.M)
+
 replace("+'</div><div class=\"card-foot\">'+(revealed?", "+(revealed?extraWordDetails(w):'')+'</div><div class=\"card-foot\">'+(revealed?")
 replace("+(EXAMPLES[id]?'<p class=\"example\">'+esc(EXAMPLES[id])+'</p>':'')+'<p class=\"small muted\">'", "+(EXAMPLES[id]?'<p class=\"example\">'+esc(EXAMPLES[id])+'</p>':'')+extraWordDetails(w)+'<p class=\"small muted\">'")
 replace("[w.word,w.def,w.zh,w.syn].some(s=>s.toLowerCase().includes(q))", "[w.word,w.def,w.zh,w.syn,...(SECONDARY_MEANINGS[w.id]||[]).flatMap(s=>[s.def,s.zh,s.syn]),...relatedWords(w).map(v=>v.word)].some(s=>s.toLowerCase().includes(q))")
@@ -297,6 +310,7 @@ replace("if(a==='study-word'){$('detailDialog').close();", "if(a==='study-word')
 replace("class=\"primary\">Study this word</button>", "class=\"primary\" '+(!studyEligible(w)?'disabled':'')+'>'+(!studyEligible(w)?'Awaiting review':'Study this word')+'</button>")
 replace("const tierChip=w=>'<span", "const tierChip=w=>(studyEligible(w)?'':'<span class=\"chip review-chip\">Needs review</span> ')+'<span")
 replace("'Search '+allWords().length+' words by spelling", "'Search '+allWords().length+' entries by spelling")
+replace("esc({adj:'adjective',n:'noun',v:'verb',adv:'adverb'}[w.pos])", "esc({adj:'adjective',n:'noun',v:'verb',adv:'adverb',conj:'conjunction',interj:'interjection'}[w.pos])")
 replace("q.mode==='synonyms'?'Choose the closest meaning.'", "q.mode==='synonyms'?(q.cue?'Choose the closest meaning as used in the sentence.':'Choose the closest meaning.')")
 replace("+'</div>'+(q.mode==='spelling'?", "+'</div>'+(q.cue?'<p class=\"example sense-cue\">'+esc(q.cue)+'</p>':'')+(q.mode==='spelling'?")
 replace('Each word focuses on one selected sense. Continue reading widely and use official practice alongside this page.', 'Every built-in word includes an original context sentence. Common alternate meanings and related word forms are included for selected entries. Continue reading widely and use official practice alongside this page.')
@@ -319,6 +333,9 @@ if online_css not in html:
 online_layout_css = '.coverage details{margin-top:5px}.coverage summary{cursor:pointer;color:var(--green)}@media(max-width:700px){.filters label{flex:1 1 calc(50% - 9px);min-width:130px}}'
 if online_layout_css not in html:
     html = html.replace('</style>', online_layout_css + '\n</style>', 1)
+audio_css = '.tts-word{border-radius:3px}.tts-word.is-speaking{background:#ffe08a;color:#243a32}[data-action="speak"][aria-pressed="true"]{background:var(--lime)}'
+if audio_css not in html:
+    html = html.replace('</style>', audio_css + '\n</style>', 1)
 html = re.sub(r'An offline SSAT Middle Level vocabulary studio: \d+ (?:curated words|vocabulary entries)', 'An offline SSAT Middle Level vocabulary studio: ' + str(len(seen)) + ' vocabulary entries', html)
 from student_profiles import embed_profiles
 PAGE.write_text(embed_profiles(html))
